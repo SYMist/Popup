@@ -4,7 +4,7 @@
 - [x] GitHub 레포 생성
 - [x] 현재 프로젝트 파일 푸시
 - [ ] Actions 권한 확인(`contents: write`, `pull-requests: write`)
-- [ ] 워크플로 수동 실행으로 첫 크롤 수행
+- [x] 워크플로 수동 실행으로 첫 크롤 수행
 - [ ] 생성된 PR/JSON 변경사항 확인 및 머지
 
 ## 분류/규칙 개선
