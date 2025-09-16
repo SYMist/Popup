@@ -1,6 +1,6 @@
-# Triple Popup Crawler
+# Popup Crawler
 
-Weekly crawler that discovers Triple (triple.global) Festa pages and extracts popup-store events from SSR Apollo State, saving normalized JSON and a SQLite snapshot.
+Weekly crawler that discovers Festa pages on the target service and extracts popup-store events from SSR Apollo State, saving normalized JSON and a SQLite snapshot.
 
 ## What it does
 - Discovers Festa detail URLs via `sitemap-index.xml` → `sitemap-festa-detail-urls-*.xml`.
