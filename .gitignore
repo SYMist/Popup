@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local state/cache
+.cache/
+.state/
+.curl_cookies_triple
+
+# Data
+data/popups.sqlite
+data/*.db
+data/*.sqlite3
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
