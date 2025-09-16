@@ -49,8 +49,8 @@ jobs:
           add-paths: |
             data/**/*.json
           branch: chore/crawl-weekly-${{ github.run_id }}
-          commit-message: chore(crawl): weekly popup data sync
-          title: chore(crawl): weekly popup data sync
+          commit-message: 'chore(crawl): weekly popup data sync'
+          title: 'chore(crawl): weekly popup data sync'
           body: |
             Automated weekly crawl run.
             - Runner: `${{ github.workflow }}#${{ github.run_number }}`
