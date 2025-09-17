@@ -60,8 +60,14 @@ def extract_id_from_url(url: str) -> Optional[str]:
     return m.group(1) if m else None
 
 
+def _lang_path(lang: str) -> str:
+    # Normalize language code for path segment (lowercase, keep hyphen)
+    return lang.lower()
+
+
 def triple_detail_url(lang: str, festa_id: str) -> str:
-    return f"https://triple.global/{lang}/content/festas/{festa_id}"
+    # Interpark Global now serves festa details
+    return f"https://interparkglobal.com/{_lang_path(lang)}/festas/{festa_id}"
 
 
 def parse_next_data(html: str) -> Optional[Dict[str, Any]]:
@@ -85,7 +91,8 @@ def parse_next_data(html: str) -> Optional[Dict[str, Any]]:
 
 
 def get_apollo_state(next_data: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    # Common placements
+    # Support both legacy apolloState and Next pageProps __APOLLO_CACHE__
+    # 1) Legacy placements
     for path in (
         ["props", "pageProps", "apolloState"],
         ["props", "apolloState"],
@@ -101,6 +108,16 @@ def get_apollo_state(next_data: Dict[str, Any]) -> Optional[Dict[str, Any]]:
                 break
         if ok and isinstance(cur, dict):
             return cur
+    # 2) Interpark Next.js cache
+    cur = next_data
+    for k in ("props", "pageProps", "__APOLLO_CACHE__"):
+        if isinstance(cur, dict) and k in cur:
+            cur = cur[k]
+        else:
+            cur = None
+            break
+    if isinstance(cur, dict):
+        return cur
     return None
 
 
@@ -149,14 +166,25 @@ def _number(n: Any) -> Optional[float]:
 
 def _extract_image_urls(img_obj: Dict[str, Any]) -> List[Tuple[str, str]]:
     urls: List[Tuple[str, str]] = []
-    # Known variants ordered by preference
-    for variant in ("large", "original", "small", "small_square"):
+    # Support both legacy flat variants and nested sizes
+    variant_candidates = ("full", "large", "original", "small", "small_square")
+    # 1) Nested under sizes
+    sizes = img_obj.get("sizes")
+    if isinstance(sizes, dict):
+        for variant in variant_candidates:
+            v = sizes.get(variant)
+            if isinstance(v, dict):
+                url = _read_str(v, "url")
+                if url:
+                    urls.append((variant, url))
+    # 2) Flat fields
+    for variant in variant_candidates:
         v = img_obj.get(variant)
         if isinstance(v, dict):
             url = _read_str(v, "url")
             if url:
                 urls.append((variant, url))
-    # Direct url field
+    # 3) Direct url field
     direct = _read_str(img_obj, "url")
     if direct:
         urls.append(("direct", direct))
@@ -276,4 +304,3 @@ def fetch_festa_by_lang(session: requests.Session, festa_id: str, lang: str) -> 
         return None
     festa["_sourceUrl"] = url
     return festa
-

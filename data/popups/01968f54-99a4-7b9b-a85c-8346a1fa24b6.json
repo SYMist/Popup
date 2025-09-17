@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "53, Wausan-ro 35-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-06-01",
+    "start": "2025-05-29"
+  },
+  "geo": {
+    "lat": 37.55658,
+    "lon": 126.9279
+  },
+  "id": "01968f54-99a4-7b9b-a85c-8346a1fa24b6",
+  "images": [],
+  "links": [
+    {
+      "href": "https://x.com/qing222113905/status/1910604462382514324",
+      "label": "𝙒𝙝𝙚𝙚𝙡 𝙤𝙛 𝙁𝙤𝙧𝙩𝙪𝙣𝙚"
+    },
+    {
+      "href": "https://x.com/chumychuni/status/1908897586913923352",
+      "label": "𝙨𝙬𝙚𝙚𝙩 𝙡𝙤𝙫𝙚𝙧𝙨 𝙘𝙡𝙪𝙗"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-17T14:53:31.263762"
+  },
+  "pricing": {
+    "description": "",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『Youngjae』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『ヨンジェ』センイルカフェ 🎂"
+    },
+    "zh-cn": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "“英宰” 生日咖啡厅🎂"
+    }
+  }
+}

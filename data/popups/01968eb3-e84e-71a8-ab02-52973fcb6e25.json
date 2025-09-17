@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35-8, Wausan-ro 23-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-05-28",
+    "start": "2025-05-24"
+  },
+  "geo": {
+    "lat": 37.55474,
+    "lon": 126.9232
+  },
+  "id": "01968eb3-e84e-71a8-ab02-52973fcb6e25",
+  "images": [],
+  "links": [
+    {
+      "href": "https://x.com/Gelathew/status/1916507729218433192",
+      "label": "友鉉的意式冰淇淋店"
+    },
+    {
+      "href": "https://x.com/mewmew528/status/1916825222633943283",
+      "label": "𝑴𝒆𝒍𝒕 𝒊𝒏𝒕𝒐 𝑩𝒍𝒖𝒆 𝑫𝒓𝒆𝒂𝒎"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-17T14:53:24.108045"
+  },
+  "pricing": {
+    "description": "",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25",
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
+      "title": "『Seok Matthew』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
+      "title": "『ソク・マシュー』センイルカフェ 🎂"
+    },
+    "zh-cn": {
+      "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
+      "title": "\"石友鉉\"生日咖啡厅🎂"
+    }
+  }
+}

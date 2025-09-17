@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "45, Jong-ro 1-gil, Jongno-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-14",
+    "start": "2025-06-14"
+  },
+  "geo": {
+    "lat": 37.57506291598214,
+    "lon": 126.97801010185243
+  },
+  "id": "0196668a-8617-762e-8f37-d87ff8e71484",
+  "images": [],
+  "links": [
+    {
+      "href": "https://event.ajunews.com/walk2025a/",
+      "label": "申请链接"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-17T14:53:16.504347"
+  },
+  "pricing": {
+    "description": "",
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196668a-8617-762e-8f37-d87ff8e71484",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196668a-8617-762e-8f37-d87ff8e71484",
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196668a-8617-762e-8f37-d87ff8e71484"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
+      "title": "Seoul Royal Palaces International Walk 2025"
+    },
+    "ja": {
+      "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
+      "title": "2025年ソウル外国人 宮殿ウォーキング大会"
+    },
+    "zh-cn": {
+      "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
+      "title": "2025首尔外国人宫殿徒步大会 "
+    }
+  }
+}

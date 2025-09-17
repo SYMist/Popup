@@ -3,9 +3,10 @@
 ## 초기 설정
 - [x] GitHub 레포 생성
 - [x] 현재 프로젝트 파일 푸시
-- [ ] Actions 권한 확인(`contents: write`, `pull-requests: write`)
+- [x] Actions 권한 확인(`contents: write`, `pull-requests: write`) — 워크플로 파일에 명시 확인
 - [x] 워크플로 수동 실행으로 첫 크롤 수행
-- [ ] 생성된 PR/JSON 변경사항 확인 및 머지
+- [x] 생성된 PR/JSON 변경사항 확인 및 머지 → 단순화: PR 제거, `main`에 직접 커밋으로 전환
+- [x] 자동 머지 설정 → 불필요로 제거(단일 운영: 직접 커밋)
 
 ## 분류/규칙 개선
 - [ ] 팝업 Allowlist 카테고리 보정

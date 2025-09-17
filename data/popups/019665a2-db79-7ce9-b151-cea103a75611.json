@@ -1,0 +1,59 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "161, Sajik-ro, Jongno-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-16",
+    "start": "2025-04-11"
+  },
+  "geo": {
+    "lat": 37.57974448140803,
+    "lon": 126.97706241349185
+  },
+  "id": "019665a2-db79-7ce9-b151-cea103a75611",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c405f92e-81a7-4586-984b-92faa02d690a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c405f92e-81a7-4586-984b-92faa02d690a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.kh.or.kr/cms/content/view/829",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-17T14:58:44.567616"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019665a2-db79-7ce9-b151-cea103a75611",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019665a2-db79-7ce9-b151-cea103a75611",
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019665a2-db79-7ce9-b151-cea103a75611"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "Gyeongbokgung Palace Moonlight Tour "
+    },
+    "ja": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "景福宮星光夜行 "
+    },
+    "zh-cn": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "景福宫星光夜行 "
+    }
+  }
+}

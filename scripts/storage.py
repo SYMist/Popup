@@ -120,7 +120,7 @@ def upsert_records_sqlite(records: Iterable[Dict[str, Any]]) -> str:
                 )
                 # translations
                 tr = r.get("translations", {})
-                for loc in ("ko", "en", "ja"):
+                for loc in ("ko", "en", "ja", "zh-cn", "zh-CN"):
                     t = tr.get(loc, {}) if isinstance(tr, dict) else {}
                     conn.execute(
                         """
@@ -150,4 +150,3 @@ def upsert_records_sqlite(records: Iterable[Dict[str, Any]]) -> str:
                         (r["id"], img.get("url"), img.get("variant"), idx, img.get("role")),
                     )
     return DB_PATH
-

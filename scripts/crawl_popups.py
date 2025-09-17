@@ -3,7 +3,6 @@ from __future__ import annotations
 import os
 import sys
 import time
-from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
@@ -15,7 +14,6 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from scripts.rules import PopupRules
 from scripts.triple_client import (
     SITEMAP_INDEX_URL,
     extract_id_from_url,
@@ -27,7 +25,8 @@ from scripts.triple_client import (
 from scripts.storage import save_record_json, upsert_records_sqlite
 
 
-LANGS = ["ko", "en", "ja"]
+# Preferred locales to fetch (ko often missing; include zh-CN)
+LANGS = ["zh-cn", "en", "ja", "ko"]
 
 
 def load_sitemap_festa_urls(session: requests.Session) -> List[str]:
@@ -69,15 +68,29 @@ def classify_popup(rules: PopupRules, record: Dict[str, Any]) -> Dict[str, Any]:
     return record
 
 
+def _non_empty(val: Any) -> bool:
+    return val not in (None, "", [], {})
+
+
+def _merge_nested_fields(dst: Dict[str, Any], src: Dict[str, Any], key: str) -> None:
+    if not isinstance(src, dict):
+        return
+    cur = dst.setdefault(key, {}) if isinstance(dst.get(key), dict) else dst.setdefault(key, {})
+    for k, v in src.items():
+        # Only overwrite when destination missing/empty and source has a value
+        if _non_empty(v) and not _non_empty(cur.get(k)):
+            cur[k] = v
+
+
 def merge_localized(base: Dict[str, Any], festa: Dict[str, Any], lang: str) -> Dict[str, Any]:
     # Core fields (first-seen wins; use ko as baseline typically)
     base.setdefault("id", festa.get("resourceId"))
     base.setdefault("category", festa.get("category"))
-    # duration/address/geo/pricing from any locale if missing
-    base.setdefault("duration", festa.get("duration") or {})
-    base.setdefault("address", festa.get("address") or {})
-    base.setdefault("geo", festa.get("geolocation") or {})
-    base.setdefault("pricing", festa.get("pricing") or {})
+    # duration/address/geo/pricing: prefer to fill empty subfields from any locale
+    _merge_nested_fields(base, festa.get("duration") or {}, "duration")
+    _merge_nested_fields(base, festa.get("address") or {}, "address")
+    _merge_nested_fields(base, festa.get("geolocation") or {}, "geo")
+    _merge_nested_fields(base, festa.get("pricing") or {}, "pricing")
 
     # links (merge unique by href)
     base_links = base.setdefault("links", [])
@@ -121,7 +134,6 @@ def merge_localized(base: Dict[str, Any], festa: Dict[str, Any], lang: str) -> D
 
 
 def main(max_items: Optional[int] = None) -> int:
-    rules = PopupRules()
     session = requests.Session()
 
     festa_urls = load_sitemap_festa_urls(session)
@@ -157,12 +169,6 @@ def main(max_items: Optional[int] = None) -> int:
             except Exception:
                 continue
         if not any_lang_ok:
-            skipped += 1
-            continue
-
-        # classify popup and filter
-        merged = classify_popup(rules, merged)
-        if not merged.get("isPopup"):
             skipped += 1
             continue
 
