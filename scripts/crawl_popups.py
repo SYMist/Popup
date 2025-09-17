@@ -1,6 +1,4 @@
 from __future__ import annotations
-
-import os
 import sys
 import time
 from datetime import datetime
@@ -41,31 +39,6 @@ def load_sitemap_festa_urls(session: requests.Session) -> List[str]:
         except Exception:
             continue
     return urls
-
-
-def classify_popup(rules: PopupRules, record: Dict[str, Any]) -> Dict[str, Any]:
-    cat = (record.get("category") or "").upper()
-    titles = []
-    for loc in LANGS:
-        t = record.get("translations", {}).get(loc, {}).get("title")
-        if t:
-            titles.append(t)
-    start = record.get("duration", {}).get("start")
-    end = record.get("duration", {}).get("end")
-    from datetime import date
-
-    sdt = date.fromisoformat(start) if start else None
-    edt = date.fromisoformat(end) if end else None
-
-    matched = rules.match_category(cat) or rules.match_keywords(titles) or rules.match_duration(sdt, edt)
-    record.setdefault("meta", {})["detection"] = {
-        "rule": "category|keyword|duration",
-        "category": rules.match_category(cat),
-        "keyword": rules.match_keywords(titles),
-        "duration": rules.match_duration(sdt, edt),
-    }
-    record["isPopup"] = bool(matched)
-    return record
 
 
 def _non_empty(val: Any) -> bool:
