@@ -3,6 +3,23 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-18
+
+- Actions push 실패 원인 해결 및 워크플로 안정화
+  - `actions/checkout`에 `fetch-depth: 0` 추가로 전체 히스토리 확보
+  - 크롤 이후 `git pull --rebase --autostash origin main` 단계 추가로 분기 정리
+  - `git-auto-commit-action`에 `push_options: --force-with-lease` 설정(안전 강제 푸시)
+  - 동시 실행 방지: `concurrency.cancel-in-progress: true`로 변경
+- 크롤 성능 개선(1h30m → 단축 목표)
+  - `scripts/crawl_popups.py`에 병렬 처리 도입(ThreadPoolExecutor)
+  - 전역 QPS 기반 RateLimiter 추가, 사이트맵/상세요청에 적용
+  - 빠른 모드(`--fast`): 최초 성공한 로케일에서 멈춰 불필요 요청 축소
+  - CLI 옵션 추가: `--limit`, `--fast`, `--workers`, `--qps`, `--langs`
+  - 워크플로 크롤 명령을 `--fast --workers 8 --qps 2.0`로 변경
+- 파서/클라이언트 조정
+  - `fetch_festa_by_lang(session, festa_id, lang, limiter=None)` 형태로 변경 및 내부 슬립 제거
+  - 크롤러에서 limiter 전달로 예의있는 레이트 제어 유지
+
 ## 2025-09-17
 
 - 어제 최초 크롤링 성공 확인. 전체 워크플로 수행에 1시간 37분 소요 — 수집 파이프라인 성능 개선 필요.

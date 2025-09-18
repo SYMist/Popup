@@ -5,7 +5,7 @@ import re
 import time
 from dataclasses import dataclass
 from datetime import datetime, date
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple, Callable
 
 import requests
 from bs4 import BeautifulSoup
@@ -289,10 +289,16 @@ def extract_festa(apollo: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     }
 
 
-def fetch_festa_by_lang(session: requests.Session, festa_id: str, lang: str) -> Optional[Dict[str, Any]]:
+def fetch_festa_by_lang(
+    session: requests.Session,
+    festa_id: str,
+    lang: str,
+    limiter: Optional[Callable[[], None]] = None,
+) -> Optional[Dict[str, Any]]:
     url = triple_detail_url(lang, festa_id)
+    if limiter:
+        limiter()
     resp = fetch(session, url, headers=_lang_headers(lang))
-    time.sleep(0.8)  # be polite
     data = parse_next_data(resp.text)
     if not data:
         return None

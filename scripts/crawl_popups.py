@@ -2,6 +2,9 @@ from __future__ import annotations
 import sys
 import time
 from datetime import datetime
+import argparse
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 
@@ -27,15 +30,39 @@ from scripts.storage import save_record_json, upsert_records_sqlite
 LANGS = ["zh-cn", "en", "ja", "ko"]
 
 
-def load_sitemap_festa_urls(session: requests.Session) -> List[str]:
+class RateLimiter:
+    def __init__(self, qps: float) -> None:
+        self.interval = 1.0 / qps if qps and qps > 0 else 0.0
+        self._lock = threading.Lock()
+        self._next_at = 0.0
+
+    def acquire(self) -> None:
+        if self.interval <= 0:
+            return
+        with self._lock:
+            now = time.monotonic()
+            sleep_for = self._next_at - now
+            if sleep_for > 0:
+                # Reserve slot first to reduce thundering herd
+                self._next_at += self.interval
+            else:
+                self._next_at = now + self.interval
+        if sleep_for > 0:
+            time.sleep(sleep_for)
+
+
+def load_sitemap_festa_urls(session: requests.Session, limiter: Optional[RateLimiter] = None) -> List[str]:
+    if limiter:
+        limiter.acquire()
     idx = fetch(session, SITEMAP_INDEX_URL).text
     all_sitemaps = [u for u in parse_sitemap_index(idx) if "sitemap-festa-detail-urls-" in u]
     urls: List[str] = []
     for sm in tqdm(all_sitemaps, desc="Fetch sitemaps"):
         try:
+            if limiter:
+                limiter.acquire()
             xml = fetch(session, sm).text
             urls.extend(parse_sitemap_urls(xml))
-            time.sleep(0.4)
         except Exception:
             continue
     return urls
@@ -106,10 +133,11 @@ def merge_localized(base: Dict[str, Any], festa: Dict[str, Any], lang: str) -> D
     return base
 
 
-def main(max_items: Optional[int] = None) -> int:
+def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List[str]) -> int:
     session = requests.Session()
+    limiter = RateLimiter(qps) if qps and qps > 0 else None
 
-    festa_urls = load_sitemap_festa_urls(session)
+    festa_urls = load_sitemap_festa_urls(session, limiter)
     festa_ids: List[str] = []
     for u in festa_urls:
         fid = extract_id_from_url(u)
@@ -123,35 +151,40 @@ def main(max_items: Optional[int] = None) -> int:
             seen.add(fid)
             ordered_ids.append(fid)
 
-    if max_items:
-        ordered_ids = ordered_ids[:max_items]
+    if limit:
+        ordered_ids = ordered_ids[:limit]
+
+    def process_one(fid: str) -> Optional[Dict[str, Any]]:
+        sess = requests.Session()
+        merged: Dict[str, Any] = {}
+        any_lang_ok = False
+        for lang in langs:
+            try:
+                festa = fetch_festa_by_lang(sess, fid, lang, limiter.acquire if limiter else None)
+                if festa:
+                    any_lang_ok = True
+                    merged = merge_localized(merged, festa, lang)
+                    if fast:
+                        break
+            except Exception:
+                continue
+        if not any_lang_ok:
+            return None
+        merged.setdefault("meta", {})["fetchedAt"] = datetime.utcnow().isoformat()
+        save_record_json(merged)
+        return merged
 
     records: List[Dict[str, Any]] = []
     saved = 0
     skipped = 0
 
-    for fid in tqdm(ordered_ids, desc="Fetch festas"):
-        merged: Dict[str, Any] = {}
-        any_lang_ok = False
-        for lang in LANGS:
-            try:
-                festa = fetch_festa_by_lang(session, fid, lang)
-                if festa:
-                    any_lang_ok = True
-                    merged = merge_localized(merged, festa, lang)
-            except Exception:
-                continue
-        if not any_lang_ok:
-            skipped += 1
-            continue
-
-        # Meta info
-        merged.setdefault("meta", {})["fetchedAt"] = datetime.utcnow().isoformat()
-
-        # Save JSON and collect for DB
-        save_record_json(merged)
-        records.append(merged)
-        saved += 1
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        for res in tqdm(ex.map(process_one, ordered_ids), total=len(ordered_ids), desc="Fetch festas"):
+            if res:
+                records.append(res)
+                saved += 1
+            else:
+                skipped += 1
 
     # Update SQLite from collected records
     if records:
@@ -162,10 +195,17 @@ def main(max_items: Optional[int] = None) -> int:
 
 
 if __name__ == "__main__":
-    max_items = None
-    if len(sys.argv) > 1:
-        try:
-            max_items = int(sys.argv[1])
-        except Exception:
-            max_items = None
-    raise SystemExit(main(max_items))
+    parser = argparse.ArgumentParser(description="Crawl popup festas")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of festa IDs")
+    parser.add_argument("--fast", action="store_true", help="Stop after first successful locale")
+    parser.add_argument("--workers", type=int, default=8, help="Number of concurrent workers")
+    parser.add_argument("--qps", type=float, default=2.0, help="Global requests per second")
+    parser.add_argument(
+        "--langs",
+        type=str,
+        default=",".join(LANGS),
+        help="Comma-separated locale order to try",
+    )
+    args = parser.parse_args()
+    lang_list = [x.strip() for x in args.langs.split(",") if x.strip()]
+    raise SystemExit(main(args.limit, args.fast, args.workers, args.qps, lang_list))
