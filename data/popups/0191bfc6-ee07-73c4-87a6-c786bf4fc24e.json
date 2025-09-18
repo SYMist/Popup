@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Wausan-ro 29 Ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-16",
+    "start": "2024-09-14"
+  },
+  "geo": {
+    "lat": 37.55518010593891,
+    "lon": 126.92714716266556
+  },
+  "id": "0191bfc6-ee07-73c4-87a6-c786bf4fc24e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5264149c-c60c-4946-bef3-0be3a10f3738.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5264149c-c60c-4946-bef3-0be3a10f3738.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Felix_HBD",
+      "label": "ヨンボギのストロベリー秘密のレシピ"
+    },
+    {
+      "href": "https://x.com/bbogi_day",
+      "label": "ポギ妖精の森に遊びにおいで"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:34.608470"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191bfc6-ee07-73c4-87a6-c786bf4fc24e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 11, Wausan-ro 29 Ra-gil, Mapo-gu,",
+      "title": "『フィリックス』 センイルカフェ 🎂"
+    }
+  }
+}

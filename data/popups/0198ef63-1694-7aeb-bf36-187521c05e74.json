@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108 Yeoui-daero, Yeongdeung﻿po-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-21",
+    "start": "2025-09-10"
+  },
+  "geo": {
+    "lat": 37.5258975,
+    "lon": 126.9284261
+  },
+  "id": "0198ef63-1694-7aeb-bf36-187521c05e74",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7cd756dc-dd60-4ead-a3d5-2723adbfd98d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7cd756dc-dd60-4ead-a3d5-2723adbfd98d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNe9y_hJIs4/?utm_source=ig_web_copy_link",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:58.207609"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef63-1694-7aeb-bf36-187521c05e74"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "2025 IU 限时快闪店"
+    }
+  }
+}

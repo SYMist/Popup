@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "294, Itaewon-ro, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-24",
+    "start": "2025-08-23"
+  },
+  "geo": {
+    "lat": 37.54070309999999,
+    "lon": 127.0026478
+  },
+  "id": "0197ce18-d2b1-7e84-92da-8f05cf365950",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c2f158ad-ff16-4776-848e-3ddea86277e5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c2f158ad-ff16-4776-848e-3ddea86277e5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/ticket/genre/CONCERT/products/25009026?placeCode=25000769",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:40.239958"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197ce18-d2b1-7e84-92da-8f05cf365950"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu,",
+      "title": "2025 FTISLAND LIVE"
+    }
+  }
+}

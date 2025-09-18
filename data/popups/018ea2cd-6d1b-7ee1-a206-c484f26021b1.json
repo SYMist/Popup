@@ -1,0 +1,46 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "21-3, Eonju-ro 164-gil, Gangnam-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-04-15",
+    "start": "2024-04-05"
+  },
+  "geo": {
+    "lat": 37.5257,
+    "lon": 127.0352
+  },
+  "id": "018ea2cd-6d1b-7ee1-a206-c484f26021b1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f26feedb-9950-4fd7-866a-ac2ce44b1cee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f26feedb-9950-4fd7-866a-ac2ce44b1cee.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:23.060388"
+  },
+  "pricing": {
+    "description": "20,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ea2cd-6d1b-7ee1-a206-c484f26021b1"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 21-3, Eonju-ro 164-gil, Gangnam-gu, ",
+      "priceDesc": "20,000ウォン",
+      "title": "THE BOYZ POP-UP"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "175, Sejong-daero, Jongno-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-05-29"
+  },
+  "geo": {
+    "lat": 37.57360126976,
+    "lon": 126.976
+  },
+  "id": "018f7068-f1a3-7638-a068-870e41ceee28",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/329cd7b1-ef82-4731-be73-d09d66f19821.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/329cd7b1-ef82-4731-be73-d09d66f19821.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:50.115526"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018f7068-f1a3-7638-a068-870e41ceee28"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
+      "title": "K-Food 庆典 Knock Knock"
+    }
+  }
+}

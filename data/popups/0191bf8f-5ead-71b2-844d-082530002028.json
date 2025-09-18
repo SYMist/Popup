@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "412, Apgujeong-ro, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-09-03"
+  },
+  "geo": {
+    "lat": 37.52714443819231,
+    "lon": 127.04186990674589
+  },
+  "id": "0191bf8f-5ead-71b2-844d-082530002028",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/17a66c7d-a180-4e74-a7f4-acc1a67b981d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/17a66c7d-a180-4e74-a7f4-acc1a67b981d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_dKS9UqVh-/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:58.148300"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191bf8f-5ead-71b2-844d-082530002028"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 412, Apgujeong-ro, Gangnam-gu,",
+      "title": "MCM WEARABLE CASA"
+    }
+  }
+}

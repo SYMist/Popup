@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "9-13, Yeonmujang 5-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-06-16",
+    "start": "2024-05-15"
+  },
+  "geo": {
+    "lat": 37.544201270523,
+    "lon": 127.0523
+  },
+  "id": "018fa904-6676-7d3c-ae4f-5b665d01a3b9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b313ae4e-2373-4a96-8c69-103641fee56b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b313ae4e-2373-4a96-8c69-103641fee56b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://public.diorbeautyevent.co.kr/",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:10.917570"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018fa904-6676-7d3c-ae4f-5b665d01a3b9"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 9-13, Yeonmujang 5-gil, Seongdong-gu, ",
+      "title": "DIOR BEAUTY POP-UP"
+    }
+  }
+}

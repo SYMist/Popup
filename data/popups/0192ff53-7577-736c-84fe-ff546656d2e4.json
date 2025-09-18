@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-13",
+    "start": "2024-11-06"
+  },
+  "geo": {
+    "lat": 37.52605257782472,
+    "lon": 126.92829679906512
+  },
+  "id": "0192ff53-7577-736c-84fe-ff546656d2e4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0af0d2c0-8f8c-4a09-a670-bcad373b1f6c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0af0d2c0-8f8c-4a09-a670-bcad373b1f6c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://m.sound-wave.co.kr/article/event-notice/1/64352/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:25.699864"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192ff53-7577-736c-84fe-ff546656d2e4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "TOMORROW X TOGETHER Pop-Up"
+    }
+  }
+}

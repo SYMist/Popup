@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "165, Apgujeong-ro, Gangnam-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.52732898271865,
+    "lon": 127.02742625950717
+  },
+  "id": "01931eaf-21ae-7be6-bfdd-f2c0551f86bf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/78ff2a44-e81c-43a8-9142-b6cdd17e2652.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/78ff2a44-e81c-43a8-9142-b6cdd17e2652.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/EV/EV000003_14_V.do?eventNo=32797&eventCd=B0349900",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:14.644689"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01931eaf-21ae-7be6-bfdd-f2c0551f86bf"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 165, Apgujeong-ro, Gangnam-gu, ",
+      "title": "LE GRAND THEATRE 🎄"
+    }
+  }
+}

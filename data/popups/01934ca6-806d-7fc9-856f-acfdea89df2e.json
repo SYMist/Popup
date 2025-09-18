@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-25",
+    "start": "2024-11-28"
+  },
+  "geo": {
+    "lat": 37.52605284372434,
+    "lon": 126.92829679906512
+  },
+  "id": "01934ca6-806d-7fc9-856f-acfdea89df2e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6f97aa6a-865b-4174-8d3e-83c399ed5625.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6f97aa6a-865b-4174-8d3e-83c399ed5625.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://coach-reservation.meta.fassker.com/main",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:45.699917"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934ca6-806d-7fc9-856f-acfdea89df2e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "COACH “Holiday” 快闪店"
+    }
+  }
+}

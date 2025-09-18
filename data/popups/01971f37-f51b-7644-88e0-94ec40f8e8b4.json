@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "445, Yangnyeong-ro, Yongsan-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-14",
+    "start": "2025-06-13"
+  },
+  "geo": {
+    "lat": 37.5177627,
+    "lon": 126.9596671
+  },
+  "id": "01971f37-f51b-7644-88e0-94ec40f8e8b4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b184bf77-8d7d-493a-a161-1750f7d96f9d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b184bf77-8d7d-493a-a161-1750f7d96f9d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DI2qCRkhbt7/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:53.083172"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f37-f51b-7644-88e0-94ec40f8e8b4"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 445, Yangnyeong-ro, Yongsan-gu,",
+      "title": "SEOUL SUMMER VIBE"
+    }
+  }
+}

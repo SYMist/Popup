@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "17-1, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-27",
+    "start": "2025-04-11"
+  },
+  "geo": {
+    "lat": 37.54387,
+    "lon": 127.0517
+  },
+  "id": "019632df-3ed6-73e7-96da-ba7a9dab6ea0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c7c19079-5479-4a95-8ed2-98d66714bd64.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c7c19079-5479-4a95-8ed2-98d66714bd64.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DIS8PPiyJ3M/?hl=ko&img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:58.998838"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019632df-3ed6-73e7-96da-ba7a9dab6ea0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 17-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "七星雪碧圣水快闪店"
+    }
+  }
+}

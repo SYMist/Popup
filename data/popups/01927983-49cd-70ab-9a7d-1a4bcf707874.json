@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "691, Jungang-daero, Busanjin-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-10",
+    "start": "2024-10-02"
+  },
+  "geo": {
+    "lat": 35.154454,
+    "lon": 129.057097
+  },
+  "id": "01927983-49cd-70ab-9a7d-1a4bcf707874",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/55899f51-04dc-41a5-b6e5-4fc969044bb1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/55899f51-04dc-41a5-b6e5-4fc969044bb1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.busanjin.go.kr/board/view.busanjin?boardId=BBS_0000009&menuCd=DOM_000000110001001000&paging=ok&startPage=1&dataSid=3898941",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:16.208344"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01927983-49cd-70ab-9a7d-1a4bcf707874"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 691, Jungang-daero, Busanjin-gu, ",
+      "title": "2024年西面灯光节"
+    }
+  }
+}

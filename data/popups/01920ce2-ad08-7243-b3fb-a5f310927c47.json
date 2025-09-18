@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Yeonmumun 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-09",
+    "start": "2024-09-13"
+  },
+  "geo": {
+    "lat": 37.5436385,
+    "lon": 127.0548873
+  },
+  "id": "01920ce2-ad08-7243-b3fb-a5f310927c47",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1b5b474d-7934-4d95-9e6e-45a2241d4e05.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1b5b474d-7934-4d95-9e6e-45a2241d4e05.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.isoi.co.kr/event/202409/popup_event?tr_ibp=1",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:01.905672"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920ce2-ad08-7243-b3fb-a5f310927c47"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 12, Yeonmumun 7-gil, Seongdong-gu,",
+      "title": "ISOI POP-UP"
+    }
+  }
+}

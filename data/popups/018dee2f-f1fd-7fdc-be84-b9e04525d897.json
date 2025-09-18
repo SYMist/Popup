@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "253-6, Panjo-ro, Hangyeong-myeon, Jeju-si, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-07-20",
+    "start": "2024-05-15"
+  },
+  "geo": {
+    "lat": 33.35024593078599,
+    "lon": 126.2177605251312
+  },
+  "id": "018dee2f-f1fd-7fdc-be84-b9e04525d897",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2893be97-7f7b-41f2-9d05-ff3d2d1683f8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2893be97-7f7b-41f2-9d05-ff3d2d1683f8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://vicheollin.com/index.php",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:05.517758"
+  },
+  "pricing": {
+    "description": "成人 : 8,000ウォン、青少年 : 7,000ウォン、小人 : 6,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018dee2f-f1fd-7fdc-be84-b9e04525d897"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju-do, 253-6, Panjo-ro, Hangyeong-myeon, Jeju-si, ",
+      "priceDesc": "成人 : 8,000ウォン、青少年 : 7,000ウォン、小人 : 6,000ウォン",
+      "title": "済州の夏の花祭り"
+    }
+  }
+}

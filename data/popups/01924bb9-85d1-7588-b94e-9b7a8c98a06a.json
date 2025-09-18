@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "52, Jagalchi Coastal-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 35.0966394,
+    "lon": 129.0305933
+  },
+  "id": "01924bb9-85d1-7588-b94e-9b7a8c98a06a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fc728c2b-4ff6-45a7-ae28-9af2987d4674.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fc728c2b-4ff6-45a7-ae28-9af2987d4674.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.ejagalchi.com/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:19.616305"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924bb9-85d1-7588-b94e-9b7a8c98a06a"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 52, Jagalchi Coastal-ro, Jung-gu,",
+      "title": "2024 Busan Jagalchi Festival"
+    }
+  }
+}

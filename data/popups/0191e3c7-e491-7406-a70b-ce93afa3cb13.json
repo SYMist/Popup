@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": " 148, Wausan-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-23",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.554137,
+    "lon": 126.929676
+  },
+  "id": "0191e3c7-e491-7406-a70b-ce93afa3cb13",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1521c181-2a00-4fc8-8c10-c189a4b647fe.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1521c181-2a00-4fc8-8c10-c189a4b647fe.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/withu_0923",
+      "label": "turn on the radio 9.23 MHZ"
+    },
+    {
+      "href": "https://x.com/7minRainDrop",
+      "label": "YUQI’s Way"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:55.181120"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3c7-e491-7406-a70b-ce93afa3cb13"
+  },
+  "translations": {
+    "en": {
+      "address": " Seoul,  148, Wausan-ro, Mapo-gu,",
+      "title": "『YUQI』 Birthday Cafe 🎂"
+    }
+  }
+}

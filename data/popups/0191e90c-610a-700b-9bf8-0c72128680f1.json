@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1, Cheongwadae-ro, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-09-16"
+  },
+  "geo": {
+    "lat": 37.58447359864345,
+    "lon": 126.97522942460633
+  },
+  "id": "0191e90c-610a-700b-9bf8-0c72128680f1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6bf56ffc-8e19-4a34-8055-29acb2513cd9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6bf56ffc-8e19-4a34-8055-29acb2513cd9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.opencheongwadae.kr/mps/festival/eventView?festivalNo=190&menuId=MENU002020101000000&schType=0&year=2024&schText=&pageNum=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:46.229439"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e90c-610a-700b-9bf8-0c72128680f1"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1, Cheongwadae-ro, Jongno-gu,",
+      "title": "青瓦台 八道遊覧🌕"
+    }
+  }
+}

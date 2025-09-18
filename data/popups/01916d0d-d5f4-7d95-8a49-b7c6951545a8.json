@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "74, Motgolbeonyeong-ro 71beon-gil, Nam-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-12-15",
+    "start": "2024-03-23"
+  },
+  "geo": {
+    "lat": 35.142215,
+    "lon": 129.084807
+  },
+  "id": "01916d0d-d5f4-7d95-8a49-b7c6951545a8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/471f7765-8663-4a74-9c75-a5829e22f8bd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/471f7765-8663-4a74-9c75-a5829e22f8bd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/busanmagicfestival",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:03.936871"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916d0d-d5f4-7d95-8a49-b7c6951545a8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 74, Motgolbeonyeong-ro 71beon-gil, Nam-gu,",
+      "title": "2024 第19回釜山国際マジックフェスティバル"
+    }
+  }
+}

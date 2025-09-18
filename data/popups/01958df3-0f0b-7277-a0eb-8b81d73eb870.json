@@ -1,0 +1,41 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang 7-gil, Seongdong-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-03-30",
+    "start": "2025-03-19"
+  },
+  "geo": {},
+  "id": "01958df3-0f0b-7277-a0eb-8b81d73eb870",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e59f6496-ccaf-4d27-b435-4848e6d9fdc3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e59f6496-ccaf-4d27-b435-4848e6d9fdc3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:54.231870"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01958df3-0f0b-7277-a0eb-8b81d73eb870"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
+      "title": "MEDIHEAL X 8LAY 快闪店"
+    }
+  }
+}

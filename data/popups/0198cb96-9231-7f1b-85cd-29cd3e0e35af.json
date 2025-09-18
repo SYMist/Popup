@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Beodeunaru-ro, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-13"
+  },
+  "geo": {
+    "lat": 37.52167,
+    "lon": 126.9124
+  },
+  "id": "0198cb96-9231-7f1b-85cd-29cd3e0e35af",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/18f87c64-f6de-41e8-afd7-7a4f1f77d9ff.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/18f87c64-f6de-41e8-afd7-7a4f1f77d9ff.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/ticket/places/25001003/products/25011920",
+      "label": "立即订购"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:14.972421"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198cb96-9231-7f1b-85cd-29cd3e0e35af"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 LEE MINHYUK (HUTA) CONCERT 〈HOOK - WHO : KING〉"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "27, Dongmak-ro 2-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-04",
+    "start": "2024-12-01"
+  },
+  "geo": {
+    "lat": 37.54733756739802,
+    "lon": 126.91459458714294
+  },
+  "id": "0193bd80-b7fe-7a04-b56e-d7c099a5e0d4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0acd516f-1c87-4089-bfa3-f1f05a38e0e7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0acd516f-1c87-4089-bfa3-f1f05a38e0e7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/bbichive/status/1849829308728213550",
+      "label": "HAPPY DOYOUNG DAY"
+    },
+    {
+      "href": "https://x.com/bbichive/status/1845118226260427111",
+      "label": " Toto’s Dumpling Shop"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:22.943977"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193bd80-b7fe-7a04-b56e-d7c099a5e0d4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 27, Dongmak-ro 2-gil, Mapo-gu, ",
+      "title": "『DOYOUNG』 Birthday Cafe🎂"
+    }
+  }
+}

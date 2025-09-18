@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1, Tongil-ro, Jung-gu, Seoul"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-30",
+    "start": "2024-11-07"
+  },
+  "geo": {
+    "lat": 37.5558824,
+    "lon": 126.9715573
+  },
+  "id": "0191e93c-cd23-7dee-8932-f2f97ae2a72e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/303fced1-4e07-441b-a647-b5ca7eb88136.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/303fced1-4e07-441b-a647-b5ca7eb88136.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.sfac.or.kr/artsfestivalseoul/fstvlView.do?fstvlSeq=8",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:22.421055"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 1, Tongil-ro, Jung-gu, Seoul",
+      "title": "Seoul Arts & Tech Festival 'Unfold X'"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1642-7, Sillim-dong, Gwanak-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-02-09",
+    "start": "2024-11-11"
+  },
+  "geo": {
+    "lat": 37.482749,
+    "lon": 126.92767
+  },
+  "id": "01933cf8-dc2a-7186-9d09-3f5e032a1fa6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/964be351-0210-408b-ad3f-d4ab2d0d9443.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/964be351-0210-408b-ad3f-d4ab2d0d9443.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCNsDmdyqO0/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:49.016621"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01933cf8-dc2a-7186-9d09-3f5e032a1fa6"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 1642-7, Sillim-dong, Gwanak-gu, ",
+      "title": "The 4th Gwanak Starlight Walk"
+    }
+  }
+}

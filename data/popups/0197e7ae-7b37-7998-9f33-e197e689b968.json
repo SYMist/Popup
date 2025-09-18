@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic﻿-ro, Songpa-gu"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-05",
+    "start": "2025-10-03"
+  },
+  "geo": {
+    "lat": 37.5191503,
+    "lon": 127.1273644
+  },
+  "id": "0197e7ae-7b37-7998-9f33-e197e689b968",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ab2d0982-6066-40f9-a9b8-5c358e378f8f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ab2d0982-6066-40f9-a9b8-5c358e378f8f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://interparkglobal.com/zh-CN/ticket/places/25000983/products/25011665",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:45.494365"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e7ae-7b37-7998-9f33-e197e689b968"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
+      "title": "2025 ZEROBASEONE 世界巡回演唱会"
+    }
+  }
+}

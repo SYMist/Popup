@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13-3 Wausan-ro 29na-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-07",
+    "start": "2025-08-28"
+  },
+  "geo": {
+    "lat": 37.55472,
+    "lon": 126.9282
+  },
+  "id": "0198838f-6708-7e62-b6d9-d69c2a97f7df",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/971afc22-eb6b-41aa-ac08-30c6542703b9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/971afc22-eb6b-41aa-ac08-30c6542703b9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/BND_EVENT/status/1947505996143988826",
+      "label": "Receive SungHo's heart"
+    },
+    {
+      "href": "https://x.com/dear_my_youth_0/status/1951931086835003642",
+      "label": "Dear my Youth"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:12.612227"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198838f-6708-7e62-b6d9-d69c2a97f7df"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "“成淏” 生日咖啡厅🎂"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "294, Itaewon-ro, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-28",
+    "start": "2025-09-27"
+  },
+  "geo": {
+    "lat": 37.54086,
+    "lon": 127.0027
+  },
+  "id": "0198c5ea-c4a7-7b3d-998f-c79de1219709",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6264bec4-aec6-4060-bcad-9e9bb43def0f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6264bec4-aec6-4060-bcad-9e9bb43def0f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/ticket/places/25000447/products/25011728",
+      "label": "立即订购"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:13.847432"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c5ea-c4a7-7b3d-998f-c79de1219709"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu, ",
+      "title": "XIUMIN FAN CONCERT 〈 X Times ( ) 〉 ENCORE"
+    }
+  }
+}

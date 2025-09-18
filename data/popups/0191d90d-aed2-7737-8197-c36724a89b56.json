@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "147, Gijang Coastal-ro, Gijang-eup, Gijang-gun,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-29",
+    "start": "2024-09-12"
+  },
+  "geo": {
+    "lat": 35.192557629988094,
+    "lon": 129.21238696952824
+  },
+  "id": "0191d90d-aed2-7737-8197-c36724a89b56",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1442fc78-9ef9-41c5-8f3c-d466c498aafd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1442fc78-9ef9-41c5-8f3c-d466c498aafd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_h_1PYy46n/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:40.108819"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d90d-aed2-7737-8197-c36724a89b56"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 147, Gijang Coastal-ro, Gijang-eup, Gijang-gun,",
+      "title": "FC 7-ELEVEN Encore Pop-up in Busan"
+    }
+  }
+}

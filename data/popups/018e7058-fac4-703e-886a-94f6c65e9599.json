@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "89-17, Seoseongil-ro 1168beon-gil, Seongsan-eup, Seogwipo-si, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-21",
+    "start": "2024-03-22"
+  },
+  "geo": {
+    "lat": 33.43986,
+    "lon": 126.899
+  },
+  "id": "018e7058-fac4-703e-886a-94f6c65e9599",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b29b3354-34a4-4f68-a00e-93d89033454e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b29b3354-34a4-4f68-a00e-93d89033454e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.deslumieres.co.kr/en/bunker",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:49.720263"
+  },
+  "pricing": {
+    "description": "Adults : KRW 19,000, Middle School: KRW 14,000, Elementary School: KRW 11,000, Persons with disabilities, Infants: KRW 9,000",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018e7058-fac4-703e-886a-94f6c65e9599"
+  },
+  "translations": {
+    "en": {
+      "address": "Jeju-do, 89-17, Seoseongil-ro 1168beon-gil, Seongsan-eup, Seogwipo-si, ",
+      "priceDesc": "Adults : KRW 19,000, Middle School: KRW 14,000, Elementary School: KRW 11,000, Persons with disabilities, Infants: KRW 9,000",
+      "title": "「CHAGALL, PARIS - NEW YORK」"
+    }
+  }
+}

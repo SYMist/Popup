@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 103, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-14",
+    "start": "2024-09-05"
+  },
+  "geo": {
+    "lat": 37.540976,
+    "lon": 127.060712
+  },
+  "id": "0191775c-b874-7d74-9e12-2d117e14b55c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c20b8c9f-6eca-4d11-a13c-e9bf215cd170.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c20b8c9f-6eca-4d11-a13c-e9bf215cd170.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-4A1tuvKsH/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:12.447465"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191775c-b874-7d74-9e12-2d117e14b55c"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  103, Yeonmujang-gil, Seongdong-gu,",
+      "title": "NAMEKO Seongsu POP-UP"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "149, Yeongjung-ro, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-18",
+    "start": "2025-04-04"
+  },
+  "geo": {
+    "lat": 37.51728,
+    "lon": 126.9034
+  },
+  "id": "0196139a-64fe-7946-b6ae-53b6ee7e0451",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6535db73-9bee-445a-98c7-146e426e1f32.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6535db73-9bee-445a-98c7-146e426e1f32.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/ateezpopup_sw/status/1907968878657024212",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:56.726281"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196139a-64fe-7946-b6ae-53b6ee7e0451"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 149, Yeongjung-ro, Yeongdeungpo-gu,",
+      "title": "ATEEZ X ANITEEZ IN TREASURE 快闪店"
+    }
+  }
+}

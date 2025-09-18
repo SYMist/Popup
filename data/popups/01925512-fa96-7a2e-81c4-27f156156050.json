@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Jeju-si,",
+    "street": "40, Samseong-ro,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-12",
+    "start": "2024-10-06"
+  },
+  "geo": {
+    "lat": 33.506384,
+    "lon": 126.530058
+  },
+  "id": "01925512-fa96-7a2e-81c4-27f156156050",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1a2a486c-cdab-42fe-be64-473bc7c744e4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1a2a486c-cdab-42fe-be64-473bc7c744e4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAGeAHMyCzp/",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:52.414387"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01925512-fa96-7a2e-81c4-27f156156050"
+  },
+  "translations": {
+    "en": {
+      "address": "Jeju-si,, 40, Samseong-ro,",
+      "title": "2024 Sinsan Dochebi Light Festival"
+    }
+  }
+}

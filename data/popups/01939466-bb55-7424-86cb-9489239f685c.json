@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "55, APEC-ro, Haeundae-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-25",
+    "start": "2024-12-25"
+  },
+  "geo": {
+    "lat": 35.168980785217336,
+    "lon": 129.13604168220903
+  },
+  "id": "01939466-bb55-7424-86cb-9489239f685c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f499c5a3-7002-4170-b97c-ef29378de513.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f499c5a3-7002-4170-b97c-ef29378de513.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24016224",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:41.603281"
+  },
+  "pricing": {
+    "description": "110,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939466-bb55-7424-86cb-9489239f685c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 55, APEC-ro, Haeundae-gu,",
+      "priceDesc": "110,000韩元",
+      "title": "2024 Someday Christmas in 釜山"
+    }
+  }
+}

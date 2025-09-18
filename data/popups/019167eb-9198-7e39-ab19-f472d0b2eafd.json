@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "177, Walkerhill-ro, Gwangjin-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-22",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 37.555604,
+    "lon": 127.110408
+  },
+  "id": "019167eb-9198-7e39-ab19-f472d0b2eafd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ed42c60a-d15d-45ca-8458-ed5c410e9ab1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ed42c60a-d15d-45ca-8458-ed5c410e9ab1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-mdU3lRy1K/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:34.910822"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019167eb-9198-7e39-ab19-f472d0b2eafd"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 177, Walkerhill-ro, Gwangjin-gu,",
+      "title": "Beenzino Solo Concert"
+    }
+  }
+}

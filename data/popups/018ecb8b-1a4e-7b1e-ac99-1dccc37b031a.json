@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Wausan-ro 35-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-06-09",
+    "start": "2024-04-09"
+  },
+  "geo": {
+    "lat": 37.55569,
+    "lon": 126.9298
+  },
+  "id": "018ecb8b-1a4e-7b1e-ac99-1dccc37b031a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8138253e-7820-40b3-9038-4b5cdc86e060.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8138253e-7820-40b3-9038-4b5cdc86e060.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5iLu4VvZhB/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:10.338376"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ecb8b-1a4e-7b1e-ac99-1dccc37b031a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Wausan-ro 35-gil, Mapo-gu,",
+      "title": "「チェゴシム」 ポップアップ"
+    }
+  }
+}

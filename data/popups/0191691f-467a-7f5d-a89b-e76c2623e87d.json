@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "86, Yanghwa-ro 6-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.548278,
+    "lon": 126.918867
+  },
+  "id": "0191691f-467a-7f5d-a89b-e76c2623e87d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/abdd1d2b-d1f2-43c5-a9e1-55a1129cff08.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/abdd1d2b-d1f2-43c5-a9e1-55a1129cff08.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/gvbirthday830",
+      "label": "Kyunini's Mango Cafe"
+    },
+    {
+      "href": "https://x.com/ZBHS_event",
+      "label": "\bEumbbabba's diary on Kyubin"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:06.323033"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191691f-467a-7f5d-a89b-e76c2623e87d"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu,",
+      "title": "『Kyubin』 Birthday Cafe 🎂"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": " Gwacheon-si",
+    "street": "181, Gwangmyeong-ro"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-01"
+  },
+  "geo": {
+    "lat": 37.4347303,
+    "lon": 127.018452
+  },
+  "id": "018d52d8-8c25-7337-81ca-832551846e9d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0998c285-f192-4fc6-9b7e-1a1fe9741f68.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0998c285-f192-4fc6-9b7e-1a1fe9741f68.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://seoulland.co.kr/eng/?p=8_view&idx=3924",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:58.304649"
+  },
+  "pricing": {
+    "description": "Oneday Pass : 大人 49,000ウォン / 中高生 46,000ウォン / お子様 43,000ウォン、夜間券 (午後4時以降) : 大人 42,000ウォン / 中高生 38,000ウォン / お子様 36,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018d52d8-8c25-7337-81ca-832551846e9d"
+  },
+  "translations": {
+    "ja": {
+      "address": " Gwacheon-si, 181, Gwangmyeong-ro",
+      "priceDesc": "Oneday Pass : 大人 49,000ウォン / 中高生 46,000ウォン / お子様 43,000ウォン、夜間券 (午後4時以降) : 大人 42,000ウォン / 中高生 38,000ウォン / お子様 36,000ウォン",
+      "title": "ソウルランド光のフェスティバル LunaPark"
+    }
+  }
+}

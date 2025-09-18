@@ -1,0 +1,37 @@
+{
+  "address": {},
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-06-01",
+    "start": "2024-04-01"
+  },
+  "geo": {},
+  "id": "018ea830-980a-7461-8dac-bf8d0bee96fe",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/732cabda-c9f3-4c83-bef9-442911afbbcf.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/732cabda-c9f3-4c83-bef9-442911afbbcf.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:08.123214"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ea830-980a-7461-8dac-bf8d0bee96fe"
+  },
+  "translations": {
+    "ja": {
+      "title": "サーティワン × 東京バナナ"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1﻿10 Sejong-daero, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-29",
+    "start": "2025-04-23"
+  },
+  "geo": {
+    "lat": 37.5655675,
+    "lon": 126.978014
+  },
+  "id": "0196422a-367b-701d-83e0-fc58ce67c64f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e039ca90-2ecc-4181-bbc5-5ea37d743b9d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e039ca90-2ecc-4181-bbc5-5ea37d743b9d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DHcmCGNpaWN/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:50.549058"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196422a-367b-701d-83e0-fc58ce67c64f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 1﻿10 Sejong-daero, Jung-gu,",
+      "title": "2025首尔户外图书馆"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "27, Seoulsup 2-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-18",
+    "start": "2024-08-09"
+  },
+  "geo": {
+    "lat": 37.384898,
+    "lon": 127.111458
+  },
+  "id": "019144cc-9889-7f86-88f9-27530f0532b8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4ad19ba9-6119-4d2e-bcb3-6e474a13c145.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4ad19ba9-6119-4d2e-bcb3-6e474a13c145.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-b2RV9SaFg/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:53.429313"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/019144cc-9889-7f86-88f9-27530f0532b8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 27, Seoulsup 2-gil, Seongdong-gu, ",
+      "title": "On Brix POP-UP"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1 Cheongwadae-ro, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-01",
+    "start": "2025-05-03"
+  },
+  "geo": {
+    "lat": 37.58447359864345,
+    "lon": 126.97522942460633
+  },
+  "id": "0196f1d6-92cb-7ba5-b6b3-c08cc436ae02",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1705378d-192e-466f-8003-9c1f365c3437.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1705378d-192e-466f-8003-9c1f365c3437.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJqkEBBCnGE/?img_index=3",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:48.829543"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f1d6-92cb-7ba5-b6b3-c08cc436ae02"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 1 Cheongwadae-ro, Jongno-gu,",
+      "title": "青瓦台周末常设演出"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Se﻿oul",
+    "street": "330, Yeouidong-ro, Yeongdeungpo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-09-27",
+    "start": "2025-09-27"
+  },
+  "geo": {
+    "lat": 37.52973,
+    "lon": 126.9201
+  },
+  "id": "019955e1-a748-7c79-8fc5-cc5ca0666eef",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/599d4f84-07aa-417c-903e-a7bfd98fd4e6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/599d4f84-07aa-417c-903e-a7bfd98fd4e6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://hanwhafireworks.com/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:59.821295"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "2025 首尔世界烟花庆典"
+    }
+  }
+}

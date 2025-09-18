@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "241, Dongho-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-21",
+    "start": "2025-09-20"
+  },
+  "geo": {
+    "lat": 37.55827,
+    "lon": 127.0068
+  },
+  "id": "0198d020-7e20-7237-ac94-7acbf1776039",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/398cf44d-663c-4fac-b18f-842697c5a5c5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/398cf44d-663c-4fac-b18f-842697c5a5c5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNnw4sbTn7c/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:15.796803"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198d020-7e20-7237-ac94-7acbf1776039"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
+      "title": "2025 WENDY 1st WORLD TOUR <W:EALIVE> IN SEOUL"
+    }
+  }
+}

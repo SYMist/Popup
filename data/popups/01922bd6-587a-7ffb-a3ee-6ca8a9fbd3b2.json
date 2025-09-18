@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300 O﻿lympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-20",
+    "start": "2024-10-09"
+  },
+  "geo": {
+    "lat": 37.51362097244879,
+    "lon": 127.10411409999999
+  },
+  "id": "01922bd6-587a-7ffb-a3ee-6ca8a9fbd3b2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8f0dfeb6-3a49-44ed-bc1d-8e9ba54ebc6a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8f0dfeb6-3a49-44ed-bc1d-8e9ba54ebc6a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAP0S0FxxsJ/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:49.830671"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922bd6-587a-7ffb-a3ee-6ca8a9fbd3b2"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 300 O﻿lympic-ro, Songpa-gu,",
+      "title": "TWICE 9th Anniversary POP-UP"
+    }
+  }
+}

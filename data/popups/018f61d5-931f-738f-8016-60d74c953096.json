@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "35, Centum nam-daero, Haeundae-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-06-06",
+    "start": "2024-05-24"
+  },
+  "geo": {
+    "lat": 35.168971291296,
+    "lon": 129.1296
+  },
+  "id": "018f61d5-931f-738f-8016-60d74c953096",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7b265a0c-8608-41a6-90af-5cec9a3105c3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7b265a0c-8608-41a6-90af-5cec9a3105c3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6amw8mSN_s/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:56.746523"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f61d5-931f-738f-8016-60d74c953096"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 35, Centum nam-daero, Haeundae-gu,",
+      "title": "Stray Kids x SKZOO POP-UP & CAFE"
+    }
+  }
+}

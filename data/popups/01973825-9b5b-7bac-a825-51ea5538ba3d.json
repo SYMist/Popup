@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "29, Ttukseom-ro 17-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-29",
+    "start": "2025-06-20"
+  },
+  "geo": {
+    "lat": 37.540139,
+    "lon": 127.060335
+  },
+  "id": "01973825-9b5b-7bac-a825-51ea5538ba3d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6fd54caa-1296-4b90-ace6-e110a0dd5c22.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6fd54caa-1296-4b90-ace6-e110a0dd5c22.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/arms_torong.ok/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:21.185910"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973825-9b5b-7bac-a825-51ea5538ba3d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 29, Ttukseom-ro 17-gil, Seongdong-gu, ",
+      "title": "BiongBiong地球游戏厅快闪店"
+    }
+  }
+}

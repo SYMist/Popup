@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "162, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-12",
+    "start": "2024-08-02"
+  },
+  "geo": {
+    "lat": 37.556451269238,
+    "lon": 126.9238
+  },
+  "id": "019144ee-1425-7eac-8d25-95158b6e9045",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ece6e837-060a-4322-882c-fe4d4d506199.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ece6e837-060a-4322-882c-fe4d4d506199.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-Y8Qd1IviW/?img_index=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:46.802431"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019144ee-1425-7eac-8d25-95158b6e9045"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 162, Yanghwa-ro, Mapo-gu,",
+      "title": "Gosimperson POP-UP"
+    }
+  }
+}

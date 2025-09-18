@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "20, Gucheonmyeon-ro, Gwangjin-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-04",
+    "start": "2025-01-04"
+  },
+  "geo": {
+    "lat": 37.54577282260938,
+    "lon": 127.10788122453687
+  },
+  "id": "01937010-f159-7729-a1c4-86e874eaf5bf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e186fcbf-969b-4711-ad35-99e9a210024c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e186fcbf-969b-4711-ad35-99e9a210024c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/officialtwt_OSW/status/1860699898879918314",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:39.116802"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01937010-f159-7729-a1c4-86e874eaf5bf"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 20, Gucheonmyeon-ro, Gwangjin-gu,",
+      "title": "邕圣佑 “COMEONG”见面会"
+    }
+  }
+}

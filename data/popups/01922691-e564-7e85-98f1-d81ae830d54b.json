@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeouido-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.52606944837708,
+    "lon": 126.92794024658814
+  },
+  "id": "01922691-e564-7e85-98f1-d81ae830d54b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/567529ec-5e3b-462b-9049-f22edf1584a3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/567529ec-5e3b-462b-9049-f22edf1584a3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002409347703&category=event&page=1&branchCd=B00140000",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:07.984722"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922691-e564-7e85-98f1-d81ae830d54b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu, ",
+      "title": "Musical <Aladdin> POP-UP"
+    }
+  }
+}

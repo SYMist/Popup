@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-25",
+    "start": "2024-11-15"
+  },
+  "geo": {
+    "lat": 37.51362635140315,
+    "lon": 127.10411386011887
+  },
+  "id": "0192f9c7-2503-7f60-9126-8898a1848b34",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3718fe74-8642-4fc6-8e8c-fdacbd902982.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3718fe74-8642-4fc6-8e8c-fdacbd902982.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DByF_RKy3ZK/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:33.075720"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192f9c7-2503-7f60-9126-8898a1848b34"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "Red Velvet X Knotted POP-UP"
+    }
+  }
+}

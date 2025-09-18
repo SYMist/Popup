@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "32, Wausan-ro 29-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-02"
+  },
+  "geo": {
+    "lat": 37.5554057,
+    "lon": 126.9283249
+  },
+  "id": "01922c1c-74af-7698-a830-2ebdeb7369f9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8d3afceb-4b4b-4e54-9dd9-b2eb731b6940.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8d3afceb-4b4b-4e54-9dd9-b2eb731b6940.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/dda_dduu1004",
+      "label": "Poppy's Three Cushions"
+    },
+    {
+      "href": "https://x.com/u_yjh1004",
+      "label": "Dear, My Happiness"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:08.934591"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922c1c-74af-7698-a830-2ebdeb7369f9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 32, Wausan-ro 29-gil, Mapo-gu,",
+      "title": "SEVENTEEN Jeonghan Birthday Cafe🎂"
+    }
+  }
+}

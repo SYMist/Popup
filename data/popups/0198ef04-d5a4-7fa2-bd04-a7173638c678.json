@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14, Bukchon-ro 5-gil, Jongno-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-11-02",
+    "start": "2025-09-04"
+  },
+  "geo": {
+    "lat": 37.579544,
+    "lon": 126.98417
+  },
+  "id": "0198ef04-d5a4-7fa2-bd04-a7173638c678",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/aa999052-29ec-48ed-aced-542cbdc45a68.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/aa999052-29ec-48ed-aced-542cbdc45a68.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNzMcxd5qlc/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:43.069702"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef04-d5a4-7fa2-bd04-a7173638c678"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 14, Bukchon-ro 5-gil, Jongno-gu,",
+      "title": "KANU 咖啡胶囊旗舰店"
+    }
+  }
+}

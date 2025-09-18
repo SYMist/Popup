@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "5, Wangsimni-ro 4-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-10-26",
+    "start": "2025-10-25"
+  },
+  "geo": {
+    "lat": 37.54594,
+    "lon": 127.0456
+  },
+  "id": "01983500-5fdf-759c-8075-8cff779a4ee2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e5d39610-2076-4bba-8050-560010e233e6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e5d39610-2076-4bba-8050-560010e233e6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLWiN8Ap9ry/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:53.622561"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01983500-5fdf-759c-8075-8cff779a4ee2"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 5, Wangsimni-ro 4-gil, Seongdong-gu,",
+      "title": "第 14 届首尔唱片展"
+    }
+  }
+}

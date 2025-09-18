@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "37, Samcheong-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-08-20"
+  },
+  "geo": {
+    "lat": 37.58160402163145,
+    "lon": 126.97895435186766
+  },
+  "id": "01919b50-528c-7f56-9e47-17343e67bdf1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/93d62f5e-2cf0-4087-830b-55165b980a7a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/93d62f5e-2cf0-4087-830b-55165b980a7a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.nfm.go.kr/user/planexhibition/home/20/selectPlanExhibitionNView.do?planExhibitionIdx=1431&page=1#",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:00.269170"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01919b50-528c-7f56-9e47-17343e67bdf1"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 37, Samcheong-ro, Jongno-gu,",
+      "title": "Today's Coffee"
+    }
+  }
+}

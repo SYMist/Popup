@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seou﻿l",
+    "street": "281 Eulji-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-08-10",
+    "start": "2025-07-31"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "019834ee-b699-77a8-8cd5-bb786639ea0b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8a83ce97-15c9-4939-8679-84e0a43be7ec.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8a83ce97-15c9-4939-8679-84e0a43be7ec.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/reel/DMNGoKOSlz0/?igsh=b3hqdXA2NG1qMWx1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:52.803911"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019834ee-b699-77a8-8cd5-bb786639ea0b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "首尔之光 DDP 2025 夏季"
+    }
+  }
+}

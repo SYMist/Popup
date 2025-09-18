@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 807, Seolleung-ro, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-09",
+    "start": "2024-07-13"
+  },
+  "geo": {
+    "lat": 37.52427369999999,
+    "lon": 127.0390543
+  },
+  "id": "01920cdc-19c3-7249-8b45-2af8ca6c7478",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c35db619-9fb0-4d55-85f6-bac62fba9998.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c35db619-9fb0-4d55-85f6-bac62fba9998.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tickets.interpark.com/goods/24010413",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:15.148988"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01920cdc-19c3-7249-8b45-2af8ca6c7478"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "title": "<Holiday in Paris> 展览"
+    }
+  }
+}

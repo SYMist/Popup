@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "152-6, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-08",
+    "start": "2024-07-19"
+  },
+  "geo": {
+    "lat": 37.55570126923,
+    "lon": 126.923
+  },
+  "id": "0190decc-fbd3-7ef3-9870-97525492e957",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8ee235e1-ca30-4879-a91f-2874055820fa.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8ee235e1-ca30-4879-a91f-2874055820fa.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C9l8FxbyF1Y/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:23.573020"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190decc-fbd3-7ef3-9870-97525492e957"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 152-6, Yanghwa-ro, Mapo-gu,",
+      "title": "FOLDER X PETTY DUST POP-UP"
+    }
+  }
+}

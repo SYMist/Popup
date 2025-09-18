@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Eonju-ro 174-gil, Gangnam-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-14",
+    "start": "2025-01-24"
+  },
+  "geo": {
+    "lat": 37.527866,
+    "lon": 127.036259
+  },
+  "id": "0194811b-8505-7ac0-9c99-d48ebad26e45",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a2e4791a-6e44-4e5a-89f7-df85d9f4df0a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a2e4791a-6e44-4e5a-89f7-df85d9f4df0a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/emptybasement",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:48.023121"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194811b-8505-7ac0-9c99-d48ebad26e45"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30, Eonju-ro 174-gil, Gangnam-gu, ",
+      "priceDesc": "null",
+      "title": "您的幸运风格指南：MUSINSA EMPTY"
+    }
+  }
+}

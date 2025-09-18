@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "20, Gurak-ro 123beon-gil, Suyeong-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-06-16",
+    "start": "2023-12-08"
+  },
+  "geo": {
+    "lat": 35.17715,
+    "lon": 129.1149
+  },
+  "id": "018e17e7-14a0-72d6-80dd-d45ff4fa916f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c8a24ab2-dd34-4b6e-a8e5-c40b896e0fc1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c8a24ab2-dd34-4b6e-a8e5-c40b896e0fc1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://motorstudio.hyundai.com/busan/ln/main.do?strgCd=04&lang=en",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:11.592781"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e17e7-14a0-72d6-80dd-d45ff4fa916f"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 20, Gurak-ro 123beon-gil, Suyeong-gu, ",
+      "title": "WHERE IS MY FRIEND'S HOME"
+    }
+  }
+}

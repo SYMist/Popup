@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yonsei-ro, Seodaemun-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-10-18"
+  },
+  "geo": {
+    "lat": 37.556686,
+    "lon": 126.936592
+  },
+  "id": "01926a9c-5cdb-7849-b377-95bf949def6a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c03730a3-8ff3-45b8-95f8-7188660d7d91.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c03730a3-8ff3-45b8-95f8-7188660d7d91.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DACuk20PR80/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:39.913752"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926a9c-5cdb-7849-b377-95bf949def6a"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu, ",
+      "title": "SpongeBob Camping Day"
+    }
+  }
+}

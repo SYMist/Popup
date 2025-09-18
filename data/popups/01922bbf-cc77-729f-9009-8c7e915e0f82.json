@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "162, Hangangnanji-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-12"
+  },
+  "geo": {
+    "lat": 37.569744608207884,
+    "lon": 126.87395108734967
+  },
+  "id": "01922bbf-cc77-729f-9009-8c7e915e0f82",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2005bb07-d6f7-45a6-b985-68b6b0105bcc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2005bb07-d6f7-45a6-b985-68b6b0105bcc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24011639",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:31.570442"
+  },
+  "pricing": {
+    "description": "1 day ticket: KRW 99,000, 2 day ticket: KRW 149,000",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922bbf-cc77-729f-9009-8c7e915e0f82"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 162, Hangangnanji-ro, Mapo-gu,",
+      "priceDesc": "1 day ticket: KRW 99,000, 2 day ticket: KRW 149,000",
+      "title": "2024 THE CRY ground"
+    }
+  }
+}

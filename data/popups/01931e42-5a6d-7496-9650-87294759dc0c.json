@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.512146085322115,
+    "lon": 127.09904681349184
+  },
+  "id": "01931e42-5a6d-7496-9650-87294759dc0c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/67547de9-9741-4df8-a186-e812ec6eaaa4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/67547de9-9741-4df8-a186-e812ec6eaaa4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000409901",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:09.784138"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01931e42-5a6d-7496-9650-87294759dc0c"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Lotte Department Jamsil: Christmas Show"
+    }
+  }
+}

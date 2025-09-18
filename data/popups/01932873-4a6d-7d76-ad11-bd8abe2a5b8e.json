@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-23"
+  },
+  "geo": {
+    "lat": 37.51111841499092,
+    "lon": 127.09816757146977
+  },
+  "id": "01932873-4a6d-7d76-ad11-bd8abe2a5b8e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3f52b30a-7379-4126-9bfc-35637aa192e3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3f52b30a-7379-4126-9bfc-35637aa192e3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCQBtxyBDLb/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:17.736089"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01932873-4a6d-7d76-ad11-bd8abe2a5b8e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Snoopy Christmas at Lotte World"
+    }
+  }
+}

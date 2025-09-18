@@ -1,0 +1,48 @@
+{
+  "address": {
+    "street": "1﻿10 Sejong-daero, Jung-gu, Seoul"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-14"
+  },
+  "geo": {
+    "lat": 37.5655675,
+    "lon": 126.978014
+  },
+  "id": "0199376a-8b21-7081-a32c-a4094e87a28a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/265be17a-b26e-4901-b065-9d82a0528fa2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/265be17a-b26e-4901-b065-9d82a0528fa2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOabcykiWta/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:26.277138"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199376a-8b21-7081-a32c-a4094e87a28a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "1﻿10 Sejong-daero, Jung-gu, Seoul",
+      "title": "2025 Seoul Hunters Festival"
+    }
+  }
+}

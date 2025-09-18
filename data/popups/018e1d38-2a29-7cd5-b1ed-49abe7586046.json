@@ -1,0 +1,50 @@
+{
+  "address": {
+    "street": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-03-08"
+  },
+  "geo": {
+    "lat": 35.16098,
+    "lon": 129.1643
+  },
+  "id": "018e1d38-2a29-7cd5-b1ed-49abe7586046",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/eb7cbc98-ee0a-47f0-9f58-322108e44f82.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/eb7cbc98-ee0a-47f0-9f58-322108e44f82.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/getallright.haeundae",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:35.127507"
+  },
+  "pricing": {
+    "description": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018e1d38-2a29-7cd5-b1ed-49abe7586046"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, ",
+      "priceDesc": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
+      "title": "Get All Right ジャズバー"
+    }
+  }
+}

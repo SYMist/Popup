@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10, Yeonnam-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-24",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.5607366844817,
+    "lon": 126.92338413128279
+  },
+  "id": "01931912-8f3a-7e8e-a0fd-d05b886fb91e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2787b17f-08db-411e-9517-c89d73adda51.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2787b17f-08db-411e-9517-c89d73adda51.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/min_1522/status/1849319376010539428",
+      "label": "Hunigiri"
+    },
+    {
+      "href": "https://x.com/1122StarryNight/status/1852689349500133587",
+      "label": "What’s Most Important is Our Now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:38.044372"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01931912-8f3a-7e8e-a0fd-d05b886fb91e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 10, Yeonnam-ro, Mapo-gu,",
+      "title": "『Woozi』 Birthday Café 🎂"
+    }
+  }
+}

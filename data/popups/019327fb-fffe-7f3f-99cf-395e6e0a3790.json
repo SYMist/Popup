@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-24",
+    "start": "2024-11-12"
+  },
+  "geo": {
+    "lat": 37.52605284372434,
+    "lon": 126.928296463789
+  },
+  "id": "019327fb-fffe-7f3f-99cf-395e6e0a3790",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/07e01865-d935-4ae0-9c08-a5f619959452.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/07e01865-d935-4ae0-9c08-a5f619959452.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCLY-VTJ7JY/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:13.101082"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019327fb-fffe-7f3f-99cf-395e6e0a3790"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "Toetmaru X d’strict POP-UP"
+    }
+  }
+}

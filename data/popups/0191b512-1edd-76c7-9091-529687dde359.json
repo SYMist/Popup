@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Sinbanpo-ro 11-gil, Seocho-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-12",
+    "start": "2024-09-06"
+  },
+  "geo": {
+    "lat": 37.50766906900432,
+    "lon": 126.99272974806291
+  },
+  "id": "0191b512-1edd-76c7-9091-529687dde359",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e9ebdd14-1a34-4a29-a8ae-011e9239ca14.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e9ebdd14-1a34-4a29-a8ae-011e9239ca14.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_PvqlAJGwT/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:22.622977"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b512-1edd-76c7-9091-529687dde359"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
+      "title": "Hangang River Night View Tour"
+    }
+  }
+}

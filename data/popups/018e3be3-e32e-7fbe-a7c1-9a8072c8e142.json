@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "46, Iljuseo-ro 2100beon-gil, Andeok-myeon, Seogwipo-si,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-04-14",
+    "start": "2024-03-05"
+  },
+  "geo": {
+    "lat": 33.25486,
+    "lon": 126.295
+  },
+  "id": "018e3be3-e32e-7fbe-a7c1-9a8072c8e142",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e765b62d-fbc6-4598-84a9-4058811eedb1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e765b62d-fbc6-4598-84a9-4058811eedb1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:46.547889"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e3be3-e32e-7fbe-a7c1-9a8072c8e142"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon, Seogwipo-si,",
+      "title": "マノルブラン花の香り祭り"
+    }
+  }
+}

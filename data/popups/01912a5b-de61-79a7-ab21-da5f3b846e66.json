@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "618, Maesohol-ro, Michuhol-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-07",
+    "start": "2024-09-07"
+  },
+  "geo": {
+    "lat": 37.43480296779436,
+    "lon": 126.69071596508789
+  },
+  "id": "01912a5b-de61-79a7-ab21-da5f3b846e66",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/882f7f72-6ead-4108-b8cd-4d6367763300.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/882f7f72-6ead-4108-b8cd-4d6367763300.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/products/ae0fcca5-6b9c-4729-8002-369df4dd1c9a",
+      "label": "Book Now"
+    },
+    {
+      "href": "https://inkconcert.com/en/",
+      "label": "Go to website"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:40.148785"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01912a5b-de61-79a7-ab21-da5f3b846e66"
+  },
+  "translations": {
+    "en": {
+      "address": "Incheon, 618, Maesohol-ro, Michuhol-gu,",
+      "title": "2024 INK K-POP Concert 🎉"
+    }
+  }
+}

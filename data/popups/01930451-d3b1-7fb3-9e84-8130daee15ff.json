@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2024-11-21"
+  },
+  "geo": {
+    "lat": 37.513192340545714,
+    "lon": 127.10309328282072
+  },
+  "id": "01930451-d3b1-7fb3-9e84-8130daee15ff",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ed6696b5-af80-4b1b-87b6-aada219128b1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ed6696b5-af80-4b1b-87b6-aada219128b1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://enews.chanel.com/2024icerink_public",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:05.122775"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01930451-d3b1-7fb3-9e84-8130daee15ff"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "CHANEL 香奈儿冬季假期溜冰场⛸️"
+    }
+  }
+}

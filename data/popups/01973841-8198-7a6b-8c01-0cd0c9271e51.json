@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Seongsui-ro 7-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-10-30",
+    "start": "2025-05-30"
+  },
+  "geo": {
+    "lat": 37.541605,
+    "lon": 127.054309
+  },
+  "id": "01973841-8198-7a6b-8c01-0cd0c9271e51",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/daab4464-a0b6-4cce-b914-b2912e464a80.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/daab4464-a0b6-4cce-b914-b2912e464a80.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.gentlemonster.com/kr/ko/stories/pocket-collection",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:23.169581"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973841-8198-7a6b-8c01-0cd0c9271e51"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 26, Seongsui-ro 7-gil, Seongdong-gu, ",
+      "title": "Gentle Monster X Bratz 合作快闪店"
+    }
+  }
+}

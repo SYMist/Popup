@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "120, Suyeonggangbyeon-daero, Haeundae-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-11",
+    "start": "2024-10-02"
+  },
+  "geo": {
+    "lat": 35.171193,
+    "lon": 129.127203
+  },
+  "id": "0192645d-baaf-7055-b17d-f5cff065cd2b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f533c144-528c-44c7-8fce-cbbe2d2b3a8b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f533c144-528c-44c7-8fce-cbbe2d2b3a8b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.biff.kr/kor/addon/10000001/page.asp?page_num=8140",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:57.608870"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192645d-baaf-7055-b17d-f5cff065cd2b"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
+      "title": "Busan International Film Festival"
+    }
+  }
+}

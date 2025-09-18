@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Yonsei-ro, Seodaemun-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-12-07",
+    "start": "2025-12-06"
+  },
+  "geo": {
+    "lat": 37.56452,
+    "lon": 126.939
+  },
+  "id": "01993cd7-fff5-756e-8048-33ff38ce36e8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0b5b42b7-a6e6-4846-aa34-b05032a8b7fe.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0b5b42b7-a6e6-4846-aa34-b05032a8b7fe.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOfVscNE7hk/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:27.609212"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993cd7-fff5-756e-8048-33ff38ce36e8"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
+      "title": "2025 曹政奭 SHOW: SIDE B 首尔"
+    }
+  }
+}

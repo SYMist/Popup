@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang 11-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-11",
+    "start": "2024-04-12"
+  },
+  "geo": {
+    "lat": 37.54322,
+    "lon": 127.0572
+  },
+  "id": "018ee0f8-d2ce-7869-be28-15a3c4fef649",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/eb567a19-7445-4475-99d0-bfd903956de6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/eb567a19-7445-4475-99d0-bfd903956de6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5ph898icXF/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:35.105485"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ee0f8-d2ce-7869-be28-15a3c4fef649"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Yeonmujang 11-gil, Seongdong-gu, ",
+      "title": "チャパゲティ粉食店"
+    }
+  }
+}

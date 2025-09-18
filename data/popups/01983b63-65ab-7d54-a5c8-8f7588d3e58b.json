@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "141, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-10",
+    "start": "2025-07-30"
+  },
+  "geo": {
+    "lat": 37.55571,
+    "lon": 126.9216
+  },
+  "id": "01983b63-65ab-7d54-a5c8-8f7588d3e58b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f6eb5602-d78b-4573-a62a-d9b803eab5ab.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f6eb5602-d78b-4573-a62a-d9b803eab5ab.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://linefriendssquare.com/blogs/event/whdosvmfpswm?utm_source=owned_SNS_STIG&utm_medium=ZONFRIENDS_ST_IG_GL_Popup&utm_campaign=ZONFRIENDS_1st_POPUP&utm_id=EVENT",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:54.600299"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01983b63-65ab-7d54-a5c8-8f7588d3e58b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
+      "title": "GD 形象角色周边商品快闪店"
+    }
+  }
+}

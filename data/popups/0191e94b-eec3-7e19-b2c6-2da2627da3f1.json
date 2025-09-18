@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "273, Ttukseom-ro, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-09-29",
+    "start": "2024-09-23"
+  },
+  "geo": {
+    "lat": 37.54220580067657,
+    "lon": 127.04195387556307
+  },
+  "id": "0191e94b-eec3-7e19-b2c6-2da2627da3f1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/02e3ead1-a0ca-44bb-8ec2-f0e947a83755.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/02e3ead1-a0ca-44bb-8ec2-f0e947a83755.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.seoulbeautytravel.com/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:55.143477"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e94b-eec3-7e19-b2c6-2da2627da3f1"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
+      "title": "2024 Seoul Beauty Travel Week"
+    }
+  }
+}

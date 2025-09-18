@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-09",
+    "start": "2025-03-28"
+  },
+  "geo": {
+    "lat": 37.526094,
+    "lon": 126.928364
+  },
+  "id": "0195eea6-32a7-7415-82af-49d19a0f25dc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4f9c6a84-22c4-49c2-8ed3-26cf197da6bb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4f9c6a84-22c4-49c2-8ed3-26cf197da6bb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://withmuu.com/board/view.php?bdId=notice&sno=310",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:06.218707"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eea6-32a7-7415-82af-49d19a0f25dc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "KEY在哪里？with HELLO KITTY"
+    }
+  }
+}

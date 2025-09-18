@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-12",
+    "start": "2024-12-04"
+  },
+  "geo": {
+    "lat": 37.52605257782472,
+    "lon": 126.92829612851287
+  },
+  "id": "01932814-c273-79eb-9035-321237cc802f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ff4df993-cead-45ac-b70b-54d48da9f9d2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ff4df993-cead-45ac-b70b-54d48da9f9d2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCN_OUxRCjW/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:14.216372"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01932814-c273-79eb-9035-321237cc802f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "TWICE 'STRATEGY' POP-UP"
+    }
+  }
+}

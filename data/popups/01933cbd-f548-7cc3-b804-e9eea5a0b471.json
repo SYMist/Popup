@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "16, Yeonmujang 7-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-01",
+    "start": "2024-11-20"
+  },
+  "geo": {
+    "lat": 37.543959,
+    "lon": 127.05514
+  },
+  "id": "01933cbd-f548-7cc3-b804-e9eea5a0b471",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/29732b11-685b-49c0-b18c-9a5129ced080.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/29732b11-685b-49c0-b18c-9a5129ced080.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCQp91SB5-J/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:07.789153"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01933cbd-f548-7cc3-b804-e9eea5a0b471"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 16, Yeonmujang 7-gil, Seongdong-gu, ",
+      "title": "Moana 2 Pop-Up"
+    }
+  }
+}

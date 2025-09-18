@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Wausan-ro 35-gil, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-02-17",
+    "start": "2025-01-14"
+  },
+  "geo": {
+    "lat": 37.555677607854314,
+    "lon": 126.92978135276125
+  },
+  "id": "0194813c-cd25-7c83-b0b6-0f9b43fe430d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d3db0958-5f42-442a-aaab-e682d7004757.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d3db0958-5f42-442a-aaab-e682d7004757.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEmbZe2v_dl/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:48.258630"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194813c-cd25-7c83-b0b6-0f9b43fe430d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13, Wausan-ro 35-gil, Mapo-gu, ",
+      "priceDesc": "null",
+      "title": "Hozumi Fortune House"
+    }
+  }
+}

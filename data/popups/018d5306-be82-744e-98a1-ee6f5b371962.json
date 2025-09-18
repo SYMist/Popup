@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10, Toegye-ro 36-gil, Jung-gu"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-03-10",
+    "start": "2023-12-12"
+  },
+  "geo": {
+    "lat": 37.56020303111392,
+    "lon": 126.99471926441801
+  },
+  "id": "018d5306-be82-744e-98a1-ee6f5b371962",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/41a58866-f4f4-4313-a946-d56e0b6968df.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/41a58866-f4f4-4313-a946-d56e0b6968df.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.chf.or.kr/combine/content/list/913",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:30.190115"
+  },
+  "pricing": {
+    "description": "1人用 茶菓セット25,000ウォン / 単品メニュー 12,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018d5306-be82-744e-98a1-ee6f5b371962"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 10, Toegye-ro 36-gil, Jung-gu",
+      "priceDesc": "1人用 茶菓セット25,000ウォン / 単品メニュー 12,000ウォン",
+      "title": "コリアハウス 《古好齋》"
+    }
+  }
+}

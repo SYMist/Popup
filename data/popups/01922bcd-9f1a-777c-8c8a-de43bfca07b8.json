@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 11, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-09-24"
+  },
+  "geo": {
+    "lat": 37.543922,
+    "lon": 127.050936
+  },
+  "id": "01922bcd-9f1a-777c-8c8a-de43bfca07b8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bb274a28-4441-4693-a161-785af09ffcc9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bb274a28-4441-4693-a161-785af09ffcc9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAVC8pXTbRw/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:24.132861"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922bcd-9f1a-777c-8c8a-de43bfca07b8"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  11, Yeonmujang-gil, Seongdong-gu,",
+      "title": "IOPE ‘Find My Retinol’ POP-UP"
+    }
+  }
+}

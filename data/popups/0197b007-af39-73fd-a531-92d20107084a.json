@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "136-24 Eoulmadang-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-07-05"
+  },
+  "geo": {
+    "lat": 37.55574,
+    "lon": 126.9256
+  },
+  "id": "0197b007-af39-73fd-a531-92d20107084a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ea20bd87-2f14-49f6-b5f2-31bf4bbe0e46.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ea20bd87-2f14-49f6-b5f2-31bf4bbe0e46.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Planet_ZB1_",
+      "label": "PLANET ZB1"
+    },
+    {
+      "href": "https://x.com/ZEBAONE_HBD",
+      "label": "外星人入侵我们学校！！"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:31.596344"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197b007-af39-73fd-a531-92d20107084a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 136-24 Eoulmadang-ro, Mapo-gu,",
+      "title": "“ZEROBASEONE” 出道咖啡厅🎂"
+    }
+  }
+}

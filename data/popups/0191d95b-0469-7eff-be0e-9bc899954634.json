@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-﻿gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-30",
+    "start": "2024-09-01"
+  },
+  "geo": {
+    "lat": 37.50070970622635,
+    "lon": 127.02591926997529
+  },
+  "id": "0191d95b-0469-7eff-be0e-9bc899954634",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/929113e3-7719-40f0-b41e-b758d62e0f67.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/929113e3-7719-40f0-b41e-b758d62e0f67.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/reel/C_mm_2Rp0Xl/?igsh=MWlkMWExcGJoc3Rucw%3D%3D",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:43.589635"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d95b-0469-7eff-be0e-9bc899954634"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-﻿gu,",
+      "title": "Skinfood Pop-Up Store"
+    }
+  }
+}

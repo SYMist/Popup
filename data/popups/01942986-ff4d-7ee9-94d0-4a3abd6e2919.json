@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-02-23",
+    "start": "2025-01-01"
+  },
+  "geo": {
+    "lat": 37.51111868094373,
+    "lon": 127.09816723619365
+  },
+  "id": "01942986-ff4d-7ee9-94d0-4a3abd6e2919",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/94db9f9a-b342-473e-bc9d-8dffa4f23a24.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/94db9f9a-b342-473e-bc9d-8dffa4f23a24.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEGzB2evs6a/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:38.698991"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942986-ff4d-7ee9-94d0-4a3abd6e2919"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "priceDesc": "null",
+      "title": "Maru的幸运新年"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "78, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-08-18",
+    "start": "2024-07-26"
+  },
+  "geo": {
+    "lat": 37.545241270526,
+    "lon": 127.0526
+  },
+  "id": "01912180-1526-78bf-9011-bf6c3e0f9a50",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/86d5b1ab-bed6-4dde-8151-299b901988c3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/86d5b1ab-bed6-4dde-8151-299b901988c3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C9_8kUihyRO/?img_index=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:39.581181"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01912180-1526-78bf-9011-bf6c3e0f9a50"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 78, Achasan-ro, Seongdong-gu,",
+      "title": "29cm SUMMER OUTLET"
+    }
+  }
+}

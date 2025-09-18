@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "4, Yeonmujang 17-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-07-07",
+    "start": "2024-06-28"
+  },
+  "geo": {
+    "lat": 37.540971270611,
+    "lon": 127.0611
+  },
+  "id": "019069f3-7731-71f0-927b-3d2b369fed17",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0ec2adff-0344-4ca8-8eee-3da9a4ed35f6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0ec2adff-0344-4ca8-8eee-3da9a4ed35f6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C8wNRM-P5_e/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:14.109872"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/019069f3-7731-71f0-927b-3d2b369fed17"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 4, Yeonmujang 17-gil, Seongdong-gu,",
+      "title": "NIKON 写真展"
+    }
+  }
+}

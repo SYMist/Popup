@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "38-1, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-08",
+    "start": "2024-11-19"
+  },
+  "geo": {
+    "lat": 37.54283829064739,
+    "lon": 127.053594
+  },
+  "id": "01936138-2ec0-7e57-8802-80eed3391aff",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5636f05f-4840-4b97-ac78-aca2b2699284.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5636f05f-4840-4b97-ac78-aca2b2699284.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCk8bkZP5pN/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:27.874864"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936138-2ec0-7e57-8802-80eed3391aff"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 38-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "约翰尼沃克X韩剧《鱿鱼游戏》🦑"
+    }
+  }
+}

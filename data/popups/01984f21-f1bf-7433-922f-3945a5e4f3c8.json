@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "51-9 Wausan-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-04",
+    "start": "2024-08-02"
+  },
+  "geo": {
+    "lat": 37.549249,
+    "lon": 126.922567
+  },
+  "id": "01984f21-f1bf-7433-922f-3945a5e4f3c8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df5e30fc-9861-4ed0-ba94-b05dbb54c6dd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df5e30fc-9861-4ed0-ba94-b05dbb54c6dd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/cherish_804/status/1945439300772044921?s=46",
+      "label": "𝗖𝗛𝗘𝗥𝗜𝗦𝗛 🅗🅘🅡🅞🅢🅔"
+    },
+    {
+      "href": "https://x.com/hiroseburger/status/1945834951146131807",
+      "label": "广濑的班长选举"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:41.668430"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f21-f1bf-7433-922f-3945a5e4f3c8"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 51-9 Wausan-ro, Mapo-gu, ",
+      "title": "“RYO” 生日咖啡厅 🎂"
+    }
+  }
+}

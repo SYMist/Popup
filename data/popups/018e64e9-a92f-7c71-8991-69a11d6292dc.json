@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "32-14, Seoulsup 2-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-04-12",
+    "start": "2024-03-20"
+  },
+  "geo": {
+    "lat": 37.54559,
+    "lon": 127.0427
+  },
+  "id": "018e64e9-a92f-7c71-8991-69a11d6292dc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e00bcdc0-0bf5-4590-b3d1-8502d7f52796.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e00bcdc0-0bf5-4590-b3d1-8502d7f52796.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/product/24002219?lang=ja",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:20.764396"
+  },
+  "pricing": {
+    "description": "35,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e64e9-a92f-7c71-8991-69a11d6292dc"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 32-14, Seoulsup 2-gil, Seongdong-gu,",
+      "priceDesc": "35,000ウォン",
+      "title": "Seventeen 展示会 「FOLLOW FELLOW」"
+    }
+  }
+}

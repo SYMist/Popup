@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-14",
+    "start": "2024-08-01"
+  },
+  "geo": {
+    "lat": 37.513121271034,
+    "lon": 127.1034
+  },
+  "id": "019120cf-fd77-7a22-9d17-45ed892550eb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/21689a7a-f9ae-4c59-b407-a1cbdcd9faea.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/21689a7a-f9ae-4c59-b407-a1cbdcd9faea.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C9uFRPmPFhT/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:37.543532"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/019120cf-fd77-7a22-9d17-45ed892550eb"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "BETTY BOOP POP-UP"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Sinbanpo-ro 11-gil, Seocho-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-08-11",
+    "start": "2024-08-10"
+  },
+  "geo": {
+    "lat": 37.51063126996,
+    "lon": 126.996
+  },
+  "id": "0190eca6-a772-757d-b44f-7df10b97bf43",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/036619cb-9c30-498a-bb95-9fa18224e561.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/036619cb-9c30-498a-bb95-9fa18224e561.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://hangang.seoul.go.kr/www/eventMng/detail.do?srchType=list&mid=538&evntSn=214",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:20.279526"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0190eca6-a772-757d-b44f-7df10b97bf43"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
+      "title": "Hangang River Moonlight Circus"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1F, 433, Ttukseom-ro, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-09-06"
+  },
+  "geo": {
+    "lat": 37.53832,
+    "lon": 127.0587
+  },
+  "id": "01992766-03f6-7af9-84a2-08a853d33b07",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9973c414-4836-4982-843c-3bede2cd42be.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9973c414-4836-4982-843c-3bede2cd42be.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/hausnowhere/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:21.740767"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01992766-03f6-7af9-84a2-08a853d33b07"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 1F, 433, Ttukseom-ro, Seongdong-gu,",
+      "title": "HAUS NOWHERE SEOUL 开业"
+    }
+  }
+}

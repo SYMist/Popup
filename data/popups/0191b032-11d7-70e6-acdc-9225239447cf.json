@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 2085-14, Olympic-daero, Seocho-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-27",
+    "start": "2024-09-01"
+  },
+  "geo": {
+    "lat": 37.512491006507936,
+    "lon": 126.9977439756714
+  },
+  "id": "0191b032-11d7-70e6-acdc-9225239447cf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bc7846bb-bc01-4728-8680-bb49f1c5e81d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bc7846bb-bc01-4728-8680-bb49f1c5e81d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": " https://www.festa-ddooddoo.com/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:14.575519"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b032-11d7-70e6-acdc-9225239447cf"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  2085-14, Olympic-daero, Seocho-gu,",
+      "title": "Car-Free Bridge Ttubuk Ttubuk Festival"
+    }
+  }
+}

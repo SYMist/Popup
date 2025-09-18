@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "17, Seongsui-ro 7ga-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-29",
+    "start": "2025-06-30"
+  },
+  "geo": {
+    "lat": 37.54196,
+    "lon": 127.0553
+  },
+  "id": "0197e2d9-f1ff-712c-a3d8-0ebcc6c7170b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bfa8fefe-3a6a-4841-8909-a148267d9420.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bfa8fefe-3a6a-4841-8909-a148267d9420.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLg1-_4PkUY/",
+      "label": "查看详细"
+    },
+    {
+      "href": "https://map.naver.com/p/entry/place/1034457252?placePath=/ticket?entry=plt&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071154&locale=ko&svcName=map_pcv5&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071153&locale=ko&svcName=map_pcv5&searchType=place&lng=127.0553011&lat=37.5418318&c=15.00,0,0,0,dh",
+      "label": "预约主页"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:45.458222"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2d9-f1ff-712c-a3d8-0ebcc6c7170b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu,",
+      "title": "Torriwave Club OPEN 🌊"
+    }
+  }
+}

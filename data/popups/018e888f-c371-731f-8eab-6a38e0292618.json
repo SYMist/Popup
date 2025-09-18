@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1F, 300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-04-14",
+    "start": "2024-04-03"
+  },
+  "geo": {
+    "lat": 37.51363,
+    "lon": 127.1041
+  },
+  "id": "018e888f-c371-731f-8eab-6a38e0292618",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c3ca88b3-c86c-4561-8bd1-78196093330e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c3ca88b3-c86c-4561-8bd1-78196093330e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:58.729956"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e888f-c371-731f-8eab-6a38e0292618"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1F, 300, Olympic-ro, Songpa-gu,",
+      "title": "TOMORROW X TOGETHER POP-UP"
+    }
+  }
+}

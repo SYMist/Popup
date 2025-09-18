@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13-3, Wausan-ro 29na-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-03",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.554578,
+    "lon": 126.928229
+  },
+  "id": "0192d629-18da-79f0-b8bc-8bbdaeaa6926",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4bb2f2e4-778f-4bb8-8c3a-e158ef84e923.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4bb2f2e4-778f-4bb8-8c3a-e158ef84e923.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/MX_event_cafe/status/1845345193626829026",
+      "label": "Time Spent Loving Minhyuk"
+    },
+    {
+      "href": "https://x.com/SHEPHERD1103/status/1834569820227912009",
+      "label": "AEONIAN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:42.146199"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192d629-18da-79f0-b8bc-8bbdaeaa6926"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 13-3, Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "『Minhyuk』 Birthday Cafe🎂"
+    }
+  }
+}

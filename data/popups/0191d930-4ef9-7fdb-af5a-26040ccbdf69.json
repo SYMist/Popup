@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-06-22",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.51070769999999,
+    "lon": 127.0998494
+  },
+  "id": "0191d930-4ef9-7fdb-af5a-26040ccbdf69",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ee60ceec-9fe0-450e-ba4a-ea97917d0243.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ee60ceec-9fe0-450e-ba4a-ea97917d0243.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24012498",
+      "label": "现在购买"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:56.720444"
+  },
+  "pricing": {
+    "description": "A组：90000韩元、S组：130000韩元、R组：160000韩元、VIP组：190000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191d930-4ef9-7fdb-af5a-26040ccbdf69"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "priceDesc": "A组：90000韩元、S组：130000韩元、R组：160000韩元、VIP组：190000韩元",
+      "title": "迪士尼音乐剧《阿拉丁》在韩国"
+    }
+  }
+}

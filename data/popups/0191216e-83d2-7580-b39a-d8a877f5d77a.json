@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "81, Namdaemun-ro, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-15",
+    "start": "2024-08-02"
+  },
+  "geo": {
+    "lat": 37.564711269817,
+    "lon": 126.9817
+  },
+  "id": "0191216e-83d2-7580-b39a-d8a877f5d77a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e86e0302-6cd4-4386-893f-831b0c8b3cbd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e86e0302-6cd4-4386-893f-831b0c8b3cbd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C96C1M7iVvB/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:41.641350"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191216e-83d2-7580-b39a-d8a877f5d77a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 81, Namdaemun-ro, Jung-gu,",
+      "title": "LALA BAKERY POP-UP"
+    }
+  }
+}

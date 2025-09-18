@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-08",
+    "start": "2024-05-10"
+  },
+  "geo": {
+    "lat": 37.513651271041,
+    "lon": 127.1041
+  },
+  "id": "018f99ec-abcc-7ca9-8703-4384e1574829",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c065d24e-9c19-4466-ad11-c4356ca67d6c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c065d24e-9c19-4466-ad11-c4356ca67d6c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C61Ae3Yt83K/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:46.363188"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f99ec-abcc-7ca9-8703-4384e1574829"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "SHOP CIDER POP-UP"
+    }
+  }
+}

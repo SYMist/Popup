@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "241, Dongho-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-28",
+    "start": "2025-09-26"
+  },
+  "geo": {
+    "lat": 37.5581571,
+    "lon": 127.0068191
+  },
+  "id": "019873ca-80db-7cd6-a969-d38c072348dc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4533634a-6fb1-4ee3-bfeb-2c396f69b186.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4533634a-6fb1-4ee3-bfeb-2c396f69b186.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/exo/notice/28900",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:05.760881"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019873ca-80db-7cd6-a969-d38c072348dc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
+      "title": "2025 KAI 个人演唱会巡演"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-03-25",
+    "start": "2024-03-12"
+  },
+  "geo": {
+    "lat": 37.50476,
+    "lon": 127.0044
+  },
+  "id": "018e5b08-7693-7f45-b68f-1cdd57e8d549",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5f6395ea-7cf0-47cc-a306-cb3c12a45595.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5f6395ea-7cf0-47cc-a306-cb3c12a45595.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:17.812459"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e5b08-7693-7f45-b68f-1cdd57e8d549"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu, ",
+      "title": "Seventeen POP-UP"
+    }
+  }
+}

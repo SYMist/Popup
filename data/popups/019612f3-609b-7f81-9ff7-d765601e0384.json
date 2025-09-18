@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Hanam-si,",
+    "street": "750, Misadaero,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-17",
+    "start": "2025-04-04"
+  },
+  "geo": {
+    "lat": 37.5454598,
+    "lon": 127.2238518
+  },
+  "id": "019612f3-609b-7f81-9ff7-d765601e0384",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8d970b5d-8bc4-4bb3-8b5a-e8af5c36e8db.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8d970b5d-8bc4-4bb3-8b5a-e8af5c36e8db.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/likalika.life/p/DIAg3TjzY13/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:54.584759"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019612f3-609b-7f81-9ff7-d765601e0384"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Hanam-si,, 750, Misadaero,",
+      "title": "likalika 快闪店 in Starfield 河南"
+    }
+  }
+}

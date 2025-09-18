@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "B2, 108, Yeoui-daero, Yeongdeungpo-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-09",
+    "start": "2025-06-26"
+  },
+  "geo": {
+    "lat": 37.52603,
+    "lon": 126.928279
+  },
+  "id": "0197bebf-809e-7c10-b4b8-0f2ab5dfa405",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/dc64cf3c-0dde-43ea-bf10-3e7778cf5119.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/dc64cf3c-0dde-43ea-bf10-3e7778cf5119.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://guesskorea.com/board/event/read.html?no=76900&board_no=8&category_no=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:35.347743"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "GUESS X NMIXX 期间限定店"
+    }
+  }
+}

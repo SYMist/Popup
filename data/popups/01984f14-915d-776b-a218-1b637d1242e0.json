@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7-8 Wausan-ro 29ma-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-25",
+    "start": "2025-08-22"
+  },
+  "geo": {
+    "lat": 37.555356,
+    "lon": 126.926921
+  },
+  "id": "01984f14-915d-776b-a218-1b637d1242e0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4ef53d1a-6621-4675-99fb-84df7f15c165.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4ef53d1a-6621-4675-99fb-84df7f15c165.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/day6_bdevent/status/1947857102694977926?s=46",
+      "label": "DAY6 公司"
+    },
+    {
+      "href": "https://x.com/DDD_Festival/status/1947265647655657891",
+      "label": "𝘿.𝘿.𝘿 𝙁𝙀𝙎𝙏𝙄𝙑𝘼𝙇"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:41.495523"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f14-915d-776b-a218-1b637d1242e0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "“度云” 生日咖啡厅🎂"
+    }
+  }
+}

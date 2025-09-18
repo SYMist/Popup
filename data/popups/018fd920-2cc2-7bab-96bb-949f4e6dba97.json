@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "120, Suyeonggangbyeon-daero, Haeundae-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-06-30",
+    "start": "2024-06-28"
+  },
+  "geo": {
+    "lat": 35.171191291272,
+    "lon": 129.1272
+  },
+  "id": "018fd920-2cc2-7bab-96bb-949f4e6dba97",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/823723e7-64b0-4fc5-aca8-ebd5d1d3a9b9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/823723e7-64b0-4fc5-aca8-ebd5d1d3a9b9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6gHzNIrVK4/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:12.639618"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018fd920-2cc2-7bab-96bb-949f4e6dba97"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
+      "title": "BUSAN FOOD FILM FESTA"
+    }
+  }
+}

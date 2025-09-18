@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Myeongdong-gil, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-08-23"
+  },
+  "geo": {
+    "lat": 37.563865,
+    "lon": 126.98295
+  },
+  "id": "0191e386-d210-7d48-983b-2911fa582c9d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cd7572b2-1ce2-4a2f-bd8f-ae049e369b64.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cd7572b2-1ce2-4a2f-bd8f-ae049e369b64.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_PX8MPxaf1/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:45.064557"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e386-d210-7d48-983b-2911fa582c9d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
+      "title": "ソメク屋台"
+    }
+  }
+}

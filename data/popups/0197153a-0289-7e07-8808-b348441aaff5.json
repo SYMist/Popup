@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu, Seoul"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-30",
+    "start": "2025-05-27"
+  },
+  "geo": {
+    "lat": 37.51620576243357,
+    "lon": 127.13007586011886
+  },
+  "id": "0197153a-0289-7e07-8808-b348441aaff5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4d015003-0088-4815-8da3-cbab0fbb62f8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4d015003-0088-4815-8da3-cbab0fbb62f8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKGsojCPWII/?img_index=3",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:20.640876"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197153a-0289-7e07-8808-b348441aaff5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu, Seoul",
+      "title": "G-Dragon PEACEMINUSONE 高球快闪店"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "91, Hannam-daero, Yongsan-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-05-30"
+  },
+  "geo": {
+    "lat": 37.53642,
+    "lon": 127.0034
+  },
+  "id": "01971f7a-1f11-70ef-8839-ff4b1eefd145",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6d348b6c-ec1b-4ffa-8710-da3b76875609.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6d348b6c-ec1b-4ffa-8710-da3b76875609.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKOGANTyXZa/?igsh=MW03enFodDZkMGtwMQ%3D%3D&img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:53.742961"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f7a-1f11-70ef-8839-ff4b1eefd145"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 91, Hannam-daero, Yongsan-gu, ",
+      "title": "茑屋书店生活方式快闪店"
+    }
+  }
+}

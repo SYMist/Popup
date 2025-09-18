@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang 11-gil, Seongdong-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-03-24",
+    "start": "2024-03-09"
+  },
+  "geo": {
+    "lat": 37.54322,
+    "lon": 127.0572
+  },
+  "id": "018e3aa7-f60d-70eb-8aaf-87933ff80303",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f7c79099-35df-4e67-80b3-bd1027ece063.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f7c79099-35df-4e67-80b3-bd1027ece063.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C4K6ZY3PzqB/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:44.090932"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e3aa7-f60d-70eb-8aaf-87933ff80303"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Yeonmujang 11-gil, Seongdong-gu, ",
+      "title": "SHINee Key POP-UP"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-01-01",
+    "start": "2024-11-15"
+  },
+  "geo": {
+    "lat": 37.43702620810126,
+    "lon": 126.45591995920135
+  },
+  "id": "01936612-7c68-76e0-be5f-84108487b5ce",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b92604ca-0532-45e0-b526-40fde7d9db88.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b92604ca-0532-45e0-b526-40fde7d9db88.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.p-city.com/front/event/eventView?P_SEQ=12171&ty=MAIN&P_CTNT_TY=imageTy",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:26.667816"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936612-7c68-76e0-be5f-84108487b5ce"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
+      "title": "CHRISTMAS MARKET IN PLAZA"
+    }
+  }
+}

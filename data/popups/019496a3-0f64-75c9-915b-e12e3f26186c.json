@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "279, Cheonggyecheon-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-14",
+    "start": "2025-01-24"
+  },
+  "geo": {
+    "lat": 37.57041125829305,
+    "lon": 127.00878158312653
+  },
+  "id": "019496a3-0f64-75c9-915b-e12e3f26186c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4ff79f46-d110-48eb-8bba-d17365b9ade9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4ff79f46-d110-48eb-8bba-d17365b9ade9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://thelounge.jwmarriottdongdaemun.com/specials",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:51.241898"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019496a3-0f64-75c9-915b-e12e3f26186c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 279, Cheonggyecheon-ro, Jongno-gu,",
+      "priceDesc": "null",
+      "title": "首尔东大门广场JW万豪酒店草莓自助餐"
+    }
+  }
+}

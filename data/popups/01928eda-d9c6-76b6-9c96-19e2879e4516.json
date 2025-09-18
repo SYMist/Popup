@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "53, Wausan-ro 35-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-24",
+    "start": "2024-10-19"
+  },
+  "geo": {
+    "lat": 37.556446055594364,
+    "lon": 126.92793747966192
+  },
+  "id": "01928eda-d9c6-76b6-9c96-19e2879e4516",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1be8c09f-4e84-4adc-833c-0e7e6182dd01.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1be8c09f-4e84-4adc-833c-0e7e6182dd01.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/pleasant031022/status/1840200371563835533",
+      "label": "2024 RIWOO DAY"
+    },
+    {
+      "href": "https://x.com/OneAndOnly_Ryu/status/1831505231068455364",
+      "label": "Game Boy"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:33.436477"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928eda-d9c6-76b6-9c96-19e2879e4516"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu,",
+      "title": "『𝗥𝗜𝗪𝗢𝗢』 Birthday Cafe🎂"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "37-55, Yongdusan-gil, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-21",
+    "start": "2024-07-27"
+  },
+  "geo": {
+    "lat": 35.10143,
+    "lon": 129.032378
+  },
+  "id": "0191685b-66bd-7d80-b497-c54278089ced",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a8534566-3243-41e5-a9f0-41755a868236.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a8534566-3243-41e5-a9f0-41755a868236.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/yongdusan_summer/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:14.100200"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191685b-66bd-7d80-b497-c54278089ced"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 37-55, Yongdusan-gil, Jung-gu,",
+      "title": "2024 Yongdusan Summer Beach"
+    }
+  }
+}

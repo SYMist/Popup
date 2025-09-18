@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 30, Yanghwa-ro 16-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.55288602588261,
+    "lon": 126.92111493588783
+  },
+  "id": "019226ad-71c3-75a7-8cf2-04efdf77f3f0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3dff13e6-bfbf-4e80-b89c-7a7caccdd0a7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3dff13e6-bfbf-4e80-b89c-7a7caccdd0a7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/prom_party_with",
+      "label": "Heart-Pounding From Party Operation"
+    },
+    {
+      "href": "https://x.com/eternal_chan_",
+      "label": "ETERNAL CHAN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:11.082908"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019226ad-71c3-75a7-8cf2-04efdf77f3f0"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  30, Yanghwa-ro 16-gil, Mapo-gu,",
+      "title": "『Bang Chan』 Birthday Cafe 🎂"
+    }
+  }
+}

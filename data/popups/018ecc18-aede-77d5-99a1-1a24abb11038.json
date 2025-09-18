@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Myeongdong-gil, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-31",
+    "start": "2024-04-02"
+  },
+  "geo": {
+    "lat": 37.56379,
+    "lon": 126.9832
+  },
+  "id": "018ecc18-aede-77d5-99a1-1a24abb11038",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/944675e4-ea81-4a32-b634-e65444f952a4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/944675e4-ea81-4a32-b634-e65444f952a4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5F56oVBUWR/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:32.641138"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ecc18-aede-77d5-99a1-1a24abb11038"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
+      "title": "「BELLYGOM」 のポップアップストア"
+    }
+  }
+}

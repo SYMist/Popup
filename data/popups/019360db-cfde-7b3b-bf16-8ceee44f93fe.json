@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Yongin-si, ",
+    "street": "199, Everland-ro, Pogok-eup, Cheoin-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-03-03",
+    "start": "2024-12-06"
+  },
+  "geo": {
+    "lat": 37.29391306602671,
+    "lon": 127.20256626533558
+  },
+  "id": "019360db-cfde-7b3b-bf16-8ceee44f93fe",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e2ad4f0f-2674-4bd7-b2e6-628f9400536f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e2ad4f0f-2674-4bd7-b2e6-628f9400536f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://grp.everland.com/pick/2024/wintertopia/index.html",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:04.651678"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
+      "title": "姆明 MOOMIN X 爱宝乐园"
+    }
+  }
+}

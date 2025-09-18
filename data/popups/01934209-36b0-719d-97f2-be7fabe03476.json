@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gonghangmunhwa-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-25",
+    "start": "2024-12-25"
+  },
+  "geo": {
+    "lat": 37.466738952230806,
+    "lon": 126.39053923619365
+  },
+  "id": "01934209-36b0-719d-97f2-be7fabe03476",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/19379b10-c6b2-453e-ad85-d6364c511887.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/19379b10-c6b2-453e-ad85-d6364c511887.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24015157",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:46.016456"
+  },
+  "pricing": {
+    "description": "普通席400,000韩元 / B席440,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934209-36b0-719d-97f2-be7fabe03476"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "普通席400,000韩元 / B席440,000韩元",
+      "title": "2024 SBS 歌谣大战"
+    }
+  }
+}

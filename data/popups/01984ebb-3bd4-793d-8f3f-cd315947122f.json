@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-17",
+    "start": "2025-07-21"
+  },
+  "geo": {
+    "lat": 37.513509,
+    "lon": 127.103348
+  },
+  "id": "01984ebb-3bd4-793d-8f3f-cd315947122f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4a43f031-fc24-4202-9637-59349694cbdc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4a43f031-fc24-4202-9637-59349694cbdc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMZKjTtSCgX/?utm_source=ig_web_copy_link&igsh=MXFtcGMwcmloczJ2dw==",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:58.103930"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984ebb-3bd4-793d-8f3f-cd315947122f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "电影《全知读者视角》快闪店"
+    }
+  }
+}

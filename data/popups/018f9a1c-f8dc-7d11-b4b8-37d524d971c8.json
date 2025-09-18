@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "121, Wangsimni-ro, Seongdong-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-06-09",
+    "start": "2024-05-28"
+  },
+  "geo": {
+    "lat": 37.54830127044,
+    "lon": 127.044
+  },
+  "id": "018f9a1c-f8dc-7d11-b4b8-37d524d971c8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bffd6dba-b8f8-459b-aa20-73db8754735d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bffd6dba-b8f8-459b-aa20-73db8754735d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/aespa_WEEK",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:46.630827"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f9a1c-f8dc-7d11-b4b8-37d524d971c8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 121, Wangsimni-ro, Seongdong-gu, ",
+      "title": "aespa POP-UP"
+    }
+  }
+}

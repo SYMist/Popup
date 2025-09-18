@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "3-3, Wausan-ro 29na-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-28",
+    "start": "2025-04-24"
+  },
+  "geo": {
+    "lat": 37.552166,
+    "lon": 126.923852
+  },
+  "id": "0195d4c8-a61b-7cb3-b0ae-53ead3eb5b10",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7e28d425-0ad8-462a-bff1-4f1e12e3be40.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7e28d425-0ad8-462a-bff1-4f1e12e3be40.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/goingday6HBD/status/1898959195892035981",
+      "label": "元弼的自动点唱机"
+    },
+    {
+      "href": "https://x.com/feelflower428/status/1880556944953659444",
+      "label": "𝐃𝐄𝐀𝐑. 𝐌𝐘 𝐀𝐏𝐑𝐈𝐋"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:50.658802"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d4c8-a61b-7cb3-b0ae-53ead3eb5b10"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 3-3, Wausan-ro 29na-gil, Mapo-gu, ",
+      "title": "\"元弼\" 生日咖啡厅🎂"
+    }
+  }
+}

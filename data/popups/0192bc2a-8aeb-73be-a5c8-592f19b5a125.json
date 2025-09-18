@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "445,  Yangnyeong-ro, Yongsan-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-14",
+    "start": "2024-11-08"
+  },
+  "geo": {
+    "lat": 37.51800846860073,
+    "lon": 126.95773152114867
+  },
+  "id": "0192bc2a-8aeb-73be-a5c8-592f19b5a125",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1963dda1-fc61-40b9-b4bc-f1b0571d7581.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1963dda1-fc61-40b9-b4bc-f1b0571d7581.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tasteofseoul.visitseoul.net/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:25.848750"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 445,  Yangnyeong-ro, Yongsan-gu,",
+      "title": "Taste of Seoul 2024"
+    }
+  }
+}

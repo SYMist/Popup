@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Jeju",
+    "street": "930, Geumbaekjo-ro, Gujwa-eup, Jeju-si,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-03-31",
+    "start": "2023-11-20"
+  },
+  "geo": {
+    "lat": 33.44436726858715,
+    "lon": 126.77838089899195
+  },
+  "id": "018dc030-e1df-73ab-aa48-e50842a8fd5d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f39fdbcb-f25a-4d54-a2ad-5b6534d3e7c2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f39fdbcb-f25a-4d54-a2ad-5b6534d3e7c2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.snoopygarden.com/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:32.424129"
+  },
+  "pricing": {
+    "description": "大人：19,000ウォン、青少年：16,000ウォン、小人：13,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018dc030-e1df-73ab-aa48-e50842a8fd5d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju, 930, Geumbaekjo-ro, Gujwa-eup, Jeju-si,",
+      "priceDesc": "大人：19,000ウォン、青少年：16,000ウォン、小人：13,000ウォン",
+      "title": "済州スヌーピーガーデン椿祭り"
+    }
+  }
+}

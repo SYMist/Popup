@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83, Achasan-ro, Seongdong-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-02",
+    "start": "2025-03-27"
+  },
+  "geo": {
+    "lat": 37.54575,
+    "lon": 127.0535
+  },
+  "id": "0195d0fa-f116-7849-8963-724f19930e89",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cf71864a-bdc2-4161-bdaa-4cbe0612c776.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cf71864a-bdc2-4161-bdaa-4cbe0612c776.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/cube_nowadays/p/DHpYz-Du5wr/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:05.604300"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0fa-f116-7849-8963-724f19930e89"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu, ",
+      "title": "NOWADAYS一周年咖啡厅特别活动"
+    }
+  }
+}

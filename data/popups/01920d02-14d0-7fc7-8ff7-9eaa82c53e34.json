@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-46, Hangang-daero 10-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-03",
+    "start": "2024-09-29"
+  },
+  "geo": {
+    "lat": 37.52447229620778,
+    "lon": 126.96472905155524
+  },
+  "id": "01920d02-14d0-7fc7-8ff7-9eaa82c53e34",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/72aaee01-af4d-4fd0-ba9c-cc994ed53435.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/72aaee01-af4d-4fd0-ba9c-cc994ed53435.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/popppy1002",
+      "label": "Cheese Puppy Archive"
+    },
+    {
+      "href": "https://x.com/Honor_1002",
+      "label": "KYUNGMIN BIRTHDAY EVENT"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:06.671002"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920d02-14d0-7fc7-8ff7-9eaa82c53e34"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 11-46, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『Kyungmin』 Birthday Cafe 🎂"
+    }
+  }
+}

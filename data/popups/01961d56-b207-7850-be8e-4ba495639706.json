@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10, Neungdong-ro, Gwangjin-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-15",
+    "start": "2025-04-19"
+  },
+  "geo": {
+    "lat": 37.5297659,
+    "lon": 127.0697814
+  },
+  "id": "01961d56-b207-7850-be8e-4ba495639706",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/31d63239-4a18-449b-8e6c-7c952d9f3f98.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/31d63239-4a18-449b-8e6c-7c952d9f3f98.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.seouldroneshow.com/en/home",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:48.585878"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01961d56-b207-7850-be8e-4ba495639706"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 10, Neungdong-ro, Gwangjin-gu, ",
+      "title": "2025 汉江灯光表演无人机灯光秀"
+    }
+  }
+}

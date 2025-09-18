@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83 ﻿Achasan-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-22",
+    "start": "2025-09-17"
+  },
+  "geo": {
+    "lat": 37.545632836680845,
+    "lon": 127.05352406197132
+  },
+  "id": "019927da-0eaf-758b-af8e-8e1f349f96c7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/535b452b-dc27-43a6-85af-183efba8c3b6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/535b452b-dc27-43a6-85af-183efba8c3b6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOU01FYE52x/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:23.199121"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019927da-0eaf-758b-af8e-8e1f349f96c7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
+      "title": "雨琦（YUQI）首张单曲专辑《Motivation》发行纪念活动"
+    }
+  }
+}

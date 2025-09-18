@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Seongan-ro, Gangdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-15",
+    "start": "2024-12-07"
+  },
+  "geo": {
+    "lat": 37.526302,
+    "lon": 127.130358
+  },
+  "id": "0193705a-4a99-729e-817e-bc0920abaad3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/34270c15-3a4a-4911-a1ea-c413189a6941.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/34270c15-3a4a-4911-a1ea-c413189a6941.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/pjg920/status/1855991267576197377",
+      "label": "给亲爱的有娜"
+    },
+    {
+      "href": "https://x.com/Ko_s1209/status/1858170423177105462",
+      "label": "HAPPY YUNA DAY"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:06.638615"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193705a-4a99-729e-817e-bc0920abaad3"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30, Seongan-ro, Gangdong-gu,",
+      "title": "\"有娜\" 生日咖啡厅🎂"
+    }
+  }
+}

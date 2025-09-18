@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "58-1, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-11-06",
+    "start": "2025-09-06"
+  },
+  "geo": {
+    "lat": 37.54221,
+    "lon": 127.0558
+  },
+  "id": "01993121-8d35-7607-a334-156d6ebb7c34",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d16e328e-75c3-4968-aa53-d62f6b7cb5f4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d16e328e-75c3-4968-aa53-d62f6b7cb5f4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://m.place.naver.com/popupstore/2080469590/home",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:23.429672"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993121-8d35-7607-a334-156d6ebb7c34"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 58-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "LUSH POP-UP THEATER 🍿"
+    }
+  }
+}

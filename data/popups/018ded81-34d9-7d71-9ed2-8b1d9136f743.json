@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "110, Sejong-daero, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-04-18"
+  },
+  "geo": {
+    "lat": 37.56562,
+    "lon": 126.978
+  },
+  "id": "018ded81-34d9-7d71-9ed2-8b1d9136f743",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/27203eb5-b878-48fe-bf25-38b7970a171c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/27203eb5-b878-48fe-bf25-38b7970a171c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:34.726175"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ded81-34d9-7d71-9ed2-8b1d9136f743"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 110, Sejong-daero, Jung-gu,",
+      "title": "本読むソウル広場"
+    }
+  }
+}

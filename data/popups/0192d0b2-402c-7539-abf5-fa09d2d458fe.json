@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "430, Gyeongin-ro, Guro-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2025-01-11"
+  },
+  "geo": {
+    "lat": 37.498934158140074,
+    "lon": 126.86708677269314
+  },
+  "id": "0192d0b2-402c-7539-abf5-fa09d2d458fe",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/68cf76e5-82b5-4419-89c1-97e34dbd08f0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/68cf76e5-82b5-4419-89c1-97e34dbd08f0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCYSbM6J-U9/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:08.582892"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192d0b2-402c-7539-abf5-fa09d2d458fe"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 430, Gyeongin-ro, Guro-gu, ",
+      "title": "SMTOWN LIVE 2025 Seoul Concert"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Donggyo-ro 27-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-15",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.560064,
+    "lon": 126.921408
+  },
+  "id": "01938a27-e5f1-7544-b5d9-cc6893b208e1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/18e12d35-96ba-4ba5-a158-4bcd65e0d949.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/18e12d35-96ba-4ba5-a158-4bcd65e0d949.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCxGFyxzLRh/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:14.207160"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01938a27-e5f1-7544-b5d9-cc6893b208e1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 50, Donggyo-ro 27-gil, Mapo-gu,",
+      "title": "SANTA'S HOME 🎅"
+    }
+  }
+}

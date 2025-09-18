@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "704-1, Jayang-dong, Gwangjin-gu﻿,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-10-18",
+    "start": "2025-09-06"
+  },
+  "geo": {
+    "lat": 37.52954501222016,
+    "lon": 127.0731268867859
+  },
+  "id": "01990406-ca56-7d13-9cff-8bb95c537db0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1a708864-94c9-4dab-8588-749046c83074.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1a708864-94c9-4dab-8588-749046c83074.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.seouldroneshow.com/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:18.192718"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990406-ca56-7d13-9cff-8bb95c537db0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 704-1, Jayang-dong, Gwangjin-gu﻿,",
+      "title": "2025 汉江无人机灯光秀"
+    }
+  }
+}

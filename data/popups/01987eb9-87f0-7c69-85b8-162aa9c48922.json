@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "264, Eulji-ro, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-08-06"
+  },
+  "geo": {
+    "lat": 37.56595,
+    "lon": 127.007
+  },
+  "id": "01987eb9-87f0-7c69-85b8-162aa9c48922",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/706653ed-0ac2-4c5f-a32c-a7bed56096d3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/706653ed-0ac2-4c5f-a32c-a7bed56096d3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMHa1NxBoS5/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:10.024593"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987eb9-87f0-7c69-85b8-162aa9c48922"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 264, Eulji-ro, Jung-gu,",
+      "title": "KBO x 迪士尼合作周边 ⚾️"
+    }
+  }
+}

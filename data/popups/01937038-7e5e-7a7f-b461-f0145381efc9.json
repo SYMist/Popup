@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Olympic-ro, Songpa-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-29",
+    "start": "2024-12-27"
+  },
+  "geo": {
+    "lat": 37.51216527671278,
+    "lon": 127.07529646073056
+  },
+  "id": "01937038-7e5e-7a7f-b461-f0145381efc9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6893839e-2ebb-4789-a5b8-54e5f343ddf7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6893839e-2ebb-4789-a5b8-54e5f343ddf7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24016952",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:27.079551"
+  },
+  "pricing": {
+    "description": "S席143,000韩元 / R席154,000韩元 / 站位159,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01937038-7e5e-7a7f-b461-f0145381efc9"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 25, Olympic-ro, Songpa-gu, ",
+      "priceDesc": "S席143,000韩元 / R席154,000韩元 / 站位159,000韩元",
+      "title": "BTOB \"BE ALRIGHT\" 🎤"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "175, Sejong-daero, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-05",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 37.572391097898915,
+    "lon": 126.97691121011019
+  },
+  "id": "0192ad69-40aa-7380-aa47-2e6c040d0b83",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/20ed9859-782e-49b9-9645-77b9005e6b9a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/20ed9859-782e-49b9-9645-77b9005e6b9a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.stolantern.com/sub3.php?page=1",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:06.118737"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192ad69-40aa-7380-aa47-2e6c040d0b83"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "光化门圣诞市场"
+    }
+  }
+}

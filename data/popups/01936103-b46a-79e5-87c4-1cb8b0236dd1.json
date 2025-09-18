@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "20, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.543444,
+    "lon": 127.051533
+  },
+  "id": "01936103-b46a-79e5-87c4-1cb8b0236dd1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0d0a6774-58e3-4024-a678-574a65b3656f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0d0a6774-58e3-4024-a678-574a65b3656f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCn-fxAvzGY/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:24.150187"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936103-b46a-79e5-87c4-1cb8b0236dd1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 20, Yeonmujang-gil, Seongdong-gu, ",
+      "title": "Marithé et François Girbaud 快闪店 “CHALET DE MARITHé”"
+    }
+  }
+}

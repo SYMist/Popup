@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Madeul-ro 13-gil, Dobong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-09-12"
+  },
+  "geo": {
+    "lat": 37.65671740803127,
+    "lon": 127.05103440475465
+  },
+  "id": "01993cb4-d2c6-7382-9bc1-38471bd5fbaa",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d36af329-e285-457f-a251-f0f774eed8e8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d36af329-e285-457f-a251-f0f774eed8e8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DODjbQNCa97/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:27.043068"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993cb4-d2c6-7382-9bc1-38471bd5fbaa"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30, Madeul-ro 13-gil, Dobong-gu,",
+      "title": "首尔竞技场将于2027年开放！"
+    }
+  }
+}

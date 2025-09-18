@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-23"
+  },
+  "geo": {
+    "lat": 35.19624843823629,
+    "lon": 129.2149348251486
+  },
+  "id": "0193948d-fd28-70a8-80ea-df1444c9ff42",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/be6496ad-a720-4e43-839f-d9fe1b793321.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/be6496ad-a720-4e43-839f-d9fe1b793321.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://adventurebusan.lotteworld.com/kor/enjoy/season-contents/list.do",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:16.614856"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193948d-fd28-70a8-80ea-df1444c9ff42"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
+      "title": "Miracle Winter"
+    }
+  }
+}

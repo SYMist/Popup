@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Achasan-ro 11ga-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-07-28",
+    "start": "2024-07-16"
+  },
+  "geo": {
+    "lat": 37.545621270629,
+    "lon": 127.0629
+  },
+  "id": "0190a032-85b6-7123-9ae4-0a0d698a068a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/693c575c-cc04-4a4b-81d8-bfca2ef33b51.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/693c575c-cc04-4a4b-81d8-bfca2ef33b51.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/NCTsmtown_127/status/1810554499922292819",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:22.616533"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190a032-85b6-7123-9ae4-0a0d698a068a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 26, Achasan-ro 11ga-gil, Seongdong-gu,",
+      "title": "NCT 127 POP-UP"
+    }
+  }
+}

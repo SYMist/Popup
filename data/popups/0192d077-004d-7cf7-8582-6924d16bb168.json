@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "426, Gangnam-daero, Gangnam-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-10-30"
+  },
+  "geo": {
+    "lat": 37.50053922231355,
+    "lon": 127.02674322453692
+  },
+  "id": "0192d077-004d-7cf7-8582-6924d16bb168",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/70a0a2ac-d199-4208-8890-7257ce815336.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/70a0a2ac-d199-4208-8890-7257ce815336.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBfNfGsSbhX/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:31.652280"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192d077-004d-7cf7-8582-6924d16bb168"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu,",
+      "title": "Jeongnyeon x Zanmang Loopy Pop-up"
+    }
+  }
+}

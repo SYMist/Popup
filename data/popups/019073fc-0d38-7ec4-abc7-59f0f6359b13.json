@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "180, Haeyang-ro 195beon-gil, Yeongdo-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-03",
+    "start": "2024-05-01"
+  },
+  "geo": {
+    "lat": 35.086324952973186,
+    "lon": 129.07677854232787
+  },
+  "id": "019073fc-0d38-7ec4-abc7-59f0f6359b13",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/dd2e8fdc-024d-45ad-a527-4b0b05c926c4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/dd2e8fdc-024d-45ad-a527-4b0b05c926c4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C7eS3fWyvWk/?img_index=8",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:20.732714"
+  },
+  "pricing": {
+    "description": "成人： 18,000ウォン、青少年・子供： 15,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/019073fc-0d38-7ec4-abc7-59f0f6359b13"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 180, Haeyang-ro 195beon-gil, Yeongdo-gu, ",
+      "priceDesc": "成人： 18,000ウォン、青少年・子供： 15,000ウォン",
+      "title": "ドラえもん 展示会"
+    }
+  }
+}

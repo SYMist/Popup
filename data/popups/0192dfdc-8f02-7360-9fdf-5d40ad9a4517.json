@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-20",
+    "start": "2024-11-07"
+  },
+  "geo": {
+    "lat": 37.52605284372434,
+    "lon": 126.92829579323674
+  },
+  "id": "0192dfdc-8f02-7360-9fdf-5d40ad9a4517",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/595a234b-fa77-4718-816d-67c4b8d5b53e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/595a234b-fa77-4718-816d-67c4b8d5b53e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:43.229396"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192dfdc-8f02-7360-9fdf-5d40ad9a4517"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "tvN Jeongnyeon IP POP-UP"
+    }
+  }
+}

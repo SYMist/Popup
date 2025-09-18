@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "16 Yonsei-ro 9-gil, Seodaemun-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-20",
+    "start": "2025-07-17"
+  },
+  "geo": {
+    "lat": 37.55879,
+    "lon": 126.9359
+  },
+  "id": "0197f23d-91e6-7112-8ddc-e1d9c8c187f6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0feec0cd-9b2b-464e-b6ef-96273483245d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0feec0cd-9b2b-464e-b6ef-96273483245d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/shine_e_v",
+      "label": "TAEMIN's LOST&FOUND"
+    },
+    {
+      "href": "https://x.com/Taem__ptation",
+      "label": "TAEMPTATION"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:48.798746"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f23d-91e6-7112-8ddc-e1d9c8c187f6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 16 Yonsei-ro 9-gil, Seodaemun-gu,",
+      "title": "“泰民”生日咖啡厅 🎂"
+    }
+  }
+}

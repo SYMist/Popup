@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Seongsui-ro 7ga-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-23"
+  },
+  "geo": {
+    "lat": 37.54131592252944,
+    "lon": 127.05496341104508
+  },
+  "id": "01919140-050d-7077-8f5e-584b778a5da5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7b807882-7322-49e7-9cdd-6a6876083038.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7b807882-7322-49e7-9cdd-6a6876083038.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_AncxzSqAX/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:08.794522"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01919140-050d-7077-8f5e-584b778a5da5"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 11, Seongsui-ro 7ga-gil, Seongdong-gu,",
+      "title": "レチノールクァべギ研究所🧪"
+    }
+  }
+}

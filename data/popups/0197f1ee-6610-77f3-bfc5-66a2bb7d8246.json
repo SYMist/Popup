@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "172, Sejong-daero, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-08-08",
+    "start": "2025-07-19"
+  },
+  "geo": {
+    "lat": 37.5740339,
+    "lon": 126.976775
+  },
+  "id": "0197f1ee-6610-77f3-bfc5-66a2bb7d8246",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4c1b0d7d-5b16-4914-92fe-bfdfd4862a4e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4c1b0d7d-5b16-4914-92fe-bfdfd4862a4e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLrk70ltI6x/?hl=ja&img_index=1",
+      "label": "查看详情"
+    },
+    {
+      "href": "https://m.site.naver.com/1Kxkq",
+      "label": "沙滩区提前预约"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:47.202595"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f1ee-6610-77f3-bfc5-66a2bb7d8246"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 172, Sejong-daero, Jongno-gu,",
+      "title": "2025 首尔夏季海滩"
+    }
+  }
+}

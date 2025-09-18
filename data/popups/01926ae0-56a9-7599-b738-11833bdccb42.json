@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "827, Seonneung-ro, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-25",
+    "start": "2024-10-16"
+  },
+  "geo": {
+    "lat": 37.525982,
+    "lon": 127.039745
+  },
+  "id": "01926ae0-56a9-7599-b738-11833bdccb42",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/80d94790-9d6e-4e69-9b08-def8e9a642d7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/80d94790-9d6e-4e69-9b08-def8e9a642d7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/seventeen/notice/22784",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:40.055673"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926ae0-56a9-7599-b738-11833bdccb42"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 827, Seonneung-ro, Gangnam-gu,",
+      "title": "SEVENTEEN STREET in Apgujeong"
+    }
+  }
+}

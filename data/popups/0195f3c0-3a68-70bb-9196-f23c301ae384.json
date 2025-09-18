@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "27-1, Tojeong-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-13",
+    "start": "2025-04-12"
+  },
+  "geo": {
+    "lat": 37.545689,
+    "lon": 126.914003
+  },
+  "id": "0195f3c0-3a68-70bb-9196-f23c301ae384",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cdb07482-1fa3-419f-9c97-6052e950905f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cdb07482-1fa3-419f-9c97-6052e950905f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Moonlight_osh/status/1900459990298878109",
+      "label": "𝐇𝐮𝐧𝐧𝐢𝐞 甜品店"
+    },
+    {
+      "href": "https://x.com/7__bona/status/1901532641322827839",
+      "label": "𝙒𝙝𝙤’𝙨 𝙏𝙝𝙖𝙩 𝘽𝙤𝙮?"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:54.547923"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195f3c0-3a68-70bb-9196-f23c301ae384"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 27-1, Tojeong-ro, Mapo-gu, ",
+      "title": "\"世勋\" 生日咖啡厅🎂"
+    }
+  }
+}

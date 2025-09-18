@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "65, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-25",
+    "start": "2025-09-12"
+  },
+  "geo": {
+    "lat": 37.542278,
+    "lon": 127.056809
+  },
+  "id": "0198eefc-15cd-7cde-bb63-195010e22005",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0dfe3eb3-5302-48c1-a10b-38dadaac20c2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0dfe3eb3-5302-48c1-a10b-38dadaac20c2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DN2P6KRWIlw/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:42.947710"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198eefc-15cd-7cde-bb63-195010e22005"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 65, Yeonmujang-gil, Seongdong-gu, ",
+      "title": "LABUBU 拉布布的神秘便利店"
+    }
+  }
+}

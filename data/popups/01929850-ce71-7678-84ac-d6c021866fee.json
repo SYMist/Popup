@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Gwacheon,",
+    "street": "81, Gwangmyeong-ro, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.43415841583563,
+    "lon": 127.0201271254544
+  },
+  "id": "01929850-ce71-7678-84ac-d6c021866fee",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/19d91188-c7f7-4d7e-9775-f06b872e3e52.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/19d91188-c7f7-4d7e-9775-f06b872e3e52.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://seoulland.co.kr/?p=11_view&idx=5820",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:36.435520"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01929850-ce71-7678-84ac-d6c021866fee"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Gwacheon,, 81, Gwangmyeong-ro, ",
+      "title": "2024年首尔乐园圣诞节"
+    }
+  }
+}

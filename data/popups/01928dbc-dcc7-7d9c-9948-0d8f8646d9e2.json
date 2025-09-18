@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "110, Sejong-daero, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-10-11"
+  },
+  "geo": {
+    "lat": 37.56625916702036,
+    "lon": 126.97781496502974
+  },
+  "id": "01928dbc-dcc7-7d9c-9948-0d8f8646d9e2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4c0398c2-f09b-48a6-9ecb-717ea0b7d9fc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4c0398c2-f09b-48a6-9ecb-717ea0b7d9fc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBC4wQ9CTTB/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:08.158538"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928dbc-dcc7-7d9c-9948-0d8f8646d9e2"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 110, Sejong-daero, Jung-gu,",
+      "title": "<Han Kang> Book Exhibition"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-06-02",
+    "start": "2024-06-01"
+  },
+  "geo": {
+    "lat": 37.514711271275,
+    "lon": 127.1275
+  },
+  "id": "018f75f7-b700-7d67-af72-e63596729b9c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df55e826-ee31-41db-adda-60771f8ecd84.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df55e826-ee31-41db-adda-60771f8ecd84.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24004632",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:59.460465"
+  },
+  "pricing": {
+    "description": "99,000ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f75f7-b700-7d67-af72-e63596729b9c"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu, ",
+      "priceDesc": "99,000ウォン ",
+      "title": "2024 BOYNEXTDOOR FANMEETING "
+    }
+  }
+}

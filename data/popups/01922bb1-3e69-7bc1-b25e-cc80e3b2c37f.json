@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Goyang-si, Gyeonggi-do,",
+    "street": "217-60, Kintex-ro, Ilsanseo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-01",
+    "start": "2024-11-30"
+  },
+  "geo": {
+    "lat": 37.6681072414891,
+    "lon": 126.74377033599853
+  },
+  "id": "01922bb1-3e69-7bc1-b25e-cc80e3b2c37f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e5fd50ff-a7e2-4699-83da-0a847fd4b21e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e5fd50ff-a7e2-4699-83da-0a847fd4b21e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24011642",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:35.009581"
+  },
+  "pricing": {
+    "description": "スタンディング R 132,000ウォン、スタンディング S 121,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922bb1-3e69-7bc1-b25e-cc80e3b2c37f"
+  },
+  "translations": {
+    "ja": {
+      "address": "Goyang-si, Gyeonggi-do,, 217-60, Kintex-ro, Ilsanseo-gu,",
+      "priceDesc": "スタンディング R 132,000ウォン、スタンディング S 121,000ウォン",
+      "title": "2024 Official髭男dism ソウル公演"
+    }
+  }
+}

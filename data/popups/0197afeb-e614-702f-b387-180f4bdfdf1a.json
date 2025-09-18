@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "426, Gangnam-daero, Gangnam-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-06",
+    "start": "2025-06-23"
+  },
+  "geo": {
+    "lat": 37.500512,
+    "lon": 127.026818
+  },
+  "id": "0197afeb-e614-702f-b387-180f4bdfdf1a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4aeaf405-feb6-4d12-94db-c6c6ed71575f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4aeaf405-feb6-4d12-94db-c6c6ed71575f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLRwCfFxROx/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:30.474185"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afeb-e614-702f-b387-180f4bdfdf1a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu, ",
+      "title": "ALLDAY PROJECT 江南快闪店"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-30",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.50087274417091,
+    "lon": 127.02568807882739
+  },
+  "id": "01930424-839e-7a0c-9165-440498972e55",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c0340ad3-4da4-4a9c-9759-e93ecafdb7bd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c0340ad3-4da4-4a9c-9759-e93ecafdb7bd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBz6tB_syKH/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:24.723910"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01930424-839e-7a0c-9165-440498972e55"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "ZEROID X Olive Young POP-UP"
+    }
+  }
+}

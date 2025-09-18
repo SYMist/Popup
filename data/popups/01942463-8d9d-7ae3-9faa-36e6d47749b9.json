@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "38-1, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 37.54283760744219,
+    "lon": 127.05359396502969
+  },
+  "id": "01942463-8d9d-7ae3-9faa-36e6d47749b9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0c42d146-241b-4cd3-9911-7507793e6eeb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0c42d146-241b-4cd3-9911-7507793e6eeb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DD09_DBpmOt/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:52.180437"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942463-8d9d-7ae3-9faa-36e6d47749b9"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 38-1, Yeonmujang-gil, Seongdong-gu, ",
+      "priceDesc": "null",
+      "title": "GS25 X鱿鱼游戏2"
+    }
+  }
+}

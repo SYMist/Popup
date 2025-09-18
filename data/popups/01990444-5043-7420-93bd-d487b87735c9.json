@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "513 Yeon﻿gdong-daero, Gangnam-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-11-22",
+    "start": "2025-11-19"
+  },
+  "geo": {
+    "lat": 37.5116828,
+    "lon": 127.059151
+  },
+  "id": "01990444-5043-7420-93bd-d487b87735c9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1fdbb62f-442f-4934-b674-289dba233a12.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1fdbb62f-442f-4934-b674-289dba233a12.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/ticket/places/19001166/products/25011152",
+      "label": "立即购买"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:20.272759"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990444-5043-7420-93bd-d487b87735c9"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 513 Yeon﻿gdong-daero, Gangnam-gu,",
+      "title": "第24届首尔咖啡展"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.54320174658472,
+    "lon": 127.05238951012755
+  },
+  "id": "0192d08e-44a3-714b-a6bc-4c2cd69bb9a4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/71664139-4016-4a93-9309-68dee6b7890e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/71664139-4016-4a93-9309-68dee6b7890e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBfNfGsSbhX/",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:42.207503"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192d08e-44a3-714b-a6bc-4c2cd69bb9a4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 26, Yeonmujang-gil, Seongdong-gu,",
+      "title": "BABYMONSTER DRIP POP-UP"
+    }
+  }
+}

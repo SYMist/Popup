@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Cheonggyecheon-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.568603,
+    "lon": 126.981864
+  },
+  "id": "01926b12-b399-7a21-b572-ffaded1c98ab",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0a0773e9-e663-489e-baf7-d7d27768eb5a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0a0773e9-e663-489e-baf7-d7d27768eb5a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAht1MCTZba/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:05.100228"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926b12-b399-7a21-b572-ffaded1c98ab"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
+      "title": "2024 HiKR Festa"
+    }
+  }
+}

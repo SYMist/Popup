@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14-12, Seoul Forest 2-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-29",
+    "start": "2024-09-24"
+  },
+  "geo": {
+    "lat": 37.546998462704416,
+    "lon": 127.04001410346604
+  },
+  "id": "0191e921-0844-77d0-83e8-2e652de96964",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d05c9461-ffa7-44a1-8ecb-7a320ea13cd3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d05c9461-ffa7-44a1-8ecb-7a320ea13cd3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_fNqf5Ss2W/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:54.081008"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e921-0844-77d0-83e8-2e652de96964"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 14-12, Seoul Forest 2-gil, Seongdong-gu,",
+      "title": "H.B.D KOREA POP-UP"
+    }
+  }
+}

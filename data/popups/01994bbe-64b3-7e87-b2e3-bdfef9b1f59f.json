@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "32 Wausan-ro 29-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-22",
+    "start": "2025-10-18"
+  },
+  "geo": {
+    "lat": 37.55568,
+    "lon": 126.9283
+  },
+  "id": "01994bbe-64b3-7e87-b2e3-bdfef9b1f59f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2b3882a0-1678-4ead-a1f9-10d476142799.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2b3882a0-1678-4ead-a1f9-10d476142799.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Riwooleehan_/status/1967143558370267163?t=kSR6IaAf8J28H5phWsg3ww&s=19",
+      "label": "☆⋆｡˚ 𝟷𝟶&𝟷𝟶 ʙʀɪᴛʜᴅᴀʏ ᴘᴀʀᴛʏ ｡⋆°★"
+    },
+    {
+      "href": "https://x.com/woonnoooo/status/1966826652681343483",
+      "label": " LEERIONZ_JAZZSCHOOL "
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:58.638930"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01994bbe-64b3-7e87-b2e3-bdfef9b1f59f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 32 Wausan-ro 29-gil, Mapo-gu,",
+      "title": "“LEEHAN” 生日咖啡厅🎂"
+    }
+  }
+}

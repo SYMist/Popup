@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-44 Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-15",
+    "start": "2025-09-12"
+  },
+  "geo": {
+    "lat": 37.524498,
+    "lon": 126.964705
+  },
+  "id": "0198ef50-ed60-7eab-9c7c-fbba54976a54",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d7bfc492-f3b2-42d4-88b5-5d27fe0a7ed8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d7bfc492-f3b2-42d4-88b5-5d27fe0a7ed8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/_99_o913_/status/1960676937736826963",
+      "label": "BUBBLE GGUM"
+    },
+    {
+      "href": "https://x.com/BurningHour_YJ/status/1956958016680693894",
+      "label": "𝙔𝘼𝙒𝙉𝙕𝙕𝙉游戏厅"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:57.280557"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef50-ed60-7eab-9c7c-fbba54976a54"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-44 Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“然竣”生日咖啡厅🎂"
+    }
+  }
+}

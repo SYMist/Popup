@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "21, Donggyo-ro 30-gil, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-10",
+    "start": "2025-08-01"
+  },
+  "geo": {
+    "lat": 37.56478,
+    "lon": 126.921968
+  },
+  "id": "01984e3d-b896-7455-9d00-e5c5419dc5b5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ae891cc0-a303-4faf-9e1f-24d75ee0b3de.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ae891cc0-a303-4faf-9e1f-24d75ee0b3de.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMcH_-nJ7wZ/?utm_source=ig_web_copy_link&igsh=bjd5dGwyZnlnMjJz",
+      "label": "查看详细"
+    },
+    {
+      "href": "http://bit.ly/4kMZEcn",
+      "label": "事前预约"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:56.603955"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984e3d-b896-7455-9d00-e5c5419dc5b5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 21, Donggyo-ro 30-gil, Mapo-gu, ",
+      "title": "韩剧 \"牵牛与织女\" 快闪店"
+    }
+  }
+}

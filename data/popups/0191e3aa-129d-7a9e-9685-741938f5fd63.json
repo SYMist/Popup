@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Eulji-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-09-16"
+  },
+  "geo": {
+    "lat": 37.5655675,
+    "lon": 126.978014
+  },
+  "id": "0191e3aa-129d-7a9e-9685-741938f5fd63",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/45f56120-50bd-4941-b59b-4fa51a78c28f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/45f56120-50bd-4941-b59b-4fa51a78c28f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C9T_uHiSwt8/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:44.691943"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e3aa-129d-7a9e-9685-741938f5fd63"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 12, Eulji-ro, Jung-gu,",
+      "title": "Seoul Street Art Festival"
+    }
+  }
+}

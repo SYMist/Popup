@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "73, Simingongwon-ro, Busanjin-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-12",
+    "start": "2024-04-26"
+  },
+  "geo": {
+    "lat": 35.16837,
+    "lon": 129.0607
+  },
+  "id": "018f0f66-4fe0-72a3-8e81-3f955c1f2abc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a98d4d2e-f457-4a67-a55d-66e93de807ff.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a98d4d2e-f457-4a67-a55d-66e93de807ff.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:41.707315"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f0f66-4fe0-72a3-8e81-3f955c1f2abc"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 73, Simingongwon-ro, Busanjin-gu, ",
+      "title": "釜山提灯会"
+    }
+  }
+}

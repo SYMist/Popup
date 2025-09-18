@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeouido-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-26",
+    "start": "2024-09-07"
+  },
+  "geo": {
+    "lat": 37.52480162859168,
+    "lon": 126.92424952698364
+  },
+  "id": "0191bfa2-ce76-70b9-a04c-db619076f600",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b836316d-9bfd-42ec-a570-868d87f41ee5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b836316d-9bfd-42ec-a570-868d87f41ee5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_aLyqQy3P6/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:51.854914"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191bfa2-ce76-70b9-a04c-db619076f600"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "Vivienne Westwood X Palace Collab Collection"
+    }
+  }
+}

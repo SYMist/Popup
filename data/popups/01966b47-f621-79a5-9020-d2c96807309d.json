@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "281, Eulji-ro, Jung-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-05-31",
+    "start": "2025-05-01"
+  },
+  "geo": {
+    "lat": 37.56661914269407,
+    "lon": 127.00921282883608
+  },
+  "id": "01966b47-f621-79a5-9020-d2c96807309d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df5924cf-9c78-4f8e-8b29-29f544267be6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df5924cf-9c78-4f8e-8b29-29f544267be6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://ddp.or.kr/index.html?menuno=230&siteno=2&bbsno=677&boardno=16&cateSched=16&bbstopno=677&act=view",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:02.007885"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01966b47-f621-79a5-9020-d2c96807309d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
+      "title": "DDP 春季庆典：设计动物园"
+    }
+  }
+}

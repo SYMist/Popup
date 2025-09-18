@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "No.202, 1F, 7, Wausan-ro 29ma-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-21",
+    "start": "2025-04-19"
+  },
+  "geo": {
+    "lat": 37.555637,
+    "lon": 126.926799
+  },
+  "id": "0195d0d4-b0bd-756d-ac2e-496a1e5b055a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b2e01eb1-5f93-4965-86a4-a07236feda79.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b2e01eb1-5f93-4965-86a4-a07236feda79.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Hyes_Game_Nexus/status/1902736922793148580",
+      "label": "Hye's Game Nexus"
+    },
+    {
+      "href": "https://x.com/hye1nster/status/1902259002509291537",
+      "label": "얼ㅉБ 소Ł‡! ㉭ㅖLI홈ㅍi★"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:07.160849"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0d4-b0bd-756d-ac2e-496a1e5b055a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, No.202, 1F, 7, Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "\"惠仁\" 生日咖啡厅🎂"
+    }
+  }
+}

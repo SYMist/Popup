@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Se﻿oul",
+    "street": "13, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-31",
+    "start": "2025-07-01"
+  },
+  "geo": {
+    "lat": 37.544113550193735,
+    "lon": 127.05455738035661
+  },
+  "id": "0197e83a-fca5-773c-b8be-fa0917fa59fc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/36b71fb6-f500-4c65-b9d8-e95bca24e65b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/36b71fb6-f500-4c65-b9d8-e95bca24e65b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:46.673839"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e83a-fca5-773c-b8be-fa0917fa59fc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "Olive Young N圣水 x 三丽鸥线下快闪店"
+    }
+  }
+}

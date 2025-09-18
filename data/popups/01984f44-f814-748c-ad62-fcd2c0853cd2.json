@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "188, Yanghwa-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-22",
+    "start": "2025-07-21"
+  },
+  "geo": {
+    "lat": 37.557865,
+    "lon": 126.926391
+  },
+  "id": "01984f44-f814-748c-ad62-fcd2c0853cd2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/53e37f27-25e9-44a9-a6e0-baba15b31374.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/53e37f27-25e9-44a9-a6e0-baba15b31374.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/reel/DMzwaFuzcLW/?igsh=cXk1Z2FxM2pyOGw3",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:58.981170"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f44-f814-748c-ad62-fcd2c0853cd2"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu, ",
+      "title": "CU X TXT 合作快闪店"
+    }
+  }
+}

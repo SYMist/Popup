@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "206, Songpanaru-gil, Songpa-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-02-28",
+    "start": "2024-10-25"
+  },
+  "geo": {
+    "lat": 37.51230686233035,
+    "lon": 127.10506525598909
+  },
+  "id": "0192c159-1d56-77c2-ad00-b1dd5f1308a2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/83ab8dd4-c5a9-4da4-893f-5b4ef7adffd9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/83ab8dd4-c5a9-4da4-893f-5b4ef7adffd9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.songpa.go.kr/culture/detailInfo.do?key=3796&resrceCd=CT0155-1030773&",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:27.243828"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192c159-1d56-77c2-ad00-b1dd5f1308a2"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
+      "title": "石村湖：湖泊的秋冬与Luminarie灯光艺术展"
+    }
+  }
+}

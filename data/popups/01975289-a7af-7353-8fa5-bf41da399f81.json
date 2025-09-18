@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "19 Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-14",
+    "start": "2025-07-12"
+  },
+  "geo": {
+    "lat": 37.55512,
+    "lon": 126.927
+  },
+  "id": "01975289-a7af-7353-8fa5-bf41da399f81",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e71a252d-948c-42d1-bdfc-e5711941f0b7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e71a252d-948c-42d1-bdfc-e5711941f0b7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/TAERAE_BAY",
+      "label": "太來呀，一起玩吧"
+    },
+    {
+      "href": "https://x.com/714xofo",
+      "label": "Reason why I love you"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:26.098187"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01975289-a7af-7353-8fa5-bf41da399f81"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 19 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "“金太來”生日咖啡厅🎂"
+    }
+  }
+}

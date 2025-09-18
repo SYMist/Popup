@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "19, Yeonmujang 5-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-04-14",
+    "start": "2024-03-30"
+  },
+  "geo": {
+    "lat": 37.54498,
+    "lon": 127.0531
+  },
+  "id": "018e88e8-c9ab-78f1-91da-bf6a174a4a97",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/50c58705-c51b-423e-ae91-865d04a57022.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/50c58705-c51b-423e-ae91-865d04a57022.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C4xkYBgypgv/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:01.645821"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e88e8-c9ab-78f1-91da-bf6a174a4a97"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 19, Yeonmujang 5-gil, Seongdong-gu, ",
+      "title": "クレアス POP-UP"
+    }
+  }
+}

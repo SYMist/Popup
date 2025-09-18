@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7-8 Wausan-ro 29ma-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-22",
+    "start": "2025-09-15"
+  },
+  "geo": {
+    "lat": 37.55542,
+    "lon": 126.926911
+  },
+  "id": "0198ef53-6b4f-7361-a28e-0b8d1c63504a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8f82a09c-4944-4cdb-9e8b-6f3a2d440a21.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8f82a09c-4944-4cdb-9e8b-6f3a2d440a21.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/skz_hbd/status/1957055753463681121?s=46",
+      "label": "𝓬𝓪𝓼𝓮 𝟗𝟐𝟐 "
+    },
+    {
+      "href": "https://x.com/minipage_0922/status/1957417713481249006",
+      "label": "Cafe E;You"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:57.977041"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef53-6b4f-7361-a28e-0b8d1c63504a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "“昇玟” 生日咖啡厅🎂"
+    }
+  }
+}

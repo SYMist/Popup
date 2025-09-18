@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-11"
+  },
+  "geo": {
+    "lat": 37.51620159999999,
+    "lon": 127.0759248
+  },
+  "id": "01916873-eb2a-707b-876b-b48382aeea32",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/debbdad4-58ce-43d2-8765-e1f5e363fe7f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/debbdad4-58ce-43d2-8765-e1f5e363fe7f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://companysoosoo.com/notice/66bc3a163cbbf35330a3d47a",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:14.881376"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916873-eb2a-707b-876b-b48382aeea32"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 25, Olympic-ro, Songpa-gu,",
+      "title": "DOH KYUNG SOO Concert"
+    }
+  }
+}

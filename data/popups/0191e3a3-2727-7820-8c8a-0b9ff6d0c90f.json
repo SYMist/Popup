@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeouido-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-09-05"
+  },
+  "geo": {
+    "lat": 37.5259843604754,
+    "lon": 126.92851960373535
+  },
+  "id": "0191e3a3-2727-7820-8c8a-0b9ff6d0c90f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bc604a16-dd4c-4fad-b82e-ad93dff7ca19.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bc604a16-dd4c-4fad-b82e-ad93dff7ca19.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_hwWDnJeeX/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:35.820436"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3a3-2727-7820-8c8a-0b9ff6d0c90f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "<AMUSE x HELLO KITTY> POP-UP STORE"
+    }
+  }
+}

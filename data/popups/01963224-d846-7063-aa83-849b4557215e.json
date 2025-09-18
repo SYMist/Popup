@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30 Samcheong-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-04-11"
+  },
+  "geo": {
+    "lat": 37.57883330000001,
+    "lon": 126.9804281
+  },
+  "id": "01963224-d846-7063-aa83-849b4557215e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d32185bc-ff2d-4ac4-bdff-67bec8cb46e1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d32185bc-ff2d-4ac4-bdff-67bec8cb46e1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DIQQSZfSvgR/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:58.205387"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963224-d846-7063-aa83-849b4557215e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30 Samcheong-ro, Jongno-gu,",
+      "title": "罗恩·穆克个人展"
+    }
+  }
+}

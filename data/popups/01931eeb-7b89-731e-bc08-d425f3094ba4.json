@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Wausan-ro 32-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-25",
+    "start": "2024-11-23"
+  },
+  "geo": {
+    "lat": 37.55474682347354,
+    "lon": 126.93141021288011
+  },
+  "id": "01931eeb-7b89-731e-bc08-d425f3094ba4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/48ff06e8-c9eb-4d59-b667-3cdd0f2b916e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/48ff06e8-c9eb-4d59-b667-3cdd0f2b916e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/shotaro_lab/status/1841855895996924298",
+      "label": "Tarou's Bungeo Bread Laboratory"
+    },
+    {
+      "href": "https://x.com/HBDTARO/status/1852650190253240338",
+      "label": "Gift of November: Tarou"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:38.946022"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01931eeb-7b89-731e-bc08-d425f3094ba4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 25, Wausan-ro 32-gil, Mapo-gu,",
+      "title": "『Shotaro』 Birthday Café 🎂"
+    }
+  }
+}

@@ -32,25 +32,15 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-17T14:58:44.567616"
+    "fetchedAt": "2025-09-18T14:21:45.771160"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019665a2-db79-7ce9-b151-cea103a75611",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019665a2-db79-7ce9-b151-cea103a75611",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019665a2-db79-7ce9-b151-cea103a75611"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
-      "title": "Gyeongbokgung Palace Moonlight Tour "
-    },
-    "ja": {
-      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
-      "title": "景福宮星光夜行 "
-    },
     "zh-cn": {
       "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
       "title": "景福宫星光夜行 "

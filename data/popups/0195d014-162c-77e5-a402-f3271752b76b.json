@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Eoulmadang-ro 5-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-15",
+    "start": "2025-04-12"
+  },
+  "geo": {
+    "lat": 37.549273,
+    "lon": 126.919131
+  },
+  "id": "0195d014-162c-77e5-a402-f3271752b76b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8bb1ba31-8904-463f-9b15-18740df07329.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8bb1ba31-8904-463f-9b15-18740df07329.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/staycyooon/status/1900502169998254301?s=46",
+      "label": "可爱战士的甜蜜魔法🪄"
+    },
+    {
+      "href": "https://x.com/pannaparco0414/status/1900577174026949119?s=46",
+      "label": "BACK TO 2004"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:06.115471"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d014-162c-77e5-a402-f3271752b76b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
+      "title": "\"YOON\" 生日咖啡厅🎂"
+    }
+  }
+}

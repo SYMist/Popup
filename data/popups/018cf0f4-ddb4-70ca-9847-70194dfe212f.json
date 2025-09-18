@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "B1-2F, 6, Samil-daero 15-gil, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-10"
+  },
+  "geo": {
+    "lat": 37.568842792611534,
+    "lon": 126.98708933239746
+  },
+  "id": "018cf0f4-ddb4-70ca-9847-70194dfe212f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f9b9b439-7fcd-4d63-8652-47b94e030e5e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f9b9b439-7fcd-4d63-8652-47b94e030e5e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.chunnyun.com/schedule",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:17.624076"
+  },
+  "pricing": {
+    "description": "ライブチャージ : 月-木 13,000ウォン、金-日/祝日 15,000ウォン (フード、ドリンク代は別料金)",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018cf0f4-ddb4-70ca-9847-70194dfe212f"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, B1-2F, 6, Samil-daero 15-gil, Jongno-gu,",
+      "priceDesc": "ライブチャージ : 月-木 13,000ウォン、金-日/祝日 15,000ウォン (フード、ドリンク代は別料金)",
+      "title": "チョンニョンドンアンド"
+    }
+  }
+}

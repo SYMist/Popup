@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "36, Seongsuil-ro 6-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 37.544756,
+    "lon": 127.055136
+  },
+  "id": "019254f4-604e-73d8-82fe-1d61e9dabf9a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7b6e6c3b-25ed-4e4a-b52f-715cc9f590fa.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7b6e6c3b-25ed-4e4a-b52f-715cc9f590fa.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DApI6S8zmBU/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:22.272978"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019254f4-604e-73d8-82fe-1d61e9dabf9a"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
+      "title": "ADIDAS Ground Seongsu"
+    }
+  }
+}

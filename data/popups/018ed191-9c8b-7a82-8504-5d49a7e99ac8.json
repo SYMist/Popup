@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1335-1, Banpo-dong, Seocho-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-21",
+    "start": "2024-05-12"
+  },
+  "geo": {
+    "lat": 37.50781,
+    "lon": 126.9896
+  },
+  "id": "018ed191-9c8b-7a82-8504-5d49a7e99ac8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3b1464b9-dfbc-4bcc-bc2c-1e1c4fb91662.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3b1464b9-dfbc-4bcc-bc2c-1e1c4fb91662.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:34.688283"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ed191-9c8b-7a82-8504-5d49a7e99ac8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1335-1, Banpo-dong, Seocho-gu, ",
+      "title": "ソレ島の菜の花祭り"
+    }
+  }
+}

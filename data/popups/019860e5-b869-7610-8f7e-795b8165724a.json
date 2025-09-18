@@ -1,0 +1,42 @@
+{
+  "address": {},
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-09-04",
+    "start": "2025-07-30"
+  },
+  "geo": {},
+  "id": "019860e5-b869-7610-8f7e-795b8165724a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/31c7f6dc-0ddc-4664-93c9-3cc87748dbbe.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/31c7f6dc-0ddc-4664-93c9-3cc87748dbbe.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.megabox.co.kr/event/detail?eventNo=18360",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:03.582456"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019860e5-b869-7610-8f7e-795b8165724a"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "BTS 紫爱你版本上市"
+    }
+  }
+}

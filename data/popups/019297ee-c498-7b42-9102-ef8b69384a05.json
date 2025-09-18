@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "20, Centumseo-ro, Haeundae-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-08-31",
+    "start": "2024-10-05"
+  },
+  "geo": {
+    "lat": 35.17133136352472,
+    "lon": 129.1289790088868
+  },
+  "id": "019297ee-c498-7b42-9102-ef8b69384a05",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/14539312-a532-4ea0-a7ab-4d424b55056e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/14539312-a532-4ea0-a7ab-4d424b55056e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://museum1.co.kr/18",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:47.106585"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019297ee-c498-7b42-9102-ef8b69384a05"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 20, Centumseo-ro, Haeundae-gu,",
+      "title": "Myth: A Story of Beginnings"
+    }
+  }
+}

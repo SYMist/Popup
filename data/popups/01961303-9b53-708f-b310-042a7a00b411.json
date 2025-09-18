@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "77, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-27",
+    "start": "2025-04-16"
+  },
+  "geo": {
+    "lat": 37.54427,
+    "lon": 127.0546
+  },
+  "id": "01961303-9b53-708f-b310-042a7a00b411",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4bb142cb-863d-461a-9368-448e891722a4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4bb142cb-863d-461a-9368-448e891722a4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/innisfreeofficial/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:55.291152"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01961303-9b53-708f-b310-042a7a00b411"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "悦诗风吟 X 翠迪鸟快闪店"
+    }
+  }
+}

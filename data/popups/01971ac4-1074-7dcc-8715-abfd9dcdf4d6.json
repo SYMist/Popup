@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-04",
+    "start": "2025-05-26"
+  },
+  "geo": {
+    "lat": 37.52627,
+    "lon": 126.9283
+  },
+  "id": "01971ac4-1074-7dcc-8715-abfd9dcdf4d6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/92309d85-cc84-4107-9201-41618b3df9eb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/92309d85-cc84-4107-9201-41618b3df9eb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKJ5chcpnze/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:49.375806"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971ac4-1074-7dcc-8715-abfd9dcdf4d6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "SEVENTEEN 第5张专辑 HAPPY BURSTDAY"
+    }
+  }
+}

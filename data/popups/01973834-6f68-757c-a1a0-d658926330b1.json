@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "57, Hongik-ro 6-gil, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-30",
+    "start": "2025-06-01"
+  },
+  "geo": {
+    "lat": 37.556573,
+    "lon": 126.924388
+  },
+  "id": "01973834-6f68-757c-a1a0-d658926330b1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fbdf8225-afba-4adc-98ee-ef0965525010.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fbdf8225-afba-4adc-98ee-ef0965525010.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKR22KwBb_C/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:22.738233"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973834-6f68-757c-a1a0-d658926330b1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
+      "title": "Dr.G X 李泳知快闪店"
+    }
+  }
+}

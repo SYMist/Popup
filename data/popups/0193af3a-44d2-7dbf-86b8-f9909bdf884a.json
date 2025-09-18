@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "330, Yeouidong-ro, Yeongdeungpo-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 37.52801888447061,
+    "lon": 126.93346222453687
+  },
+  "id": "0193af3a-44d2-7dbf-86b8-f9909bdf884a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d8276335-d394-4d61-8ff7-341f6dfb5041.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d8276335-d394-4d61-8ff7-341f6dfb5041.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://festival.seoul.go.kr/hangang/introduce",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:18.109294"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af3a-44d2-7dbf-86b8-f9909bdf884a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 330, Yeouidong-ro, Yeongdeungpo-gu, ",
+      "priceDesc": "null",
+      "title": "2024 冬季汉江庆典 🛷"
+    }
+  }
+}

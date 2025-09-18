@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14, World Cup-ro 3-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-08-22"
+  },
+  "geo": {
+    "lat": 37.5506020840875,
+    "lon": 126.91160274351654
+  },
+  "id": "01918bda-f32b-78f6-a91b-5bdf44f759fb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/67edd529-8375-49da-9528-5a2c4fd4150a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/67edd529-8375-49da-9528-5a2c4fd4150a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.aniplustv.com/storeCollaboCafe?i=79",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:37.958618"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 14, World Cup-ro 3-gil, Mapo-gu,",
+      "title": "Level Up Alone: ARISE Collaboration Café"
+    }
+  }
+}

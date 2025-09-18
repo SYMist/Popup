@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "20 Sinchon-ro 2an-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-28",
+    "start": "2025-09-24"
+  },
+  "geo": {
+    "lat": 37.5574,
+    "lon": 126.9281
+  },
+  "id": "01993ca8-0868-79ca-b236-098f0add9c63",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/04077dd6-8a08-4b1e-a9f5-cf6f1b23a694.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/04077dd6-8a08-4b1e-a9f5-cf6f1b23a694.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/allday_event/status/1963456146758664655",
+      "label": "No cap. No noise. Just Tarzzan"
+    },
+    {
+      "href": "https://x.com/3dan2dan/status/1962363718211383633",
+      "label": "TARZZAN'S OWN COLOR"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:26.585116"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993ca8-0868-79ca-b236-098f0add9c63"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 20 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "“Tarzzan” 生日咖啡厅🎂"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-15",
+    "start": "2024-08-11"
+  },
+  "geo": {
+    "lat": 37.55526126927,
+    "lon": 126.927
+  },
+  "id": "01912037-818e-74d1-b9ec-7b4ec7168da4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e7636be5-7225-41ea-b471-594b75e97d57.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e7636be5-7225-41ea-b471-594b75e97d57.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/_2000_08_13/status/1804349180330000780",
+      "label": "「Nana's Cookie Factory」"
+    },
+    {
+      "href": "https://x.com/Haena266/status/1812082845927821766",
+      "label": "「Love Clinic」"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:35.074134"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01912037-818e-74d1-b9ec-7b4ec7168da4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 12, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『Jaemin』 Birthday Cafe 🎂"
+    }
+  }
+}

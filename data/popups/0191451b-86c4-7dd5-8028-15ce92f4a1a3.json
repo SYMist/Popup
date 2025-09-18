@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-22",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.519161271274,
+    "lon": 127.1274
+  },
+  "id": "0191451b-86c4-7dd5-8028-15ce92f4a1a3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8e4852aa-c06f-44e3-9c7d-f45044a47c19.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8e4852aa-c06f-44e3-9c7d-f45044a47c19.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24010841",
+      "label": "Book Now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:47.966937"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191451b-86c4-7dd5-8028-15ce92f4a1a3"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu, ",
+      "title": "2024 ZEROBASEONE THE FIRST TOUR"
+    }
+  }
+}

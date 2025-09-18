@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Yeonmujang 15-gil, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-04"
+  },
+  "geo": {
+    "lat": 37.542789,
+    "lon": 127.059629
+  },
+  "id": "0191d441-3abe-7f01-9218-4247e81bbfd8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b3599f4b-05b2-4260-a9b4-2962f5929163.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b3599f4b-05b2-4260-a9b4-2962f5929163.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24010690",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:18.565460"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d441-3abe-7f01-9218-4247e81bbfd8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu,",
+      "title": "スニーカーコンソウル"
+    }
+  }
+}

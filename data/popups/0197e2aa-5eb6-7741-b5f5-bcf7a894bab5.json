@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "5F, 108, Yeoui-daero, Yeongdeungpo-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-01",
+    "start": "2025-07-08"
+  },
+  "geo": {
+    "lat": 37.52603,
+    "lon": 126.928279
+  },
+  "id": "0197e2aa-5eb6-7741-b5f5-bcf7a894bab5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f9974af4-e5d8-450e-970e-191e8cd3f069.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f9974af4-e5d8-450e-970e-191e8cd3f069.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/reel/DLmly-Jt5Vk/?igsh=ejlqejFhZHN5dHY3",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:43.214797"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2aa-5eb6-7741-b5f5-bcf7a894bab5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "GS25 X 唐吉诃德期间快闪店"
+    }
+  }
+}

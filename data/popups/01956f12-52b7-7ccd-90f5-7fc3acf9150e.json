@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "57, Hongik-ro 6-gil, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-03-31",
+    "start": "2025-03-01"
+  },
+  "geo": {
+    "lat": 37.556577152603474,
+    "lon": 126.92438231196257
+  },
+  "id": "01956f12-52b7-7ccd-90f5-7fc3acf9150e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8ef360ad-2670-40eb-bb75-fa7edee650ca.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8ef360ad-2670-40eb-bb75-fa7edee650ca.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DGpVnSRJGTD/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:57.247709"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956f12-52b7-7ccd-90f5-7fc3acf9150e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
+      "title": "Gudal xTeenieping"
+    }
+  }
+}

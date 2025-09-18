@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Sinchon-ro 2-an-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-22",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.55706126067644,
+    "lon": 126.92907857951926
+  },
+  "id": "0191d982-2211-7e56-bb4e-4c662b3b4673",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bb1ee8fc-0717-47de-9bcd-2a3d7cc2f313.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bb1ee8fc-0717-47de-9bcd-2a3d7cc2f313.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/twnycute922",
+      "label": "SUBJECT : NY"
+    },
+    {
+      "href": "https://x.com/BOSSBUNNYCLUB",
+      "label": "BUNNY SAVES THE WORLD"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:54.130443"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d982-2211-7e56-bb4e-4c662b3b4673"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 35, Sinchon-ro 2-an-gil, Mapo-gu,",
+      "title": "『Nayeon』 Birthday Cafe 🎂"
+    }
+  }
+}

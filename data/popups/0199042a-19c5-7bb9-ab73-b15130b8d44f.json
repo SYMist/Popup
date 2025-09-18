@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "73, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-08-30"
+  },
+  "geo": {
+    "lat": 37.54226,
+    "lon": 127.0573
+  },
+  "id": "0199042a-19c5-7bb9-ab73-b15130b8d44f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/28629064-cc31-41e8-a829-710a623794d7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/28629064-cc31-41e8-a829-710a623794d7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://snowman1stpopup-detail.com/contents/689a90bee4aecf0ba236e366",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:19.657504"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199042a-19c5-7bb9-ab73-b15130b8d44f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Snow Man 首次快闪店"
+    }
+  }
+}

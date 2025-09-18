@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gonghangmunhwa-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-26",
+    "start": "2025-01-25"
+  },
+  "geo": {
+    "lat": 37.46673941167185,
+    "lon": 126.39053884846211
+  },
+  "id": "0193943e-0a8a-778f-bee5-e8ab197c5bc3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1ab2e815-1ece-440a-97f3-99302dc47b76.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1ab2e815-1ece-440a-97f3-99302dc47b76.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24017510",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:16.089692"
+  },
+  "pricing": {
+    "description": "154,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193943e-0a8a-778f-bee5-e8ab197c5bc3"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "154,000韩元",
+      "title": "2PM李俊昊 “Midnight Sun”🎤"
+    }
+  }
+}

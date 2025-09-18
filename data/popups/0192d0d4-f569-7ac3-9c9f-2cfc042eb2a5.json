@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gonghangmunhwa-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-08",
+    "start": "2024-12-07"
+  },
+  "geo": {
+    "lat": 37.46673880666957,
+    "lon": 126.39054013711119
+  },
+  "id": "0192d0d4-f569-7ac3-9c9f-2cfc042eb2a5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2c7f42d4-6c24-4e05-bb2f-74acac177dcb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2c7f42d4-6c24-4e05-bb2f-74acac177dcb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.inspirekorea.com/ko/entertainment/performance/yoasobi-asia-tour-20242025-live-in-korea",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:46.774562"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192d0d4-f569-7ac3-9c9f-2cfc042eb2a5"
+  },
+  "translations": {
+    "ja": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "title": "YOASOBI ASIA TOUR 2024 - 2025"
+    }
+  }
+}

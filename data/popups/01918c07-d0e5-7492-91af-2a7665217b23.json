@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeouido-daero, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-04",
+    "start": "2024-08-29"
+  },
+  "geo": {
+    "lat": 37.52591203568264,
+    "lon": 126.92842840862885
+  },
+  "id": "01918c07-d0e5-7492-91af-2a7665217b23",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5192678e-0aa3-4b85-94c9-1633a8f6fb73.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5192678e-0aa3-4b85-94c9-1633a8f6fb73.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-9Ph2ry_TK/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:04.051317"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01918c07-d0e5-7492-91af-2a7665217b23"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "MEOVV DEBUT PRE-LISTENING POP-UP"
+    }
+  }
+}

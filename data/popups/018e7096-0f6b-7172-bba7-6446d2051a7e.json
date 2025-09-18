@@ -1,0 +1,46 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "2350-104, Beonyeong-ro, Pyoseon-myeon, Seogwipo-si, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-04-21",
+    "start": "2024-03-22"
+  },
+  "geo": {
+    "lat": 33.41366,
+    "lon": 126.7525
+  },
+  "id": "018e7096-0f6b-7172-bba7-6446d2051a7e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d00d04d3-6a25-4afe-ab2d-962119474ee0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d00d04d3-6a25-4afe-ab2d-962119474ee0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:53.230527"
+  },
+  "pricing": {
+    "description": "大人 : 6,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e7096-0f6b-7172-bba7-6446d2051a7e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju-do, 2350-104, Beonyeong-ro, Pyoseon-myeon, Seogwipo-si, ",
+      "priceDesc": "大人 : 6,000ウォン",
+      "title": "ボロムワットチューリップ祭り"
+    }
+  }
+}

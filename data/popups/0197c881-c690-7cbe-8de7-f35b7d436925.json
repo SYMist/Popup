@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-42, Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-08",
+    "start": "2025-07-05"
+  },
+  "geo": {
+    "lat": 37.524435,
+    "lon": 126.964888
+  },
+  "id": "0197c881-c690-7cbe-8de7-f35b7d436925",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1c7fac77-0b6b-41c9-a6c8-b6aa30808327.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1c7fac77-0b6b-41c9-a6c8-b6aa30808327.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/colorofthrob/status/1920131545265737945",
+      "label": "心跳脉动的颜色"
+    },
+    {
+      "href": "https://x.com/a_blueflame/status/1929191419433926690",
+      "label": "Chapter JO:"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:39.504734"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c881-c690-7cbe-8de7-f35b7d436925"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“JO” 生日咖啡厅🎂"
+    }
+  }
+}

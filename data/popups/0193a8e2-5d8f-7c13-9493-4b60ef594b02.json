@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-29",
+    "start": "2024-11-09"
+  },
+  "geo": {
+    "lat": 35.32354981158568,
+    "lon": 129.23585734693285
+  },
+  "id": "0193a8e2-5d8f-7c13-9493-4b60ef594b02",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0bb90f3d-be41-4030-937b-714815696928.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0bb90f3d-be41-4030-937b-714815696928.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCIoDtItBh8/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:01.995752"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193a8e2-5d8f-7c13-9493-4b60ef594b02"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, ",
+      "title": " 釜山 M&M's圣诞节快闪店🍫"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "387, Toegye-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-02",
+    "start": "2024-10-02"
+  },
+  "geo": {
+    "lat": 37.56593075305168,
+    "lon": 127.01485935304976
+  },
+  "id": "01939487-90cd-709c-b722-7aa7f6dbf5bf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a3a73983-c48e-4c58-8a5f-aef274bae2f4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a3a73983-c48e-4c58-8a5f-aef274bae2f4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tickets.interpark.com/goods/24014022",
+      "label": "Buy Now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:09.182911"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01939487-90cd-709c-b722-7aa7f6dbf5bf"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 387, Toegye-ro, Jung-gu,",
+      "title": "ICONS OF URBAN ART"
+    }
+  }
+}

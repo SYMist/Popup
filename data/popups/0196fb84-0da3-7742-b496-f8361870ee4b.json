@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": "73, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-01",
+    "start": "2025-05-22"
+  },
+  "geo": {
+    "lat": 37.54233,
+    "lon": 127.0572
+  },
+  "id": "0196fb84-0da3-7742-b496-f8361870ee4b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/be3ef44a-b714-414f-9557-c02297cf9fac.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/be3ef44a-b714-414f-9557-c02297cf9fac.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ3M6_uS7SG/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:09.096437"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196fb84-0da3-7742-b496-f8361870ee4b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Select Store"
+    }
+  }
+}

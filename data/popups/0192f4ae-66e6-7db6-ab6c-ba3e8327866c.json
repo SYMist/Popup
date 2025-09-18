@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-01",
+    "start": "2024-11-19"
+  },
+  "geo": {
+    "lat": 37.526052311925135,
+    "lon": 126.92829612851287
+  },
+  "id": "0192f4ae-66e6-7db6-ab6c-ba3e8327866c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5982946e-1adb-4113-8e4e-08af6eef32ed.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5982946e-1adb-4113-8e4e-08af6eef32ed.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/bts/notice/23309",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:18.747224"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192f4ae-66e6-7db6-ab6c-ba3e8327866c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "BTS Jin ‘Happy’ 快閃店"
+    }
+  }
+}

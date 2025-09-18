@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Apgujeong-ro 46-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-06-30",
+    "start": "2024-05-01"
+  },
+  "geo": {
+    "lat": 37.525331270357,
+    "lon": 127.0357
+  },
+  "id": "018f5caf-a059-7807-bb43-a6f1db48819e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3cd354e8-7dc8-4cf2-89a7-f4cf328f954b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3cd354e8-7dc8-4cf2-89a7-f4cf328f954b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.gentlemonster.com/kr/stories/jentle-salon-popup",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:49.207518"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5caf-a059-7807-bb43-a6f1db48819e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu, ",
+      "title": "GENTLE MONSTER X Jennie POP-UP"
+    }
+  }
+}

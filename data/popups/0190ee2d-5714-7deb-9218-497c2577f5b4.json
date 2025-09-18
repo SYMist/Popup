@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "145-57, Jamwon-ro, Seocho-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-08-04",
+    "start": "2024-08-03"
+  },
+  "geo": {
+    "lat": 37.519081270093,
+    "lon": 127.0093
+  },
+  "id": "0190ee2d-5714-7deb-9218-497c2577f5b4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/354c9f77-0dfe-4419-b3e5-141007f2be47.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/354c9f77-0dfe-4419-b3e5-141007f2be47.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://festival.seoul.go.kr/hangang/programs?article=31347",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:25.277755"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190ee2d-5714-7deb-9218-497c2577f5b4"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 145-57, Jamwon-ro, Seocho-gu,",
+      "title": "漢江スターの森映画館"
+    }
+  }
+}

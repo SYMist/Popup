@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "6, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-28",
+    "start": "2024-02-29"
+  },
+  "geo": {
+    "lat": 37.5476,
+    "lon": 127.0452
+  },
+  "id": "018e0891-ea2b-713a-8e82-b13d14c3c00c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b35aad82-2b87-4789-95d7-ebecdc37f4bd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b35aad82-2b87-4789-95d7-ebecdc37f4bd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:41.973413"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e0891-ea2b-713a-8e82-b13d14c3c00c"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 6, Achasan-ro, Seongdong-gu,",
+      "title": "ポールさんのトゥット商店"
+    }
+  }
+}

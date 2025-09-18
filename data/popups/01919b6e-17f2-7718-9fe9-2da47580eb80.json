@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1005, Cheonho-daero, Gangdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-05",
+    "start": "2024-08-24"
+  },
+  "geo": {
+    "lat": 37.5390258,
+    "lon": 127.1244577
+  },
+  "id": "01919b6e-17f2-7718-9fe9-2da47580eb80",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/80c9e495-2176-4da6-926d-8ccacc70f57c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/80c9e495-2176-4da6-926d-8ccacc70f57c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2602408336992&category=event&page=1&branchCd=B00126000",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:14.081822"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01919b6e-17f2-7718-9fe9-2da47580eb80"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 1005, Cheonho-daero, Gangdong-gu,",
+      "title": "Shinkai Makoto # Shop"
+    }
+  }
+}

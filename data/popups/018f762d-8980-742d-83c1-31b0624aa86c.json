@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-19",
+    "start": "2024-05-10"
+  },
+  "geo": {
+    "lat": 37.543131270535,
+    "lon": 127.0535
+  },
+  "id": "018f762d-8980-742d-83c1-31b0624aa86c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/589505db-4b9a-4972-a67b-db4de638f2fa.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/589505db-4b9a-4972-a67b-db4de638f2fa.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6vbsNYS7o3/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:36.579200"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f762d-8980-742d-83c1-31b0624aa86c"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 35, Yeonmujang-gil, Seongdong-gu,",
+      "title": "BOYNEXTDOOR x SANDSOUND POP-UP"
+    }
+  }
+}

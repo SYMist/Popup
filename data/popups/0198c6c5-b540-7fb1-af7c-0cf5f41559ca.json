@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "68, Eoulmadang-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-07",
+    "start": "2025-09-02"
+  },
+  "geo": {
+    "lat": 37.55129,
+    "lon": 126.9215
+  },
+  "id": "0198c6c5-b540-7fb1-af7c-0cf5f41559ca",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e27d53e6-5050-43c9-8ba1-c65b1e6f04a5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e27d53e6-5050-43c9-8ba1-c65b1e6f04a5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNj5pwSz4fT/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:14.211314"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c6c5-b540-7fb1-af7c-0cf5f41559ca"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 68, Eoulmadang-ro, Mapo-gu, ",
+      "title": "TREASURE 第三张迷你专辑 [LOVE PULSE] 快闪店"
+    }
+  }
+}

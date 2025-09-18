@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Goyang-si",
+    "street": "1601, Jungang-ro, Ilsanseo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-21",
+    "start": "2025-10-21"
+  },
+  "geo": {
+    "lat": 37.676386,
+    "lon": 126.743088
+  },
+  "id": "019365ea-14f5-7bed-a921-bffee084d4b4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b172d7a0-09b8-445e-ad45-e273f947fb5c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b172d7a0-09b8-445e-ad45-e273f947fb5c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24016943",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:26.136519"
+  },
+  "pricing": {
+    "description": "B席99,000韩元 / A席176,000韩元 / S席198,000韩元 / R席220,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019365ea-14f5-7bed-a921-bffee084d4b4"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Goyang-si, 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "B席99,000韩元 / A席176,000韩元 / S席198,000韩元 / R席220,000韩元",
+      "title": "OASIS Live ’25 SOUTH KOREA🇰🇷"
+    }
+  }
+}

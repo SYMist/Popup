@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 40, Sinchon-ro 2an-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.556814,
+    "lon": 126.929103
+  },
+  "id": "01916977-d5db-7c2d-ba20-31bc0d5b82f6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c889a266-1534-48b0-bf83-fc04cb283e67.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c889a266-1534-48b0-bf83-fc04cb283e67.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/JK_HBD2024",
+      "label": "Jung Kook Never Let Go"
+    },
+    {
+      "href": "https://x.com/kkook_mood",
+      "label": "Mood : love all your time, atmosphere, and romance"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:01.743850"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916977-d5db-7c2d-ba20-31bc0d5b82f6"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  40, Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『Jungkook』 Birthday Cafe🎂"
+    }
+  }
+}

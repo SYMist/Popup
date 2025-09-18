@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "219, Gwanganhaebyeon-ro, Suyeong-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-01"
+  },
+  "geo": {
+    "lat": 35.15316059777297,
+    "lon": 129.11866510118867
+  },
+  "id": "018d52af-bdee-73f4-a491-1000cbf16a31",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6fff8b46-2f69-471b-878c-6babe84504ad.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6fff8b46-2f69-471b-878c-6babe84504ad.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://gwangallimdrone.co.kr/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:22.636355"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018d52af-bdee-73f4-a491-1000cbf16a31"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu,",
+      "title": "广安里M无人机灯光秀"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "271 Gonghang-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-18",
+    "start": "2025-08-14"
+  },
+  "geo": {
+    "lat": 37.44702,
+    "lon": 126.454
+  },
+  "id": "019878fe-e6a7-7225-953a-8d4ad35b4369",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9d91ef93-730a-4875-ba24-e63d2fc542fc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9d91ef93-730a-4875-ba24-e63d2fc542fc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMw7mxMy4b_/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:07.721773"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878fe-e6a7-7225-953a-8d4ad35b4369"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Incheon, 271 Gonghang-ro, Jung-gu,",
+      "title": "G-Dragon 生日快闪店"
+    }
+  }
+}

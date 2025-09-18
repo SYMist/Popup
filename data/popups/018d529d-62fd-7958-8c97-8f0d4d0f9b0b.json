@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Jeju",
+    "street": "75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2023-11-16"
+  },
+  "geo": {
+    "lat": 33.24754893578884,
+    "lon": 126.40812154907378
+  },
+  "id": "018d529d-62fd-7958-8c97-8f0d4d0f9b0b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/da414953-8746-4083-8344-cb9c81f9a784.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/da414953-8746-4083-8344-cb9c81f9a784.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.chanel.com/kr/fashion/services/boutique-jeju/?utm_campaign=fsh_bor_sea_ao_boutiqueopening&utm_source=naver&utm_medium=cpc&utm_content=nsa_fsh_fas_b_all_fas_even_pope-jeju&utm_term=%EC%A0%9C%EC%A3%BC%EC%83%A4%EB%84%AC%ED%8C%9D%EC%97%85",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:21.605594"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
+      "title": "CHANEL济州季节精品店"
+    }
+  }
+}

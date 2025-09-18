@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "2, Gonghang-ro, Jeju-si, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-05",
+    "start": "2024-01-01"
+  },
+  "geo": {
+    "lat": 33.50723,
+    "lon": 126.4928
+  },
+  "id": "018dca59-9146-7fe4-b2c8-b9e7476ee0d1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/36a217f9-b3c8-4d5c-82ba-4a40e74b553f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/36a217f9-b3c8-4d5c-82ba-4a40e74b553f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:59.098787"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018dca59-9146-7fe4-b2c8-b9e7476ee0d1"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju-do, 2, Gonghang-ro, Jeju-si, ",
+      "title": "済州ウムPOP-UP"
+    }
+  }
+}

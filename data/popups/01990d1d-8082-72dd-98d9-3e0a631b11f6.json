@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-02"
+  },
+  "geo": {
+    "lat": 37.5048150554696,
+    "lon": 127.00369147249147
+  },
+  "id": "01990d1d-8082-72dd-98d9-3e0a631b11f6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/31681dd6-9634-4893-a041-fcf9ced6ef53.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/31681dd6-9634-4893-a041-fcf9ced6ef53.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/enhypen/notice/29663",
+      "label": "查看详细"
+    },
+    {
+      "href": "https://booking.naver.com/booking/12/bizes/1478521/items/6989414?startDateTime=2025-09-08T00%3A00%3A00%2B09%3A00",
+      "label": "立即预约"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:21.856097"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990d1d-8082-72dd-98d9-3e0a631b11f6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "Artist-Made Collection by ENHYPEN 快闪店"
+    }
+  }
+}

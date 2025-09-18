@@ -1,0 +1,46 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1F, 37, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-18",
+    "start": "2024-03-15"
+  },
+  "geo": {
+    "lat": 37.54309,
+    "lon": 127.0537
+  },
+  "id": "018e08b6-2aa5-7f35-8681-212d1d33115e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/62e9b476-858b-4c7d-83cf-91b6f89eff26.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/62e9b476-858b-4c7d-83cf-91b6f89eff26.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:10.447817"
+  },
+  "pricing": {
+    "description": "リップカラーテスト 無料 / パーソナルカラーテスト + メイクアップ 60,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e08b6-2aa5-7f35-8681-212d1d33115e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1F, 37, Yeonmujang-gil, Seongdong-gu, ",
+      "priceDesc": "リップカラーテスト 無料 / パーソナルカラーテスト + メイクアップ 60,000ウォン",
+      "title": "MOOD COLLECT 聖水 POP-UP"
+    }
+  }
+}

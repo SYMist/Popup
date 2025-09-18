@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-05",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.52605284372434,
+    "lon": 126.928296463789
+  },
+  "id": "01936090-6084-7fd1-b71e-8a853bff51f4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1a1879a6-6b8a-4ee1-95a3-12fae35556f1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1a1879a6-6b8a-4ee1-95a3-12fae35556f1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCjDE7BTe9q/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:46.121725"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936090-6084-7fd1-b71e-8a853bff51f4"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "韩剧《对不起，我爱你》快闪店"
+    }
+  }
+}

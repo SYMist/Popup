@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 807, Seolleung-ro, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-28",
+    "start": "2024-10-18"
+  },
+  "geo": {
+    "lat": 37.52427369999999,
+    "lon": 127.0390543
+  },
+  "id": "0191912b-a5e5-718f-8f01-c323ceb437e1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/acb52a43-9bcb-4cb8-9d1f-2181d1aa938b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/acb52a43-9bcb-4cb8-9d1f-2181d1aa938b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24011855",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:09.452252"
+  },
+  "pricing": {
+    "description": "KRW 30,000",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191912b-a5e5-718f-8f01-c323ceb437e1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "priceDesc": "KRW 30,000",
+      "title": "迪士尼100周年纪念店"
+    }
+  }
+}

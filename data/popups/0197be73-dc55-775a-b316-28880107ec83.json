@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "3-4F, 402, Achasan-ro, Gwangjin-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-07",
+    "start": "2025-06-27"
+  },
+  "geo": {
+    "lat": 37.537011,
+    "lon": 127.086946
+  },
+  "id": "0197be73-dc55-775a-b316-28880107ec83",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c29dd505-de80-4dcc-a9a4-6d2eb792e01d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c29dd505-de80-4dcc-a9a4-6d2eb792e01d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://m.booking.naver.com/booking/12/bizes/1425271/items/6797076?area=bmp&startDateTime=2025-07-04T00%3A00%3A00%2B09%3A00",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:32.585401"
+  },
+  "pricing": {
+    "description": "20,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be73-dc55-775a-b316-28880107ec83"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 3-4F, 402, Achasan-ro, Gwangjin-gu, ",
+      "priceDesc": "20,000韩元",
+      "title": "ASTRO媒体展览"
+    }
+  }
+}

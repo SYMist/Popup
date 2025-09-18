@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13-3 Wausan-ro 29na-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-07",
+    "start": "2025-09-04"
+  },
+  "geo": {
+    "lat": 37.55472,
+    "lon": 126.9282
+  },
+  "id": "01988391-387d-7bdd-9d03-108103cafdb9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/727c1c6a-0740-4c6a-bbcf-6c5e3806b401.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/727c1c6a-0740-4c6a-bbcf-6c5e3806b401.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/riizeventcafe",
+      "label": "RIIZELAND"
+    },
+    {
+      "href": "https://x.com/RIIZE_EVENT/status/1951682104166662627",
+      "label": "ADVENTURE TIME"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:12.684962"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01988391-387d-7bdd-9d03-108103cafdb9"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "“RIIZE” 出道咖啡厅 🎂"
+    }
+  }
+}

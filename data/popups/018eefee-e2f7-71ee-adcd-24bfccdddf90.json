@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-02",
+    "start": "2024-04-20"
+  },
+  "geo": {
+    "lat": 37.5442,
+    "lon": 127.0544
+  },
+  "id": "018eefee-e2f7-71ee-adcd-24bfccdddf90",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ba34f4e5-4e0a-4e8f-bfe6-d4f6e36a1d7d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ba34f4e5-4e0a-4e8f-bfe6-d4f6e36a1d7d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C52yx2Nh10U/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:19.174946"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018eefee-e2f7-71ee-adcd-24bfccdddf90"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "rom&nd 【𝗝𝗨𝗜𝗖𝗬 𝗢𝗟𝗥𝗢𝗠𝗣𝗜𝗖】"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 424, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-22",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 37.51470747901954,
+    "lon": 127.1275109650297
+  },
+  "id": "01931ed7-d4ec-7281-b83f-3f159030889b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/92bab81e-62c8-435d-b8c4-29d02377c326.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/92bab81e-62c8-435d-b8c4-29d02377c326.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24015567",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:11.104240"
+  },
+  "pricing": {
+    "description": "S Seats: 110,000 KRW, R Seats: 132,000 KRW, SR Seats: 154,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01931ed7-d4ec-7281-b83f-3f159030889b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "S Seats: 110,000 KRW, R Seats: 132,000 KRW, SR Seats: 154,000 KRW",
+      "title": "Kyuhyun 10th Anniversary Asia Tour"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Jung-gu, Sejongdaero 99,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-08"
+  },
+  "geo": {
+    "lat": 37.565781324183696,
+    "lon": 126.9751374090271
+  },
+  "id": "018ce6cf-926f-7f99-a92a-a0740c5ee091",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/80abe0ec-97bb-4cdf-9520-98aa85f6975f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/80abe0ec-97bb-4cdf-9520-98aa85f6975f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.royalguard.kr/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:47.581020"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018ce6cf-926f-7f99-a92a-a0740c5ee091"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, Jung-gu, Sejongdaero 99,",
+      "title": "德寿宫王宫守门将换岗仪式"
+    }
+  }
+}

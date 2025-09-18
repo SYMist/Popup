@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Dosan-daero 15-gil, Gangnam-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-07",
+    "start": "2025-09-01"
+  },
+  "geo": {
+    "lat": 37.520636,
+    "lon": 127.023124
+  },
+  "id": "0198e3c8-21d4-767e-b522-1b3dfe655163",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/16b8bd48-ed86-4465-bdd4-f63978b8c609.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/16b8bd48-ed86-4465-bdd4-f63978b8c609.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNpsgi7P6SU/?img_index=1",
+      "label": "查看详细"
+    },
+    {
+      "href": "https://m.booking.naver.com/booking/12/bizes/1478128/items/6985797?area=bmp&map-search=1&startDateTime=2025-09-01T00%3A00%3A00%2B09%3A00",
+      "label": "事前预约"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:55.121436"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e3c8-21d4-767e-b522-1b3dfe655163"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 35, Dosan-daero 15-gil, Gangnam-gu,",
+      "title": "DAY6.zip"
+    }
+  }
+}

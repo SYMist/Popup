@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "43, Hongik-ro 2-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-06-08",
+    "start": "2025-06-06"
+  },
+  "geo": {
+    "lat": 37.55564,
+    "lon": 126.9245
+  },
+  "id": "01968f60-aea4-79c0-b2bd-6b126bb77eda",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1b008730-cb73-41d2-8e6c-4351d558a5f5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1b008730-cb73-41d2-8e6c-4351d558a5f5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/SunnySide_66/status/1906632814616879273",
+      "label": "𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙁𝙪𝙡𝙡𝙎𝙪𝙣 𝙇𝙖𝙣𝙙"
+    },
+    {
+      "href": "https://x.com/FullSunDay_66/status/1905546906240950275",
+      "label": "那家伙真帅"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:48.018556"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968f60-aea4-79c0-b2bd-6b126bb77eda"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu, ",
+      "title": "“楷灿”生日咖啡厅🎂"
+    }
+  }
+}

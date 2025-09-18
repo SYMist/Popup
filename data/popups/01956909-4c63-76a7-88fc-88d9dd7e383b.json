@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-03-19",
+    "start": "2025-03-09"
+  },
+  "geo": {
+    "lat": 37.52605268200817,
+    "lon": 126.92829518956658
+  },
+  "id": "01956909-4c63-76a7-88fc-88d9dd7e383b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bb3b65ea-1562-4905-a952-1e8a0d079ccd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bb3b65ea-1562-4905-a952-1e8a0d079ccd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DGxa9eZTUZJ/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:02.764390"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956909-4c63-76a7-88fc-88d9dd7e383b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "G-DRAGON媒体展览"
+    }
+  }
+}

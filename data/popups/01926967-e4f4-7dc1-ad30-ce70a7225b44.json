@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Cheonggyecheon-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-20",
+    "start": "2024-10-18"
+  },
+  "geo": {
+    "lat": 37.568511,
+    "lon": 126.981621
+  },
+  "id": "01926967-e4f4-7dc1-ad30-ce70a7225b44",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a08d2116-b574-46e6-9dd1-9527cdd661c2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a08d2116-b574-46e6-9dd1-9527cdd661c2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://forms.gle/jKSUUMFz5zGppKt56",
+      "label": "Book now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:33.629510"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926967-e4f4-7dc1-ad30-ce70a7225b44"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
+      "title": "2024 Welcome Daehakro CKL STAGE"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "322 Sowol-ro, Yongsan-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-03",
+    "start": "2024-12-01"
+  },
+  "geo": {
+    "lat": 37.538988000000025,
+    "lon": 126.9977802245369
+  },
+  "id": "019480e6-49f0-7a44-9c0b-468fe48d62a3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c63e9b61-8d69-4949-b0e5-6ea9cec3ac09.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c63e9b61-8d69-4949-b0e5-6ea9cec3ac09.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCYEspJtmNf/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:46.749990"
+  },
+  "pricing": {
+    "description": "门票 15,000韩元（包含饮料券）/ 使用券 55,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019480e6-49f0-7a44-9c0b-468fe48d62a3"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 322 Sowol-ro, Yongsan-gu, ",
+      "priceDesc": "门票 15,000韩元（包含饮料券）/ 使用券 55,000韩元",
+      "title": "首尔君悦酒店滑冰场"
+    }
+  }
+}

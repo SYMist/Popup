@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Yeongjung-ro, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-15",
+    "start": "2024-09-05"
+  },
+  "geo": {
+    "lat": 37.51795,
+    "lon": 126.904599
+  },
+  "id": "0191d96a-1eb5-7234-91d2-460317050d29",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ea32df27-7533-4116-ae99-b8a7bb6b68d9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ea32df27-7533-4116-ae99-b8a7bb6b68d9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_SID2HzaL8/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:35.136091"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d96a-1eb5-7234-91d2-460317050d29"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 15, Yeongjung-ro, Yeongdeungpo-gu,",
+      "title": "ONEW 'FLOW' POP-UP"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Jung-gu, Sejongdaero 40"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-12"
+  },
+  "geo": {
+    "lat": 37.5599815,
+    "lon": 126.9753064
+  },
+  "id": "018cfb2c-6ee8-72cd-826a-a2e7d93fc3da",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/03f9b639-c0ef-4d31-81b7-1548630a4852.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/03f9b639-c0ef-4d31-81b7-1548630a4852.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.royalguard.kr/content/sungnyemun_gate",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:13.024453"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018cfb2c-6ee8-72cd-826a-a2e7d93fc3da"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, Jung-gu, Sejongdaero 40",
+      "title": "崇礼门把守仪式"
+    }
+  }
+}

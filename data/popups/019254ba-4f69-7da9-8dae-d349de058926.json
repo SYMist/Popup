@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7, Yeonmujang 5-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-10",
+    "start": "2024-09-27"
+  },
+  "geo": {
+    "lat": 37.544051278304046,
+    "lon": 127.05251700305845
+  },
+  "id": "019254ba-4f69-7da9-8dae-d349de058926",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b43919eb-3cfd-463e-a47f-86b32d985fff.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b43919eb-3cfd-463e-a47f-86b32d985fff.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAah9tQp3O1/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:39.121935"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019254ba-4f69-7da9-8dae-d349de058926"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 7, Yeonmujang 5-gil, Seongdong-gu,",
+      "title": "Energy by Longchampm Pop-Up"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Apgujeong-ro 46-gil, Gangnam-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-02-27",
+    "start": "2024-01-19"
+  },
+  "geo": {
+    "lat": 37.52536813456131,
+    "lon": 127.0356940833118
+  },
+  "id": "018dc000-062a-7ca7-83b0-c7744bbfc8ed",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9a237a01-a593-4efe-bc69-1544ad5fec4f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9a237a01-a593-4efe-bc69-1544ad5fec4f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.gentlemonster.com/kr/stories/2024collection-popup",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:59.060961"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018dc000-062a-7ca7-83b0-c7744bbfc8ed"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu,",
+      "title": "Gentle Monster Gentle Jelly POP-UP"
+    }
+  }
+}

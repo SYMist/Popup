@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "19, Wausan-ro 29-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-12",
+    "start": "2025-08-10"
+  },
+  "geo": {
+    "lat": 37.554958,
+    "lon": 126.92868
+  },
+  "id": "0197c865-ba9a-7b41-ac74-40fdff0f76b1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/92fc08f8-5716-4da6-924c-98a94900ce0d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/92fc08f8-5716-4da6-924c-98a94900ce0d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/HBD_ooo/status/1937495009483456685",
+      "label": "泰猫日记！"
+    },
+    {
+      "href": "https://x.com/tslove08?t=-3O0A5dp6Rdi7-ZlnZGKSA&s",
+      "label": "人类的生日咖啡馆迎来了TAESAN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:38.490578"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c865-ba9a-7b41-ac74-40fdff0f76b1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 19, Wausan-ro 29-gil, Mapo-gu,",
+      "title": "“TAESAN” 生日咖啡厅🎂"
+    }
+  }
+}

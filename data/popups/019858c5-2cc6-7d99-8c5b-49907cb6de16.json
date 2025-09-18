@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "32-22 Donggyo-ro 23-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-14",
+    "start": "2024-09-11"
+  },
+  "geo": {
+    "lat": 37.557865,
+    "lon": 126.920801
+  },
+  "id": "019858c5-2cc6-7d99-8c5b-49907cb6de16",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ba7f0921-6dfc-4f48-887e-4ba8b0d630d0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ba7f0921-6dfc-4f48-887e-4ba8b0d630d0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/AfterClass0913/status/1948718179548557467",
+      "label": "放学后的相遇"
+    },
+    {
+      "href": "https://x.com/BambiBurger0913/status/1943634964379267211",
+      "label": "𝘽𝙖𝙢𝙗𝙞'𝙨 𝘽𝙪𝙧𝙜𝙚𝙧"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:02.199629"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019858c5-2cc6-7d99-8c5b-49907cb6de16"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 32-22 Donggyo-ro 23-gil, Mapo-gu, ",
+      "title": "“成灿” 生日咖啡厅🎂"
+    }
+  }
+}

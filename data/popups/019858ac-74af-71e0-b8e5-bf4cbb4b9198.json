@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "772, Gaya-daero, Busanjin-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-17",
+    "start": "2025-07-25"
+  },
+  "geo": {
+    "lat": 35.156906,
+    "lon": 129.056497
+  },
+  "id": "019858ac-74af-71e0-b8e5-bf4cbb4b9198",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/778522eb-0d26-44fc-bfb4-8bfa8747cbbc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/778522eb-0d26-44fc-bfb4-8bfa8747cbbc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://pokemonkorea.co.kr/capsule_station",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:01.581633"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019858ac-74af-71e0-b8e5-bf4cbb4b9198"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 772, Gaya-daero, Busanjin-gu,",
+      "title": "宝可梦扭蛋站 in 釜山"
+    }
+  }
+}

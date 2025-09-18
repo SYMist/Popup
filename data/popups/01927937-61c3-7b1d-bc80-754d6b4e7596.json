@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "106, Sogong-ro, Jung-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-09-30"
+  },
+  "geo": {
+    "lat": 37.56438060473196,
+    "lon": 126.98005807080601
+  },
+  "id": "01927937-61c3-7b1d-bc80-754d6b4e7596",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/818c5d1c-b31b-4f27-9ab8-59d822fdfabd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/818c5d1c-b31b-4f27-9ab8-59d822fdfabd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DA0TU-TSo3s/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:01.740046"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01927937-61c3-7b1d-bc80-754d6b4e7596"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 106, Sogong-ro, Jung-gu, ",
+      "title": "<Time Travel to Heritage Josun Hotel>"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gonghangmunhwa-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2025-01-11"
+  },
+  "geo": {
+    "lat": 37.46673867778268,
+    "lon": 126.39053991257427
+  },
+  "id": "0192d113-c191-7f0e-96d4-6ba52cd81aa9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0e1d1259-bbf5-47f9-99e8-4f3cbda74cba.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0e1d1259-bbf5-47f9-99e8-4f3cbda74cba.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24011941",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:25.073750"
+  },
+  "pricing": {
+    "description": "A席 121,000ウォン、S席 143,000ウォン、R席 176,000ウォン、VIP席 187,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192d113-c191-7f0e-96d4-6ba52cd81aa9"
+  },
+  "translations": {
+    "ja": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "A席 121,000ウォン、S席 143,000ウォン、R席 176,000ウォン、VIP席 187,000ウォン",
+      "title": "なにわ男子 アジアツアー2024+2025"
+    }
+  }
+}

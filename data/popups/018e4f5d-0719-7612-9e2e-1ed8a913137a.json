@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50 Apgujeong-ro 46-gil, Gangnam-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-04-25",
+    "start": "2024-03-07"
+  },
+  "geo": {
+    "lat": 37.52533,
+    "lon": 127.0357
+  },
+  "id": "018e4f5d-0719-7612-9e2e-1ed8a913137a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/82356953-1ef5-4aff-86bf-b8e97616edb5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/82356953-1ef5-4aff-86bf-b8e97616edb5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.gentlemonster.com/kr/?NaPm=ct%3Dltwbd430%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3D8ec09976d21b44084c1da592ceff3804cc507bc4",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:17.166779"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e4f5d-0719-7612-9e2e-1ed8a913137a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 50 Apgujeong-ro 46-gil, Gangnam-gu,",
+      "title": "Gentle Monster × Maison Margiela POP-UP"
+    }
+  }
+}

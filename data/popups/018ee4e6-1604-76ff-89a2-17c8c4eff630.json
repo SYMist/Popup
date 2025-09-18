@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "110, Sejong-daero, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-06",
+    "start": "2024-05-01"
+  },
+  "geo": {
+    "lat": 37.56562,
+    "lon": 126.978
+  },
+  "id": "018ee4e6-1604-76ff-89a2-17c8c4eff630",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/eb6b3f93-b450-4570-a2a1-df0180d19934.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/eb6b3f93-b450-4570-a2a1-df0180d19934.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.seoulfesta.com/en/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:17.041059"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ee4e6-1604-76ff-89a2-17c8c4eff630"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 110, Sejong-daero, Jung-gu,",
+      "title": "Seoul Festa 2024"
+    }
+  }
+}

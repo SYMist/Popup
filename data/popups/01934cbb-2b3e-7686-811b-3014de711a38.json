@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Eulji-ro, Jung-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-21"
+  },
+  "geo": {
+    "lat": 37.56561634241488,
+    "lon": 126.97802368803741
+  },
+  "id": "01934cbb-2b3e-7686-811b-3014de711a38",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7c535c99-1558-4da4-8260-90ed0644454a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7c535c99-1558-4da4-8260-90ed0644454a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCjIM3Qzaf6/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:23.030763"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934cbb-2b3e-7686-811b-3014de711a38"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
+      "title": "首尔广场圣诞树🎄"
+    }
+  }
+}

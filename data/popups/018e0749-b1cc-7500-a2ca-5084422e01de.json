@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Yeonmujang 15-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-14",
+    "start": "2024-02-14"
+  },
+  "geo": {
+    "lat": 37.54371,
+    "lon": 127.0611
+  },
+  "id": "018e0749-b1cc-7500-a2ca-5084422e01de",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a8938d38-5b90-4371-a5f5-8d7c6750dbee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a8938d38-5b90-4371-a5f5-8d7c6750dbee.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:36.584182"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e0749-b1cc-7500-a2ca-5084422e01de"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu,",
+      "title": "ESSENTIAL by EQL POP-UP"
+    }
+  }
+}

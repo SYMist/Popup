@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8, Dosan-daero 49-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-12",
+    "start": "2024-08-29"
+  },
+  "geo": {
+    "lat": 37.5233671,
+    "lon": 127.0374302
+  },
+  "id": "0191b547-d4dc-79ce-a1b7-0032d17c9370",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4292088b-28a2-41c8-9739-b1a859ebddb8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4292088b-28a2-41c8-9739-b1a859ebddb8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_Hc6PdvNG5/",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:16.126724"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b547-d4dc-79ce-a1b7-0032d17c9370"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 8, Dosan-daero 49-gil, Gangnam-gu, ",
+      "title": "LeSportsac x HELLO KITTY POP-UP"
+    }
+  }
+}

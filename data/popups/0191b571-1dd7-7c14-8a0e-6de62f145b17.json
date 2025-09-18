@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Wausan-ro 29-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-13",
+    "start": "2024-09-07"
+  },
+  "geo": {
+    "lat": 37.5542440165473,
+    "lon": 126.92870433124807
+  },
+  "id": "0191b571-1dd7-7c14-8a0e-6de62f145b17",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/95ef8a7f-7eac-4fe0-83ee-f6145a421331.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/95ef8a7f-7eac-4fe0-83ee-f6145a421331.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/txthbd",
+      "label": "ヨンニャンイ育成"
+    },
+    {
+      "href": "https://x.com/TXT_CAFE_EVENT",
+      "label": "CUPID YEONJUN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:32.996250"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b571-1dd7-7c14-8a0e-6de62f145b17"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Wausan-ro 29-gil, Mapo-gu,",
+      "title": "『ヨンジュン』 センイルカフェ🎂"
+    }
+  }
+}

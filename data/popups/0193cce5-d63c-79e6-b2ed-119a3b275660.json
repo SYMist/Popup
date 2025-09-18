@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "35, Centumnam-daero, Haeundae-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-26",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 35.16892524444718,
+    "lon": 129.12963124202204
+  },
+  "id": "0193cce5-d63c-79e6-b2ed-119a3b275660",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ae974783-2391-4bfd-9e52-f4a22abe61ac.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ae974783-2391-4bfd-9e52-f4a22abe61ac.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DDWhOrvvctk/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:43.598125"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cce5-d63c-79e6-b2ed-119a3b275660"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 35, Centumnam-daero, Haeundae-gu,",
+      "priceDesc": "null",
+      "title": "ZANMANG HOLLY EXPRESS"
+    }
+  }
+}

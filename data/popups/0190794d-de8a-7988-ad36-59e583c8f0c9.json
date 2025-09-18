@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8, Achasan-ro 9-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-07-21",
+    "start": "2024-07-06"
+  },
+  "geo": {
+    "lat": 37.544721270583,
+    "lon": 127.0583
+  },
+  "id": "0190794d-de8a-7988-ad36-59e583c8f0c9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4d9401ae-fcba-4725-a824-02028037e5c6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4d9401ae-fcba-4725-a824-02028037e5c6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C8tOWt9qnhZ/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:21.402070"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190794d-de8a-7988-ad36-59e583c8f0c9"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 8, Achasan-ro 9-gil, Seongdong-gu,",
+      "title": "Asahi SUPER DRY POP-UP"
+    }
+  }
+}

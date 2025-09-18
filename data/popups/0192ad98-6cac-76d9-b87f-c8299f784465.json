@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "22, Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-30",
+    "start": "2024-10-26"
+  },
+  "geo": {
+    "lat": 37.554945,
+    "lon": 126.926757
+  },
+  "id": "0192ad98-6cac-76d9-b87f-c8299f784465",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9a7fcfe9-aa48-4d28-ae56-9df159a1d061.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9a7fcfe9-aa48-4d28-ae56-9df159a1d061.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/myminbunny/status/1838169732652130624",
+      "label": "That's HOT"
+    },
+    {
+      "href": "https://x.com/gisellegallery/status/1838934072896160191",
+      "label": "Jelly Cat House"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:41.470774"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192ad98-6cac-76d9-b87f-c8299f784465"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 22, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『Giselle』 Birthday Cafe🎂"
+    }
+  }
+}

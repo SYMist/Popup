@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8-1, Yeouido-dong, Yeongdeungpo-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-04-12",
+    "start": "2025-04-08"
+  },
+  "geo": {
+    "lat": 37.52955,
+    "lon": 126.9216
+  },
+  "id": "0195db49-0128-7156-b9b7-b478105bb46a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/281e6800-b773-42d7-867c-ce5dff107dba.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/281e6800-b773-42d7-867c-ce5dff107dba.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ydp.go.kr/tour/contents.do?key=6107&",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:47.818016"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db49-0128-7156-b9b7-b478105bb46a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 8-1, Yeouido-dong, Yeongdeungpo-gu, ",
+      "title": "永登浦汝矣岛春花节"
+    }
+  }
+}

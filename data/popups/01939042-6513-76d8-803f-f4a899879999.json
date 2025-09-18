@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "4-15, Wausan-ro 29-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-09",
+    "start": "2024-12-07"
+  },
+  "geo": {
+    "lat": 37.555062,
+    "lon": 126.929291
+  },
+  "id": "01939042-6513-76d8-803f-f4a899879999",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/685b6fd6-4ed4-4dca-804b-2bb74a4fef3a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/685b6fd6-4ed4-4dca-804b-2bb74a4fef3a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/nk_mkmk/status/1857061003495653805",
+      "label": "与NI-KI一起的冬天"
+    },
+    {
+      "href": "https://x.com/diw_niki/status/1852260685734203492",
+      "label": "Drowning in Winter"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:10.480781"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939042-6513-76d8-803f-f4a899879999"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 4-15, Wausan-ro 29-gil, Mapo-gu,",
+      "title": "“NI-KI” 生日咖啡厅 🎂"
+    }
+  }
+}

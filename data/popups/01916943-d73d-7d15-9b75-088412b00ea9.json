@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "44, Sinchon-ro 2an-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.55663795778841,
+    "lon": 126.9293291588955
+  },
+  "id": "01916943-d73d-7d15-9b75-088412b00ea9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/36d51147-00bf-42c6-9ee7-8c5623441985.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/36d51147-00bf-42c6-9ee7-8c5623441985.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/angzz_princess",
+      "label": "Am I a princess, too?"
+    },
+    {
+      "href": "https://x.com/annyeongz_2024",
+      "label": "Transit Birthday"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:56.096179"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916943-d73d-7d15-9b75-088412b00ea9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 44, Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『YUJIN』 Birthday Cafe 🎂"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "180, Haeyang-ro 195beon-gil, Yeongdo-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-31",
+    "start": "2025-06-25"
+  },
+  "geo": {
+    "lat": 35.086044,
+    "lon": 129.076708
+  },
+  "id": "0197beef-a36a-72c9-9444-faa2b4db0fed",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1cc5cdf7-824d-4399-ba60-280e48296363.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1cc5cdf7-824d-4399-ba60-280e48296363.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLUZ2eHzp75/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:36.192494"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197beef-a36a-72c9-9444-faa2b4db0fed"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 180, Haeyang-ro 195beon-gil, Yeongdo-gu",
+      "title": "音乐剧阿拉丁期间限定店"
+    }
+  }
+}

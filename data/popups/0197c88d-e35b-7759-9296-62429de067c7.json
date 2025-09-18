@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "31-12, Wausan-ro 21-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-24",
+    "start": "2025-07-20"
+  },
+  "geo": {
+    "lat": 37.551784,
+    "lon": 126.921928
+  },
+  "id": "0197c88d-e35b-7759-9296-62429de067c7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a90d6faf-afa6-4270-b936-5efbd7c048d8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a90d6faf-afa6-4270-b936-5efbd7c048d8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/723yours/status/1932383009879241166",
+      "label": "𝙞𝙣𝙚𝙫𝙞𝙩𝙖𝙗𝙡𝙮 𝙮𝙤𝙪𝙧"
+    },
+    {
+      "href": "https://x.com/J140K_/status/1931628185743192149",
+      "label": "七月的初恋，我们的材赫前辈！！"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:39.616721"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c88d-e35b-7759-9296-62429de067c7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "“尹材赫” 生日咖啡厅🎂"
+    }
+  }
+}

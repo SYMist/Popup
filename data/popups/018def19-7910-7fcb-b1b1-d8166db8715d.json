@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1F, 27, Hongik-ro 6-gil, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-17",
+    "start": "2024-02-23"
+  },
+  "geo": {
+    "lat": 37.55565,
+    "lon": 126.9231
+  },
+  "id": "018def19-7910-7fcb-b1b1-d8166db8715d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/63e3d9e9-ead6-47bd-b680-c5e6a9908969.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/63e3d9e9-ead6-47bd-b680-c5e6a9908969.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:06.189597"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018def19-7910-7fcb-b1b1-d8166db8715d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1F, 27, Hongik-ro 6-gil, Mapo-gu, ",
+      "title": "FORMENT POP-UP"
+    }
+  }
+}

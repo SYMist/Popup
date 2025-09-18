@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "45, Hyoja-ro 13-gil, Jongno-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-01",
+    "start": "2025-06-25"
+  },
+  "geo": {
+    "lat": 37.582643,
+    "lon": 126.973153
+  },
+  "id": "0197bf04-421f-7171-9959-64c7676c099e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/dad191eb-f329-462b-bde9-b2cab9c6a1a1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/dad191eb-f329-462b-bde9-b2cab9c6a1a1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://cwdsarangchae.kr/ko/board/notice/detail.kto?searchNo=2874",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:37.595870"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bf04-421f-7171-9959-64c7676c099e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 45, Hyoja-ro 13-gil, Jongno-gu,",
+      "title": "青瓦台舍廊房当地旅行快闪展览"
+    }
+  }
+}

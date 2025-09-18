@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Ujeongguk-ro, Jongno-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-14",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 37.57383941968747,
+    "lon": 126.98220123619366
+  },
+  "id": "0192b6ea-ad07-78d4-8a5d-db5e76b71d96",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/454c08df-78e7-4a07-9575-850eb681d3b8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/454c08df-78e7-4a07-9575-850eb681d3b8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.jogyesa.kr/board/notice/board_view.php?search_category=1&num=7418",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:46.127909"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192b6ea-ad07-78d4-8a5d-db5e76b71d96"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 55, Ujeongguk-ro, Jongno-gu, ",
+      "title": "第14回 曹渓寺 菊の花祭り"
+    }
+  }
+}

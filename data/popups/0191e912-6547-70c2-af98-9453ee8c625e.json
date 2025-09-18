@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "2406, Nambu Circulation-ro, Seocho-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-16",
+    "start": "2024-11-29"
+  },
+  "geo": {
+    "lat": 37.480379989635274,
+    "lon": 127.01424380450742
+  },
+  "id": "0191e912-6547-70c2-af98-9453ee8c625e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fb9c678b-9378-4b31-bcc0-60c923ddb6ca.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fb9c678b-9378-4b31-bcc0-60c923ddb6ca.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tickets.interpark.com/goods/24013018",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:30.085580"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191e912-6547-70c2-af98-9453ee8c625e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 2406, Nambu Circulation-ro, Seocho-gu,",
+      "title": "文森特·梵高：不朽的画家"
+    }
+  }
+}

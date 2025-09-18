@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "20 Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-10",
+    "start": "2025-08-08"
+  },
+  "geo": {
+    "lat": 37.55523,
+    "lon": 126.9269
+  },
+  "id": "01975264-edf0-735a-ab1b-7e54a8970929",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/70338ac2-af53-454a-b273-06288ca52d4a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/70338ac2-af53-454a-b273-06288ca52d4a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/dear_my_coups",
+      "label": "Dear.my.s.coups"
+    },
+    {
+      "href": "https://x.com/break_at54951",
+      "label": "Summer break:a day at the beach"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:25.119485"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01975264-edf0-735a-ab1b-7e54a8970929"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 20 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "“S.COUPS” 生日咖啡厅🎂"
+    }
+  }
+}

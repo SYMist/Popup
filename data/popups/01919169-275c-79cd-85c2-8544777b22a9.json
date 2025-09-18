@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "185, Changgyeonggung-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-09-12"
+  },
+  "geo": {
+    "lat": 37.578787,
+    "lon": 126.994862
+  },
+  "id": "01919169-275c-79cd-85c2-8544777b22a9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e53e3de2-6a1b-4fd4-aeae-7393588a43e9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e53e3de2-6a1b-4fd4-aeae-7393588a43e9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.kh.or.kr/short/Jt76",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:09.748404"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01919169-275c-79cd-85c2-8544777b22a9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 185, Changgyeonggung-ro, Jongno-gu,",
+      "title": "2024 Changgyeonggung Palace Night Show"
+    }
+  }
+}

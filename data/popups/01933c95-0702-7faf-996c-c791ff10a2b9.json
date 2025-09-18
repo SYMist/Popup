@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "180, Haeyang-ro 195beon-gil, Yeongdo-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-05-25",
+    "start": "2024-11-30"
+  },
+  "geo": {
+    "lat": 35.08607261035337,
+    "lon": 129.07675062392522
+  },
+  "id": "01933c95-0702-7faf-996c-c791ff10a2b9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3a2cac4f-2231-436f-aa1e-a67718ff1c52.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3a2cac4f-2231-436f-aa1e-a67718ff1c52.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DC0ir56Tire/?img_index=6",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:19.668899"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01933c95-0702-7faf-996c-c791ff10a2b9"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 180, Haeyang-ro 195beon-gil, Yeongdo-gu, ",
+      "title": "スポンジボブのどたばた時間旅行"
+    }
+  }
+}

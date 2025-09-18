@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Gyeonggi-do",
+    "street": "278-1, Docheogwit-ro, Docheok-myeon, Gwangju-si, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-04-30",
+    "start": "2025-03-28"
+  },
+  "geo": {
+    "lat": 37.341284,
+    "lon": 127.289257
+  },
+  "id": "0195db76-76c0-7dda-9e1c-07f6ce52d602",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a8d9d23d-13c6-485e-a48a-464722464d15.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a8d9d23d-13c6-485e-a48a-464722464d15.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.hwadamsup.com/pc/ko/index",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:48.100067"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db76-76c0-7dda-9e1c-07f6ce52d602"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Gyeonggi-do, 278-1, Docheogwit-ro, Docheok-myeon, Gwangju-si, ",
+      "title": "和谈林春季水仙花节"
+    }
+  }
+}

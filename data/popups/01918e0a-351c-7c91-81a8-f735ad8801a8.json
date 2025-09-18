@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-22",
+    "start": "2024-08-27"
+  },
+  "geo": {
+    "lat": 37.54560415764008,
+    "lon": 127.05349760055542
+  },
+  "id": "01918e0a-351c-7c91-81a8-f735ad8801a8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/af5b368d-c61f-4a20-9085-657432ca015b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/af5b368d-c61f-4a20-9085-657432ca015b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_HSnwyTNOd/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:20.087224"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01918e0a-351c-7c91-81a8-f735ad8801a8"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
+      "title": "NOWADAYS POP UP"
+    }
+  }
+}

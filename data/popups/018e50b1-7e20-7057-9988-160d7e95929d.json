@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Dulle 7-gil, Seongdong-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-04-05",
+    "start": "2024-03-30"
+  },
+  "geo": {
+    "lat": 37.53805,
+    "lon": 127.0491
+  },
+  "id": "018e50b1-7e20-7057-9988-160d7e95929d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/dbde480a-332c-4946-8a75-65db9fc582e1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/dbde480a-332c-4946-8a75-65db9fc582e1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:47.139151"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e50b1-7e20-7057-9988-160d7e95929d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 15, Dulle 7-gil, Seongdong-gu",
+      "title": "BTS j-hope <Hope on the street> POP-UP"
+    }
+  }
+}

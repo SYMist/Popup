@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "74, Seongsui-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-22",
+    "start": "2024-12-09"
+  },
+  "geo": {
+    "lat": 37.54155613908973,
+    "lon": 127.0563879766865
+  },
+  "id": "0193ae78-7609-7dec-a4ab-ffd388d2a6c6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2d85e04b-8177-4947-a90d-7c062556ce05.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2d85e04b-8177-4947-a90d-7c062556ce05.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DDV3EgSPtqH/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:18.005911"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae78-7609-7dec-a4ab-ffd388d2a6c6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
+      "priceDesc": "null",
+      "title": "MUSINSA Beauty Awards 期间限定店💄"
+    }
+  }
+}

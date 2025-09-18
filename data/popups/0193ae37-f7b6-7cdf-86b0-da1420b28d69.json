@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7, Yeonmujang 9-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-24",
+    "start": "2024-11-18"
+  },
+  "geo": {
+    "lat": 37.54293894905156,
+    "lon": 127.05574299999999
+  },
+  "id": "0193ae37-f7b6-7cdf-86b0-da1420b28d69",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/caffb99e-ff24-46a6-b884-0fde56ccce07.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/caffb99e-ff24-46a6-b884-0fde56ccce07.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gift.kakao.com/page/27055",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:13.131488"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae37-f7b6-7cdf-86b0-da1420b28d69"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 7, Yeonmujang 9-gil, Seongdong-gu,",
+      "title": "祖·玛珑伦敦圣诞快闪"
+    }
+  }
+}

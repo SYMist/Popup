@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-09-23"
+  },
+  "geo": {
+    "lat": 37.5456594,
+    "lon": 127.0533839
+  },
+  "id": "01922bd4-f192-7ea5-81cb-dc89416a8cc9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cfb5463f-6039-4273-b8a6-7290c885bb18.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cfb5463f-6039-4273-b8a6-7290c885bb18.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DANGwNyTmih/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:14.177608"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922bd4-f192-7ea5-81cb-dc89416a8cc9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
+      "title": "JINHO 1st Mini Album [CHO:RD] x Cubistory"
+    }
+  }
+}

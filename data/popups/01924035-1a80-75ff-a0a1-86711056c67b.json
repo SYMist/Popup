@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Wausan-ro 21-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 37.555453136620415,
+    "lon": 126.92453163619363
+  },
+  "id": "01924035-1a80-75ff-a0a1-86711056c67b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7859b816-d376-44ed-ad0a-b1b86b943c89.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7859b816-d376-44ed-ad0a-b1b86b943c89.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/S2_kittyz",
+      "label": "Farm from the Stars"
+    },
+    {
+      "href": "https://x.com/PhamPham_Land",
+      "label": "Pham Pham Land"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:09.318572"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924035-1a80-75ff-a0a1-86711056c67b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "『Hanni』 Birthday Cafe🎂"
+    }
+  }
+}

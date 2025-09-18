@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-05",
+    "start": "2024-11-20"
+  },
+  "geo": {
+    "lat": 37.5129811049689,
+    "lon": 127.10478854059697
+  },
+  "id": "01934d46-e003-7f90-b512-e1658faf6dfa",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6a86ed01-33f5-4ee0-b182-1754de57c1e2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6a86ed01-33f5-4ee0-b182-1754de57c1e2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCkxP-VTmQT/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:23.262664"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934d46-e003-7f90-b512-e1658faf6dfa"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "2024 乐天圣诞市场"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Seou",
+    "street": "99, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-31",
+    "start": "2025-07-22"
+  },
+  "geo": {
+    "lat": 37.54139,
+    "lon": 127.0603
+  },
+  "id": "019810b2-3c1b-7f96-87b2-eb0874ed52d8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0f0834d7-3a51-48a9-9a41-d152b35cf81e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0f0834d7-3a51-48a9-9a41-d152b35cf81e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://map.naver.com/p/search/%ED%88%AC%EB%B0%94%ED%88%AC%20%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4/place/2058360953?placePath=/home?from=nx&fromNxList=true&from=map&fromPanelNum=2&timestamp=202507160942&locale=ko&svcName=map_pcv5&searchText=%ED%88%AC%EB%B0%94%ED%88%AC%20%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4&searchType=place&c=15.00,0,0,0,dh",
+      "label": "线上预约"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:51.568920"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
+      "title": "The Star Chapter: TOGETHER"
+    }
+  }
+}

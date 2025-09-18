@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "49, Dongmak-ro 7-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-04",
+    "start": "2024-08-01"
+  },
+  "geo": {
+    "lat": 37.549981269197,
+    "lon": 126.9197
+  },
+  "id": "0190f8c5-c9a4-7fdc-a4ba-bccafccc8f34",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/214f2ba5-98c0-4bb6-9398-a29b6fc750a4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/214f2ba5-98c0-4bb6-9398-a29b6fc750a4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/2024_nct_hbd/status/1814574967390155109",
+      "label": "「𝙤𝙣𝙚 𝙞𝙣 𝙖 𝙢𝙞𝙡𝙡𝙞𝙤𝙣」"
+    },
+    {
+      "href": "https://x.com/MARK_BDCAFE/status/1810593246462001238",
+      "label": "「アギチーターセンイルパーティー」"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:32.792485"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190f8c5-c9a4-7fdc-a4ba-bccafccc8f34"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 49, Dongmak-ro 7-gil, Mapo-gu,",
+      "title": "『マーク』 センイルカフェ 🎂"
+    }
+  }
+}

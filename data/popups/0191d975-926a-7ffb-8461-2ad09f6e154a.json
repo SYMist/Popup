@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "45, Hyoja-ro 13-gil, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-06-14"
+  },
+  "geo": {
+    "lat": 37.5826258,
+    "lon": 126.9730991
+  },
+  "id": "0191d975-926a-7ffb-8461-2ad09f6e154a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ede4b9e8-cb25-49c7-a4ce-80748df46a81.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ede4b9e8-cb25-49c7-a4ce-80748df46a81.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://cwdsarangchae.kr/ko/main/index.kto",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:47.140822"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d975-926a-7ffb-8461-2ad09f6e154a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 45, Hyoja-ro 13-gil, Jongno-gu,",
+      "title": "宴火、ときめきの光"
+    }
+  }
+}

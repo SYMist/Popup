@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Olympic-ro﻿, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-12",
+    "start": "2025-10-09"
+  },
+  "geo": {
+    "lat": 37.51620159999999,
+    "lon": 127.0759248
+  },
+  "id": "01987e9a-d01e-7eb1-b4af-b9702d0ec90b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cb9c97d1-23bd-454d-9ec1-eba0064835d8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cb9c97d1-23bd-454d-9ec1-eba0064835d8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/kimjunsu/notice/29060",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:08.692112"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987e9a-d01e-7eb1-b4af-b9702d0ec90b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 25, Olympic-ro﻿, Songpa-gu,",
+      "title": "XIA 2025 CONCERT Chapter 2 : Festa"
+    }
+  }
+}

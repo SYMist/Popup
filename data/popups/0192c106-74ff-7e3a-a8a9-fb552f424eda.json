@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-07",
+    "start": "2024-10-25"
+  },
+  "geo": {
+    "lat": 37.526052970312215,
+    "lon": 126.92829635610816
+  },
+  "id": "0192c106-74ff-7e3a-a8a9-fb552f424eda",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3dc5183c-19fb-4b50-a36c-f1db6689aedf.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3dc5183c-19fb-4b50-a36c-f1db6689aedf.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBS5Sygv15_/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:30.569498"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192c106-74ff-7e3a-a8a9-fb552f424eda"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "Ichiran Home Kit Pop-Up"
+    }
+  }
+}

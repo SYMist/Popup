@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "33, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-06-03",
+    "start": "2024-05-10"
+  },
+  "geo": {
+    "lat": 37.543181270533,
+    "lon": 127.0533
+  },
+  "id": "018f8014-12a1-714f-990f-5b6278a34d6d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/22b90114-a442-46a7-93a7-d0e35c82d37e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/22b90114-a442-46a7-93a7-d0e35c82d37e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6n7jBjv3eU/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:01.081167"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f8014-12a1-714f-990f-5b6278a34d6d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 33, Yeonmujang-gil, Seongdong-gu,",
+      "title": "SATUR The T-Shirts Shop"
+    }
+  }
+}

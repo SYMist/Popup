@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "24-4, Wausan-ro 29na-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-14",
+    "start": "2024-09-13"
+  },
+  "geo": {
+    "lat": 37.55440724224069,
+    "lon": 126.9277154576721
+  },
+  "id": "0191b583-054b-7efc-9148-e0fa504cf636",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0d238bed-5e3e-48db-9a67-7e4226b4684d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0d238bed-5e3e-48db-9a67-7e4226b4684d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/mohaeyodyani",
+      "label": "Reply 1997"
+    },
+    {
+      "href": "https://x.com/HBD913_",
+      "label": "Luck = Infinite Happiness"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:27.123091"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b583-054b-7efc-9148-e0fa504cf636"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 24-4, Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "『HYUNJAE』 Birthday Cafe 🎂"
+    }
+  }
+}

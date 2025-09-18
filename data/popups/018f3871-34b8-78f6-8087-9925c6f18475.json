@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-12",
+    "start": "2024-05-10"
+  },
+  "geo": {
+    "lat": 37.51622,
+    "lon": 127.0759
+  },
+  "id": "018f3871-34b8-78f6-8087-9925c6f18475",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/05b74e4e-6928-4a72-960f-3d0162fef555.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/05b74e4e-6928-4a72-960f-3d0162fef555.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24004759",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:29.467276"
+  },
+  "pricing": {
+    "description": "99,000 ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f3871-34b8-78f6-8087-9925c6f18475"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 25, Olympic-ro, Songpa-gu,",
+      "priceDesc": "99,000 ウォン ",
+      "title": "LE SSERAFIM FAN MEETING 2024"
+    }
+  }
+}

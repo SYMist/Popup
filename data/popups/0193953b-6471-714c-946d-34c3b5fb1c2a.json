@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "46-3, Bukchon-ro, Jongno-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-22",
+    "start": "2024-12-14"
+  },
+  "geo": {
+    "lat": 37.58078048302517,
+    "lon": 126.98515591840267
+  },
+  "id": "0193953b-6471-714c-946d-34c3b5fb1c2a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5bcb70fb-0e66-4e84-ae20-ff924a42897c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5bcb70fb-0e66-4e84-ae20-ff924a42897c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DC6FWe1vjP3/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:03.208749"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193953b-6471-714c-946d-34c3b5fb1c2a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 46-3, Bukchon-ro, Jongno-gu, ",
+      "title": "Stray Kids：合(HOP) 快闪店"
+    }
+  }
+}

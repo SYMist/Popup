@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "69, Seongsui-ro, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-10",
+    "start": "2025-08-20"
+  },
+  "geo": {
+    "lat": 37.541341,
+    "lon": 127.055719
+  },
+  "id": "0198e3d7-5f51-78a0-9d9e-577cd886392a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0dc72e82-80fa-44d9-909e-c85200b8d1b0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0dc72e82-80fa-44d9-909e-c85200b8d1b0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://channel.frommyarti.com/channels/theboyz/notice/1031",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:55.575998"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e3d7-5f51-78a0-9d9e-577cd886392a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 69, Seongsui-ro, Seongdong-gu,",
+      "title": "THE BOYS：LUCKY LITTLE THINGS"
+    }
+  }
+}

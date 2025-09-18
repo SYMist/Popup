@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "253, Itaewon-ro, Yongsan-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-04-03",
+    "start": "2024-03-21"
+  },
+  "geo": {
+    "lat": 37.5374,
+    "lon": 127.0006
+  },
+  "id": "018e8837-c6d5-7ff1-aae8-1a0fcd8dcbd9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5be2692d-168b-4bed-b97e-a0faded9b473.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5be2692d-168b-4bed-b97e-a0faded9b473.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C4xSgrtuxWL/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:58.068775"
+  },
+  "pricing": {
+    "description": "漢江鎭",
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e8837-c6d5-7ff1-aae8-1a0fcd8dcbd9"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 253, Itaewon-ro, Yongsan-gu,",
+      "priceDesc": "漢江鎭",
+      "title": "HELMUT LANG POP-UP"
+    }
+  }
+}

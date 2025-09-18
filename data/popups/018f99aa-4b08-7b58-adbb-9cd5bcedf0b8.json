@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-29",
+    "start": "2024-05-23"
+  },
+  "geo": {
+    "lat": 37.525911269284,
+    "lon": 126.9284
+  },
+  "id": "018f99aa-4b08-7b58-adbb-9cd5bcedf0b8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cbc0b0ef-7ed6-4bee-8a0e-371c3e2a9ac7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cbc0b0ef-7ed6-4bee-8a0e-371c3e2a9ac7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C7Dcv4by0lR/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:02.483177"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f99aa-4b08-7b58-adbb-9cd5bcedf0b8"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "「ソンジェ背負って走れ」 POP-UP"
+    }
+  }
+}

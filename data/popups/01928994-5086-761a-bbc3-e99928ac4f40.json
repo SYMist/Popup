@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40-18, Wausan-ro 29-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-22",
+    "start": "2024-10-18"
+  },
+  "geo": {
+    "lat": 37.55571682356691,
+    "lon": 126.92818788343236
+  },
+  "id": "01928994-5086-761a-bbc3-e99928ac4f40",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df086906-5625-4c6b-bfeb-8ce8ce484eda.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df086906-5625-4c6b-bfeb-8ce8ce484eda.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/jealousykitty/status/1833025610303811864",
+      "label": "2+1=darling"
+    },
+    {
+      "href": "https://x.com/2haaaaani/status/1840742036871504002",
+      "label": "Aliens Live Next Door!?"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:33.014889"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928994-5086-761a-bbc3-e99928ac4f40"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 40-18, Wausan-ro 29-gil, Mapo-gu, ",
+      "title": "『Lee Han』 Birthday Cafe🎂"
+    }
+  }
+}

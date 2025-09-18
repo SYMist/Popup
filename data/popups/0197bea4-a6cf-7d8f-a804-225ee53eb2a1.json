@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "116 Ho., D dong, 41, Jeonpo-daero 255beon-gil, Busanjin-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-27",
+    "start": "2025-05-30"
+  },
+  "geo": {
+    "lat": 35.159236,
+    "lon": 129.063083
+  },
+  "id": "0197bea4-a6cf-7d8f-a804-225ee53eb2a1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b05ad7dc-1e78-44e9-82e6-625fe3f73937.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b05ad7dc-1e78-44e9-82e6-625fe3f73937.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ2zqL3ylZz/?img_index=1",
+      "label": "查看详细"
+    },
+    {
+      "href": "/content/festas/0196f220-df57-7e08-9c08-5dcf73469866",
+      "label": "Object 西桥店信息"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:34.657018"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bea4-a6cf-7d8f-a804-225ee53eb2a1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 116 Ho., D dong, 41, Jeonpo-daero 255beon-gil, Busanjin-gu,",
+      "title": "Marshville Quokscout 🏕️"
+    }
+  }
+}

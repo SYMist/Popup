@@ -1,0 +1,42 @@
+{
+  "address": {},
+  "category": "ENTER",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-08-22"
+  },
+  "geo": {},
+  "id": "0198d032-b121-7813-bdc5-ba2225d84d28",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3438f0e4-bb96-415f-9716-7339c8d0a773.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3438f0e4-bb96-415f-9716-7339c8d0a773.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNluWgwuAbW/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:16.109997"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198d032-b121-7813-bdc5-ba2225d84d28"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "BTS X 麦当劳开心乐园餐发布"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "6, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-14",
+    "start": "2025-03-03"
+  },
+  "geo": {
+    "lat": 37.54793,
+    "lon": 127.0451
+  },
+  "id": "019568f3-6593-767d-94fd-33877898772f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/49005985-18a7-4504-8f35-483b98642f43.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/49005985-18a7-4504-8f35-483b98642f43.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DGzyl6VvrlC/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:02.154871"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019568f3-6593-767d-94fd-33877898772f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 6, Achasan-ro, Seongdong-gu,",
+      "title": "星巴克奶油霜节日"
+    }
+  }
+}

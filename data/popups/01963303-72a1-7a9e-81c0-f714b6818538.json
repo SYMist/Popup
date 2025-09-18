@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "33, Yeouidaebang-ro 20-gil, Dongjak-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-10-20",
+    "start": "2025-05-22"
+  },
+  "geo": {
+    "lat": 37.490514497430894,
+    "lon": 126.91754695732499
+  },
+  "id": "01963303-72a1-7a9e-81c0-f714b6818538",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5fd44b03-56e1-49f1-98b0-067422b0b57e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5fd44b03-56e1-49f1-98b0-067422b0b57e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://festival.seoul.go.kr/garden/introduce/introduce2025",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:59.480091"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963303-72a1-7a9e-81c0-f714b6818538"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu,",
+      "title": "2025首尔国际园艺博览会"
+    }
+  }
+}

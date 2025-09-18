@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Ujeongguk-ro, Jongno-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-12",
+    "start": "2024-04-17"
+  },
+  "geo": {
+    "lat": 37.57391,
+    "lon": 126.9826
+  },
+  "id": "018ebc5d-9e66-7b37-a6c7-b07cd3696aee",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8682da6f-decc-48ac-9db1-6a03aa72eda9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8682da6f-decc-48ac-9db1-6a03aa72eda9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.llf.or.kr/jpn/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:29.190428"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ebc5d-9e66-7b37-a6c7-b07cd3696aee"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 55, Ujeongguk-ro, Jongno-gu, ",
+      "title": "ソウル燃灯会"
+    }
+  }
+}

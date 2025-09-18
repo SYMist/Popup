@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "161, Sajik-ro, Jongno-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-06-24",
+    "start": "2024-04-17"
+  },
+  "geo": {
+    "lat": 37.57962,
+    "lon": 126.977
+  },
+  "id": "018eb7c4-b894-7a18-bb4e-f206a6d8118f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9060480d-b9bf-44b2-8a80-369670ab637e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9060480d-b9bf-44b2-8a80-369670ab637e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.chf.or.kr/brd/board/1049/L/menu/885?brdType=R&thisPage=1&bbIdx=116469&searchField=&searchText=",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:05.206962"
+  },
+  "pricing": {
+    "description": "15,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018eb7c4-b894-7a18-bb4e-f206a6d8118f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "priceDesc": "15,000 KRW",
+      "title": "Gyeongbokgung Palace Royal Tea Ceremony 「Saenggwabang」"
+    }
+  }
+}

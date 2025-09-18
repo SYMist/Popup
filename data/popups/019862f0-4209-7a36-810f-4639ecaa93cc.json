@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic﻿-ro, Songpa-gu"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-17",
+    "start": "2025-08-16"
+  },
+  "geo": {
+    "lat": 37.51470439999999,
+    "lon": 127.1273644
+  },
+  "id": "019862f0-4209-7a36-810f-4639ecaa93cc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f8083280-9168-4d67-a5bb-590b863bb01a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f8083280-9168-4d67-a5bb-590b863bb01a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/NWH_officialtwt/status/1942961986960314537",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:04.431469"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019862f0-4209-7a36-810f-4639ecaa93cc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
+      "title": "2025 南优铉演唱会 "
+    }
+  }
+}

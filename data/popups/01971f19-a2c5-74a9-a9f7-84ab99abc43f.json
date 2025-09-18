@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "115, Toegye-ro, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-29",
+    "start": "2025-05-26"
+  },
+  "geo": {
+    "lat": 37.56127,
+    "lon": 126.9845
+  },
+  "id": "01971f19-a2c5-74a9-a9f7-84ab99abc43f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2ac9bfff-764f-4cb8-b9d1-8992d587240c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2ac9bfff-764f-4cb8-b9d1-8992d587240c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKMVOcdJKEC/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:51.619044"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f19-a2c5-74a9-a9f7-84ab99abc43f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 115, Toegye-ro, Jung-gu,",
+      "title": "Hotel bibigo OLIVE YOUNG 快闪店"
+    }
+  }
+}

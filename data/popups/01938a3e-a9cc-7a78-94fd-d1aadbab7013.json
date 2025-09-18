@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14-25, Wausan-ro 29-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-15",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 37.55525448147699,
+    "lon": 126.92896750152924
+  },
+  "id": "01938a3e-a9cc-7a78-94fd-d1aadbab7013",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/48fee17b-505b-4c95-b1ac-2233aca5dad2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/48fee17b-505b-4c95-b1ac-2233aca5dad2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/woongday_1214/status/1849831816179642693",
+      "label": "地雄的冬季山庄"
+    },
+    {
+      "href": "https://x.com/full_moon_1214/status/1852006160012054904",
+      "label": "滿月"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:07.121702"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01938a3e-a9cc-7a78-94fd-d1aadbab7013"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 14-25, Wausan-ro 29-gil, Mapo-gu, ",
+      "title": "“金地雄” 生日咖啡厅 🎂"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-12-27"
+  },
+  "geo": {
+    "lat": 37.51915242672961,
+    "lon": 127.1273652012234
+  },
+  "id": "0192c121-480d-7664-9a5c-bd3babeeea30",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/159bf24a-a6eb-45f1-b629-3e8e9223c3c8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/159bf24a-a6eb-45f1-b629-3e8e9223c3c8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24015329",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:12.188678"
+  },
+  "pricing": {
+    "description": "A席 121,000ウォン、S席 132,000ウォン、R席 143,000ウォン、VIP席 154,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192c121-480d-7664-9a5c-bd3babeeea30"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "A席 121,000ウォン、S席 132,000ウォン、R席 143,000ウォン、VIP席 154,000ウォン",
+      "title": "ソン・シギョン 年末コンサート"
+    }
+  }
+}

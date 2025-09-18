@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "175, Sejong-daero, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-31",
+    "start": "2025-01-07"
+  },
+  "geo": {
+    "lat": 37.572528552540845,
+    "lon": 126.975643315598
+  },
+  "id": "01946245-b672-76b4-b150-9f2bb2bf6c12",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9e9bd89c-d8c6-40fa-a3d4-98dbc9b977a2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9e9bd89c-d8c6-40fa-a3d4-98dbc9b977a2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEV4BdcTMSj/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:52.241641"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01946245-b672-76b4-b150-9f2bb2bf6c12"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "priceDesc": "null",
+      "title": "Art Logue：冬日绽放"
+    }
+  }
+}

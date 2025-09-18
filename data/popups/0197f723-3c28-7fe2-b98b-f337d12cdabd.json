@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "44 Sinchon-ro 2an-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-10",
+    "start": "2025-08-07"
+  },
+  "geo": {
+    "lat": 37.55685,
+    "lon": 126.9294
+  },
+  "id": "0197f723-3c28-7fe2-b98b-f337d12cdabd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/aee17fac-7789-419d-839f-ad2c6bc466ba.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/aee17fac-7789-419d-839f-ad2c6bc466ba.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Getready_808HBD",
+      "label": "Younghoon's ready for a lively walk"
+    },
+    {
+      "href": "https://x.com/808orbit",
+      "label": "Traveling around the Earth!!"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:50.427864"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f723-3c28-7fe2-b98b-f337d12cdabd"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "“英勋” 生日咖啡厅🎂"
+    }
+  }
+}

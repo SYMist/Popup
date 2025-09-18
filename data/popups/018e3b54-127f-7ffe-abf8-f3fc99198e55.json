@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "81, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-03-17",
+    "start": "2024-03-07"
+  },
+  "geo": {
+    "lat": 37.54172,
+    "lon": 127.0583
+  },
+  "id": "018e3b54-127f-7ffe-abf8-f3fc99198e55",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e2876000-3834-42a7-b038-52be5bf81f40.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e2876000-3834-42a7-b038-52be5bf81f40.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:44.419820"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e3b54-127f-7ffe-abf8-f3fc99198e55"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
+      "title": "3CE POP-UP"
+    }
+  }
+}

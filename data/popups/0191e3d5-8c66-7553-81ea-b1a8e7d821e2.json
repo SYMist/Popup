@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "52, Eoulmadang-ro 5-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-24",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 37.5501397107851,
+    "lon": 126.918005263114
+  },
+  "id": "0191e3d5-8c66-7553-81ea-b1a8e7d821e2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/38fdde88-c934-4f41-8a6d-a06493c78290.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/38fdde88-c934-4f41-8a6d-a06493c78290.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/florens924_",
+      "label": "Why We're Drawn to Senior Gaeul"
+    },
+    {
+      "href": "https://x.com/sunset_ge",
+      "label": "Next to Senior Gaeul"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:57.406835"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3d5-8c66-7553-81ea-b1a8e7d821e2"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 52, Eoulmadang-ro 5-gil, Mapo-gu,",
+      "title": "『Gaeul』 Birthday Cafe 🎂"
+    }
+  }
+}

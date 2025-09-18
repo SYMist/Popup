@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "38, Apgujeong-ro 46-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-05-21",
+    "start": "2025-03-21"
+  },
+  "geo": {
+    "lat": 37.526229,
+    "lon": 127.035836
+  },
+  "id": "0195eed8-3137-79f8-9fc1-f54d55720f25",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/538f8d73-8476-42c4-856b-1024e53e2fee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/538f8d73-8476-42c4-856b-1024e53e2fee.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://themedicube.co.kr/dosan/kuromi_popup.html?utm_source=naver&utm_medium=bs_pc&utm_campaign=thumb2&n_media=27758&n_query=%EB%A9%94%EB%94%94%ED%81%90%EB%B8%8C&n_rank=1&n_ad_group=grp-a001-04-000000041217104&n_ad=nad-a001-04-000000366988901&n_keyword_id=nkw-a001-04-000006149253242&n_keyword=%EB%A9%94%EB%94%94%ED%81%90%EB%B8%8C&n_campaign_type=4&n_contract=tct-a001-04-000000001049044&n_ad_group_type=5&NaPm=ct%3Dm8xrvuf4%7Cci%3D0yC0000SbIHB0fXT00Yw%7Ctr%3Dbrnd%7Chk%3D8a3d672717e0b764703f3c91b83dfb1073e7b685%7Cnacn%3D2c4lBkALxty9",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:08.366017"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eed8-3137-79f8-9fc1-f54d55720f25"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 38, Apgujeong-ro 46-gil, Gangnam-gu, ",
+      "title": "MEDICUBE X 库洛米快闪店"
+    }
+  }
+}

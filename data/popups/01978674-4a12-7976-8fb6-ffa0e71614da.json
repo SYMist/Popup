@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "08, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-04",
+    "start": "2025-06-19"
+  },
+  "geo": {
+    "lat": 37.52627,
+    "lon": 126.9283
+  },
+  "id": "01978674-4a12-7976-8fb6-ffa0e71614da",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/da78ddf6-a7c2-4ebf-8b7d-cfac5a815f1d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/da78ddf6-a7c2-4ebf-8b7d-cfac5a815f1d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DK0mtI3vxCs/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:27.203304"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01978674-4a12-7976-8fb6-ffa0e71614da"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 08, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "Pat & Mat, Cozy Workshop "
+    }
+  }
+}

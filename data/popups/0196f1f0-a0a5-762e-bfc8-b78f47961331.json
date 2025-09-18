@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seou﻿l",
+    "street": "281 Eulji-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-05-21"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "0196f1f0-a0a5-762e-bfc8-b78f47961331",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c01fa089-3b2f-4e46-a0d7-491fc4a1daa9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c01fa089-3b2f-4e46-a0d7-491fc4a1daa9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ27eO5Mgqd/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:49.582577"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f1f0-a0a5-762e-bfc8-b78f47961331"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "獬豸& 灵魂朋友的周边商品"
+    }
+  }
+}

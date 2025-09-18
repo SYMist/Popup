@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8, Seongmisan-ro 26-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-05",
+    "start": "2025-03-30"
+  },
+  "geo": {
+    "lat": 37.56366,
+    "lon": 126.9223
+  },
+  "id": "0195cfce-755e-7e6c-b1df-9f3b292787e5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4fdcfba4-c1af-443c-8938-69b31548df09.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4fdcfba4-c1af-443c-8938-69b31548df09.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/KILIG_HARUTO/status/1895443871729172625",
+      "label": "21ans"
+    },
+    {
+      "href": "https://x.com/sertluv045/status/1895738353448075695",
+      "label": "Dear HARUTO"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:06.114732"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195cfce-755e-7e6c-b1df-9f3b292787e5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
+      "title": "“渡边温斗”生日咖啡厅🎂"
+    }
+  }
+}

@@ -13,7 +13,18 @@
     "lon": 126.9279
   },
   "id": "01968f54-99a4-7b9b-a85c-8346a1fa24b6",
-  "images": [],
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7b07387c-e066-4c0c-8a2b-640b030e3bc5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7b07387c-e066-4c0c-8a2b-640b030e3bc5.jpeg",
+      "variant": "small_square"
+    }
+  ],
   "links": [
     {
       "href": "https://x.com/qing222113905/status/1910604462382514324",
@@ -25,26 +36,15 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-17T14:53:31.263762"
+    "fetchedAt": "2025-09-18T14:21:47.706584"
   },
   "pricing": {
-    "description": "",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
-      "title": "『Youngjae』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
-      "title": "『ヨンジェ』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
       "title": "“英宰” 生日咖啡厅🎂"

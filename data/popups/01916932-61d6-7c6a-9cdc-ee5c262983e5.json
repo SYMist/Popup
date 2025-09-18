@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10, Wausan-ro 29da-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-26",
+    "start": "2024-08-24"
+  },
+  "geo": {
+    "lat": 37.55509776436579,
+    "lon": 126.9276381312828
+  },
+  "id": "01916932-61d6-7c6a-9cdc-ee5c262983e5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a8a4e3ce-1493-4b68-808c-69da995b92ad.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a8a4e3ce-1493-4b68-808c-69da995b92ad.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/tiny_0826",
+      "label": "My First Love, Soyeon"
+    },
+    {
+      "href": "https://x.com/Koko_Yazawa",
+      "label": "Summer with Soyeon"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:40.611461"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916932-61d6-7c6a-9cdc-ee5c262983e5"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 10, Wausan-ro 29da-gil, Mapo-gu,",
+      "title": "『Soyeon』 Birthday Cafe 🎂"
+    }
+  }
+}

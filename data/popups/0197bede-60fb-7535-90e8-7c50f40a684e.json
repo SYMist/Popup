@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "9, Yeonmujang 3-gil, Seongdong-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-07-03"
+  },
+  "geo": {
+    "lat": 37.544921,
+    "lon": 127.051487
+  },
+  "id": "0197bede-60fb-7535-90e8-7c50f40a684e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/aadf7145-e904-4237-8820-2c5cec1c07bf.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/aadf7145-e904-4237-8820-2c5cec1c07bf.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLHMMdoSTHM/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:35.386742"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bede-60fb-7535-90e8-7c50f40a684e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 9, Yeonmujang 3-gil, Seongdong-gu",
+      "title": "Asahi 旅行酒吧快闪店"
+    }
+  }
+}

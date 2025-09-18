@@ -1,0 +1,55 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "16, Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-19",
+    "start": "2025-01-16"
+  },
+  "geo": {
+    "lat": 37.55516,
+    "lon": 126.926923
+  },
+  "id": "01942480-d3e9-7b13-bc18-5cf3d8e7d58e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d9856590-7eb3-4784-88d9-f5eaf71d291c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d9856590-7eb3-4784-88d9-f5eaf71d291c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/BOOlooming_0116/status/1852964054677274682",
+      "label": "page.28"
+    },
+    {
+      "href": "https://x.com/Boomagochi_0116/status/1860906184418685255",
+      "label": "非常棒的虚拟宠物"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:54.454019"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942480-d3e9-7b13-bc18-5cf3d8e7d58e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 16, Wausan-ro 29ra-gil, Mapo-gu,",
+      "priceDesc": "null",
+      "title": "\"胜宽\"生日咖啡厅🎂"
+    }
+  }
+}

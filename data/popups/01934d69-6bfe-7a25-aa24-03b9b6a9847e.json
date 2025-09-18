@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-48, Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-08",
+    "start": "2024-12-05"
+  },
+  "geo": {
+    "lat": 37.52446,
+    "lon": 126.964786
+  },
+  "id": "01934d69-6bfe-7a25-aa24-03b9b6a9847e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c5bb8ea6-d1af-445a-a768-010ca9d66fe2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c5bb8ea6-d1af-445a-a768-010ca9d66fe2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/reverdream1205/status/1851222066495963433",
+      "label": "Sweet Bunny"
+    },
+    {
+      "href": "https://x.com/on1yforsoobin/status/1850560623173906870",
+      "label": "Forever forest"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:31.153501"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934d69-6bfe-7a25-aa24-03b9b6a9847e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-48, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“秀彬” 生日咖啡厅 🎂"
+    }
+  }
+}

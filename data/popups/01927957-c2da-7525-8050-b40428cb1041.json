@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "219, Gwangan Beach-ro, Suyeong-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-09",
+    "start": "2024-11-09"
+  },
+  "geo": {
+    "lat": 35.153217308235185,
+    "lon": 129.11867144907382
+  },
+  "id": "01927957-c2da-7525-8050-b40428cb1041",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/166c2e9b-5573-4755-bc0d-e346fb0758e4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/166c2e9b-5573-4755-bc0d-e346fb0758e4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.bfo.or.kr/festival/info/01.asp?MENUDIV=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:59.618815"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01927957-c2da-7525-8050-b40428cb1041"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 219, Gwangan Beach-ro, Suyeong-gu,",
+      "title": "19th Busan Fireworks Festival"
+    }
+  }
+}

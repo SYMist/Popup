@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "47, Yeonmujang-gil, Seongdong-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-31",
+    "start": "2025-07-18"
+  },
+  "geo": {
+    "lat": 37.542834,
+    "lon": 127.054817
+  },
+  "id": "0197bee9-23dd-742a-93b2-8124d0bfecca",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1e574aef-db07-43b2-902a-9ec8d442d76b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1e574aef-db07-43b2-902a-9ec8d442d76b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJbUwSyIoPa/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:35.603607"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bee9-23dd-742a-93b2-8124d0bfecca"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu",
+      "title": "SUMMADORI BAR 期间限定店"
+    }
+  }
+}

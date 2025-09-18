@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Gyeonggi-﻿do",
+    "street": "1601, Jungang-ro, Ilsanseo-gu, Goyang-si,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-31",
+    "start": "2025-08-30"
+  },
+  "geo": {
+    "lat": 37.6765946,
+    "lon": 126.7431093
+  },
+  "id": "019878ee-0dc6-71cf-b2a0-13ee45062e96",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6b6930b9-2fc8-4ca3-b60d-1db86363ca32.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6b6930b9-2fc8-4ca3-b60d-1db86363ca32.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/day6official/status/1952308633070600335",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:07.617197"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878ee-0dc6-71cf-b2a0-13ee45062e96"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Gyeonggi-﻿do, 1601, Jungang-ro, Ilsanseo-gu, Goyang-si,",
+      "title": "DAY6 巡回演唱会 <The DECADE>"
+    }
+  }
+}

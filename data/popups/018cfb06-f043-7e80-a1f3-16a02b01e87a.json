@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "206, Songpanaru-gil, Songpa-gu"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-02-29",
+    "start": "2023-10-27"
+  },
+  "geo": {
+    "lat": 37.511288768591584,
+    "lon": 127.1051599558197
+  },
+  "id": "018cfb06-f043-7e80-a1f3-16a02b01e87a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a8383231-d525-485f-acab-6c5434309201.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a8383231-d525-485f-acab-6c5434309201.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:20.108779"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018cfb06-f043-7e80-a1f3-16a02b01e87a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 206, Songpanaru-gil, Songpa-gu",
+      "title": "石村湖のイルミネーション"
+    }
+  }
+}

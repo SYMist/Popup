@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "95, Haneulgongwon-ro, Mapo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-25",
+    "start": "2024-10-19"
+  },
+  "geo": {
+    "lat": 37.567769,
+    "lon": 126.885684
+  },
+  "id": "01920cec-a5d3-78a9-b8ca-1ae331dd3d1b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6bd3987c-2790-41b9-976c-3a3ac3f31c79.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6bd3987c-2790-41b9-976c-3a3ac3f31c79.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAarIc0sTOl/?img_index=5",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:11.586919"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920cec-a5d3-78a9-b8ca-1ae331dd3d1b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 95, Haneulgongwon-ro, Mapo-gu,",
+      "title": "The 23rd Seoul Silver Grass Festival"
+    }
+  }
+}

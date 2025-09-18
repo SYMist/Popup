@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83, Achasan-ro, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-01-26",
+    "start": "2025-01-21"
+  },
+  "geo": {
+    "lat": 37.545643,
+    "lon": 127.053477
+  },
+  "id": "019480f5-b479-7912-8a2a-b89f6897d1e7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/946fef62-12cf-4bdc-8d3c-cdf3596911ff.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/946fef62-12cf-4bdc-8d3c-cdf3596911ff.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEylg1Ez7-u/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:47.292744"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019480f5-b479-7912-8a2a-b89f6897d1e7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
+      "priceDesc": "null",
+      "title": "Minnie首张迷你专辑[HER] X Cubi Story"
+    }
+  }
+}

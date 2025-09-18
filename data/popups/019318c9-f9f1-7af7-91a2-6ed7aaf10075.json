@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Eulji-ro, Jung-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-09",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 37.56594829303775,
+    "lon": 126.9785148892608
+  },
+  "id": "019318c9-f9f1-7af7-91a2-6ed7aaf10075",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/30992f1a-1d2b-472c-bdfb-38ead41d436a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/30992f1a-1d2b-472c-bdfb-38ead41d436a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.seoulskate.kr/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:43.739045"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019318c9-f9f1-7af7-91a2-6ed7aaf10075"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
+      "title": "首尔广场溜冰场"
+    }
+  }
+}

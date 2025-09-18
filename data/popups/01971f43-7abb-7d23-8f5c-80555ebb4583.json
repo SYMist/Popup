@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seou﻿l",
+    "street": "281 Eulji-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-07-31",
+    "start": "2025-05-01"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "01971f43-7abb-7d23-8f5c-80555ebb4583",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e5334b93-6462-4deb-b3b7-dcac2184334d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e5334b93-6462-4deb-b3b7-dcac2184334d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJJMoYYhw08/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:53.635472"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f43-7abb-7d23-8f5c-80555ebb4583"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "Prelude to Spring"
+    }
+  }
+}

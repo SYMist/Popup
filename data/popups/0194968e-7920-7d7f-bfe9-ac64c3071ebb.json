@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "281, Eulji-ro, Jung-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-04-06",
+    "start": "2025-01-24"
+  },
+  "geo": {
+    "lat": 37.56652835611871,
+    "lon": 127.0092235015292
+  },
+  "id": "0194968e-7920-7d7f-bfe9-ac64c3071ebb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cfb11ff5-8ee6-435b-a96d-d379e40e3031.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cfb11ff5-8ee6-435b-a96d-d379e40e3031.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DFHvIpUPgMj/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:50.734045"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194968e-7920-7d7f-bfe9-ac64c3071ebb"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
+      "priceDesc": "null",
+      "title": "东大门DDP免费展览"
+    }
+  }
+}

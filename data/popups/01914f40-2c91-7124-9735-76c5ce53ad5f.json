@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "513, Yeongdong-daero, Gangnam-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-08",
+    "start": "2024-09-04"
+  },
+  "geo": {
+    "lat": 37.51016436373311,
+    "lon": 127.06148720126696
+  },
+  "id": "01914f40-2c91-7124-9735-76c5ce53ad5f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7ea0165d-102f-43ed-b05e-4c20fbcfe20f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7ea0165d-102f-43ed-b05e-4c20fbcfe20f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-baK6UyuUf/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:34.466013"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01914f40-2c91-7124-9735-76c5ce53ad5f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
+      "title": "LEE JONG SUK EXHIBITION <Invitation to With>"
+    }
+  }
+}

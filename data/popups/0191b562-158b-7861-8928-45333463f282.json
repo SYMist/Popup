@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Hangang-daero 10-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-12",
+    "start": "2024-09-07"
+  },
+  "geo": {
+    "lat": 37.52395449999999,
+    "lon": 126.9643093
+  },
+  "id": "0191b562-158b-7861-8928-45333463f282",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c5b5df3f-7361-4b71-bafc-b9243a482aef.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c5b5df3f-7361-4b71-bafc-b9243a482aef.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/mikroskosmoz",
+      "label": "Rkive Day"
+    },
+    {
+      "href": "https://x.com/bomnalcafe",
+      "label": "The Moments of RM"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:24.073660"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b562-158b-7861-8928-45333463f282"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 15, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "BTS RM Birthday Cafe"
+    }
+  }
+}

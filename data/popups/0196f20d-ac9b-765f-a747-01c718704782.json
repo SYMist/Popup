@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "81, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-01",
+    "start": "2025-05-21"
+  },
+  "geo": {
+    "lat": 37.54192,
+    "lon": 127.0583
+  },
+  "id": "0196f20d-ac9b-765f-a747-01c718704782",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d184f513-f77a-47ec-a18a-cf7f00208400.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d184f513-f77a-47ec-a18a-cf7f00208400.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ3RssXPYKP/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:50.131005"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f20d-ac9b-765f-a747-01c718704782"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
+      "title": "FoRest 柑橘维C 期间限定店🍊"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "344, World cup-daero, Yeonje-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-06-09",
+    "start": "2024-06-08"
+  },
+  "geo": {
+    "lat": 35.19003,
+    "lon": 129.0583
+  },
+  "id": "018eeb2d-a323-79fc-bd64-89986d5bb127",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1007e1f1-9cc9-4c27-b967-f8d8307ce3ee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1007e1f1-9cc9-4c27-b967-f8d8307ce3ee.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://bof.or.kr/cms/main_j.do",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:17.119296"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018eeb2d-a323-79fc-bd64-89986d5bb127"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 344, World cup-daero, Yeonje-gu, ",
+      "title": "釜山ワンアジアフェスティバル"
+    }
+  }
+}

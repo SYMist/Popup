@@ -1,0 +1,40 @@
+{
+  "address": {},
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-29",
+    "start": "2024-11-21"
+  },
+  "geo": {
+    "lat": 37.54338568324404,
+    "lon": 127.05170355398462
+  },
+  "id": "019365ce-f1cf-71fc-9ff2-1005bca81dd3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f1c3da5e-5c0e-4de4-9b0b-45a67b3ede00.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f1c3da5e-5c0e-4de4-9b0b-45a67b3ede00.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:25.641921"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019365ce-f1cf-71fc-9ff2-1005bca81dd3"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "DIPTYQUE“假日”系列产品快闪"
+    }
+  }
+}

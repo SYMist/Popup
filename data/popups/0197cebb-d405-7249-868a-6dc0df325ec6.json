@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7, Achasan-ro 11-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-20",
+    "start": "2025-07-01"
+  },
+  "geo": {
+    "lat": 37.54447,
+    "lon": 127.059045
+  },
+  "id": "0197cebb-d405-7249-868a-6dc0df325ec6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ba330a0d-a9c8-4d75-b191-494759a4ed19.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ba330a0d-a9c8-4d75-b191-494759a4ed19.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLj5TwUTj_G/?igsh=dm9uOTAweWdsODB3&img_index=6",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:41.783670"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197cebb-d405-7249-868a-6dc0df325ec6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 7, Achasan-ro 11-gil, Seongdong-gu,",
+      "title": "音乐剧《女巫》X 爱茉莉圣水快闪店"
+    }
+  }
+}

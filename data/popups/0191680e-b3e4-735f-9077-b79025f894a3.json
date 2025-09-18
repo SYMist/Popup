@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 281, Eulji-ro, Jung-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-08",
+    "start": "2024-08-29"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "0191680e-b3e4-735f-9077-b79025f894a3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a7c9d70c-abf3-4f6b-a40d-d0049caeb43e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a7c9d70c-abf3-4f6b-a40d-d0049caeb43e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-oZEU0M7EL/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:15.979624"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191680e-b3e4-735f-9077-b79025f894a3"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  281, Eulji-ro, Jung-gu,",
+      "title": "SEOUL LIGHT DDP 2024 AUTUMN"
+    }
+  }
+}

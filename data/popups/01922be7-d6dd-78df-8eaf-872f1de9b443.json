@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Suwon-si",
+    "street": "175, Suseong-ro, Jangan-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-10",
+    "start": "2024-09-23"
+  },
+  "geo": {
+    "lat": 37.28722293102904,
+    "lon": 126.99116546642608
+  },
+  "id": "01922be7-d6dd-78df-8eaf-872f1de9b443",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3c88b196-ff4e-4e1c-9611-407a75274c0d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3c88b196-ff4e-4e1c-9611-407a75274c0d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://pokemonstore.co.kr/pages/board/event_view.html?boardId=event-benefit&articleNo=877951&page=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:17.136416"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922be7-d6dd-78df-8eaf-872f1de9b443"
+  },
+  "translations": {
+    "en": {
+      "address": "Suwon-si, 175, Suseong-ro, Jangan-gu,",
+      "title": "Pokémon Store at Starfield Suwon"
+    }
+  }
+}

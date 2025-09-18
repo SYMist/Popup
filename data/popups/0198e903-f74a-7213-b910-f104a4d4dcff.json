@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30 Yanghwa-ro 16-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-15",
+    "start": "2025-09-12"
+  },
+  "geo": {
+    "lat": 37.552954,
+    "lon": 126.921158
+  },
+  "id": "0198e903-f74a-7213-b910-f104a4d4dcff",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/effb30f5-e42e-4c9d-82c3-b3230076a976.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/effb30f5-e42e-4c9d-82c3-b3230076a976.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Happybirstay/status/1954465850439631242",
+      "label": "喵星人魅力无法挡！"
+    },
+    {
+      "href": "https://x.com/Lingskz/status/1951617760083206258",
+      "label": "Felix O s "
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:17.145264"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e903-f74a-7213-b910-f104a4d4dcff"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
+      "title": "“Felix” 生日咖啡厅🎂"
+    }
+  }
+}

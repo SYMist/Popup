@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Hangang-daero 23-gil, Yongsan-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-02"
+  },
+  "geo": {
+    "lat": 37.53016747430564,
+    "lon": 126.9652000793068
+  },
+  "id": "0192403a-3b72-71b8-9ff4-dc9841378efb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/22cda247-9105-495d-aed7-e6562d4ff5f8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/22cda247-9105-495d-aed7-e6562d4ff5f8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAW5gDev0JJ/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:32.411954"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192403a-3b72-71b8-9ff4-dc9841378efb"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "Detective Conan Pop-up Store"
+    }
+  }
+}

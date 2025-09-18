@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "221-124, Jamwon-ro, Seocho-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-09-25"
+  },
+  "geo": {
+    "lat": 37.5190629,
+    "lon": 127.0093155
+  },
+  "id": "01924073-b308-7d19-a734-e72c1475c835",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bb9ca074-ea18-4d2d-b3ff-38e44a7b37f2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bb9ca074-ea18-4d2d-b3ff-38e44a7b37f2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/lightandsoundfestival2024",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:17.945820"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924073-b308-7d19-a734-e72c1475c835"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 221-124, Jamwon-ro, Seocho-gu,",
+      "title": "2024 Light and Sound Festival"
+    }
+  }
+}

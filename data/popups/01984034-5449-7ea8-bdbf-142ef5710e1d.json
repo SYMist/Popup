@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "160, Yanghwa-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-07-25"
+  },
+  "geo": {
+    "lat": 37.55826,
+    "lon": 126.9259
+  },
+  "id": "01984034-5449-7ea8-bdbf-142ef5710e1d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d4840549-625b-4280-bdd9-cddf04baa601.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d4840549-625b-4280-bdd9-cddf04baa601.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/arch2ve_kr/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:55.530325"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984034-5449-7ea8-bdbf-142ef5710e1d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 160, Yanghwa-ro, Mapo-gu, ",
+      "title": "K-POP偶像照片卡自动售货机✨"
+    }
+  }
+}

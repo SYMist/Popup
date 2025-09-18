@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "162, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-30",
+    "start": "2024-09-27"
+  },
+  "geo": {
+    "lat": 37.5563994,
+    "lon": 126.9238793
+  },
+  "id": "01920c95-b50f-716b-9961-f08cad50f94a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cd7c19bc-b8d8-4aa9-bfa9-95292bb90e03.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cd7c19bc-b8d8-4aa9-bfa9-95292bb90e03.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://narutothegallery.com/seoul/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:45.564511"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920c95-b50f-716b-9961-f08cad50f94a"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 162, Yanghwa-ro, Mapo-gu,",
+      "title": "NARUTO THE GALLERY"
+    }
+  }
+}

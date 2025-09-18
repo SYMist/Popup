@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Jeju-si, Jeju-do",
+    "street": "2144, Pyeonghwa-ro, Aewol-eup,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-14",
+    "start": "2024-08-23"
+  },
+  "geo": {
+    "lat": 33.4074945,
+    "lon": 126.3950743
+  },
+  "id": "0191b546-45fe-7617-9f31-04ac19964f93",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df3a0956-6aec-4e6a-a74b-46b51ed923d9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df3a0956-6aec-4e6a-a74b-46b51ed923d9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_Fj70sSnIn/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:19.635082"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b546-45fe-7617-9f31-04ac19964f93"
+  },
+  "translations": {
+    "en": {
+      "address": "Jeju-si, Jeju-do, 2144, Pyeonghwa-ro, Aewol-eup,",
+      "title": "Let’s Run Park Jeju Night Market"
+    }
+  }
+}

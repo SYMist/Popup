@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "33, Yeouidaebang-ro 20-gil, Dongjak-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-06-22",
+    "start": "2025-05-22"
+  },
+  "geo": {
+    "lat": 37.493192,
+    "lon": 126.91969
+  },
+  "id": "01973849-90a3-7f62-a66a-98714f37637c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5abee7f9-a107-4486-ad4f-3e0a44f34071.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5abee7f9-a107-4486-ad4f-3e0a44f34071.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKJavONP-c0/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:23.695073"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973849-90a3-7f62-a66a-98714f37637c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu, ",
+      "title": "百变怪花园"
+    }
+  }
+}

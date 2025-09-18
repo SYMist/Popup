@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "98-34, Gunja-dong, Gwangjin-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-18",
+    "start": "2024-05-17"
+  },
+  "geo": {
+    "lat": 37.548611270745,
+    "lon": 127.0745
+  },
+  "id": "018f5bb0-cd9d-7c95-a1a3-d7aecae8343f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8fe41cd5-944a-4299-950d-e080e9700c9a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8fe41cd5-944a-4299-950d-e080e9700c9a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24005697",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:33.003251"
+  },
+  "pricing": {
+    "description": "全席  88,000 ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5bb0-cd9d-7c95-a1a3-d7aecae8343f"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 98-34, Gunja-dong, Gwangjin-gu,",
+      "priceDesc": "全席  88,000 ウォン ",
+      "title": "2024 ONEW ファンミ「GUESS!」"
+    }
+  }
+}

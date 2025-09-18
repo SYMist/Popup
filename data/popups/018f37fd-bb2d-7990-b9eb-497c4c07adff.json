@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "376, Gonghang-daero, Gangseo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-06-09",
+    "start": "2024-06-08"
+  },
+  "geo": {
+    "lat": 37.556801268479,
+    "lon": 126.8479
+  },
+  "id": "018f37fd-bb2d-7990-b9eb-497c4c07adff",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b11c1d03-6241-4ae6-9f8f-39ec317a7565.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b11c1d03-6241-4ae6-9f8f-39ec317a7565.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24005872",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:25.918133"
+  },
+  "pricing": {
+    "description": "132,000 ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f37fd-bb2d-7990-b9eb-497c4c07adff"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 376, Gonghang-daero, Gangseo-gu, ",
+      "priceDesc": "132,000 ウォン ",
+      "title": "DOH KYUNG SOO FAN CONCERT"
+    }
+  }
+}

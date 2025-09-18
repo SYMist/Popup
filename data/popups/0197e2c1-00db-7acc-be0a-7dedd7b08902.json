@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "23, Ttukseom-ro 17-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-27",
+    "start": "2025-06-25"
+  },
+  "geo": {
+    "lat": 37.54002,
+    "lon": 127.0601
+  },
+  "id": "0197e2c1-00db-7acc-be0a-7dedd7b08902",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fbf44818-5cc8-4465-884d-fde3d459e218.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fbf44818-5cc8-4465-884d-fde3d459e218.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLjKN6VTbvB/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:44.190124"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2c1-00db-7acc-be0a-7dedd7b08902"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 23, Ttukseom-ro 17-gil, Seongdong-gu,",
+      "title": "tamburins BLUE HINOKI 快闪店"
+    }
+  }
+}

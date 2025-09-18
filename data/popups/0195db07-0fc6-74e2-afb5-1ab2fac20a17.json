@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "97, Seongsui-ro, Seongdong-gu, Seoul, Republic of Korea"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-02",
+    "start": "2025-03-27"
+  },
+  "geo": {
+    "lat": 37.5438,
+    "lon": 127.0566
+  },
+  "id": "0195db07-0fc6-74e2-afb5-1ab2fac20a17",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bf8da177-15fe-49d3-9091-c78f98b496b8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bf8da177-15fe-49d3-9091-c78f98b496b8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/empty.seoul.kr/p/DHsiBirpKVm/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:47.226354"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db07-0fc6-74e2-afb5-1ab2fac20a17"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 97, Seongsui-ro, Seongdong-gu, Seoul, Republic of Korea",
+      "title": "MUSINSA EMPTY x 宮城秀贵闪店"
+    }
+  }
+}

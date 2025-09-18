@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "649-1, Banpo-dong, Seocho-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-04-01"
+  },
+  "geo": {
+    "lat": 37.51264,
+    "lon": 126.9985
+  },
+  "id": "018ea772-6fda-7bdf-b479-0677521a4507",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/76967581-740d-4a2e-91d8-a15fc63f9eab.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/76967581-740d-4a2e-91d8-a15fc63f9eab.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:07.702650"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ea772-6fda-7bdf-b479-0677521a4507"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 649-1, Banpo-dong, Seocho-gu, ",
+      "title": "漢江の月光レインボー噴水"
+    }
+  }
+}

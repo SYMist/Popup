@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": "300, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-29",
+    "start": "2025-04-30"
+  },
+  "geo": {
+    "lat": 37.51383,
+    "lon": 127.1039
+  },
+  "id": "0196f211-558e-7f4a-8cec-e95d1d06ee61",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/86cde6e2-2bb5-4559-b087-7327983217ec.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/86cde6e2-2bb5-4559-b087-7327983217ec.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJERl_tS-3K/?img_index=9",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:51.287974"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f211-558e-7f4a-8cec-e95d1d06ee61"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "𝐴𝑇𝐸𝐿𝐼𝐸𝑅 𝐺𝐻𝐴𝑁𝐴"
+    }
+  }
+}

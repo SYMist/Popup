@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "5, Yeonmujang 17-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-18",
+    "start": "2024-08-09"
+  },
+  "geo": {
+    "lat": 37.541281270609,
+    "lon": 127.0609
+  },
+  "id": "01913602-5bf3-7265-8932-d2924c29e880",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2416616d-d0b6-41d7-a881-00679734d306.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2416616d-d0b6-41d7-a881-00679734d306.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-brVmWvrl2/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:51.867110"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01913602-5bf3-7265-8932-d2924c29e880"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 5, Yeonmujang 17-gil, Seongdong-gu,",
+      "title": "Verish POP-UP"
+    }
+  }
+}

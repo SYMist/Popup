@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "3F, 271, Gonghang-ro, Jung-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-31",
+    "start": "2025-06-01"
+  },
+  "geo": {
+    "lat": 37.449192,
+    "lon": 126.451573
+  },
+  "id": "0197be95-524f-771b-a59a-0a97cdd2754c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4559f109-874c-440d-baa6-94f0408782d5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4559f109-874c-440d-baa6-94f0408782d5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKQqaMnT0mn/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:33.895650"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be95-524f-771b-a59a-0a97cdd2754c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Incheon, 3F, 271, Gonghang-ro, Jung-gu",
+      "title": "济州航空 X 三丽鸥卡通人物快闪店"
+    }
+  }
+}

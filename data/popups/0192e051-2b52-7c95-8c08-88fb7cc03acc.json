@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-26",
+    "start": "2024-10-28"
+  },
+  "geo": {
+    "lat": 37.513625808673396,
+    "lon": 127.1041142245369
+  },
+  "id": "0192e051-2b52-7c95-8c08-88fb7cc03acc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/684ca1d7-4389-46f7-99ea-1815dc343892.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/684ca1d7-4389-46f7-99ea-1815dc343892.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBqXlphhKp5/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:35.560889"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192e051-2b52-7c95-8c08-88fb7cc03acc"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "Puppy Happiness Disney Pop-Up"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "256, Sillyedong-ro, Namwon-eup, Seogwipo-si,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-04-30",
+    "start": "2023-11-07"
+  },
+  "geo": {
+    "lat": 33.30877,
+    "lon": 126.6338
+  },
+  "id": "018e36c0-276e-795f-9bde-8c12a36d41e1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/12081efb-88e9-4572-8d4b-0678863b8e37.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/12081efb-88e9-4572-8d4b-0678863b8e37.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://m.hueree.com/index.php",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:43.698413"
+  },
+  "pricing": {
+    "description": "大人: 13,000ウォン、青少年: 11,000ウォン、子供:10,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e36c0-276e-795f-9bde-8c12a36d41e1"
+  },
+  "translations": {
+    "ja": {
+      "address": "Jeju-do, 256, Sillyedong-ro, Namwon-eup, Seogwipo-si,",
+      "priceDesc": "大人: 13,000ウォン、青少年: 11,000ウォン、子供:10,000ウォン",
+      "title": "済州ヒュエリ菜の花祭り"
+    }
+  }
+}

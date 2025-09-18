@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "99, Wausan-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-10",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.5531965,
+    "lon": 126.9245611
+  },
+  "id": "0191b505-7e70-78b7-af4d-7303115a5a74",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/78b6ecf6-1faf-42f3-910f-b5fdea7a9b9d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/78b6ecf6-1faf-42f3-910f-b5fdea7a9b9d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-_tsqXTbJ0/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:25.104969"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b505-7e70-78b7-af4d-7303115a5a74"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 99, Wausan-ro, Mapo-gu,",
+      "title": "Gadeokhagae POP-UP"
+    }
+  }
+}

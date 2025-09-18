@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "21 Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-31",
+    "start": "2024-08-07"
+  },
+  "geo": {
+    "lat": 37.543597,
+    "lon": 127.051894
+  },
+  "id": "01916843-fe5b-792a-9e6a-d4e0323395ab",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/55d5d5b1-15af-49b0-bd3f-ac33a11d1105.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/55d5d5b1-15af-49b0-bd3f-ac33a11d1105.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-SsTugvmrn/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:25.477028"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916843-fe5b-792a-9e6a-d4e0323395ab"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 21 Yeonmujang-gil, Seongdong-gu,",
+      "title": "'Bunkasha Seongsu' POP-UP"
+    }
+  }
+}

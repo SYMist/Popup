@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Beodeunaru-ro, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-21",
+    "start": "2025-09-20"
+  },
+  "geo": {
+    "lat": 37.52167,
+    "lon": 126.9124
+  },
+  "id": "0198cb9a-7d3d-7642-97cc-599a2c91290f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b76b3f7b-1c75-40b6-98d8-dd7d656789d1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b76b3f7b-1c75-40b6-98d8-dd7d656789d1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/ticket/places/25000929/products/25011317",
+      "label": "立即订购"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:15.136829"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198cb9a-7d3d-7642-97cc-599a2c91290f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 荣宰  YOUNGJAE ASIA TOUR ‘Fermata’"
+    }
+  }
+}

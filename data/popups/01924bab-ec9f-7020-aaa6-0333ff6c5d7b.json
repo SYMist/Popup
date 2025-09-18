@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "55,  APEC-ro, Haeundae-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-05"
+  },
+  "geo": {
+    "lat": 35.1688474,
+    "lon": 129.1354441
+  },
+  "id": "01924bab-ec9f-7020-aaa6-0333ff6c5d7b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/103e8f89-cfd3-4a67-b080-7c0aca1d2718.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/103e8f89-cfd3-4a67-b080-7c0aca1d2718.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_AHOqMyfeE/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:19.164609"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924bab-ec9f-7020-aaa6-0333ff6c5d7b"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 55,  APEC-ro, Haeundae-gu,",
+      "title": "Busan Craft Beer Masters Challenge"
+    }
+  }
+}

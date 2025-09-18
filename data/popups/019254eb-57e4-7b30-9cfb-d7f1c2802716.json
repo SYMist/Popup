@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "115, Toegye-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-08",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.56821181973296,
+    "lon": 127.00874582090151
+  },
+  "id": "019254eb-57e4-7b30-9cfb-d7f1c2802716",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/70d08a6e-3aeb-4c20-84fe-151433d50243.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/70d08a6e-3aeb-4c20-84fe-151433d50243.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAiKebyBM-G/",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:51.555363"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019254eb-57e4-7b30-9cfb-d7f1c2802716"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 115, Toegye-ro, Jung-gu,",
+      "title": "2024 Seoul Welcome Week"
+    }
+  }
+}

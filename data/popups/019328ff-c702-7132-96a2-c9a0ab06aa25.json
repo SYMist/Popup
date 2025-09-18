@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "43, Hongik-ro 2-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-01",
+    "start": "2024-11-28"
+  },
+  "geo": {
+    "lat": 37.555471,
+    "lon": 126.924567
+  },
+  "id": "019328ff-c702-7132-96a2-c9a0ab06aa25",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/79b9b623-8d33-4f35-b922-5c0914e59025.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/79b9b623-8d33-4f35-b922-5c0914e59025.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/ekalmoow/status/1849064389598744635",
+      "label": "Dubu Research Lab"
+    },
+    {
+      "href": "https://x.com/cloudhak1129/status/1848914589033107655",
+      "label": "BONEXTDOOR High School Graduation"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:15.416958"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019328ff-c702-7132-96a2-c9a0ab06aa25"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu, ",
+      "title": "『Unhak』 Birthday Cafe 🎂"
+    }
+  }
+}

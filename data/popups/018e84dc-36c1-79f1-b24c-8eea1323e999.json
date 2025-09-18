@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1F, 108, Yeoui-daero, Yeongdeungpo-gu"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-04-03",
+    "start": "2024-03-21"
+  },
+  "geo": {
+    "lat": 37.384898,
+    "lon": 127.111458
+  },
+  "id": "018e84dc-36c1-79f1-b24c-8eea1323e999",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/89e84234-b175-4422-97bd-55da69308cd9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/89e84234-b175-4422-97bd-55da69308cd9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:57.396393"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e84dc-36c1-79f1-b24c-8eea1323e999"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1F, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "SIMIHAZE Beauty POP-UP"
+    }
+  }
+}

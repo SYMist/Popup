@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Myeongdong 8-gil, Jung-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-02-11",
+    "start": "2024-11-28"
+  },
+  "geo": {
+    "lat": 37.56186055838671,
+    "lon": 126.9847185889549
+  },
+  "id": "019360ad-1b7e-7b8c-abd2-1f0f109dc3b3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/618aa2a4-98f7-47c2-8020-3ead32f00a13.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/618aa2a4-98f7-47c2-8020-3ead32f00a13.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCEEJewvCbG/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:03.685380"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019360ad-1b7e-7b8c-abd2-1f0f109dc3b3"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 40, Myeongdong 8-gil, Jung-gu, ",
+      "title": "Brunch Brother House x A-LAND"
+    }
+  }
+}

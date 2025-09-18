@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "9, Sinchon-ro 4-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-23",
+    "start": "2025-07-19"
+  },
+  "geo": {
+    "lat": 37.558911,
+    "lon": 126.929963
+  },
+  "id": "0197c858-4a4e-7857-9d44-491b40a650b5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4f1ceecf-40b7-447f-b86e-bfba8eb81969.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4f1ceecf-40b7-447f-b86e-bfba8eb81969.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/daydream722_/status/1939688208562073988",
+      "label": "Daydream722"
+    },
+    {
+      "href": "https://x.com/mhdhh0722/status/1936369018396721312",
+      "label": "Bunnies和MHDHH的第三个暑假"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:37.957857"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c858-4a4e-7857-9d44-491b40a650b5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 9, Sinchon-ro 4-gil, Mapo-gu, ",
+      "title": "“NewJeans” 出道咖啡厅🎂"
+    }
+  }
+}

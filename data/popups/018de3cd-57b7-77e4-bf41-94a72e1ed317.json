@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "103, Saemunan-ro, Jongno-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-04-30",
+    "start": "2023-12-15"
+  },
+  "geo": {
+    "lat": 37.570466973991145,
+    "lon": 126.97607183680533
+  },
+  "id": "018de3cd-57b7-77e4-bf41-94a72e1ed317",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/644b1719-7db3-46d5-abd1-d9644a846dc1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/644b1719-7db3-46d5-abd1-d9644a846dc1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://gallerygwanghwa.co.kr/eng/main/main.php",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:33.939488"
+  },
+  "pricing": {
+    "description": "10,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018de3cd-57b7-77e4-bf41-94a72e1ed317"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 103, Saemunan-ro, Jongno-gu, ",
+      "priceDesc": "10,000ウォン",
+      "title": "2024 「delight Seoul」"
+    }
+  }
+}

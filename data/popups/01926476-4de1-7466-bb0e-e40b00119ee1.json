@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "459, Dosan-daero, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 37.52447407242124,
+    "lon": 127.04687587609214
+  },
+  "id": "01926476-4de1-7466-bb0e-e40b00119ee1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9db74739-f9d2-414b-8d8e-56026c140c62.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9db74739-f9d2-414b-8d8e-56026c140c62.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://kr.burberry.com/c/burberry-world/news-events/seoul-art-exhibition/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:03.168085"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926476-4de1-7466-bb0e-e40b00119ee1"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 459, Dosan-daero, Gangnam-gu,",
+      "title": "Burberry Art Space"
+    }
+  }
+}

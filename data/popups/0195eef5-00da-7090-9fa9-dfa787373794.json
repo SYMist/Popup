@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "57, Hongik-ro 6-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-30",
+    "start": "2025-04-01"
+  },
+  "geo": {
+    "lat": 37.556667,
+    "lon": 126.924275
+  },
+  "id": "0195eef5-00da-7090-9fa9-dfa787373794",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/41ea9df6-5ab3-4849-9e69-60ced0622eed.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/41ea9df6-5ab3-4849-9e69-60ced0622eed.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DHvMHNvx8Fk/?igsh=Mmx2NmI5MXViY3Bk&img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:08.197509"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eef5-00da-7090-9fa9-dfa787373794"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
+      "title": "DERMATORY X 都暻秀快闪店"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-25",
+    "start": "2024-08-09"
+  },
+  "geo": {
+    "lat": 37.504371270036,
+    "lon": 127.0036
+  },
+  "id": "01911dfe-e00f-70ef-b6a4-74eb96a3fc20",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d432a965-cbac-4e3d-b5a8-46e1f78799a4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d432a965-cbac-4e3d-b5a8-46e1f78799a4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/pradabeauty/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:29.647767"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "PRADA BEAUTY POP-UP"
+    }
+  }
+}

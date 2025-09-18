@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Gyeonggi-do",
+    "street": "199, Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-10",
+    "start": "2025-06-21"
+  },
+  "geo": {
+    "lat": 37.293987,
+    "lon": 127.202577
+  },
+  "id": "0197afd7-2d3b-719d-ac93-954a45b34ad3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/74a6c6a9-95ba-4a6a-8c43-782b0739c82f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/74a6c6a9-95ba-4a6a-8c43-782b0739c82f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.everland.com/everland/event/etc/EVT-B9AACB3D-D946-4076-88B8-35F386CD4CE4",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:29.812281"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afd7-2d3b-719d-ac93-954a45b34ad3"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Gyeonggi-do, 199, Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, ",
+      "title": "限定 NCT WISH 爱宝乐园套票预售"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "9-7, Wausan-ro 35-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-04-24",
+    "start": "2025-04-19"
+  },
+  "geo": {
+    "lat": 37.555503,
+    "lon": 126.92956
+  },
+  "id": "0195d0ad-e3fc-7e37-8549-bfc192a1c0b9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7c1f787d-a24e-4657-b5a9-1261ca048dde.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7c1f787d-a24e-4657-b5a9-1261ca048dde.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Jyum_J/status/1901619563193852346",
+      "label": "My Puppy is A Rock Star"
+    },
+    {
+      "href": "https://x.com/_silverlining23/status/1906301667211116571",
+      "label": "Bunny's carnival"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:06.648055"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0ad-e3fc-7e37-8549-bfc192a1c0b9"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 9-7, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "\"Jeno\"生日咖啡厅🎂"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10-15, Yeonhui-ro 27 Da-gil, Seodaemun-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-20",
+    "start": "2024-10-13"
+  },
+  "geo": {
+    "lat": 37.571369824608794,
+    "lon": 126.93111404303954
+  },
+  "id": "0191b52b-78e4-7932-9bc3-c8a66dcc2d42",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4fc5e3ee-bf3d-45e4-bdee-21a888646c33.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4fc5e3ee-bf3d-45e4-bdee-21a888646c33.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_RiLjOhIuv/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:33.443836"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b52b-78e4-7932-9bc3-c8a66dcc2d42"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 10-15, Yeonhui-ro 27 Da-gil, Seodaemun-gu,",
+      "title": "Red Velvet SEULGI Photo Exhibition"
+    }
+  }
+}

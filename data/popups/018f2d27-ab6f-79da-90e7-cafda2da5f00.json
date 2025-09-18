@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "81, Namdaemun-ro, Jung-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-06",
+    "start": "2024-04-26"
+  },
+  "geo": {
+    "lat": 37.56471,
+    "lon": 126.9817
+  },
+  "id": "018f2d27-ab6f-79da-90e7-cafda2da5f00",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/287a0663-24e9-4176-acd7-3bb459fa6b55.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/287a0663-24e9-4176-acd7-3bb459fa6b55.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:23.034430"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f2d27-ab6f-79da-90e7-cafda2da5f00"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
+      "title": "2024明洞フェスティバル"
+    }
+  }
+}

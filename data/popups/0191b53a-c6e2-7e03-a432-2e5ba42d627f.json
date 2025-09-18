@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seogwipo-si, Jeju-do",
+    "street": " 256, Sillyedong-ro, Namwon-eup,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-17",
+    "start": "2024-09-13"
+  },
+  "geo": {
+    "lat": 33.30877216242601,
+    "lon": 126.63380708829118
+  },
+  "id": "0191b53a-c6e2-7e03-a432-2e5ba42d627f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3b0f726c-3361-4391-b8c4-4481d1170738.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3b0f726c-3361-4391-b8c4-4481d1170738.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://hueree.com/pages.php?p=4_3_1_1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:27.567464"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b53a-c6e2-7e03-a432-2e5ba42d627f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seogwipo-si, Jeju-do,  256, Sillyedong-ro, Namwon-eup,",
+      "title": "Hueree Pink Muhly Festival"
+    }
+  }
+}

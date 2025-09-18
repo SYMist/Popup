@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-08-16"
+  },
+  "geo": {
+    "lat": 37.51142,
+    "lon": 127.098
+  },
+  "id": "0198c697-6cbf-7e41-a34b-0ee5e415c344",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/50d80dd2-5dc5-47ba-8904-5741ae885510.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/50d80dd2-5dc5-47ba-8904-5741ae885510.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DNPjOhBPG7C/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:13.814568"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c697-6cbf-7e41-a34b-0ee5e415c344"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Sanrio My Melody 咖啡厅首尔开业"
+    }
+  }
+}

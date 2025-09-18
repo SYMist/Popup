@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "12, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-01",
+    "start": "2024-10-31"
+  },
+  "geo": {
+    "lat": 37.543646,
+    "lon": 127.054887
+  },
+  "id": "0192e02d-968b-7be3-bb47-95168098f97d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5169aba4-8c27-4653-a546-d9b78d5e8122.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5169aba4-8c27-4653-a546-d9b78d5e8122.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.teafference.com/event/202410/popup_event",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:44.235830"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192e02d-968b-7be3-bb47-95168098f97d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 12, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "TEAFFERENCE 快閃店"
+    }
+  }
+}

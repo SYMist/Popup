@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Hangang-daero 23-gil, Yongsan-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-29",
+    "start": "2024-09-05"
+  },
+  "geo": {
+    "lat": 37.529557,
+    "lon": 126.9641567
+  },
+  "id": "0191e8f1-1476-7ca3-8106-79f1fed8e7e6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a478d1fb-46cc-432a-b0a2-a4992bc0afca.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a478d1fb-46cc-432a-b0a2-a4992bc0afca.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_lurNNBJsM/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:32.144033"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e8f1-1476-7ca3-8106-79f1fed8e7e6"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "Atom 70th Anniversary Pop-up🚀"
+    }
+  }
+}

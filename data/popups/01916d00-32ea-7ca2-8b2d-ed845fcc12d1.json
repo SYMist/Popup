@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeouido-daero, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-24"
+  },
+  "geo": {
+    "lat": 37.5248697,
+    "lon": 126.9243139
+  },
+  "id": "01916d00-32ea-7ca2-8b2d-ed845fcc12d1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cde9865d-8eb3-4ad8-a092-e4afcae146f1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cde9865d-8eb3-4ad8-a092-e4afcae146f1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://bit.ly/4dOBoDP",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:17.148079"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916d00-32ea-7ca2-8b2d-ed845fcc12d1"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "NMIXX POP-UP STORE"
+    }
+  }
+}

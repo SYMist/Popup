@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "273, Ttukseom-ro, Seongdong-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-08-31",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.54540434317976,
+    "lon": 127.03872986032717
+  },
+  "id": "01916900-76d3-72f8-a40d-3780e44fd60e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/187aae0c-89f5-4f22-a62b-490f4e6c6797.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/187aae0c-89f5-4f22-a62b-490f4e6c6797.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-pKJxBStAZ/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:16.612936"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916900-76d3-72f8-a40d-3780e44fd60e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
+      "title": "9th Seoul Forest Film Festival"
+    }
+  }
+}

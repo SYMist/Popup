@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "63, Wangsimni-ro, Seongdong-gu"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-19",
+    "start": "2024-05-04"
+  },
+  "geo": {
+    "lat": 37.543501270425,
+    "lon": 127.0425
+  },
+  "id": "018f5cf2-3727-7013-8b48-5037512b646e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7b8dcdfe-493d-4569-87aa-39b3d2e41b8a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7b8dcdfe-493d-4569-87aa-39b3d2e41b8a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:52.012560"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5cf2-3727-7013-8b48-5037512b646e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 63, Wangsimni-ro, Seongdong-gu",
+      "title": "KRUCIALIZE Visual POP-UP"
+    }
+  }
+}

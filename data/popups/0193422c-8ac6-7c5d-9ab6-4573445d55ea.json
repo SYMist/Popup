@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Wausan-ro 21-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-04",
+    "start": "2024-11-30"
+  },
+  "geo": {
+    "lat": 37.55249,
+    "lon": 126.922566
+  },
+  "id": "0193422c-8ac6-7c5d-9ab6-4573445d55ea",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/98c466df-db45-477a-9dda-e6eb0a2ce6b5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/98c466df-db45-477a-9dda-e6eb0a2ce6b5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/btsforever1207/status/1856631948820861127",
+      "label": "Lunar Perigee"
+    },
+    {
+      "href": "https://x.com/jkjin9792/status/1853023494533210213",
+      "label": "硕珍的超级鲷鱼烧"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:30.613535"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193422c-8ac6-7c5d-9ab6-4573445d55ea"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "BTS \"Jin\" 的生日咖啡厅 🎂"
+    }
+  }
+}

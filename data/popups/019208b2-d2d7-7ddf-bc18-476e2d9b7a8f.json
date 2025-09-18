@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "37, Wausan-ro 21-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-25",
+    "start": "2024-09-13"
+  },
+  "geo": {
+    "lat": 37.55230394382948,
+    "lon": 126.92175931471517
+  },
+  "id": "019208b2-d2d7-7ddf-bc18-476e2d9b7a8f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0a83a421-31d1-4bd2-929f-054d416b40e1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0a83a421-31d1-4bd2-929f-054d416b40e1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_6k2EAhvxe/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:50.582324"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019208b2-d2d7-7ddf-bc18-476e2d9b7a8f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "Olive Young Beauty Pop-up in Hongdae"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": "161 Sajik-﻿ro, Jongno-gu"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-15",
+    "start": "2025-05-08"
+  },
+  "geo": {
+    "lat": 37.5764057703988,
+    "lon": 126.97730922024664
+  },
+  "id": "0196d1ac-fe3e-7230-845d-957b49dca75e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d9539feb-8f0b-4391-936f-817269c353a0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d9539feb-8f0b-4391-936f-817269c353a0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://royal.khs.go.kr/ROYAL/contents/R201000000.do?undefined&act=view&ceIdx=202504250184",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:01.621375"
+  },
+  "pricing": {
+    "description": "观览费用3,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196d1ac-fe3e-7230-845d-957b49dca75e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seoul, 161 Sajik-﻿ro, Jongno-gu",
+      "priceDesc": "观览费用3,000韩元",
+      "title": "景福宫夜间观览"
+    }
+  }
+}

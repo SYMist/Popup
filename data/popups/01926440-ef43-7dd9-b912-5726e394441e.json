@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "37, Wausan-ro 21-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-15",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.55225,
+    "lon": 126.921737
+  },
+  "id": "01926440-ef43-7dd9-b912-5726e394441e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/edb107a5-ba0d-453d-baf4-8baf37ad0d1b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/edb107a5-ba0d-453d-baf4-8baf37ad0d1b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAmWQ5LMNpz/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:54.543680"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926440-ef43-7dd9-b912-5726e394441e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "Olive Young Slow Aging POP-UP"
+    }
+  }
+}

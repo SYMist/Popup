@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.52605195941403,
+    "lon": 126.92829555398464
+  },
+  "id": "0192bce1-18d1-754d-8f20-23bae1ba48f1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cdbe69af-b220-4ebb-9890-6006d31216ca.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cdbe69af-b220-4ebb-9890-6006d31216ca.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/mobile/event/EV/thehyundaichristmas/cn/main.do",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:22.812772"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192bce1-18d1-754d-8f20-23bae1ba48f1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "The Hyundai Seoul：圣诞村🎄"
+    }
+  }
+}

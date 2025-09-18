@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "1324, Jungang-daero, Dongrae-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-02-02",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 35.20433026045437,
+    "lon": 129.07806755398465
+  },
+  "id": "0193b31b-d034-7669-b79c-b624b2e4754f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/27580b71-d630-49ef-af88-6ee809fceb1a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/27580b71-d630-49ef-af88-6ee809fceb1a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.dongnae.go.kr/index.dongnae?menuCd=DOM_000000403007000000",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:44.174262"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b31b-d034-7669-b79c-b624b2e4754f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 1324, Jungang-daero, Dongrae-gu,",
+      "priceDesc": "null",
+      "title": "第2届温泉川灯光节"
+    }
+  }
+}

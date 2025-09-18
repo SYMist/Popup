@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "99, Sejong-daero, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-03-03",
+    "start": "2024-11-27"
+  },
+  "geo": {
+    "lat": 37.56717548219991,
+    "lon": 126.9737235423279
+  },
+  "id": "01939551-2b5a-7e92-a6d9-72e5f21c8cdb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/14b913d3-766a-43b9-9b07-cfd8db9e919d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/14b913d3-766a-43b9-9b07-cfd8db9e919d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCN6ugeTrPx/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:12.187992"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939551-2b5a-7e92-a6d9-72e5f21c8cdb"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 99, Sejong-daero, Jung-gu,",
+      "title": "摩登之光 : 大韩帝国皇室照明"
+    }
+  }
+}

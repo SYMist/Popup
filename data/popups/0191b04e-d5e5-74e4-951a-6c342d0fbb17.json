@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "513, Yeongdong-daero, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-09-08",
+    "start": "2024-09-04"
+  },
+  "geo": {
+    "lat": 37.5116828,
+    "lon": 127.059151
+  },
+  "id": "0191b04e-d5e5-74e4-951a-6c342d0fbb17",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/41ee1786-78d1-4dd0-95f7-d46735c42406.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/41ee1786-78d1-4dd0-95f7-d46735c42406.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-7XZShvBm6/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:18.009519"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b04e-d5e5-74e4-951a-6c342d0fbb17"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
+      "title": "2024 Kiaf SEOUL"
+    }
+  }
+}

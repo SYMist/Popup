@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "300, Olympic-ro, Songpa-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-03",
+    "start": "2025-07-23"
+  },
+  "geo": {
+    "lat": 37.51331,
+    "lon": 127.1033
+  },
+  "id": "0198403c-9fa7-716c-9a01-91d2c2d34863",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9b4f05bc-f1c8-44e0-9377-e5204b87f3db.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9b4f05bc-f1c8-44e0-9377-e5204b87f3db.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMcgI0VJWmg/?hl=ko",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:55.773374"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198403c-9fa7-716c-9a01-91d2c2d34863"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "FC首尔 vs FC巴塞罗那 快闪店"
+    }
+  }
+}

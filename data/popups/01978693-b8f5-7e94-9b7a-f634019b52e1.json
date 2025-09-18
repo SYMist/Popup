@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-30",
+    "start": "2025-05-31"
+  },
+  "geo": {
+    "lat": 37.50115,
+    "lon": 127.0257
+  },
+  "id": "01978693-b8f5-7e94-9b7a-f634019b52e1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d44405ef-bf1a-40cb-a63a-9a52ac59a465.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d44405ef-bf1a-40cb-a63a-9a52ac59a465.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKRMfVbTwUQ/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:27.862603"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01978693-b8f5-7e94-9b7a-f634019b52e1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "Salon de TSUBAKI"
+    }
+  }
+}

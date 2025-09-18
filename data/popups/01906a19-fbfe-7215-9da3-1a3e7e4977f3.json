@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "81, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-07-16",
+    "start": "2024-07-03"
+  },
+  "geo": {
+    "lat": 37.541711270583,
+    "lon": 127.0583
+  },
+  "id": "01906a19-fbfe-7215-9da3-1a3e7e4977f3",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6b877305-b687-4c4a-a3ca-5a887fd270c0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6b877305-b687-4c4a-a3ca-5a887fd270c0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C8wPzFGyZMh/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:15.071756"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01906a19-fbfe-7215-9da3-1a3e7e4977f3"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
+      "title": "A'pieu POP-UP"
+    }
+  }
+}

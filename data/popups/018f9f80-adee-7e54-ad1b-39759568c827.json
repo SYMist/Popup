@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "42, Gangnam-daero 160-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-06-03",
+    "start": "2024-05-24"
+  },
+  "geo": {
+    "lat": 37.520321270221,
+    "lon": 127.0221
+  },
+  "id": "018f9f80-adee-7e54-ad1b-39759568c827",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/79f06347-d130-43e4-8a29-b4f214a3dcbc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/79f06347-d130-43e4-8a29-b4f214a3dcbc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C7BFhSvLhR-/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:48.125749"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f9f80-adee-7e54-ad1b-39759568c827"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu, ",
+      "title": "MONAMHEE'S CLOSET POP-UP"
+    }
+  }
+}

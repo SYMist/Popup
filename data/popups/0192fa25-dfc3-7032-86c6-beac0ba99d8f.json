@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-25",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.50413369078074,
+    "lon": 127.00306854815624
+  },
+  "id": "0192fa25-dfc3-7032-86c6-beac0ba99d8f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/48c67cbc-4fb2-461d-9bd0-ee9dd33a180f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/48c67cbc-4fb2-461d-9bd0-ee9dd33a180f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBvdrbXtkik/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:29.145532"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192fa25-dfc3-7032-86c6-beac0ba99d8f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu, ",
+      "title": "Shinsegae Christmas Market"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-10-01"
+  },
+  "geo": {
+    "lat": 37.50087214823501,
+    "lon": 127.02568876686477
+  },
+  "id": "01927909-3ef4-7352-9767-c7c2d1326005",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/91161077-2447-49c6-928d-1fdd5965848c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/91161077-2447-49c6-928d-1fdd5965848c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://m.torhop.com/board/event/read.html?no=13444&board_no=8",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:00.817251"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01927909-3ef4-7352-9767-c7c2d1326005"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu,",
+      "title": "Olive Young Gangnam Town POP-UP"
+    }
+  }
+}

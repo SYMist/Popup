@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": " 125, Beomil-ro, Dong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-03",
+    "start": "2024-09-04"
+  },
+  "geo": {
+    "lat": 35.141343,
+    "lon": 129.05862
+  },
+  "id": "0191d40e-f04f-73b9-9950-dd86081e9075",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bc6270b9-a135-43a5-89bc-fe99b387ec72.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bc6270b9-a135-43a5-89bc-fe99b387ec72.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_hhqrFyBnl/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:21.959193"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d40e-f04f-73b9-9950-dd86081e9075"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan,  125, Beomil-ro, Dong-gu,",
+      "title": "🛒 IKEA Pop-up in Busan"
+    }
+  }
+}

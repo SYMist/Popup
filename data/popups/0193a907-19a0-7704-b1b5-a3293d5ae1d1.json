@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-23"
+  },
+  "geo": {
+    "lat": 37.51111974475502,
+    "lon": 127.09816690091752
+  },
+  "id": "0193a907-19a0-7704-b1b5-a3293d5ae1d1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e7b8a6f7-a9aa-4396-aa7e-08bccdac6e46.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e7b8a6f7-a9aa-4396-aa7e-08bccdac6e46.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCQBtxyBDLb/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:39.704910"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193a907-19a0-7704-b1b5-a3293d5ae1d1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "花生漫画《史努比》快闪店"
+    }
+  }
+}

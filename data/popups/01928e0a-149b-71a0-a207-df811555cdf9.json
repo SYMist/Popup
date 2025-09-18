@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "738, Eonju-ro, Gangnam-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-10-10"
+  },
+  "geo": {
+    "lat": 37.521172340830105,
+    "lon": 127.03437464723876
+  },
+  "id": "01928e0a-149b-71a0-a207-df811555cdf9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b76d30f7-335e-45e9-bb64-97a1267c3304.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b76d30f7-335e-45e9-bb64-97a1267c3304.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://motorstudio.hyundai.com/seoul/cotn/exhb/oneStepFurther.do?strgCd=02&subPrenMenuId=HPSSIC02",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:23.416888"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928e0a-149b-71a0-a207-df811555cdf9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 738, Eonju-ro, Gangnam-gu,",
+      "title": "One step further 다시, 첫걸음 (A New Start)"
+    }
+  }
+}

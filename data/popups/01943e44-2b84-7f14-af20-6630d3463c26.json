@@ -1,0 +1,55 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-31",
+    "start": "2024-12-31"
+  },
+  "geo": {
+    "lat": 37.50087274417091,
+    "lon": 127.0256889883432
+  },
+  "id": "01943e44-2b84-7f14-af20-6630d3463c26",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0e10ed0d-23ac-4091-8b31-6e47eb4de959.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0e10ed0d-23ac-4091-8b31-6e47eb4de959.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEd3IkdTUHI/",
+      "label": "查看详细"
+    },
+    {
+      "href": "https://www.instagram.com/p/DEJKZTPhRe3/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:51.276041"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01943e44-2b84-7f14-af20-6630d3463c26"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "priceDesc": "null",
+      "title": "TITAD、 Eucerin、dasique 快闪店"
+    }
+  }
+}

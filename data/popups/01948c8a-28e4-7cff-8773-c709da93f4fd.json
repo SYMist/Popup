@@ -1,0 +1,46 @@
+{
+  "address": {
+    "city": "Seoul,",
+    "street": "66, Chungmin-ro, Songpa-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-02-28",
+    "start": "2025-01-25"
+  },
+  "geo": {
+    "lat": 37.477424865145885,
+    "lon": 127.12540733337403
+  },
+  "id": "01948c8a-28e4-7cff-8773-c709da93f4fd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/22c7cd67-a477-41de-838d-1dc0563a411b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/22c7cd67-a477-41de-838d-1dc0563a411b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:51.704980"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01948c8a-28e4-7cff-8773-c709da93f4fd"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul,, 66, Chungmin-ro, Songpa-gu,",
+      "priceDesc": "null",
+      "title": "現代奧特萊斯 garden5店活动"
+    }
+  }
+}

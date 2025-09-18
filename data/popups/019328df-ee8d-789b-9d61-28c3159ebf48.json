@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-24",
+    "start": "2024-11-24"
+  },
+  "geo": {
+    "lat": 37.51111868094373,
+    "lon": 127.09816723619365
+  },
+  "id": "019328df-ee8d-789b-9d61-28c3159ebf48",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c04e37fa-de52-4936-983f-dbe8fc889503.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c04e37fa-de52-4936-983f-dbe8fc889503.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://weverse.io/bts/notice/23498?hl=ko",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:15.072371"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019328df-ee8d-789b-9d61-28c3159ebf48"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "BTS Jin: Merry Run Around Event"
+    }
+  }
+}

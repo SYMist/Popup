@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Goyang-si, ",
+    "street": "217-60 Kintex-ro, Ilsanseo-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-11-08"
+  },
+  "geo": {
+    "lat": 37.665026995231514,
+    "lon": 126.7419033119626
+  },
+  "id": "0192ace1-4eaf-77a9-9169-9ec2cdbedf88",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/751f773f-7409-44f2-93e1-fcd0cb4317fe.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/751f773f-7409-44f2-93e1-fcd0cb4317fe.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/wonderlivet/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:13.790482"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192ace1-4eaf-77a9-9169-9ec2cdbedf88"
+  },
+  "translations": {
+    "ja": {
+      "address": "Goyang-si, , 217-60 Kintex-ro, Ilsanseo-gu, ",
+      "title": "J-POP & Iconic Artist フェスティバル"
+    }
+  }
+}

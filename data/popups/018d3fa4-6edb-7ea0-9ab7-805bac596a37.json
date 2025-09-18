@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Jung -gu, Euljiro 281"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-04-30",
+    "start": "2023-09-22"
+  },
+  "geo": {
+    "lat": 37.5662584,
+    "lon": 127.0091911
+  },
+  "id": "018d3fa4-6edb-7ea0-9ab7-805bac596a37",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4a93055d-e09f-4651-ab95-9e8419797988.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4a93055d-e09f-4651-ab95-9e8419797988.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ddp.or.kr/index.html?menuno=353&siteno=2&bbsno=151&boardno=75&cateSched=75&bbstopno=151&act=view",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:20.983528"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018d3fa4-6edb-7ea0-9ab7-805bac596a37"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, Jung -gu, Euljiro 281",
+      "title": "Design Dream Land : Fall in K-POP"
+    }
+  }
+}

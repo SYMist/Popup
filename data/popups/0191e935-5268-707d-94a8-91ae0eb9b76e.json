@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "49, Insadong-gil, Jongno-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-17",
+    "start": "2024-11-21"
+  },
+  "geo": {
+    "lat": 37.57451100954014,
+    "lon": 126.9834481539326
+  },
+  "id": "0191e935-5268-707d-94a8-91ae0eb9b76e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/385673d1-18ef-43ef-970e-e5fad8cadaea.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/385673d1-18ef-43ef-970e-e5fad8cadaea.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tickets.interpark.com/goods/24012890",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:34.163127"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e935-5268-707d-94a8-91ae0eb9b76e"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 49, Insadong-gil, Jongno-gu,",
+      "title": "ミッフィーと魔法の郵便ポスト📮"
+    }
+  }
+}

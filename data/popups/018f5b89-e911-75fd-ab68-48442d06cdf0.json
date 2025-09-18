@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30, Beodeunaru-ro, Yeongdeungpo-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-05-26",
+    "start": "2024-05-25"
+  },
+  "geo": {
+    "lat": 37.521551269124,
+    "lon": 126.9124
+  },
+  "id": "018f5b89-e911-75fd-ab68-48442d06cdf0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/68e93a4d-2e07-4d5b-9d61-ed34964d1f45.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/68e93a4d-2e07-4d5b-9d61-ed34964d1f45.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24005512",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:47.103824"
+  },
+  "pricing": {
+    "description": "全席  77,000 ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5b89-e911-75fd-ab68-48442d06cdf0"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu, ",
+      "priceDesc": "全席  77,000 ウォン ",
+      "title": "NCT WISH FAN MEETING"
+    }
+  }
+}

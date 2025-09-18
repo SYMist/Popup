@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 74, Seongsu﻿i-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-17",
+    "start": "2025-09-04"
+  },
+  "geo": {
+    "lat": 37.5415518,
+    "lon": 127.0563869
+  },
+  "id": "01992772-2fdc-7723-9111-01deaf1148a4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a67e44ec-175c-48b5-b563-7ab3881fdf9b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a67e44ec-175c-48b5-b563-7ab3881fdf9b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.musinsa.com/content/1408359550995705877",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:22.588136"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01992772-2fdc-7723-9111-01deaf1148a4"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul,  74, Seongsu﻿i-ro, Seongdong-gu,",
+      "title": "COACH x MUSINSA 快闪店"
+    }
+  }
+}

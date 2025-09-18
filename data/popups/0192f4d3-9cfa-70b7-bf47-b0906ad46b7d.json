@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Eoulmadang-ro 5-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-10",
+    "start": "2024-11-06"
+  },
+  "geo": {
+    "lat": 37.549287012748664,
+    "lon": 126.91908216042472
+  },
+  "id": "0192f4d3-9cfa-70b7-bf47-b0906ad46b7d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/dde0c21a-4c19-4119-beac-e713b23e6cf1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/dde0c21a-4c19-4119-beac-e713b23e6cf1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/papillon971107/status/1821911072393327012",
+      "label": "Papillon the8 prince"
+    },
+    {
+      "href": "https://x.com/StarlightThe8/status/1835660283987247187",
+      "label": "Here & Hear"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:23.161194"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192f4d3-9cfa-70b7-bf47-b0906ad46b7d"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu,",
+      "title": "『Myungho』 Birthday Cafe 🎂"
+    }
+  }
+}

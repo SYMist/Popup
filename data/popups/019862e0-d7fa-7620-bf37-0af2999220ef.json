@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "376, Gonghang-daero, Gangseo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-20",
+    "start": "2025-09-20"
+  },
+  "geo": {
+    "lat": 37.556812,
+    "lon": 126.847864
+  },
+  "id": "019862e0-d7fa-7620-bf37-0af2999220ef",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6e90ea77-31be-4b55-a7bf-8a1c02677f92.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6e90ea77-31be-4b55-a7bf-8a1c02677f92.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://app.fans/community/itzy/notice/qr067o1abf",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:03.553451"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019862e0-d7fa-7620-bf37-0af2999220ef"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 376, Gonghang-daero, Gangseo-gu, ",
+      "title": "ITZY 第四次粉丝见面会 “ON AIR”"
+    }
+  }
+}

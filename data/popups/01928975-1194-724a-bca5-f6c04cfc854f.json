@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "430, Gyeongin-ro, Guro-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-07",
+    "start": "2024-12-07"
+  },
+  "geo": {
+    "lat": 37.498933340037695,
+    "lon": 126.86708664723874
+  },
+  "id": "01928975-1194-724a-bca5-f6c04cfc854f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7eb434f9-8035-458d-87fb-13d6d5d12a12.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7eb434f9-8035-458d-87fb-13d6d5d12a12.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24012056",
+      "label": "Book Now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:02.930501"
+  },
+  "pricing": {
+    "description": "Standing R: 143,000 KRW, Standing P: 154,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928975-1194-724a-bca5-f6c04cfc854f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 430, Gyeongin-ro, Guro-gu,",
+      "priceDesc": "Standing R: 143,000 KRW, Standing P: 154,000 KRW",
+      "title": "Charlie Puth Concert 2024 in Seoul"
+    }
+  }
+}

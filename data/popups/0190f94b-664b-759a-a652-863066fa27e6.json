@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "25, Wausan-ro 11-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-10",
+    "start": "2024-08-07"
+  },
+  "geo": {
+    "lat": 37.548571269218,
+    "lon": 126.9218
+  },
+  "id": "0190f94b-664b-759a-a652-863066fa27e6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ae3bf208-d0b8-4506-b3e6-2493a82dad25.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ae3bf208-d0b8-4506-b3e6-2493a82dad25.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/CherryCoupsMart/status/1810958639496335772",
+      "label": "「𝘊𝘩𝘦𝘳𝘳𝘺 𝘊𝘖𝘜𝘗𝘚 𝘔𝘢𝘳𝘵」"
+    },
+    {
+      "href": "https://x.com/walkwith_Scoups/status/1799398004589514962",
+      "label": "「一緒に行こう、クマの散歩」"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:32.524434"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190f94b-664b-759a-a652-863066fa27e6"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 25, Wausan-ro 11-gil, Mapo-gu,",
+      "title": "『S.COUPS』 センイルカフェ 🎂"
+    }
+  }
+}

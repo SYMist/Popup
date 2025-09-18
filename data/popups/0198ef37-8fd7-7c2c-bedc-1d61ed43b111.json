@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "86, Yanghwa-ro 6-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-09",
+    "start": "2025-09-06"
+  },
+  "geo": {
+    "lat": 37.548244,
+    "lon": 126.918908
+  },
+  "id": "0198ef37-8fd7-7c2c-bedc-1d61ed43b111",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/304dda56-6fb2-40a1-9846-b4040c397bf9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/304dda56-6fb2-40a1-9846-b4040c397bf9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/d_halfmooni/status/1955567149738811652?s=46&t=sxkvPnErj4cFfA_7tSOjaw",
+      "label": "DREAM MEMORY"
+    },
+    {
+      "href": "https://x.com/jxx9kyu/status/1956689668855984152",
+      "label": "HAPPY LOVE WISH"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:56.087618"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef37-8fd7-7c2c-bedc-1d61ed43b111"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu, ",
+      "title": "“俊奎” 生日咖啡厅🎂"
+    }
+  }
+}

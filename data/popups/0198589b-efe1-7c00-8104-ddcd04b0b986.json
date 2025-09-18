@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "57, Hongik-ro 6-gil, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-28",
+    "start": "2025-08-01"
+  },
+  "geo": {
+    "lat": 37.556573,
+    "lon": 126.924382
+  },
+  "id": "0198589b-efe1-7c00-8104-ddcd04b0b986",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/62e18fb7-464d-42dd-9323-1c5ff84c3613.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/62e18fb7-464d-42dd-9323-1c5ff84c3613.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:00.841405"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198589b-efe1-7c00-8104-ddcd04b0b986"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu,",
+      "title": "Torriden X Ganadi 快闪店"
+    }
+  }
+}

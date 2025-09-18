@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "47, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-17",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.54289,
+    "lon": 127.054784
+  },
+  "id": "0192f48d-f8e9-762d-8dde-dee447cf1eb6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d79f9c95-e3d7-42f0-b7fd-dc8b41d4a7de.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d79f9c95-e3d7-42f0-b7fd-dc8b41d4a7de.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://l4csagae.com/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:22.198250"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192f48d-f8e9-762d-8dde-dee447cf1eb6"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu, ",
+      "title": "Life Four Cuts X Mugunghwa Girl POP-UP"
+    }
+  }
+}

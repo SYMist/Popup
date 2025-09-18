@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "95, Yeonmumun-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 37.541239816831926,
+    "lon": 127.05989952209015
+  },
+  "id": "01920cd2-109e-7425-b6c8-514c1ad2e2aa",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0814a12d-85ee-4e6a-9502-7cd4d6e239ee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0814a12d-85ee-4e6a-9502-7cd4d6e239ee.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/riize_popup?s=21",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:03.063603"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920cd2-109e-7425-b6c8-514c1ad2e2aa"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 95, Yeonmumun-gil, Seongdong-gu,",
+      "title": "RIIZE : ON THE SING STREET"
+    }
+  }
+}

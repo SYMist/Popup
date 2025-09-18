@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "437, Gangnam-daero, Seocho-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-06",
+    "start": "2024-11-29"
+  },
+  "geo": {
+    "lat": 37.50138214827499,
+    "lon": 127.0256062536788
+  },
+  "id": "0193ae5b-291d-70e9-80c4-67d83613347e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/74213517-9ea9-4923-9808-511d5195703b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/74213517-9ea9-4923-9808-511d5195703b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCgcSKPv41o/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:17.158645"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae5b-291d-70e9-80c4-67d83613347e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
+      "priceDesc": "null",
+      "title": "Minini 冬季世界"
+    }
+  }
+}

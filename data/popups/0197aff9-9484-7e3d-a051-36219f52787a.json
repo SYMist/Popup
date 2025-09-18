@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seou﻿l",
+    "street": "281 Eulji-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-01"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "0197aff9-9484-7e3d-a051-36219f52787a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/865dee1f-a4a1-4649-8c1c-7d4ef52506f2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/865dee1f-a4a1-4649-8c1c-7d4ef52506f2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLYuFfsINls/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:31.619144"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197aff9-9484-7e3d-a051-36219f52787a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "Design Miami 登陆首尔"
+    }
+  }
+}

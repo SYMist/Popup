@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "46-1, Gonae-ro 7-gil, Aewol-eup, Jeju-si, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-03-08"
+  },
+  "geo": {
+    "lat": 33.46689965151251,
+    "lon": 126.33764090368747
+  },
+  "id": "018e1c75-c413-735c-8f5a-827648842311",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b47ade93-7779-4bdd-95b2-ecc98ef94ae2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b47ade93-7779-4bdd-95b2-ecc98ef94ae2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/miles_lounge",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:04.555282"
+  },
+  "pricing": {
+    "description": "一般：20000韩元  / 贵宾：80000韩元（最多3人）",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018e1c75-c413-735c-8f5a-827648842311"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Jeju-do, 46-1, Gonae-ro 7-gil, Aewol-eup, Jeju-si, ",
+      "priceDesc": "一般：20000韩元  / 贵宾：80000韩元（最多3人）",
+      "title": "MILES Jazz Bar"
+    }
+  }
+}

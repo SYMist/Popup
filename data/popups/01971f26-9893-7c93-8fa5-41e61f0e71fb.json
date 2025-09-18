@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "88, Changgyeonggung-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-09-04",
+    "start": "2025-05-29"
+  },
+  "geo": {
+    "lat": 37.570743708603324,
+    "lon": 127.00052593638455
+  },
+  "id": "01971f26-9893-7c93-8fa5-41e61f0e71fb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cb089c2d-73ea-497b-987e-d74a06cbe16f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cb089c2d-73ea-497b-987e-d74a06cbe16f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DKJdkc6vDOA/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:52.568687"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f26-9893-7c93-8fa5-41e61f0e71fb"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 88, Changgyeonggung-ro, Jongno-gu,",
+      "title": "星巴克广藏市场店开业！"
+    }
+  }
+}

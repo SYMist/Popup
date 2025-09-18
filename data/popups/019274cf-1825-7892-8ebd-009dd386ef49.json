@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "20, Wausan-ro 29 Ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-16",
+    "start": "2024-10-14"
+  },
+  "geo": {
+    "lat": 37.555014,
+    "lon": 126.926794
+  },
+  "id": "019274cf-1825-7892-8ebd-009dd386ef49",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/42074e22-d048-418c-b234-87d0d24ed282.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/42074e22-d048-418c-b234-87d0d24ed282.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/RABBITFORHSWY/status/1832753109279637958",
+      "label": "Happy Heeseung Day"
+    },
+    {
+      "href": "https://x.com/bb_hs1015/status/1825166404997546446",
+      "label": "𝗛𝗔𝗣𝗣𝗬 𝗛𝗘𝗘𝗦𝗘𝗨𝗡𝗚 𝗗𝗔𝗬"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:39.624096"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019274cf-1825-7892-8ebd-009dd386ef49"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 20, Wausan-ro 29 Ra-gil, Mapo-gu,",
+      "title": "『Heeseung』 Birthday Cafe🎂"
+    }
+  }
+}

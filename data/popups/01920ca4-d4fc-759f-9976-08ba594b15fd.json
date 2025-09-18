@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Goyang-si, Gyeonggi-do",
+    "street": "1601, Jungang-ro, Ilsanseo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-12"
+  },
+  "geo": {
+    "lat": 37.67638230000001,
+    "lon": 126.7430878
+  },
+  "id": "01920ca4-d4fc-759f-9976-08ba594b15fd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/586b92ce-1cf5-4ab4-83bd-1cc66fb53e3c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/586b92ce-1cf5-4ab4-83bd-1cc66fb53e3c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://tickets.interpark.com/goods/24011622#",
+      "label": "Buy Now"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:16.678108"
+  },
+  "pricing": {
+    "description": "VIP 198,000 KRW, R 154,000 KRW, S 132,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920ca4-d4fc-759f-9976-08ba594b15fd"
+  },
+  "translations": {
+    "en": {
+      "address": "Goyang-si, Gyeonggi-do, 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "VIP 198,000 KRW, R 154,000 KRW, S 132,000 KRW",
+      "title": "SEVENTEEN 'RIGHT HERE' WORLD TOUR"
+    }
+  }
+}

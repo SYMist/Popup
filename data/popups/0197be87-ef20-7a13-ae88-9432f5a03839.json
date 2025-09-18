@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": "5F, 108, Yeoui-daero, Yeongdeungpo-gu"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-06-23"
+  },
+  "geo": {
+    "lat": 37.52603,
+    "lon": 126.928279
+  },
+  "id": "0197be87-ef20-7a13-ae88-9432f5a03839",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/52687ee9-2e88-4581-aeb3-6e3efc279adc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/52687ee9-2e88-4581-aeb3-6e3efc279adc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002506411197&branchCd=B00140000&category=#pick",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:33.187183"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be87-ef20-7a13-ae88-9432f5a03839"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "EVERLINE World of Street Woman Fighter"
+    }
+  }
+}

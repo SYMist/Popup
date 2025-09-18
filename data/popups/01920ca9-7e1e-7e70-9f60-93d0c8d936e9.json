@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "31-1, Yeonmumun-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-29",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.543313309014835,
+    "lon": 127.05301259507179
+  },
+  "id": "01920ca9-7e1e-7e70-9f60-93d0c8d936e9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/87a484f6-076f-4b5c-bb3c-4af2803c03a1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/87a484f6-076f-4b5c-bb3c-4af2803c03a1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_sFxaSO6Bn/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:00.608979"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920ca9-7e1e-7e70-9f60-93d0c8d936e9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 31-1, Yeonmumun-gil, Seongdong-gu,",
+      "title": "Le Chat Botté POP-UP"
+    }
+  }
+}

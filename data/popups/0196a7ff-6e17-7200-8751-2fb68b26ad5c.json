@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "28-18, Dongmak-ro 3-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-05-26",
+    "start": "2025-05-24"
+  },
+  "geo": {
+    "lat": 37.549705,
+    "lon": 126.917817
+  },
+  "id": "0196a7ff-6e17-7200-8751-2fb68b26ad5c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ec5abe08-67ae-477d-bc86-846cd52484d4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ec5abe08-67ae-477d-bc86-846cd52484d4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/kyujin_star/status/1916146814274932809",
+      "label": "♡ ✩ ɪ ɢᴏᴛ ᴍʏ ᴋɪᴛᴛᴇɴ:ʟᴏᴠᴇ 𝟧𝟤𝟨 ✩ ♡"
+    },
+    {
+      "href": "https://x.com/kyutty0526/status/1917495690793738595",
+      "label": "要参加圭珍生日派对的人 (◍˃̶ᗜ˂̶◍)✩"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:50.159570"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196a7ff-6e17-7200-8751-2fb68b26ad5c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 28-18, Dongmak-ro 3-gil, Mapo-gu, ",
+      "title": "“圭珍” 生日咖啡厅🎂"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-03-06",
+    "start": "2025-02-21"
+  },
+  "geo": {
+    "lat": 37.52605241610858,
+    "lon": 126.92829586011884
+  },
+  "id": "019535f7-d288-7c24-a3cf-a202b87d948b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d2568f3c-1569-45ff-9e93-2a3290aab018.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d2568f3c-1569-45ff-9e93-2a3290aab018.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002502380661&category=event&page=1&branchCd=B00140000",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:47.146096"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019535f7-d288-7c24-a3cf-a202b87d948b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "priceDesc": "null",
+      "title": "ZEROBASEONE 'BLUE PARADISE' 快闪店"
+    }
+  }
+}

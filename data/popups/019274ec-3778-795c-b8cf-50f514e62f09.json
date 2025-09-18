@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8, Seongmisan-ro 26-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-19",
+    "start": "2024-10-17"
+  },
+  "geo": {
+    "lat": 37.563466,
+    "lon": 126.922245
+  },
+  "id": "019274ec-3778-795c-b8cf-50f514e62f09",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/79b8dade-29d4-4e46-ad81-929932f81702.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/79b8dade-29d4-4e46-ad81-929932f81702.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/021O17/status/1836031716282306916",
+      "label": "Card 17: The Star"
+    },
+    {
+      "href": "https://x.com/LilyM_CNGarden/status/1839656991846764763",
+      "label": "LILY'S 22 FESTA"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:32.261260"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019274ec-3778-795c-b8cf-50f514e62f09"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
+      "title": "『Lily』 Birthday Cafe🎂"
+    }
+  }
+}

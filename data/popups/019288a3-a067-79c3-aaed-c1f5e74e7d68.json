@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "437, Gangnam-daero, Seocho-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-04",
+    "start": "2024-10-11"
+  },
+  "geo": {
+    "lat": 37.50138135031245,
+    "lon": 127.02560654815629
+  },
+  "id": "019288a3-a067-79c3-aaed-c1f5e74e7d68",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ccc1d37e-49ed-47e6-9f13-55cc5eeee5e9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ccc1d37e-49ed-47e6-9f13-55cc5eeee5e9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://linefriendssquare.com/blogs/event/joguman-paradox-popup-notice",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:22.706250"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019288a3-a067-79c3-aaed-c1f5e74e7d68"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 437, Gangnam-daero, Seocho-gu, ",
+      "title": "Joguman Brachio Pop-Up"
+    }
+  }
+}

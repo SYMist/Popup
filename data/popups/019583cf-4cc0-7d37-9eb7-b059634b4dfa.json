@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-03-16",
+    "start": "2025-03-11"
+  },
+  "geo": {
+    "lat": 37.52605268200817,
+    "lon": 126.92829518956658
+  },
+  "id": "019583cf-4cc0-7d37-9eb7-b059634b4dfa",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/66df890c-d99a-4cd4-98de-3ebb5e5ca590.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/66df890c-d99a-4cd4-98de-3ebb5e5ca590.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:55.227785"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019583cf-4cc0-7d37-9eb7-b059634b4dfa"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "SEVENTEEN HOSHIx WOOZI 快闪店"
+    }
+  }
+}

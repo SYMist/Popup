@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-11",
+    "start": "2024-12-05"
+  },
+  "geo": {
+    "lat": 37.52605260690364,
+    "lon": 126.92829600582836
+  },
+  "id": "01939a99-7718-77a0-9654-3006ee08e5c1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b651e22c-19b7-44a8-a798-c479e8b9c755.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b651e22c-19b7-44a8-a798-c479e8b9c755.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://booking.naver.com/booking/12/bizes/1276650/items/6332434?area=pll&lang=ko&startDateTime=2024-12-09T00%3A00%3A00%2B09%3A00&theme=place",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:46.127245"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939a99-7718-77a0-9654-3006ee08e5c1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "ROSE POP-UP STORE 'rosie' 🌹"
+    }
+  }
+}

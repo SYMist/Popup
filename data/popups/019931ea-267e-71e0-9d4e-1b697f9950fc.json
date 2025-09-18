@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "9-10 Wausan-ro 11-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-22",
+    "start": "2025-10-18"
+  },
+  "geo": {
+    "lat": 37.54864,
+    "lon": 126.9222
+  },
+  "id": "019931ea-267e-71e0-9d4e-1b697f9950fc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/42d56780-d4a9-451e-b71e-1319eed7a7c6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/42d56780-d4a9-451e-b71e-1319eed7a7c6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/IRIONS40072042/status/1965014260775633139",
+      "label": "IriOnz are on patrol again today!"
+    },
+    {
+      "href": "https://x.com/wooodengg/status/1963957949342134631",
+      "label": "Heureul ryu_2107"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:25.567190"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019931ea-267e-71e0-9d4e-1b697f9950fc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 9-10 Wausan-ro 11-gil, Mapo-gu,",
+      "title": "“RIWOO” 生日咖啡厅🎂"
+    }
+  }
+}

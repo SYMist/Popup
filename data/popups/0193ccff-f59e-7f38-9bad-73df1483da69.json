@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "141, Yanghwa-ro, Mapo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-13",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 37.555552949906264,
+    "lon": 126.92162151318598
+  },
+  "id": "0193ccff-f59e-7f38-9bad-73df1483da69",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/11f74f81-1afb-4960-8150-41e7f8130a94.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/11f74f81-1afb-4960-8150-41e7f8130a94.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DDWTSS2yMbm/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:44.207584"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ccff-f59e-7f38-9bad-73df1483da69"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu, ",
+      "priceDesc": "null",
+      "title": "BT21 天使与恶棍的快闪店"
+    }
+  }
+}

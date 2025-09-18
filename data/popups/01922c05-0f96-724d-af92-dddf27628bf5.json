@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "2-1, Jangsa-dong, Jongno-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-09"
+  },
+  "geo": {
+    "lat": 37.570184,
+    "lon": 126.995149
+  },
+  "id": "01922c05-0f96-724d-af92-dddf27628bf5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0f322f10-9cb3-404b-bfc0-5fa1497c8b30.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0f322f10-9cb3-404b-bfc0-5fa1497c8b30.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.shnesquetour.com/trendsettertour",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:39.102684"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922c05-0f96-724d-af92-dddf27628bf5"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 2-1, Jangsa-dong, Jongno-gu, ",
+      "title": "SEOUL LIFE STYLE TOUR"
+    }
+  }
+}

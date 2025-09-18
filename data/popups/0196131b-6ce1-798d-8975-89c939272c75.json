@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "77, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-13",
+    "start": "2025-04-05"
+  },
+  "geo": {
+    "lat": 37.54427,
+    "lon": 127.0546
+  },
+  "id": "0196131b-6ce1-798d-8975-89c939272c75",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ac23ab9c-2959-437c-8a9d-8142c4ef0aa2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ac23ab9c-2959-437c-8a9d-8142c4ef0aa2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/wakemake_official/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:55.743007"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196131b-6ce1-798d-8975-89c939272c75"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "wakemake 展示快闪店"
+    }
+  }
+}

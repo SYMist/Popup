@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "249, Dongho-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-08-31",
+    "start": "2025-07-07"
+  },
+  "geo": {
+    "lat": 37.55689,
+    "lon": 127.006
+  },
+  "id": "0197f730-94eb-73a0-b4da-3e75da044e60",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5b460c34-aa7a-48b9-9f7b-175420b9cfc1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5b460c34-aa7a-48b9-9f7b-175420b9cfc1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLo8v8LyOfp/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:50.603500"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f730-94eb-73a0-b4da-3e75da044e60"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 249, Dongho-ro, Jung-gu,",
+      "title": "首尔新罗酒店 x Vivienne Westwood 下午茶"
+    }
+  }
+}

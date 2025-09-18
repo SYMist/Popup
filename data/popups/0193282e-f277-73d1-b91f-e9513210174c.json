@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "42, Gangnam-daero 160-gil, Gangnam-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-29",
+    "start": "2024-11-15"
+  },
+  "geo": {
+    "lat": 37.520318011199514,
+    "lon": 127.02206809048414
+  },
+  "id": "0193282e-f277-73d1-b91f-e9513210174c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7ee76f4b-0f1e-4194-b2ac-9fefffb05dc1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7ee76f4b-0f1e-4194-b2ac-9fefffb05dc1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCF8TTXyRJi/",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:16.103134"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193282e-f277-73d1-b91f-e9513210174c"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
+      "title": "NCT DREAM X LINE FRIENDS POP-UP"
+    }
+  }
+}

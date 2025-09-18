@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "175, Sejong-daero, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-31",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 37.5723922167821,
+    "lon": 126.97691123036527
+  },
+  "id": "0192982b-010c-70a6-aa40-bf62fe2ecaa1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b35cf081-74d6-4bfa-b314-eae7288f535f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b35cf081-74d6-4bfa-b314-eae7288f535f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.stolantern.com/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:45.766529"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192982b-010c-70a6-aa40-bf62fe2ecaa1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "首尔花灯节"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-54, Hangang-daero 10-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-14",
+    "start": "2024-08-10"
+  },
+  "geo": {
+    "lat": 37.524541269648,
+    "lon": 126.9648
+  },
+  "id": "019120a3-4e48-784f-8b4c-2d3d89c97286",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2bdd90c3-a40c-4696-9dc7-3ba506c76a48.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2bdd90c3-a40c-4696-9dc7-3ba506c76a48.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/Eggtart0814/status/1810271132723134722",
+      "label": "「𝚃𝙷𝙴 𝙼𝙸𝚁𝙰𝙲𝙻𝙴 𝙾𝙵 𝙰𝚄𝙶𝚄𝚂𝚃」"
+    },
+    {
+      "href": "https://x.com/CerfNingNing/status/1814257375463014686",
+      "label": "「August Huening」"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:31.683020"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019120a3-4e48-784f-8b4c-2d3d89c97286"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 11-54, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『Huening Kai』Birthday Cafe 🎂"
+    }
+  }
+}

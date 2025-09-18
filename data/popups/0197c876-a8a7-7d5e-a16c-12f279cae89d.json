@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-50, Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-12",
+    "start": "2025-07-09"
+  },
+  "geo": {
+    "lat": 37.524512,
+    "lon": 126.964801
+  },
+  "id": "0197c876-a8a7-7d5e-a16c-12f279cae89d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/05f40d0d-bb8b-4832-b9c1-ec0fe0858ac7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/05f40d0d-bb8b-4832-b9c1-ec0fe0858ac7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/wavetoweno/status/1924072667310891492",
+      "label": " 𝘼𝙣𝙙 𝙅𝙪𝙡𝙮"
+    },
+    {
+      "href": "https://x.com/nicosocute709/status/1929191244300743079?s=46",
+      "label": "𝗜'𝗺 ⒩⒪⒯ 𝗰𝘂𝘁𝗲"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:38.614619"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c876-a8a7-7d5e-a16c-12f279cae89d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-50, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“NICHOLAS” 生日咖啡厅🎂"
+    }
+  }
+}

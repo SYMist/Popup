@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "37 Samcheong-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-08-30",
+    "start": "2025-08-02"
+  },
+  "geo": {
+    "lat": 37.58164559999999,
+    "lon": 126.9789948
+  },
+  "id": "019873a4-f052-7fc9-81d4-5648444a33cf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0e71ecdd-91c5-466e-8b6f-4bccdc664985.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0e71ecdd-91c5-466e-8b6f-4bccdc664985.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://m.site.naver.com/1NNea",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:05.624726"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019873a4-f052-7fc9-81d4-5648444a33cf"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 37 Samcheong-ro, Jongno-gu,",
+      "title": "国立民俗博物馆周六常设演出"
+    }
+  }
+}

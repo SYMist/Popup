@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "34 Wausan-ro 27-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-20",
+    "start": "2025-07-17"
+  },
+  "geo": {
+    "lat": 37.55476,
+    "lon": 126.9267
+  },
+  "id": "0197525c-9b67-7d10-92c2-b8e0ddfb705e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7af1938b-6751-4321-8baf-96b9bc5498ec.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7af1938b-6751-4321-8baf-96b9bc5498ec.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/WW_home_HBD",
+      "label": "WW's HOUSE WARMING"
+    },
+    {
+      "href": "https://x.com/Wmidnightsummer",
+      "label": "夏夜的圆佑"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:24.699714"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197525c-9b67-7d10-92c2-b8e0ddfb705e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 34 Wausan-ro 27-gil, Mapo-gu,",
+      "title": "“圆佑”生日咖啡厅🎂"
+    }
+  }
+}

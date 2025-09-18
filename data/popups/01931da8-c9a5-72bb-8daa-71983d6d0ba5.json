@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "281, Eulji-ro, Jung-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-12-19"
+  },
+  "geo": {
+    "lat": 37.566528747915925,
+    "lon": 127.00922361226847
+  },
+  "id": "01931da8-c9a5-72bb-8daa-71983d6d0ba5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/14066c6f-0ae7-46e6-ad54-594b2a5074fa.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/14066c6f-0ae7-46e6-ad54-594b2a5074fa.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCHA-FENFab/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:44.426225"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931da8-c9a5-72bb-8daa-71983d6d0ba5"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
+      "title": "首尔之光DDP：2024冬日⛄️"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": " 281, Eulji-ro, Jung-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-09-07",
+    "start": "2024-09-03"
+  },
+  "geo": {
+    "lat": 37.5665256,
+    "lon": 127.0092236
+  },
+  "id": "0191b03f-8a95-7cb0-9853-321580aaa3b9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/871916ab-a34a-43df-98a2-bbac13a5c70b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/871916ab-a34a-43df-98a2-bbac13a5c70b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C91FLNkSWNd/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:20.921531"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b03f-8a95-7cb0-9853-321580aaa3b9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul,  281, Eulji-ro, Jung-gu,",
+      "title": "2025 S/S Seoul Fashion Week"
+    }
+  }
+}

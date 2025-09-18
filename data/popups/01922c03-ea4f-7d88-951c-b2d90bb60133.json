@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-04"
+  },
+  "geo": {
+    "lat": 37.5043637,
+    "lon": 127.0036211
+  },
+  "id": "01922c03-ea4f-7d88-951c-b2d90bb60133",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fc26affe-b435-44d1-a7a3-f67eaf5d45dc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fc26affe-b435-44d1-a7a3-f67eaf5d45dc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_4ROB_yPkC/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:51.643867"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01922c03-ea4f-7d88-951c-b2d90bb60133"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "HELLO KITTY 50TH ANNIVERSARY POP-UP"
+    }
+  }
+}

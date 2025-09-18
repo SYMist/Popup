@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "37, Samcheong-ro, Jongno-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-18",
+    "start": "2024-09-15"
+  },
+  "geo": {
+    "lat": 37.58164559999999,
+    "lon": 126.9789948
+  },
+  "id": "0191e900-a09c-7c6d-ae9e-5e0709daec73",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d1faeba1-cab8-4f82-a375-dc8320817522.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d1faeba1-cab8-4f82-a375-dc8320817522.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.nfm.go.kr/user/bbs/home/7/96/bbsDataView/24826.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:44.761699"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e900-a09c-7c6d-ae9e-5e0709daec73"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 37, Samcheong-ro, Jongno-gu,",
+      "title": "2024 国立民俗博物館チュソクイベント"
+    }
+  }
+}

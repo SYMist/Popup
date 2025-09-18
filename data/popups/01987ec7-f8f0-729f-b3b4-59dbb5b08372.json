@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "7, Seongsui-ro 7ga-gil, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-08-09"
+  },
+  "geo": {
+    "lat": 37.54106,
+    "lon": 127.0548
+  },
+  "id": "01987ec7-f8f0-729f-b3b4-59dbb5b08372",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e767eb08-b31d-4751-95e2-2da5eefae0e9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e767eb08-b31d-4751-95e2-2da5eefae0e9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMWnyvZvSMD/?igsh=YTZjd2FoenRxZjR0",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:10.192714"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987ec7-f8f0-729f-b3b4-59dbb5b08372"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 7, Seongsui-ro 7ga-gil, Seongdong-gu,",
+      "title": "Laka 圣水旗舰店开业 💄"
+    }
+  }
+}

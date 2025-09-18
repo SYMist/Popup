@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8 Donggyo-ro 34-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-12",
+    "start": "2025-07-04"
+  },
+  "geo": {
+    "lat": 37.56107,
+    "lon": 126.9248
+  },
+  "id": "0197b019-f96a-7b8d-a737-b16c3c44afcd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/673b8842-a57d-4eb6-935c-0411a7664c7b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/673b8842-a57d-4eb6-935c-0411a7664c7b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/marsinblack403",
+      "label": "Ruby的甜蜜小店"
+    },
+    {
+      "href": "https://x.com/HBD__i",
+      "label": "Dear. SAN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:32.114823"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197b019-f96a-7b8d-a737-b16c3c44afcd"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 8 Donggyo-ro 34-gil, Mapo-gu,",
+      "title": "“伞” 生日咖啡厅🎂"
+    }
+  }
+}

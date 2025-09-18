@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "330, Yeouido-dong-ro, Yeongdeungpo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-10-04"
+  },
+  "geo": {
+    "lat": 37.53163779957024,
+    "lon": 126.92749482485351
+  },
+  "id": "0191d955-53fc-721d-ad02-c4a5f8edbe50",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4e64e995-1241-4d9e-b970-73c15756c65b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4e64e995-1241-4d9e-b970-73c15756c65b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.bitseomfestival.com/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:52.505602"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
+      "title": "Seoul Light Hangang River Festival"
+    }
+  }
+}

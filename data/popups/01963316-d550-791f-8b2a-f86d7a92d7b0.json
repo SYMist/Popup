@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Se﻿oul",
+    "street": "330 Yeouidong-ro, Yeongdeungpo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-06-21",
+    "start": "2025-05-03"
+  },
+  "geo": {
+    "lat": 37.5284304,
+    "lon": 126.9330781
+  },
+  "id": "01963316-d550-791f-8b2a-f86d7a92d7b0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/88772f75-abe0-485b-b6f9-ff36aa895691.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/88772f75-abe0-485b-b6f9-ff36aa895691.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DGlCicwvS4A/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:59.745794"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963316-d550-791f-8b2a-f86d7a92d7b0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Se﻿oul, 330 Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "2025 阅读汉江公园"
+    }
+  }
+}

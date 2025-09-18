@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "95, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2024-12-12"
+  },
+  "geo": {
+    "lat": 37.541319,
+    "lon": 127.059871
+  },
+  "id": "0193b853-b0c1-7183-87a7-cf0de306568b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f16b724f-6e39-4320-88f8-661b8ce89a84.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f16b724f-6e39-4320-88f8-661b8ce89a84.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DC3tqIuSQ1V/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:04.005893"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b853-b0c1-7183-87a7-cf0de306568b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 95, Yeonmujang-gil, Seongdong-gu,",
+      "priceDesc": "null",
+      "title": "TIR TIR 圣水快闪店💄"
+    }
+  }
+}

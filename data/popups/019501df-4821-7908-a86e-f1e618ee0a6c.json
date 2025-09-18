@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240, Olympic-ro, Songpa-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-05-25",
+    "start": "2025-03-02"
+  },
+  "geo": {
+    "lat": 37.51111775546285,
+    "lon": 127.09816768220902
+  },
+  "id": "019501df-4821-7908-a86e-f1e618ee0a6c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/df14b516-d64d-472b-a9ac-1cb051a1d35d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/df14b516-d64d-472b-a9ac-1cb051a1d35d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DF6WCWfCdS_/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:02.753062"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019501df-4821-7908-a86e-f1e618ee0a6c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu, ",
+      "priceDesc": "null",
+      "title": "宝可梦世界冒险：春季训练营"
+    }
+  }
+}

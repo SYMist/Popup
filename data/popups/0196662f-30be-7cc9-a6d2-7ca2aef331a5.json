@@ -1,17 +1,11 @@
 {
-  "address": {
-    "city": "Seoul",
-    "street": "7-8, Wausan-ro 29ma-gil, Mapo-gu,"
-  },
+  "address": {},
   "category": "ENTER",
   "duration": {
     "end": "2025-05-11",
     "start": "2025-05-09"
   },
-  "geo": {
-    "lat": 37.55554,
-    "lon": 126.9269
-  },
+  "geo": {},
   "id": "0196662f-30be-7cc9-a6d2-7ca2aef331a5",
   "images": [
     {
@@ -36,25 +30,15 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-17T14:58:51.308423"
+    "fetchedAt": "2025-09-18T14:21:46.032236"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196662f-30be-7cc9-a6d2-7ca2aef331a5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196662f-30be-7cc9-a6d2-7ca2aef331a5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196662f-30be-7cc9-a6d2-7ca2aef331a5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 7-8, Wausan-ro 29ma-gil, Mapo-gu,",
-      "title": "『Sion』 Birthday Cafe"
-    },
-    "ja": {
-      "address": "Seoul, 7-8, Wausan-ro 29ma-gil, Mapo-gu,",
-      "title": "『シオン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "title": "\"时温\"生日咖啡厅🎂"
     }

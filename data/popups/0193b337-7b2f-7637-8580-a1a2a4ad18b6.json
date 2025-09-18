@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "219, Gwanganhaebyeon-ro, Suyeong-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-01",
+    "start": "2024-12-31"
+  },
+  "geo": {
+    "lat": 35.15317325872968,
+    "lon": 129.11866630030585
+  },
+  "id": "0193b337-7b2f-7637-8580-a1a2a4ad18b6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/38ac2027-a901-4923-b1bd-537c3406ca0a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/38ac2027-a901-4923-b1bd-537c3406ca0a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "http://countdownbusan.co.kr/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:59.344346"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
+      "priceDesc": "null",
+      "title": "2025 COUNTDOWN BUSAN"
+    }
+  }
+}

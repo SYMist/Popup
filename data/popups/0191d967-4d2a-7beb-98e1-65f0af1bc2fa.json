@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "139, Gangbyeonbuk-ro, Gwangjin-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-26",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 37.5290474360397,
+    "lon": 127.07132004635774
+  },
+  "id": "0191d967-4d2a-7beb-98e1-65f0af1bc2fa",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/23d3b3d5-b5ab-42cb-b5d2-d6b018b0acfe.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/23d3b3d5-b5ab-42cb-b5d2-d6b018b0acfe.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_h55xYv7bJ/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:52.993469"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d967-4d2a-7beb-98e1-65f0af1bc2fa"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 139, Gangbyeonbuk-ro, Gwangjin-gu,",
+      "title": "2024 Hangang River Light Show"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Se﻿oul",
+    "street": "13, Yeonmujang 7-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-22",
+    "start": "2025-09-10"
+  },
+  "geo": {
+    "lat": 37.544113550193735,
+    "lon": 127.05455738035661
+  },
+  "id": "0199045a-b462-775d-a36a-83fac1b926f7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e65d5f11-b526-448d-9463-93199ca379b8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e65d5f11-b526-448d-9463-93199ca379b8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOClclMEnZx/?img_index=5",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:21.084193"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199045a-b462-775d-a36a-83fac1b926f7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "medicube × My Melody快闪店"
+    }
+  }
+}

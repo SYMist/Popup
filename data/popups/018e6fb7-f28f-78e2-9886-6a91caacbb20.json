@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-30",
+    "start": "2024-03-01"
+  },
+  "geo": {
+    "lat": 37.54388,
+    "lon": 127.0511
+  },
+  "id": "018e6fb7-f28f-78e2-9886-6a91caacbb20",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a3b19d24-a333-4e33-8dbd-198ca0a05381.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a3b19d24-a333-4e33-8dbd-198ca0a05381.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:22.233350"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e6fb7-f28f-78e2-9886-6a91caacbb20"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 13, Yeonmujang-gil, Seongdong-gu, ",
+      "title": "Matin Kim SPECIAL STORE"
+    }
+  }
+}

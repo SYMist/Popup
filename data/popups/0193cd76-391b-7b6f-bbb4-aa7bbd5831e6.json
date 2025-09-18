@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "405, Hangang-daero, Jung-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-25",
+    "start": "2024-12-13"
+  },
+  "geo": {
+    "lat": 37.55308257046213,
+    "lon": 126.96887165306714
+  },
+  "id": "0193cd76-391b-7b6f-bbb4-aa7bbd5831e6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b1c30073-2592-48b4-884f-311711a74b5d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b1c30073-2592-48b4-884f-311711a74b5d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DDOymFdKIVD/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:45.165406"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cd76-391b-7b6f-bbb4-aa7bbd5831e6"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 405, Hangang-daero, Jung-gu, ",
+      "priceDesc": "null",
+      "title": "Merry AREX-mas Festival"
+    }
+  }
+}

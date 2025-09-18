@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "120, Suyeonggangbyeon-daero, Haeundae-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-08-13",
+    "start": "2024-05-07"
+  },
+  "geo": {
+    "lat": 35.171191291272,
+    "lon": 129.1272
+  },
+  "id": "019069de-335b-7b73-947c-f02772500bad",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e7d5ec04-46d8-4f44-93b4-fbbe791e8735.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e7d5ec04-46d8-4f44-93b4-fbbe791e8735.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6IimeNhwgB/?img_index=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:09.157430"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019069de-335b-7b73-947c-f02772500bad"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
+      "title": "Outdoor Movie Theater in Busan"
+    }
+  }
+}

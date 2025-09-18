@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Goyang-si, ",
+    "street": "1601, Jungang-ro, Ilsanseo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-03-30",
+    "start": "2025-03-29"
+  },
+  "geo": {
+    "lat": 37.67638563129207,
+    "lon": 126.74308815459632
+  },
+  "id": "0195115f-9474-7428-8975-505c6c7ebabc",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1b185750-9ae6-4eb5-bae7-7c43f9eeb60e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1b185750-9ae6-4eb5-bae7-7c43f9eeb60e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/25002078",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:08.565099"
+  },
+  "pricing": {
+    "description": "A区154,000韩元、S区165,000韩元、R区187,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195115f-9474-7428-8975-505c6c7ebabc"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Goyang-si, , 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "A区154,000韩元、S区165,000韩元、R区187,000韩元",
+      "title": "G-DRAGON 2025世界巡回演唱会韩国站"
+    }
+  }
+}

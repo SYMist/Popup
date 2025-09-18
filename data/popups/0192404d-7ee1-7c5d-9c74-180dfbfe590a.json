@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-09-27"
+  },
+  "geo": {
+    "lat": 37.54312301515269,
+    "lon": 127.0535092906517
+  },
+  "id": "0192404d-7ee1-7c5d-9c74-180dfbfe590a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/56c943a1-e379-4fe8-b1a2-83b09a2aab95.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/56c943a1-e379-4fe8-b1a2-83b09a2aab95.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAa0eMvttLY/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:32.742512"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192404d-7ee1-7c5d-9c74-180dfbfe590a"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 35, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Thom Browne Pop-up Store"
+    }
+  }
+}

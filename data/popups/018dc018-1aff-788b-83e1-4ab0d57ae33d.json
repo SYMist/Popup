@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14, Geumho-ro 3-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-03-03",
+    "start": "2024-02-16"
+  },
+  "geo": {
+    "lat": 37.54777167311918,
+    "lon": 127.02445227028083
+  },
+  "id": "018dc018-1aff-788b-83e1-4ab0d57ae33d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/02c49660-a74d-4f18-ae3e-e853ef29bb41.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/02c49660-a74d-4f18-ae3e-e853ef29bb41.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:31.114395"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018dc018-1aff-788b-83e1-4ab0d57ae33d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 14, Geumho-ro 3-gil, Seongdong-gu,",
+      "title": "LE SSERAFIM 2024 S/S POP-UP"
+    }
+  }
+}

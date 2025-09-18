@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Donggyo-ro 34-gil 8, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-04",
+    "start": "2024-09-01"
+  },
+  "geo": {
+    "lat": 37.5609171368989,
+    "lon": 126.92476564293953
+  },
+  "id": "01916e34-e0f1-71d3-b415-0bd181ba5352",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/17c58c2f-39d8-47d4-ad51-bcaa7f1e73e4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/17c58c2f-39d8-47d4-ad51-bcaa7f1e73e4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/y2yuw",
+      "label": "Cheese cat"
+    },
+    {
+      "href": "https://x.com/FCkittyS2",
+      "label": "FC KITTY"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:15.440503"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916e34-e0f1-71d3-b415-0bd181ba5352"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, Donggyo-ro 34-gil 8, Mapo-gu,",
+      "title": "『SUNGHO』 Birthday Cafe 🎂"
+    }
+  }
+}

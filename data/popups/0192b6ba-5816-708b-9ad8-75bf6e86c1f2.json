@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "14,  Seongsui-ro 10-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-10-21"
+  },
+  "geo": {
+    "lat": 37.540182,
+    "lon": 127.056778
+  },
+  "id": "0192b6ba-5816-708b-9ad8-75bf6e86c1f2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2b811009-8fcd-480d-8534-b0af4113f445.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2b811009-8fcd-480d-8534-b0af4113f445.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBK02zDyARm/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:41.969553"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192b6ba-5816-708b-9ad8-75bf6e86c1f2"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 14,  Seongsui-ro 10-gil, Seongdong-gu,",
+      "title": "aespa x 032c Pop-up"
+    }
+  }
+}

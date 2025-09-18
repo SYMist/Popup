@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "219, Gwanganhaebyeon-ro, Suyeong-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-12",
+    "start": "2024-05-10"
+  },
+  "geo": {
+    "lat": 35.15318,
+    "lon": 129.1187
+  },
+  "id": "018ead97-3bb1-7a17-a0f6-9cd5eef2e418",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5ccba130-e752-42c9-b23d-d473b0cba645.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5ccba130-e752-42c9-b23d-d473b0cba645.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:28.065880"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ead97-3bb1-7a17-a0f6-9cd5eef2e418"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu,",
+      "title": "広安里漁方（オバン）祭り"
+    }
+  }
+}

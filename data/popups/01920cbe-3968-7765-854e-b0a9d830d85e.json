@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "216, Neungdong-ro, Gwangjin-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-09-28",
+    "start": "2024-09-26"
+  },
+  "geo": {
+    "lat": 37.54896339888105,
+    "lon": 127.08014570038607
+  },
+  "id": "01920cbe-3968-7765-854e-b0a9d830d85e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a4f4337f-5555-47a6-bed5-da375bdcdddd.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a4f4337f-5555-47a6-bed5-da375bdcdddd.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/st.cheongchun/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:01.120315"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920cbe-3968-7765-854e-b0a9d830d85e"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 216, Neungdong-ro, Gwangjin-gu,",
+      "title": "2024 Cheongchun-daero: Our Way"
+    }
+  }
+}

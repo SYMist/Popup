@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-42, Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-05-12",
+    "start": "2025-05-09"
+  },
+  "geo": {
+    "lat": 37.524495,
+    "lon": 126.964619
+  },
+  "id": "0196a7f2-be51-7773-ba0d-8c476b73815a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5a36c228-2931-4a6b-a83a-0adb42f1cb45.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5a36c228-2931-4a6b-a83a-0adb42f1cb45.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/bunnyminju2025/status/1915705679911784713",
+      "label": "ʚ..ꯁ.. 🄱🅄🄽🄽🅈 🄼🄸🄽🄹🅄 ..ꯁ..ɞ"
+    },
+    {
+      "href": "https://x.com/illitminjugall/status/1916794979076522061",
+      "label": "积极的Cheat Key 幸运女孩 MINJU DAY"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:49.592042"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196a7f2-be51-7773-ba0d-8c476b73815a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“慜柱” 生日咖啡厅🎂"
+    }
+  }
+}

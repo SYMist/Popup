@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-06",
+    "start": "2025-07-25"
+  },
+  "geo": {
+    "lat": 37.526053213807366,
+    "lon": 126.92829619539496
+  },
+  "id": "019834fa-9251-7952-8b2a-941c434f7cc1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f3c54ce0-7588-47d6-8d8d-6b94ca466d15.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f3c54ce0-7588-47d6-8d8d-6b94ca466d15.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMPlAcVzwHx/?igsh=cW1rcnE4am81em83&img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:53.230054"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019834fa-9251-7952-8b2a-941c434f7cc1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "K联赛 X 疯狂动物城期间限定"
+    }
+  }
+}

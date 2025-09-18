@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "161, Sajik-ro, Jongno-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-07-07",
+    "start": "2025-07-02"
+  },
+  "geo": {
+    "lat": 37.580059,
+    "lon": 126.976869
+  },
+  "id": "0197afc5-74e9-72be-a744-00765ff592ca",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1c55a453-93ca-4b2c-bcba-0db17223141e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1c55a453-93ca-4b2c-bcba-0db17223141e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLPF6gmTdPa/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:29.322163"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afc5-74e9-72be-a744-00765ff592ca"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "景福宫的想法"
+    }
+  }
+}

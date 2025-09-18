@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Myeongdong-gil, Jung-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-10",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.56376108655131,
+    "lon": 126.98313869570083
+  },
+  "id": "019226a0-b137-72cb-9181-aa79e9d0cc9e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/237cdf8d-79d3-41ae-8ca4-4b4a62b3e3bc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/237cdf8d-79d3-41ae-8ca4-4b4a62b3e3bc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAIdpWwzNSr/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:37.182396"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019226a0-b137-72cb-9181-aa79e9d0cc9e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
+      "title": "Now in Myeongdong X Pixar皮克斯"
+    }
+  }
+}

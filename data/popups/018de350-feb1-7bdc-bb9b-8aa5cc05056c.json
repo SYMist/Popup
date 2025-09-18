@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "55, Haeyang-ro 301beon-gil, Yeongdo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-05-26",
+    "start": "2024-05-24"
+  },
+  "geo": {
+    "lat": 35.07672440872138,
+    "lon": 129.07905190143583
+  },
+  "id": "018de350-feb1-7bdc-bb9b-8aa5cc05056c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b6beeb09-947c-41aa-84b7-0ae28b645da2.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b6beeb09-947c-41aa-84b7-0ae28b645da2.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.yeongdo.go.kr/yd_coffee_festival.web",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:00.083441"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018de350-feb1-7bdc-bb9b-8aa5cc05056c"
+  },
+  "translations": {
+    "ja": {
+      "address": "Busan, 55, Haeyang-ro 301beon-gil, Yeongdo-gu,",
+      "title": "グローバル影島コーヒーフェスティバル"
+    }
+  }
+}

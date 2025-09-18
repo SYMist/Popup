@@ -1,0 +1,37 @@
+{
+  "address": {},
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-06-01",
+    "start": "2024-04-01"
+  },
+  "geo": {},
+  "id": "018ea873-db85-7610-835e-1b49a8dc679d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b741647d-1171-456c-a84a-54d782ca4b8a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b741647d-1171-456c-a84a-54d782ca4b8a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:23.935059"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ea873-db85-7610-835e-1b49a8dc679d"
+  },
+  "translations": {
+    "ja": {
+      "title": "Gong cha 「パールポッキ」"
+    }
+  }
+}

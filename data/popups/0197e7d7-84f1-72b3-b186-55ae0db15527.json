@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Yonsei-ro, Seodaemun-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-02",
+    "start": "2025-08-02"
+  },
+  "geo": {
+    "lat": 37.5645,
+    "lon": 126.9389
+  },
+  "id": "0197e7d7-84f1-72b3-b186-55ae0db15527",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7ef71017-d0c2-4721-a927-8d45f61adee3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7ef71017-d0c2-4721-a927-8d45f61adee3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/JeongEunJi_X/status/1942152837238231257",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:46.069780"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e7d7-84f1-72b3-b186-55ae0db15527"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
+      "title": "2025 郑恩地生日派对"
+    }
+  }
+}

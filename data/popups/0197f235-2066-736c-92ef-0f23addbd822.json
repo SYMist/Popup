@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "22 Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-13",
+    "start": "2025-08-11"
+  },
+  "geo": {
+    "lat": 37.55514,
+    "lon": 126.9267
+  },
+  "id": "0197f235-2066-736c-92ef-0f23addbd822",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cac6b928-c752-4d49-94e4-73b3888ff6b5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cac6b928-c752-4d49-94e4-73b3888ff6b5.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/log_in_nana",
+      "label": "Jaemin's Rabbit LOG- IN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:48.435848"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f235-2066-736c-92ef-0f23addbd822"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 22 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "“渽民” 生日咖啡厅🎂"
+    }
+  }
+}

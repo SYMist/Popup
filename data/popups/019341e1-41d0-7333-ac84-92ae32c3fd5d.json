@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seogwipo-si,",
+    "street": "256, Silryedong-ro, Namwon-eup, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-31",
+    "start": "2024-11-14"
+  },
+  "geo": {
+    "lat": 33.30876007227447,
+    "lon": 126.63379366472388
+  },
+  "id": "019341e1-41d0-7333-ac84-92ae32c3fd5d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/acad53ce-b6f2-4c4e-82e0-60c9be7fe811.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/acad53ce-b6f2-4c4e-82e0-60c9be7fe811.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/CzYPq8tvXSO/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:25.157693"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019341e1-41d0-7333-ac84-92ae32c3fd5d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seogwipo-si,, 256, Silryedong-ro, Namwon-eup, ",
+      "title": "济州休爱里山茶花庆典"
+    }
+  }
+}

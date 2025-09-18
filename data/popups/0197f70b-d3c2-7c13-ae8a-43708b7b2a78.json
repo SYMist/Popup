@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "98, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-07-27",
+    "start": "2025-07-10"
+  },
+  "geo": {
+    "lat": 37.54111,
+    "lon": 127.06
+  },
+  "id": "0197f70b-d3c2-7c13-ae8a-43708b7b2a78",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/eb3932c4-4abc-4fed-9fc9-c81ed20ac81d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/eb3932c4-4abc-4fed-9fc9-c81ed20ac81d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLozqgSyTxk/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:51.148048"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f70b-d3c2-7c13-ae8a-43708b7b2a78"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "NCT DREAM 快闪店"
+    }
+  }
+}

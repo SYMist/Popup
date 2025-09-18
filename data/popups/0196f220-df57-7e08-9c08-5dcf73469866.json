@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13 Wausan-ro 35-gil, Map﻿o-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-27",
+    "start": "2025-05-30"
+  },
+  "geo": {
+    "lat": 37.5556741,
+    "lon": 126.9297811
+  },
+  "id": "0196f220-df57-7e08-9c08-5dcf73469866",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5bcb9326-9941-4584-a7a6-c132c63df93b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5bcb9326-9941-4584-a7a6-c132c63df93b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ2zqL3ylZz/?img_index=1",
+      "label": "查看详情"
+    },
+    {
+      "href": "/content/festas/0197bea4-a6cf-7d8f-a804-225ee53eb2a1",
+      "label": "Objec Edit店 信息"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:51.201283"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f220-df57-7e08-9c08-5dcf73469866"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13 Wausan-ro 35-gil, Map﻿o-gu,",
+      "title": "Marshville Quokscout 🏕️"
+    }
+  }
+}

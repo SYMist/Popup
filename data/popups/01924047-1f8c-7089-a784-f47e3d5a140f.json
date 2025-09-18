@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "67-6, Dongmak-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-05"
+  },
+  "geo": {
+    "lat": 37.5481414,
+    "lon": 126.9210441
+  },
+  "id": "01924047-1f8c-7089-a784-f47e3d5a140f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b70fa713-9951-4039-aee7-fda49aa38d07.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b70fa713-9951-4039-aee7-fda49aa38d07.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/joohamlove",
+      "label": "One Tteok, Two Monbebes Love Jooheon"
+    },
+    {
+      "href": "https://x.com/MX__HBD",
+      "label": "Joo Honey Boy"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:09.777158"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924047-1f8c-7089-a784-f47e3d5a140f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 67-6, Dongmak-ro, Mapo-gu,",
+      "title": "『Jooheon』 Birthday Cafe🎂"
+    }
+  }
+}

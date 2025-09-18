@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "1, Seongsuil-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-18",
+    "start": "2024-08-14"
+  },
+  "geo": {
+    "lat": 37.540831270478,
+    "lon": 127.0478
+  },
+  "id": "019141d3-fc1f-769d-be1d-d8a3460fec0d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fef1d526-03bd-4469-bead-d0d8a55bbb83.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fef1d526-03bd-4469-bead-d0d8a55bbb83.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-WZy1vzkdK/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:49.573921"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/019141d3-fc1f-769d-be1d-d8a3460fec0d"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 1, Seongsuil-ro, Seongdong-gu,",
+      "title": "AVAM HOME POP-UP"
+    }
+  }
+}

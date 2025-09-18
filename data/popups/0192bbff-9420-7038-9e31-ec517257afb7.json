@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "10, Gangnam-daero 94-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-02",
+    "start": "2024-10-03"
+  },
+  "geo": {
+    "lat": 37.499165,
+    "lon": 127.028187
+  },
+  "id": "0192bbff-9420-7038-9e31-ec517257afb7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6adc8cda-6bf7-4feb-801e-6e1bee05374b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6adc8cda-6bf7-4feb-801e-6e1bee05374b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DApEPd9z7aE/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:23.657813"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192bbff-9420-7038-9e31-ec517257afb7"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 10, Gangnam-daero 94-gil, Gangnam-gu, ",
+      "title": "tvN Jeongnyeon POP-UP"
+    }
+  }
+}

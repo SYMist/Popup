@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "17, Seongsui-ro 7ga-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-30",
+    "start": "2025-04-01"
+  },
+  "geo": {
+    "lat": 37.54202,
+    "lon": 127.0553
+  },
+  "id": "0196f205-629e-7205-91ed-5e65fca7405f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1f2ef9a1-2981-4e51-92bc-bfeeba18463e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1f2ef9a1-2981-4e51-92bc-bfeeba18463e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DH28czARJio/?img_index=9",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:49.805148"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f205-629e-7205-91ed-5e65fca7405f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu, ",
+      "title": "Torriden桃源快闪店"
+    }
+  }
+}

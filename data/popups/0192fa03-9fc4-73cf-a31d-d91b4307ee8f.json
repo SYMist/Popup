@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "63, Sogong-ro, Jung-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.560925368990674,
+    "lon": 126.98113901165677
+  },
+  "id": "0192fa03-9fc4-73cf-a31d-d91b4307ee8f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5dfba3a1-7947-4022-84c8-a66e7beaaaa9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5dfba3a1-7947-4022-84c8-a66e7beaaaa9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBqQg3RoIS3/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:44.965728"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192fa03-9fc4-73cf-a31d-d91b4307ee8f"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
+      "title": "新世界圣诞秀🎄"
+    }
+  }
+}

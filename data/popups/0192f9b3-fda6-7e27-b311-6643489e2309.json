@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "5, Yeonmujang 17-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-24",
+    "start": "2024-11-08"
+  },
+  "geo": {
+    "lat": 37.541283,
+    "lon": 127.060946
+  },
+  "id": "0192f9b3-fda6-7e27-b311-6643489e2309",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/755cc1c8-be71-4ed4-8f07-be1368147991.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/755cc1c8-be71-4ed4-8f07-be1368147991.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DB8ZNXaJ2l7/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:32.062836"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192f9b3-fda6-7e27-b311-6643489e2309"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 5, Yeonmujang 17-gil, Seongdong-gu, ",
+      "title": "UNOVE Eternal Aura POP-UP"
+    }
+  }
+}

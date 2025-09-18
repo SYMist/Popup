@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "188, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-05",
+    "start": "2024-08-16"
+  },
+  "geo": {
+    "lat": 37.557784261243455,
+    "lon": 126.92651687818756
+  },
+  "id": "01918bf1-941f-7f25-8f51-aecb25229dcd",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bc7d3ab0-ce6d-4233-b995-c1c6ad1250e7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bc7d3ab0-ce6d-4233-b995-c1c6ad1250e7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-jaWqyypI7/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:03.659474"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01918bf1-941f-7f25-8f51-aecb25229dcd"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
+      "title": "Sylvanian Family 'Baby Friends of the Forest'"
+    }
+  }
+}

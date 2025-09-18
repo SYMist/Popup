@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Jongro-gu,Hyojaro 12, National Palace Museum"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-09"
+  },
+  "geo": {
+    "lat": 37.575798661418766,
+    "lon": 126.97685402279663
+  },
+  "id": "018cebca-03f9-7aa2-9555-a814cb61bafb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/58567e74-8c86-4d7a-8a87-98930fba558d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/58567e74-8c86-4d7a-8a87-98930fba558d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:47.800163"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018cebca-03f9-7aa2-9555-a814cb61bafb"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, Jongro-gu,Hyojaro 12, National Palace Museum",
+      "title": "景福宫守门将换岗仪式"
+    }
+  }
+}

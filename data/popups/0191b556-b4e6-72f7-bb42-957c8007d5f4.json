@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": " 270, Saengtaegongwon-gil, Buk-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-13",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 35.226804,
+    "lon": 129.003508
+  },
+  "id": "0191b556-b4e6-72f7-bb42-957c8007d5f4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a5865849-5190-4360-b977-cd1d95f65b70.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a5865849-5190-4360-b977-cd1d95f65b70.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_cGrbsP1Kk/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:25.598781"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191b556-b4e6-72f7-bb42-957c8007d5f4"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan,  270, Saengtaegongwon-gil, Buk-gu,",
+      "title": "2024 Starry Busan Night Market"
+    }
+  }
+}

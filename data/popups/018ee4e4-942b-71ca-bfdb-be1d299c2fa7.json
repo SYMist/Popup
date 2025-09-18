@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Sinbanpo-ro 11-gil, Seocho-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-06-23",
+    "start": "2024-05-05"
+  },
+  "geo": {
+    "lat": 37.51466,
+    "lon": 126.9964
+  },
+  "id": "018ee4e4-942b-71ca-bfdb-be1d299c2fa7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/61a819aa-211c-40bb-a07a-bb63f2fb90c6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/61a819aa-211c-40bb-a07a-bb63f2fb90c6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:13.720762"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ee4e4-942b-71ca-bfdb-be1d299c2fa7"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu, ",
+      "title": "潜水橋てくてく祭り"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": {},
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-08-17",
+    "start": "2025-07-25"
+  },
+  "geo": {},
+  "id": "019878db-04b9-7ffa-b5d4-ba152a4b8db1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c3e85f67-3fe6-4abb-9292-1854301827ad.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c3e85f67-3fe6-4abb-9292-1854301827ad.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DM0KIKRP-NM/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:06.531307"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878db-04b9-7ffa-b5d4-ba152a4b8db1"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "FRAPPUCCINO 30 WEEKEND​🎉"
+    }
+  }
+}

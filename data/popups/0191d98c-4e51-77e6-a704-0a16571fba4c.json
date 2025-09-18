@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "53, Wausan-ro 35-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-22",
+    "start": "2024-09-20"
+  },
+  "geo": {
+    "lat": 37.5564444,
+    "lon": 126.9279018
+  },
+  "id": "0191d98c-4e51-77e6-a704-0a16571fba4c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8dc7c487-9528-47a2-882b-22aa1d2a4d82.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8dc7c487-9528-47a2-882b-22aa1d2a4d82.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/miniverse_B922",
+      "label": "⊹⁺⸜ Little Prince ⸝⁺⊹"
+    },
+    {
+      "href": "https://x.com/skids_event2024",
+      "label": "Genius Puppy Seungmin"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:54.582969"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191d98c-4e51-77e6-a704-0a16571fba4c"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu,",
+      "title": "『Seungmin』 Birthday Cafe 🎂"
+    }
+  }
+}

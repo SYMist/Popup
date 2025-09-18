@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seogwipo-si,",
+    "street": "46, Iljuseo-ro 2100beon-gil, Andeok-myeon, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-01-31",
+    "start": "2024-12-05"
+  },
+  "geo": {
+    "lat": 33.25485483183375,
+    "lon": 126.29501453067111
+  },
+  "id": "0193b367-fc5c-7980-993a-a56814836f75",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f6a5c260-0a62-497d-8d65-fe4f8ba5c220.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f6a5c260-0a62-497d-8d65-fe4f8ba5c220.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DBf2LyyMsM-/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:18.986366"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b367-fc5c-7980-993a-a56814836f75"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seogwipo-si,, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon, ",
+      "priceDesc": "null",
+      "title": "济州 Manorblanc 山茶花柑橘体验节🍊"
+    }
+  }
+}

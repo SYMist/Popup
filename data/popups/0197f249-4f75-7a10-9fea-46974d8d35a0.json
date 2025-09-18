@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "54 Yanghwa-ro 6-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-20",
+    "start": "2025-08-17"
+  },
+  "geo": {
+    "lat": 37.54879,
+    "lon": 126.9172
+  },
+  "id": "0197f249-4f75-7a10-9fea-46974d8d35a0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/25ae91e8-8fdf-4035-9cb9-901ae38e6f80.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/25ae91e8-8fdf-4035-9cb9-901ae38e6f80.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/noyeuisalm/status/1941819441609912660",
+      "label": "Asahi's Happiness Supply Store Part 1"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:49.093409"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f249-4f75-7a10-9fea-46974d8d35a0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 54 Yanghwa-ro 6-gil, Mapo-gu,",
+      "title": "“ASAHI” 生日咖啡厅🎂"
+    }
+  }
+}

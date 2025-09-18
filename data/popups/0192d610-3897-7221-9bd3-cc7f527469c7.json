@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "24, Seogang-ro 9-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-11-03",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.55346749434119,
+    "lon": 126.93222723619368
+  },
+  "id": "0192d610-3897-7221-9bd3-cc7f527469c7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/97852a6c-84db-49e4-9880-88e3a4151039.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/97852a6c-84db-49e4-9880-88e3a4151039.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/NFL1101/status/1846056182068531416",
+      "label": "NOVEMBER FIRST LOVE"
+    },
+    {
+      "href": "https://x.com/YuangleJYJH/status/1843154295417716784",
+      "label": "pit a PET"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:41.915002"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192d610-3897-7221-9bd3-cc7f527469c7"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 24, Seogang-ro 9-gil, Mapo-gu, ",
+      "title": "『Jeongyeon』 Birthday Café 🎂"
+    }
+  }
+}

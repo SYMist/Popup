@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "65, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-13",
+    "start": "2025-07-04"
+  },
+  "geo": {
+    "lat": 37.54242,
+    "lon": 127.0568
+  },
+  "id": "0197e256-cbf5-7f58-9918-1946cfb7424d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b55235fd-3985-4c58-bd19-8ce901ff8d63.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b55235fd-3985-4c58-bd19-8ce901ff8d63.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLqqm5qpRwB/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:42.111132"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e256-cbf5-7f58-9918-1946cfb7424d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 65, Yeonmujang-gil, Seongdong-gu,",
+      "title": "2025年首尔巡演快闪店 in 圣水"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "45, Samcheong-ro 9-gil, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-03",
+    "start": "2024-09-27"
+  },
+  "geo": {
+    "lat": 37.5879483,
+    "lon": 126.9806688
+  },
+  "id": "01924060-aa55-7281-8a03-c67b1902b21f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7704abf8-d12f-4408-9b0c-40fa7a2af4a4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7704abf8-d12f-4408-9b0c-40fa7a2af4a4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://museumhanmi.or.kr/post_exhibition/%e3%80%8a%ec%98%81%ec%9b%90%ed%95%9c-%ec%9e%ac%ed%83%84%ec%83%9d%e3%80%8b/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:02.638240"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01924060-aa55-7281-8a03-c67b1902b21f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 45, Samcheong-ro 9-gil, Jongno-gu,",
+      "title": "ETERNALLY REBORN IN SEOUL⁣"
+    }
+  }
+}

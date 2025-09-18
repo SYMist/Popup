@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13 Yonsei-ro, Seodaemun-g﻿u,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-01"
+  },
+  "geo": {
+    "lat": 37.55669408419329,
+    "lon": 126.936579
+  },
+  "id": "019903fa-e119-71a9-a5ed-329496191b93",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0f1e59e7-6599-4084-954d-a944fe190963.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0f1e59e7-6599-4084-954d-a944fe190963.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://ateez.kqent.com/shop/kr/event/01K38GYRN5BKSCZTJC1HR1VYG6",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:18.075239"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019903fa-e119-71a9-a5ed-329496191b93"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13 Yonsei-ro, Seodaemun-g﻿u,",
+      "title": "ATEEZ X ANITEEZ 限时快闪店"
+    }
+  }
+}

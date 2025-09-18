@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Hangang-daero 10-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-14",
+    "start": "2024-10-09"
+  },
+  "geo": {
+    "lat": 37.523926845658586,
+    "lon": 126.96431868773155
+  },
+  "id": "01926485-32a2-780f-b80d-56653b9f2c36",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/89e17134-d220-45fd-8cab-de32115af138.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/89e17134-d220-45fd-8cab-de32115af138.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/jiminbirthday1",
+      "label": "2024 Jimin Day [JIMTOBER]"
+    },
+    {
+      "href": "https://x.com/secretinvite_jm",
+      "label": "GLOBAL MUSE JIMIN"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:59.180747"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926485-32a2-780f-b80d-56653b9f2c36"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 15, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "BTS JIMIN Birthday Cafe🎂"
+    }
+  }
+}

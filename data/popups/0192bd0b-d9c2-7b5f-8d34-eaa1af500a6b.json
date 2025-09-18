@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "57, Seongsui-ro 20-gil, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-11-02",
+    "start": "2024-10-19"
+  },
+  "geo": {
+    "lat": 37.542126,
+    "lon": 127.062919
+  },
+  "id": "0192bd0b-d9c2-7b5f-8d34-eaa1af500a6b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d2f5abdd-bf46-4044-9207-606eac399fa0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d2f5abdd-bf46-4044-9207-606eac399fa0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://kiaoppositesunited.com/kr",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:30.091621"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192bd0b-d9c2-7b5f-8d34-eaa1af500a6b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 57, Seongsui-ro 20-gil, Seongdong-gu,",
+      "title": "OPPOSITES UNITED_ ‘Intersections Beyond Boundaries’"
+    }
+  }
+}

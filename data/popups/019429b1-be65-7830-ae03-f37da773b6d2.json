@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "426, Gangnam-daero, Gangnam-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-12",
+    "start": "2024-12-20"
+  },
+  "geo": {
+    "lat": 37.5005400202851,
+    "lon": 127.02674188343241
+  },
+  "id": "019429b1-be65-7830-ae03-f37da773b6d2",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ba42f17a-0cf5-4b8c-8447-33d6c98f9247.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ba42f17a-0cf5-4b8c-8447-33d6c98f9247.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DDy_UVxvmXu/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:39.605524"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019429b1-be65-7830-ae03-f37da773b6d2"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu,",
+      "priceDesc": "null",
+      "title": "《鱿鱼游戏》第二季快闪活动"
+    }
+  }
+}

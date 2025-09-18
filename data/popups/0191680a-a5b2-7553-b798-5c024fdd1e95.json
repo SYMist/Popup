@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Hangang-daero 23-gil, Yongsan-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-09-20",
+    "start": "2024-09-06"
+  },
+  "geo": {
+    "lat": 37.529712260904525,
+    "lon": 126.96475656564141
+  },
+  "id": "0191680a-a5b2-7553-b798-5c024fdd1e95",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5519e983-8239-4ec0-b54b-cbd7e6cc65a1.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5519e983-8239-4ec0-b54b-cbd7e6cc65a1.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-pHEehJVL3/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:13.582560"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191680a-a5b2-7553-b798-5c024fdd1e95"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "Nagano Market Pop Up"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "44 Sinchon-ro 2an-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-23",
+    "start": "2025-09-20"
+  },
+  "geo": {
+    "lat": 37.556678,
+    "lon": 126.929395
+  },
+  "id": "0198ef41-9c9c-7c37-80ea-2ba867ddaf5d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/36aef49c-3035-47c8-9e1e-ad745aec1f81.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/36aef49c-3035-47c8-9e1e-ad745aec1f81.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/happykeyday/status/1948677221285286204",
+      "label": "𝗛𝗔𝗠𝗦𝗧𝗔𝗥 𝗦𝗬𝗡𝗗𝗥𝗢𝗠𝗘 "
+    },
+    {
+      "href": "https://x.com/2025_HBD/status/1958772135771701662",
+      "label": "𝙆𝙀𝙔 𝑪𝒐𝒓𝒅𝒔"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:56.614152"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef41-9c9c-7c37-80ea-2ba867ddaf5d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu, ",
+      "title": "“Key” 生日咖啡厅🎂"
+    }
+  }
+}

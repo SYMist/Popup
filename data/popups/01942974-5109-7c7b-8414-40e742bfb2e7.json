@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "429, Gangnam-daero, Seocho-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-04-09",
+    "start": "2024-12-27"
+  },
+  "geo": {
+    "lat": 37.500823488336444,
+    "lon": 127.02579016042472
+  },
+  "id": "01942974-5109-7c7b-8414-40e742bfb2e7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7bf99b7b-4eec-4647-b2a6-2be62472f7dc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7bf99b7b-4eec-4647-b2a6-2be62472f7dc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DEEDjEBytLW/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:37.503598"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942974-5109-7c7b-8414-40e742bfb2e7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "priceDesc": "null",
+      "title": "鱿鱼游戏2 X Kakao Friends 合作周边"
+    }
+  }
+}

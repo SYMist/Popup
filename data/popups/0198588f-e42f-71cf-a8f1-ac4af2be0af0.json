@@ -1,0 +1,44 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yeonmujang 7-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-07",
+    "start": "2025-08-28"
+  },
+  "geo": {
+    "lat": 37.544063,
+    "lon": 127.054664
+  },
+  "id": "0198588f-e42f-71cf-a8f1-ac4af2be0af0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/bbba8896-a81d-472c-b740-212309b415e0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/bbba8896-a81d-472c-b740-212309b415e0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:59.719784"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198588f-e42f-71cf-a8f1-ac4af2be0af0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
+      "title": "OBgE x DUCATI 期间限定店"
+    }
+  }
+}

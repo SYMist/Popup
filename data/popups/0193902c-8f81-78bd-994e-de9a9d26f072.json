@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Wausan-ro 29ra-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-08",
+    "start": "2024-12-06"
+  },
+  "geo": {
+    "lat": 37.5552,
+    "lon": 126.927197
+  },
+  "id": "0193902c-8f81-78bd-994e-de9a9d26f072",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9302275f-d6f9-4761-88b7-285fe9250299.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9302275f-d6f9-4761-88b7-285fe9250299.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/sunghoon_happy/status/1861077514086744573",
+      "label": "成訓 OrangeBlood"
+    },
+    {
+      "href": "https://x.com/Aegis1208/status/1858102829346611284",
+      "label": "12:08 SUNGHOON'S CLOCK"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:09.099793"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193902c-8f81-78bd-994e-de9a9d26f072"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "“成訓”生日咖啡厅 🎂"
+    }
+  }
+}

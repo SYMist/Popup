@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-18",
+    "start": "2024-08-06"
+  },
+  "geo": {
+    "lat": 37.525901269284,
+    "lon": 126.9284
+  },
+  "id": "0191362b-8791-79e0-85e9-97ee6392080f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/10cf08ce-b554-4aec-ba64-03840d265c37.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/10cf08ce-b554-4aec-ba64-03840d265c37.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-CvE7LPi_W/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:46.240191"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191362b-8791-79e0-85e9-97ee6392080f"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "DINOTAENG X FITAMIN POP-UP"
+    }
+  }
+}

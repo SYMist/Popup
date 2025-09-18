@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "16, Yonsei-ro 9-gil, Seodaemun-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-03-09",
+    "start": "2025-03-07"
+  },
+  "geo": {
+    "lat": 37.55863362119802,
+    "lon": 126.93587562975358
+  },
+  "id": "01954526-871a-77b6-ad88-532d67548676",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cc28d692-7c20-4485-81a2-83fd43b83418.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cc28d692-7c20-4485-81a2-83fd43b83418.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/0309_grade_/status/1892071059509399673",
+      "label": "今日的鹤年探索\n"
+    },
+    {
+      "href": "https://x.com/archivehakn/status/1891731811857772903",
+      "label": "Archive 39\n"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:48.729344"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01954526-871a-77b6-ad88-532d67548676"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu, ",
+      "title": "“周鹤年”生日咖啡厅🎂"
+    }
+  }
+}

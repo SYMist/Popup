@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "330, Yeouido-dong-ro, Yeongdeungpo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-20",
+    "start": "2024-10-11"
+  },
+  "geo": {
+    "lat": 37.52667312873555,
+    "lon": 126.9347153315216
+  },
+  "id": "0192644e-bf23-7f79-93a8-7e7c929d7b2a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/72a787e7-7d70-4f1a-8ac9-9b10b81efc9e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/72a787e7-7d70-4f1a-8ac9-9b10b81efc9e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://festival.seoul.go.kr/hangang",
+      "label": "\bSee more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:33.460483"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192644e-bf23-7f79-93a8-7e7c929d7b2a"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
+      "title": "2024 Han River Fall Festival"
+    }
+  }
+}

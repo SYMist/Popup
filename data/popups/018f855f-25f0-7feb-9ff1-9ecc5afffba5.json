@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "65, Eoulmadang-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-07-07",
+    "start": "2024-04-23"
+  },
+  "geo": {
+    "lat": 37.550911269211,
+    "lon": 126.9211
+  },
+  "id": "018f855f-25f0-7feb-9ff1-9ecc5afffba5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3165d20c-ff00-48b1-a2a8-9f131bf97584.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3165d20c-ff00-48b1-a2a8-9f131bf97584.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6GfFKuvo80/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:44.564725"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f855f-25f0-7feb-9ff1-9ecc5afffba5"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 65, Eoulmadang-ro, Mapo-gu,",
+      "title": "Wiggle Wiggle POP-UP"
+    }
+  }
+}

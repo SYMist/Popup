@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "50, Apgujeong-ro 46-gil, Gangnam-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-01-03",
+    "start": "2024-11-28"
+  },
+  "geo": {
+    "lat": 37.52541947966855,
+    "lon": 127.03563925367881
+  },
+  "id": "019389f5-c267-7030-a16e-54cae284e08c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/94c370cd-a44e-47af-a99c-245a1a3ea9c0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/94c370cd-a44e-47af-a99c-245a1a3ea9c0.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DC5VZ9hTA8v/",
+      "label": "查看更多"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:59.054115"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019389f5-c267-7030-a16e-54cae284e08c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu, ",
+      "title": "Nudake X BLACK PINK的Jennie 快闪店🍰"
+    }
+  }
+}

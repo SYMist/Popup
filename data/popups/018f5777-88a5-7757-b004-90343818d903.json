@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "28, Seongsui-ro 26-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-26",
+    "start": "2024-04-29"
+  },
+  "geo": {
+    "lat": 37.54534,
+    "lon": 127.0605
+  },
+  "id": "018f5777-88a5-7757-b004-90343818d903",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c51e060b-fa77-4b4d-a883-158dc11957b7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c51e060b-fa77-4b4d-a883-158dc11957b7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5xXCQIrApv/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:47.055761"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5777-88a5-7757-b004-90343818d903"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 28, Seongsui-ro 26-gil, Seongdong-gu,",
+      "title": "CHANEL ROUGE ALLURE POP-UP"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83, World Cup Buk-ro 6-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-15",
+    "start": "2024-09-14"
+  },
+  "geo": {
+    "lat": 37.5602871,
+    "lon": 126.9223682
+  },
+  "id": "0191bfb6-d911-7d8a-9ada-596dfe5a6943",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3747f512-0602-45f2-a83d-0fac282abebc.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3747f512-0602-45f2-a83d-0fac282abebc.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/myhamsbirthday",
+      "label": "エイリアンハムスターを探しています"
+    },
+    {
+      "href": "https://twitter.com/HJSbirthday",
+      "label": "HAPPY HAN DAY"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:34.071074"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191bfb6-d911-7d8a-9ada-596dfe5a6943"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 83, World Cup Buk-ro 6-gil, Mapo-gu,",
+      "title": "『ハン』 センイルカフェ 🎂"
+    }
+  }
+}

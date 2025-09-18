@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "240 World Cup-r﻿o, Mapo-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-05-06",
+    "start": "2025-04-30"
+  },
+  "geo": {
+    "lat": 37.56826169999999,
+    "lon": 126.8972735
+  },
+  "id": "019501b0-1d09-7c60-9651-628a4086132b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/afdbf631-0134-4459-9e5d-ea80cd451b00.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/afdbf631-0134-4459-9e5d-ea80cd451b00.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/products/2e59d85a-c847-4641-b8c1-9f5558c88056",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:01.942517"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019501b0-1d09-7c60-9651-628a4086132b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 240 World Cup-r﻿o, Mapo-gu,",
+      "title": "2025首尔春季庆典"
+    }
+  }
+}

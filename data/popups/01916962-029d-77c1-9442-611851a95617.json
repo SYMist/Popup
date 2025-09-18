@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "43, Hongik-ro 2-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-30"
+  },
+  "geo": {
+    "lat": 37.555453136620415,
+    "lon": 126.92453163619363
+  },
+  "id": "01916962-029d-77c1-9442-611851a95617",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a071d7f0-ec1c-4d82-93dc-2406e9b7b51a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a071d7f0-ec1c-4d82-93dc-2406e9b7b51a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/luckysalon_10",
+      "label": "Lucky Salon"
+    },
+    {
+      "href": "https://x.com/figigfgi9fy9yfi",
+      "label": "LOVE full of luck"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:56.553736"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916962-029d-77c1-9442-611851a95617"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
+      "title": "『WONYOUNG』 Birthday Cafe"
+    }
+  }
+}

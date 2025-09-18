@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Centum nam-daero, Haeundae-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-30",
+    "start": "2024-05-17"
+  },
+  "geo": {
+    "lat": 35.168941291296,
+    "lon": 129.1296
+  },
+  "id": "018f7fe7-2b30-79bb-b75e-977b44959064",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cd6ea437-b235-42f9-99ff-e01e8a756d8d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cd6ea437-b235-42f9-99ff-e01e8a756d8d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C6-YxBTLEoB/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:40.889419"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f7fe7-2b30-79bb-b75e-977b44959064"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 35, Centum nam-daero, Haeundae-gu, ",
+      "title": "YUQI : HAPPY FREAK DAY POP-UP_ BUSAN"
+    }
+  }
+}

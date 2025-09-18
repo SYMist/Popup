@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "15, Seoul Forest 4-gil, Seongdong-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-09-01",
+    "start": "2024-08-22"
+  },
+  "geo": {
+    "lat": 37.54744171265385,
+    "lon": 127.04273807246092
+  },
+  "id": "01916ddf-3144-79f2-833c-4f2d95107c58",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/aa7a62cd-de57-4817-918f-5d5bf50dd666.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/aa7a62cd-de57-4817-918f-5d5bf50dd666.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/stories/highlights/18026999951270373/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:35.056599"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916ddf-3144-79f2-833c-4f2d95107c58"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 15, Seoul Forest 4-gil, Seongdong-gu, ",
+      "title": "TAEMIN The 5th Mini Album ‘ETERNAL’ EXHIBITION"
+    }
+  }
+}

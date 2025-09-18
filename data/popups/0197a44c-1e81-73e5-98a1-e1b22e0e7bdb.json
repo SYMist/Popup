@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "83 Achasan-ro, Seongdong-﻿gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-07-14",
+    "start": "2025-07-01"
+  },
+  "geo": {
+    "lat": 37.545622,
+    "lon": 127.053472
+  },
+  "id": "0197a44c-1e81-73e5-98a1-e1b22e0e7bdb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5d673652-c77f-43a7-aaa2-e53e064d56db.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5d673652-c77f-43a7-aaa2-e53e064d56db.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/articles/ec716be5-d307-4dd4-84f8-6d04ed0fd051#hyetaeg-2-kyubeu-kaerigteo-yurikeob",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:54.689702"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197a44c-1e81-73e5-98a1-e1b22e0e7bdb"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 83 Achasan-ro, Seongdong-﻿gu, ",
+      "title": "CUBI STORY的特别礼物 🎁"
+    }
+  }
+}

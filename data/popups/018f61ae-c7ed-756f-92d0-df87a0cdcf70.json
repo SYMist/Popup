@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Jeju-do",
+    "street": "13, Gwandeok-ro 7-gil, Jeju-si, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-10-31",
+    "start": "2024-05-01"
+  },
+  "geo": {
+    "lat": 33.51363126522,
+    "lon": 126.522
+  },
+  "id": "018f61ae-c7ed-756f-92d0-df87a0cdcf70",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b2f8b85f-b5c6-4bed-9cd0-75724f5c7c9b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b2f8b85f-b5c6-4bed-9cd0-75724f5c7c9b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.jeju.go.kr/mokkwana/night/performance.htm",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:49.681701"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018f61ae-c7ed-756f-92d0-df87a0cdcf70"
+  },
+  "translations": {
+    "en": {
+      "address": "Jeju-do, 13, Gwandeok-ro 7-gil, Jeju-si, ",
+      "title": "Jeju Mokgwana Night Opening"
+    }
+  }
+}

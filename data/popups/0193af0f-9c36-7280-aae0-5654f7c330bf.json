@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Yeonmujang 15-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-26",
+    "start": "2024-11-22"
+  },
+  "geo": {
+    "lat": 37.54293175897825,
+    "lon": 127.058831195395
+  },
+  "id": "0193af0f-9c36-7280-aae0-5654f7c330bf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9239189e-6bef-4209-ab46-cad64ab3f541.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9239189e-6bef-4209-ab46-cad64ab3f541.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DCY3RoUJd65/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:40.677090"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af0f-9c36-7280-aae0-5654f7c330bf"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu, ",
+      "priceDesc": "null",
+      "title": "NOBIGDEAL快闪店"
+    }
+  }
+}

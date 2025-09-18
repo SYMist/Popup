@@ -1,0 +1,49 @@
+{
+  "address": {},
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-12-31",
+    "start": "2024-11-01"
+  },
+  "geo": {
+    "lat": 37.52357989373942,
+    "lon": 126.95963826030493
+  },
+  "id": "01931f80-4b38-7be2-9eee-9e57b84f7c1b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/53a26569-811a-4076-9918-0c326b6eedfb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/53a26569-811a-4076-9918-0c326b6eedfb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "/inlink?path=%2Ftna%2Fmy-coupons",
+      "label": "Enter Promo Codes"
+    },
+    {
+      "href": "https://en.feelthebeatkorea.or.kr/board/promotion/read.html?board_no=3001&no=46",
+      "label": "Welcome Kit Event"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:45.290052"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931f80-4b38-7be2-9eee-9e57b84f7c1b"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "50% Off Discount & Welcome Kit Event"
+    }
+  }
+}

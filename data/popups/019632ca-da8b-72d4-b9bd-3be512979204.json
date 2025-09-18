@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "114, Wangsimni-ro, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-04-20",
+    "start": "2025-04-12"
+  },
+  "geo": {
+    "lat": 37.54786,
+    "lon": 127.0447
+  },
+  "id": "019632ca-da8b-72d4-b9bd-3be512979204",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/3b42e792-d68b-4b69-85f1-b4aacb5afb0d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3b42e792-d68b-4b69-85f1-b4aacb5afb0d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DIPzFyCypTI/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:58.525616"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019632ca-da8b-72d4-b9bd-3be512979204"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 114, Wangsimni-ro, Seongdong-gu,",
+      "title": "“奇案84的奇趣民宿”快闪店"
+    }
+  }
+}

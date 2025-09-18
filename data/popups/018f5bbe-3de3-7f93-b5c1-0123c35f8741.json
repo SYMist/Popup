@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "241, Dongho-ro 17-gil, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-05-26",
+    "start": "2024-05-25"
+  },
+  "geo": {
+    "lat": 37.558161270068,
+    "lon": 127.0068
+  },
+  "id": "018f5bbe-3de3-7f93-b5c1-0123c35f8741",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/983bf772-4ffd-4440-a98b-6d290338f4f6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/983bf772-4ffd-4440-a98b-6d290338f4f6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24006195",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:47.977599"
+  },
+  "pricing": {
+    "description": "Standing  143,000 ウォン  Reserved Seat  143,000 ウォン ",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f5bbe-3de3-7f93-b5c1-0123c35f8741"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 241, Dongho-ro 17-gil, Jung-gu,",
+      "priceDesc": "Standing  143,000 ウォン  Reserved Seat  143,000 ウォン ",
+      "title": "I.M WORLD TOUR 2024"
+    }
+  }
+}

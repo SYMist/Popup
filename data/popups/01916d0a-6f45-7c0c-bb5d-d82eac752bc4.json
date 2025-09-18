@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13, Yonsei-ro, Seodaemun-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-11-17",
+    "start": "2024-08-23"
+  },
+  "geo": {
+    "lat": 37.5567652,
+    "lon": 126.9365776
+  },
+  "id": "01916d0a-6f45-7c0c-bb5d-d82eac752bc4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/498d1fc3-0af6-4b62-bcdb-4e39a91aebe6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/498d1fc3-0af6-4b62-bcdb-4e39a91aebe6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C-buyAxvWh4/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:12.015788"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916d0a-6f45-7c0c-bb5d-d82eac752bc4"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu,",
+      "title": "'Little Wizard Remy' 25th Anniversary Collab Cafe"
+    }
+  }
+}

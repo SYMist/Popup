@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "26, Wausan-ro 27-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-10-08",
+    "start": "2024-10-06"
+  },
+  "geo": {
+    "lat": 37.5544297,
+    "lon": 126.9270483
+  },
+  "id": "01925532-f96a-7de5-8bef-5715a4b4babb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/721e8eed-a65f-41b3-9a08-2861336466b8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/721e8eed-a65f-41b3-9a08-2861336466b8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/simsimoka_",
+      "label": "Love So Sweet"
+    },
+    {
+      "href": "https://x.com/itpointofmk",
+      "label": "声をきかせて"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:57.157595"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/01925532-f96a-7de5-8bef-5715a4b4babb"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 26, Wausan-ro 27-gil, Mapo-gu,",
+      "title": "『モカ』 センイルカフェ 🎂"
+    }
+  }
+}

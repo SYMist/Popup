@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "141, Yanghwa-ro, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-09-28",
+    "start": "2025-09-19"
+  },
+  "geo": {
+    "lat": 37.55586,
+    "lon": 126.9216
+  },
+  "id": "019955f3-3636-730a-8471-271550a1f378",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d9cf605e-a331-4da9-9d6e-734e06db835e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d9cf605e-a331-4da9-9d6e-734e06db835e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://booking.naver.com/booking/13/bizes/1423500",
+      "label": "提前预约"
+    },
+    {
+      "href": "https://linefriendssquare.com/blogs/event/n-d-1st-ps?srsltid=AfmBOop6pjoPmTf6bNq1GxHfQW5oLNqTzYNkyp5SDhQyqI9BzJepHGvo",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:32:00.215100"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019955f3-3636-730a-8471-271550a1f378"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
+      "title": "NCT Dream X LINE FRIENDS 限时快闪店"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13 , Yeonmujang 11-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-10-29",
+    "start": "2024-10-15"
+  },
+  "geo": {
+    "lat": 37.543205,
+    "lon": 127.057214
+  },
+  "id": "019288f6-61e9-7749-a306-b1aa956356db",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/04580039-ae67-4429-b98c-1c6e011244bb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/04580039-ae67-4429-b98c-1c6e011244bb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://age20s.co.kr/article/notice/1/52485/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:00.618816"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019288f6-61e9-7749-a306-b1aa956356db"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 13 , Yeonmujang 11-gil, Seongdong-gu,",
+      "title": "AGE20'S WORLDSTAGE FOR BEAUTY"
+    }
+  }
+}

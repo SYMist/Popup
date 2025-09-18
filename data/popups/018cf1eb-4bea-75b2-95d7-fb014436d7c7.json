@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "B-102, 18, Dongjak-daero 1-gil, Dongjak-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2024-01-10"
+  },
+  "geo": {
+    "lat": 37.47739126412662,
+    "lon": 126.98034492700101
+  },
+  "id": "018cf1eb-4bea-75b2-95d7-fb014436d7c7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/782166fc-2d25-492d-8ef0-f9d4cd88471c.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/782166fc-2d25-492d-8ef0-f9d4cd88471c.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/entry55_official/",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:18.671386"
+  },
+  "pricing": {
+    "description": "The entry to Jazz 15,000ウォン / Piano Trio 12,000ウォン / Special GIG 20,000ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018cf1eb-4bea-75b2-95d7-fb014436d7c7"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, B-102, 18, Dongjak-daero 1-gil, Dongjak-gu,",
+      "priceDesc": "The entry to Jazz 15,000ウォン / Piano Trio 12,000ウォン / Special GIG 20,000ウォン",
+      "title": "entry55 ライブ公演"
+    }
+  }
+}

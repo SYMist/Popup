@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "42, Gangnam-daero 160-gil, Gangnam-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-01",
+    "start": "2025-05-23"
+  },
+  "geo": {
+    "lat": 37.52045,
+    "lon": 127.0221
+  },
+  "id": "0196fb73-514b-7566-ade8-1821404f57de",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1715d341-7718-46ea-ac8c-e952752d42f4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1715d341-7718-46ea-ac8c-e952752d42f4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ3OrJOPhS3/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:08.665365"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196fb73-514b-7566-ade8-1821404f57de"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
+      "title": "i-dle \"We are\" 快闪店"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "19 Hongik-ro 2-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-24",
+    "start": "2025-08-22"
+  },
+  "geo": {
+    "lat": 37.55473,
+    "lon": 126.9238
+  },
+  "id": "01988382-7633-7c53-95c1-a462c08ec170",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9e576ba7-4e9c-4f2c-9b63-4e2d8f479b09.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9e576ba7-4e9c-4f2c-9b63-4e2d8f479b09.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/CODE_82/status/1917868185124303050",
+      "label": "CODE : +82"
+    },
+    {
+      "href": "https://x.com/Memory_0825/status/1952627764600918160",
+      "label": "MEMORY LIBRARY OF DREAM"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:11.080608"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01988382-7633-7c53-95c1-a462c08ec170"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 19 Hongik-ro 2-gil, Mapo-gu,",
+      "title": "“NCT DREAM” 出道咖啡厅 🎂"
+    }
+  }
+}

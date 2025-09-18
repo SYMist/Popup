@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "36, Seongsuil-ro 6-gil, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-08-25",
+    "start": "2024-08-09"
+  },
+  "geo": {
+    "lat": 37.544361270539,
+    "lon": 127.0539
+  },
+  "id": "01914443-d941-76f7-9ac6-4e31c194bcf9",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a74cc888-1642-4966-a46f-b24777bc5768.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a74cc888-1642-4966-a46f-b24777bc5768.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://smartstore.naver.com/etik_archive/products/10614979938",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:24.575282"
+  },
+  "pricing": {
+    "description": "Adult: 18,000 KRW | Teen: 12,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01914443-d941-76f7-9ac6-4e31c194bcf9"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
+      "priceDesc": "Adult: 18,000 KRW | Teen: 12,000 KRW",
+      "title": "Exhibit 『NONFUNGIBLE 』"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-11-02",
+    "start": "2025-10-31"
+  },
+  "geo": {
+    "lat": 37.519153479288896,
+    "lon": 127.12736523619367
+  },
+  "id": "01995552-6ced-705c-a221-d1f97b8b28b0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6b3c0dd6-e993-4a55-91a8-395e80632186.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6b3c0dd6-e993-4a55-91a8-395e80632186.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/ivestarship/status/1967454730097238411?s=46",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:59.609097"
+  },
+  "pricing": {
+    "description": "VIP席 198,000韩元 / 普通席 154,000韩元",
+    "type": "PAID"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01995552-6ced-705c-a221-d1f97b8b28b0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "VIP席 198,000韩元 / 普通席 154,000韩元",
+      "title": "IVE 世界巡演《SHOW WHAT I AM》"
+    }
+  }
+}

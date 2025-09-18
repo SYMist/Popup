@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "40, Cheonggyecheon-ro, Jung-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-06-29",
+    "start": "2025-03-25"
+  },
+  "geo": {
+    "lat": 37.56868,
+    "lon": 126.9817
+  },
+  "id": "01971ad0-5482-7232-ac0f-f2454d2f12f0",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d6675df9-c541-48b5-8620-433cb12709f9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d6675df9-c541-48b5-8620-433cb12709f9.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJ-jpiby5fc/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:21:49.787600"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971ad0-5482-7232-ac0f-f2454d2f12f0"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu, ",
+      "title": "好客空间 HiKR Ground 展览快闪"
+    }
+  }
+}

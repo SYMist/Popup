@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13-3, Wausan-ro 29na-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-04",
+    "start": "2024-11-29"
+  },
+  "geo": {
+    "lat": 37.554579,
+    "lon": 126.928224
+  },
+  "id": "0193421b-2f81-7c01-8e55-7549bc64c867",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1fb47b87-a69e-49eb-b6d1-221300128193.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1fb47b87-a69e-49eb-b6d1-221300128193.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/BND_EVENT/status/1853621148967440770",
+      "label": "Our School Band"
+    },
+    {
+      "href": "https://x.com/dingdangdong_g/status/1850509959600951528",
+      "label": "Match Arm Boy"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:34.142090"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193421b-2f81-7c01-8e55-7549bc64c867"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 13-3, Wausan-ro 29na-gil, Mapo-gu, ",
+      "title": "『Myung Jae-hyun』 Birthday Cafe🎂"
+    }
+  }
+}

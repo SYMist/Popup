@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-42 Hangang-daero 10-gil, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-08-03",
+    "start": "2025-07-30"
+  },
+  "geo": {
+    "lat": 37.524478,
+    "lon": 126.964737
+  },
+  "id": "01984eca-edd8-702a-823d-a7536f982c7d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/71bd1d9d-660c-4699-b387-00138a811d93.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/71bd1d9d-660c-4699-b387-00138a811d93.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/kimkimche_/status/1945071326651146400",
+      "label": "Sweet summer time"
+    },
+    {
+      "href": "https://x.com/cocoa801_chae1/status/1947101545809535399",
+      "label": "𝘍𝘖𝘙𝘌𝘝𝘌𝘙 𝘈𝘕𝘋 𝘈𝘓𝘞𝘈𝘠𝘚 𝘞𝘐𝘛𝘏 𝘊𝘏𝘈𝘌𝘞𝘖𝘕"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:31:40.985483"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984eca-edd8-702a-823d-a7536f982c7d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11-42 Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "“采源”生日咖啡厅 🎂"
+    }
+  }
+}

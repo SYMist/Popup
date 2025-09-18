@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "76-1, Wausan-ro, Mapo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-08-02",
+    "start": "2025-08-01"
+  },
+  "geo": {
+    "lat": 37.551238,
+    "lon": 126.923567
+  },
+  "id": "01984eb0-a61b-73fd-b02f-32194924cd7c",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4512f2c2-e64e-4a6f-abba-d2990386c495.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4512f2c2-e64e-4a6f-abba-d2990386c495.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DMenUosSXRi/?utm_source=ig_web_copy_link&igsh=MWpzNHBkbHZxc3Fvaw==",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:57.590641"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984eb0-a61b-73fd-b02f-32194924cd7c"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 76-1, Wausan-ro, Mapo-gu,",
+      "title": "Tottenham Hotspur队酒吧快闪店"
+    }
+  }
+}

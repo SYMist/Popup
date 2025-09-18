@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "98, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-09-14",
+    "start": "2025-09-05"
+  },
+  "geo": {
+    "lat": 37.54097,
+    "lon": 127.0599
+  },
+  "id": "0199277b-e633-75ef-9fe0-131af00c16f7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/205607eb-753f-4eaf-98bc-7bf9ada07b99.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/205607eb-753f-4eaf-98bc-7bf9ada07b99.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DONvl8pEu-F/?img_index=1",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:22.602094"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199277b-e633-75ef-9fe0-131af00c16f7"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "哈根達斯冰棒快閃店"
+    }
+  }
+}

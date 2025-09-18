@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "1222, Nakdong-daero, Sasang-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-10-06",
+    "start": "2024-10-04"
+  },
+  "geo": {
+    "lat": 35.1691823863926,
+    "lon": 128.977094879017
+  },
+  "id": "01916d20-a6bf-751e-a186-d7bbd6a33596",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e7383df0-a3fb-4376-b300-d633e0f25e50.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e7383df0-a3fb-4376-b300-d633e0f25e50.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5XZeZzJylW/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:32.660081"
+  },
+  "pricing": {
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01916d20-a6bf-751e-a186-d7bbd6a33596"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 1222, Nakdong-daero, Sasang-gu,",
+      "title": "2024 BUSAN ROCK FESTIVAL"
+    }
+  }
+}

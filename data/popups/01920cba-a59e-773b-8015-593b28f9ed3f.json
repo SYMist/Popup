@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seogwipo-si, Jeju-do",
+    "street": "46, Iljuseo-ro 2100beon-gil, Andeok-myeon,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-11-30",
+    "start": "2024-09-15"
+  },
+  "geo": {
+    "lat": 33.25485099999999,
+    "lon": 126.2950137
+  },
+  "id": "01920cba-a59e-773b-8015-593b28f9ed3f",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/66686713-e0f0-4a8a-a414-cb5095456094.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/66686713-e0f0-4a8a-a414-cb5095456094.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=df8c22a2-24cd-4504-9f5e-400ef9362737&cntntsNm=%EB%A7%88%EB%85%B8%EB%A5%B4%EB%B8%94%EB%9E%91%ED%95%91%ED%81%AC%EB%AE%AC%EB%A6%AC%EC%B6%95%EC%A0%9C",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:01.840401"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920cba-a59e-773b-8015-593b28f9ed3f"
+  },
+  "translations": {
+    "en": {
+      "address": "Seogwipo-si, Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon,",
+      "title": "Manorblanc Pink Muhly Festival"
+    }
+  }
+}

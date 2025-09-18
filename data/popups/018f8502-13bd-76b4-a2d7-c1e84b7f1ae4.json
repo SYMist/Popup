@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "424, Olympic-ro, Songpa-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2024-06-16",
+    "start": "2024-06-15"
+  },
+  "geo": {
+    "lat": 37.518921271251,
+    "lon": 127.1251
+  },
+  "id": "018f8502-13bd-76b4-a2d7-c1e84b7f1ae4",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1cc9809e-d6e4-4ce5-a349-566cd1591db8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1cc9809e-d6e4-4ce5-a349-566cd1591db8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24000310",
+      "label": "ご予約はこちら"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:23:43.563899"
+  },
+  "pricing": {
+    "description": "1日券: 109,000 ウォン / 2日券: 169,000 ウォン",
+    "type": "PAID"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f8502-13bd-76b4-a2d7-c1e84b7f1ae4"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu, ",
+      "priceDesc": "1日券: 109,000 ウォン / 2日券: 169,000 ウォン",
+      "title": "Tone＆Music Festival 2024"
+    }
+  }
+}

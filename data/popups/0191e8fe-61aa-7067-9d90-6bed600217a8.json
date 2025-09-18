@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "8-15, Seoul Forest 2-gil, Seongdong-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2024-09-21",
+    "start": "2024-09-21"
+  },
+  "geo": {
+    "lat": 37.54534501333751,
+    "lon": 127.03878833394623
+  },
+  "id": "0191e8fe-61aa-7067-9d90-6bed600217a8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b024e125-d080-444a-8219-5a930f21a8eb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b024e125-d080-444a-8219-5a930f21a8eb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C_t7llkzx6A/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:26:53.124290"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e8fe-61aa-7067-9d90-6bed600217a8"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 8-15, Seoul Forest 2-gil, Seongdong-gu,",
+      "title": "2024 Seoul Philharmonic Park Concert"
+    }
+  }
+}

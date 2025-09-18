@@ -1,0 +1,55 @@
+{
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gonghangmunhwa-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-12-15",
+    "start": "2024-12-14"
+  },
+  "geo": {
+    "lat": 37.46673854889584,
+    "lon": 126.39053943741703
+  },
+  "id": "01928e7a-daff-7cb1-9bb9-14a5722766e8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/05d1ab03-4536-4f3e-8a0f-f3b1f0d5aa71.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/05d1ab03-4536-4f3e-8a0f-f3b1f0d5aa71.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.globalinterpark.com/en/product/24013735",
+      "label": "Buy Now"
+    },
+    {
+      "href": "https://www.globalinterpark.com/en/product/24014403",
+      "label": "Tour Package"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:08.942250"
+  },
+  "pricing": {
+    "description": "General: 154,000 KRW, VIP: 198,000 KRW",
+    "type": "PAID"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01928e7a-daff-7cb1-9bb9-14a5722766e8"
+  },
+  "translations": {
+    "en": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "General: 154,000 KRW, VIP: 198,000 KRW",
+      "title": " <KNOCK ON Vol.1> TOUR IN INCHEON"
+    }
+  }
+}

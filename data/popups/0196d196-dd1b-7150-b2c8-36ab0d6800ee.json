@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": " Seoul",
+    "street": "163, Seoulsiripdae-ro, Dongdaemun-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-05-21",
+    "start": "2025-05-19"
+  },
+  "geo": {
+    "lat": 37.58405,
+    "lon": 127.0588
+  },
+  "id": "0196d196-dd1b-7150-b2c8-36ab0d6800ee",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fd3991a9-79a6-4978-ac79-4ad5324d283e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fd3991a9-79a6-4978-ac79-4ad5324d283e.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DJi26y0yoXW/",
+      "label": "查看详细 "
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:22:00.297776"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196d196-dd1b-7150-b2c8-36ab0d6800ee"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": " Seoul, 163, Seoulsiripdae-ro, Dongdaemun-gu,",
+      "title": "2025 首尔市立大学大学祭"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "176, Sinbanpo-ro, Seocho-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-07-10",
+    "start": "2025-06-27"
+  },
+  "geo": {
+    "lat": 37.504989,
+    "lon": 127.004208
+  },
+  "id": "0197bef9-c648-7d08-970b-aa2d69b6f25a",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c317d713-5539-446f-a541-923ed7cf71ce.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c317d713-5539-446f-a541-923ed7cf71ce.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLT_U2NP8Ug/?img_index=1",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:36.769269"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bef9-c648-7d08-970b-aa2d69b6f25a"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "《鱿鱼游戏》第 3 季快闪店"
+    }
+  }
+}

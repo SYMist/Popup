@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "35, Yeonmujang-gil, Seongdong-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-08-13",
+    "start": "2024-07-20"
+  },
+  "geo": {
+    "lat": 37.543131270535,
+    "lon": 127.0535
+  },
+  "id": "0190d53e-3f0d-7c25-8aef-ee4a8f9ffa4b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/acb5e00c-1a39-4122-9f30-f388bf66a793.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/acb5e00c-1a39-4122-9f30-f388bf66a793.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C9bRE1KyZNe/?img_index=1",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:30:59.983209"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0190d53e-3f0d-7c25-8aef-ee4a8f9ffa4b"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 35, Yeonmujang-gil, Seongdong-gu, ",
+      "title": "Marie Claire POP-UP"
+    }
+  }
+}

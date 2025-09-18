@@ -1,0 +1,51 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "238, Haeundae Beach-ro, Haeundae-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-02-02",
+    "start": "2024-12-14"
+  },
+  "geo": {
+    "lat": 35.15870106604875,
+    "lon": 129.16038390091757
+  },
+  "id": "0193af8e-4e08-7102-b752-7e22a885c573",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/493ea6c7-9500-4dfd-952e-ea8e3fde7392.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/493ea6c7-9500-4dfd-952e-ea8e3fde7392.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000309006000000",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:28:42.980762"
+  },
+  "pricing": {
+    "description": "null",
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af8e-4e08-7102-b752-7e22a885c573"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Busan, 238, Haeundae Beach-ro, Haeundae-gu,",
+      "priceDesc": "null",
+      "title": "第11届海云台灯光节 💡"
+    }
+  }
+}

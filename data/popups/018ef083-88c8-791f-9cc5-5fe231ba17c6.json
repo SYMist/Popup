@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu, "
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-05-06",
+    "start": "2024-04-16"
+  },
+  "geo": {
+    "lat": 37.52597,
+    "lon": 126.9284
+  },
+  "id": "018ef083-88c8-791f-9cc5-5fe231ba17c6",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/071d3345-4748-41fb-967c-784fcf31df11.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/071d3345-4748-41fb-967c-784fcf31df11.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/C5zTW3yv_jE/?img_index=1",
+      "label": "詳細を見る"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:24:40.184971"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ef083-88c8-791f-9cc5-5fe231ba17c6"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "DOTORI POP-UP"
+    }
+  }
+}

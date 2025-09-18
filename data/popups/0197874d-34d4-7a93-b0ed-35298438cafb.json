@@ -1,0 +1,42 @@
+{
+  "address": {},
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-07-18",
+    "start": "2025-06-19"
+  },
+  "geo": {},
+  "id": "0197874d-34d4-7a93-b0ed-35298438cafb",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1bf70ee4-06ba-46b8-ae7c-164ae8992578.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1bf70ee4-06ba-46b8-ae7c-164ae8992578.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://koreabeautyfestival.com/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:28.188648"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197874d-34d4-7a93-b0ed-35298438cafb"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "2025 韩国美容节"
+    }
+  }
+}

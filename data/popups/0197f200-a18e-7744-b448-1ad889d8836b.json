@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "338, Yeouidong-ro, Yeongdeungpo-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-08-23",
+    "start": "2025-07-01"
+  },
+  "geo": {
+    "lat": 37.52892,
+    "lon": 126.9342
+  },
+  "id": "0197f200-a18e-7744-b448-1ad889d8836b",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/213eda0e-8c11-4192-8e46-2614756c14c8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/213eda0e-8c11-4192-8e46-2614756c14c8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DLmDbvCNhRb",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:29:47.740053"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f200-a18e-7744-b448-1ad889d8836b"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 338, Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "汉江巴士体验运营中🛳️"
+    }
+  }
+}

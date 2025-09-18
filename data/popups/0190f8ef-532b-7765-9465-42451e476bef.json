@@ -1,0 +1,53 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "84, Wangsimni-ro, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2024-08-04",
+    "start": "2024-08-02"
+  },
+  "geo": {
+    "lat": 37.54518127045,
+    "lon": 127.045
+  },
+  "id": "0190f8ef-532b-7765-9465-42451e476bef",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c0608451-4c2d-4e14-bfd6-8fbbcc93263b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c0608451-4c2d-4e14-bfd6-8fbbcc93263b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://x.com/ryochandesu__/status/1814617326462857536",
+      "label": "「リョウのくだものや」"
+    },
+    {
+      "href": "https://x.com/HiroseRyoooo/status/1812515637341913312",
+      "label": "「廣瀬遼」"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:25:27.144597"
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0190f8ef-532b-7765-9465-42451e476bef"
+  },
+  "translations": {
+    "ja": {
+      "address": "Seoul, 84, Wangsimni-ro, Seongdong-gu,",
+      "title": "『リョウ』 センイルカフェ 🎂"
+    }
+  }
+}

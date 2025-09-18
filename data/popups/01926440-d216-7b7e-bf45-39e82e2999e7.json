@@ -1,0 +1,49 @@
+{
+  "address": {
+    "city": "Busan",
+    "street": "56, Millaksubyeon-ro 17beon-gil, Suyeong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2024-12-08",
+    "start": "2024-10-11"
+  },
+  "geo": {
+    "lat": 35.15414431114344,
+    "lon": 129.12694055077898
+  },
+  "id": "01926440-d216-7b7e-bf45-39e82e2999e7",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7652b4cc-ab25-40f2-b2b3-c69d87d8f629.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7652b4cc-ab25-40f2-b2b3-c69d87d8f629.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DAmxvV2yGHb/",
+      "label": "See more"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-09-18T14:27:54.083551"
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01926440-d216-7b7e-bf45-39e82e2999e7"
+  },
+  "translations": {
+    "en": {
+      "address": "Busan, 56, Millaksubyeon-ro 17beon-gil, Suyeong-gu,",
+      "title": "Damgomi Cafe"
+    }
+  }
+}

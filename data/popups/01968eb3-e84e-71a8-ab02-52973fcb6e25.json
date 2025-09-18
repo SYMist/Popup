@@ -13,7 +13,18 @@
     "lon": 126.9232
   },
   "id": "01968eb3-e84e-71a8-ab02-52973fcb6e25",
-  "images": [],
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/07202243-b04d-46ad-a7c3-28b6fa9a0a37.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/07202243-b04d-46ad-a7c3-28b6fa9a0a37.jpeg",
+      "variant": "small_square"
+    }
+  ],
   "links": [
     {
       "href": "https://x.com/Gelathew/status/1916507729218433192",
@@ -25,26 +36,15 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-17T14:53:24.108045"
+    "fetchedAt": "2025-09-18T14:21:47.109898"
   },
   "pricing": {
-    "description": "",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968eb3-e84e-71a8-ab02-52973fcb6e25"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
-      "title": "『Seok Matthew』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
-      "title": "『ソク・マシュー』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 35-8, Wausan-ro 23-gil, Mapo-gu,",
       "title": "\"石友鉉\"生日咖啡厅🎂"
