@@ -19,6 +19,8 @@
 - 파서/클라이언트 조정
   - `fetch_festa_by_lang(session, festa_id, lang, limiter=None)` 형태로 변경 및 내부 슬립 제거
   - 크롤러에서 limiter 전달로 예의있는 레이트 제어 유지
+ - 워크플로 결과 요약
+   - Job Summary에 JSON 변경 개수(Added/Modified/Deleted) 출력 단계 추가
 
 ## 2025-09-17
 

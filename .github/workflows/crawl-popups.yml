@@ -62,3 +62,27 @@ jobs:
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           branch: main
           push_options: --force-with-lease
+
+      - name: Summarize JSON change counts
+        if: always()
+        run: |
+          set -euo pipefail
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            base=$(git rev-parse HEAD^)
+            range="$base..HEAD"
+            diff=$(git diff --name-status "$range" -- ':(glob)data/**/*.json' || true)
+            added=$(printf "%s\n" "$diff" | awk '$1=="A"{c++} END{print c+0}')
+            modified=$(printf "%s\n" "$diff" | awk '$1=="M"{c++} END{print c+0}')
+            deleted=$(printf "%s\n" "$diff" | awk '$1=="D"{c++} END{print c+0}')
+          else
+            added=$(git ls-files ':(glob)data/**/*.json' | wc -l | tr -d ' ')
+            modified=0
+            deleted=0
+          fi
+          {
+            echo "### Popup Data Sync Summary"
+            echo
+            echo "- Added: ${added}"
+            echo "- Modified: ${modified}"
+            echo "- Deleted: ${deleted}"
+          } >> "$GITHUB_STEP_SUMMARY"
