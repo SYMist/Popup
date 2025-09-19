@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/_2000_08_13/status/1804349180330000780",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:35.074134"
+    "fetchedAt": "2025-09-19T14:10:07.492589"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01912037-818e-74d1-b9ec-7b4ec7168da4"
+    "enUrl": "https://interparkglobal.com/en/festas/01912037-818e-74d1-b9ec-7b4ec7168da4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01912037-818e-74d1-b9ec-7b4ec7168da4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 12, Wausan-ro 29ra-gil, Mapo-gu,",
       "title": "『Jaemin』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 12, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『ジェミン』 センイルカフェ 🎂"
     }
   }
 }

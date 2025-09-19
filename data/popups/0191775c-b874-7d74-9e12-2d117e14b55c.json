@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-4A1tuvKsH/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:12.447465"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:06.436240"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191775c-b874-7d74-9e12-2d117e14b55c"
+    "enUrl": "https://interparkglobal.com/en/festas/0191775c-b874-7d74-9e12-2d117e14b55c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191775c-b874-7d74-9e12-2d117e14b55c"
   },
   "translations": {
     "en": {
       "address": "Seoul,  103, Yeonmujang-gil, Seongdong-gu,",
       "title": "NAMEKO Seongsu POP-UP"
+    },
+    "ja": {
+      "address": "Seoul,  103, Yeonmujang-gil, Seongdong-gu,",
+      "title": "なめこポップアップ🍄‍🟫"
     }
   }
 }

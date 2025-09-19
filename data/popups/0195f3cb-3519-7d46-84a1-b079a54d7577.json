@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/KATIE_JAY0420/status/1905599673953648751",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:54.612813"
+    "fetchedAt": "2025-09-19T14:17:04.643795"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195f3cb-3519-7d46-84a1-b079a54d7577",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195f3cb-3519-7d46-84a1-b079a54d7577",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195f3cb-3519-7d46-84a1-b079a54d7577"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『Jay』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『ジェイ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "\"JAY\"生日咖啡厅🎂"

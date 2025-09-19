@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-buyAxvWh4/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:12.015788"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:04.912367"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916d0a-6f45-7c0c-bb5d-d82eac752bc4"
+    "enUrl": "https://interparkglobal.com/en/festas/01916d0a-6f45-7c0c-bb5d-d82eac752bc4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916d0a-6f45-7c0c-bb5d-d82eac752bc4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu,",
       "title": "'Little Wizard Remy' 25th Anniversary Collab Cafe"
+    },
+    "ja": {
+      "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu,",
+      "title": "おジャ魔女どれみ25周年記念コラボカフェ"
     }
   }
 }

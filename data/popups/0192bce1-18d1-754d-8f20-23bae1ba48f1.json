@@ -23,24 +23,63 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cdbe69af-b220-4ebb-9890-6006d31216ca.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/889ffe55-f473-449b-9d7b-1f28deb510b6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/889ffe55-f473-449b-9d7b-1f28deb510b6.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/539a328d-f220-459b-9d3c-a00e034daf59.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/539a328d-f220-459b-9d3c-a00e034daf59.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.ehyundai.com/mobile/event/EV/thehyundaichristmas/cn/main.do",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.ehyundai.com/mobile/event/EV/thehyundaichristmas/en/main.do",
+      "label": "See more"
+    },
+    {
+      "href": "https://www.ehyundai.com/mobile/event/EV/thehyundaichristmas/jp/main.do",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:22.812772"
+    "fetchedAt": "2025-09-19T14:15:35.994364"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192bce1-18d1-754d-8f20-23bae1ba48f1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192bce1-18d1-754d-8f20-23bae1ba48f1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192bce1-18d1-754d-8f20-23bae1ba48f1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "The Hyundai Seoul Christmas Village🎄"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "ザ・ヒョンデ・ソウル クリスマスビレッジ🌲"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "The Hyundai Seoul：圣诞村🎄"

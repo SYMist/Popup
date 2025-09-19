@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DFmRu6ITe4l/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:02.938168"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:24:05.163857"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019501cd-403a-7c18-a342-68101ddfb9e7",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019501cd-403a-7c18-a342-68101ddfb9e7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019501cd-403a-7c18-a342-68101ddfb9e7"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 200, Achasan-ro, Gwangjin-gu, ",
+      "title": "MUU MUU Character POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 200, Achasan-ro, Gwangjin-gu, ",
+      "title": "MUYU MUYU ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 200, Achasan-ro, Gwangjin-gu, ",
       "priceDesc": "null",

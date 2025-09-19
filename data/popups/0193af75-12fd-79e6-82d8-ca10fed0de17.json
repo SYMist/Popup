@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DDOnIbJPGrO/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:42.077012"
+    "fetchedAt": "2025-09-19T14:16:15.587405"
   },
   "pricing": {
     "description": "null",
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193af75-12fd-79e6-82d8-ca10fed0de17",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193af75-12fd-79e6-82d8-ca10fed0de17",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af75-12fd-79e6-82d8-ca10fed0de17"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 214, Bongraenaru-ro, Yeongdo-gu,",
+      "title": "Christmas Village Busan"
+    },
+    "ja": {
+      "address": "Busan, 214, Bongraenaru-ro, Yeongdo-gu,",
+      "title": "クリスマスビレッジ 釜山 🎄"
+    },
     "zh-cn": {
       "address": "Busan, 214, Bongraenaru-ro, Yeongdo-gu,",
       "priceDesc": "null",

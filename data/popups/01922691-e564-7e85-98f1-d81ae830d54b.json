@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002409347703&category=event&page=1&branchCd=B00140000",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:07.984722"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:12:48.962099"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922691-e564-7e85-98f1-d81ae830d54b"
+    "enUrl": "https://interparkglobal.com/en/festas/01922691-e564-7e85-98f1-d81ae830d54b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922691-e564-7e85-98f1-d81ae830d54b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu, ",
       "title": "Musical <Aladdin> POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu, ",
+      "title": "ミュージカル アラジン ポップアップ"
     }
   }
 }

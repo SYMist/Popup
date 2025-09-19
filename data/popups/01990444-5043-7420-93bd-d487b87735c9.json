@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/places/19001166/products/25011152",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:20.272759"
+    "fetchedAt": "2025-09-19T14:22:11.001282"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01990444-5043-7420-93bd-d487b87735c9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01990444-5043-7420-93bd-d487b87735c9",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990444-5043-7420-93bd-d487b87735c9"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 513 Yeon﻿gdong-daero, Gangnam-gu,",
+      "title": "The 24th Seoul Cafe Show"
+    },
+    "ja": {
+      "address": "Seoul, 513 Yeon﻿gdong-daero, Gangnam-gu,",
+      "title": "第24回 ソウル カフェショー"
+    },
     "zh-cn": {
       "address": "Seoul, 513 Yeon﻿gdong-daero, Gangnam-gu,",
       "title": "第24届首尔咖啡展"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://tickets.interpark.com/goods/24014022",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:09.182911"
+    "fetchedAt": "2025-09-19T14:24:15.932766"
   },
   "pricing": {
     "type": "PAID"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/aespa_WEEK",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:46.630827"
+    "fetchedAt": "2025-09-19T14:07:29.899904"
   },
   "pricing": {
     "type": "FREE"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAVC8pXTbRw/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:24.132861"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:18.172623"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922bcd-9f1a-777c-8c8a-de43bfca07b8"
+    "enUrl": "https://interparkglobal.com/en/festas/01922bcd-9f1a-777c-8c8a-de43bfca07b8",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922bcd-9f1a-777c-8c8a-de43bfca07b8"
   },
   "translations": {
     "en": {
       "address": "Seoul,  11, Yeonmujang-gil, Seongdong-gu,",
       "title": "IOPE ‘Find My Retinol’ POP-UP"
+    },
+    "ja": {
+      "address": "Seoul,  11, Yeonmujang-gil, Seongdong-gu,",
+      "title": "IOPE <Find My Retinol>"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://booking.naver.com/booking/12/bizes/1276650/items/6332434?area=pll&lang=ko&startDateTime=2024-12-09T00%3A00%3A00%2B09%3A00&theme=place",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:46.127245"
+    "fetchedAt": "2025-09-19T14:16:30.762324"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01939a99-7718-77a0-9654-3006ee08e5c1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01939a99-7718-77a0-9654-3006ee08e5c1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939a99-7718-77a0-9654-3006ee08e5c1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "BLACKPINK ROSE POP-UP 'rosie'"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "ROSE POP-UP STORE 'rosie'"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "ROSE POP-UP STORE 'rosie' 🌹"

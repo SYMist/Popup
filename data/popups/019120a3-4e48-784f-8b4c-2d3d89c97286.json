@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Eggtart0814/status/1810271132723134722",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:31.683020"
+    "fetchedAt": "2025-09-19T14:10:00.729363"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019120a3-4e48-784f-8b4c-2d3d89c97286"
+    "enUrl": "https://interparkglobal.com/en/festas/019120a3-4e48-784f-8b4c-2d3d89c97286",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019120a3-4e48-784f-8b4c-2d3d89c97286"
   },
   "translations": {
     "en": {
       "address": "Seoul, 11-54, Hangang-daero 10-gil, Yongsan-gu,",
       "title": "『Huening Kai』Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-54, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『ヒュニンカイ』 センイルカフェ 🎂"
     }
   }
 }

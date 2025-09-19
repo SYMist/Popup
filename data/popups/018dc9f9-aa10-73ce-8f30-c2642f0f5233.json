@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.amoremall.com/kr/ko/store/display/news/detail?storeCode=001&noticeNo=98",
@@ -32,7 +33,11 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:32.183175"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:05:45.217045"
   },
   "pricing": {
     "type": "UNKNOWN"

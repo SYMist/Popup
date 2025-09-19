@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCkxP-VTmQT/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:23.262664"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:29.181220"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01934d46-e003-7f90-b512-e1658faf6dfa",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01934d46-e003-7f90-b512-e1658faf6dfa",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934d46-e003-7f90-b512-e1658faf6dfa"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "Lotte Christmas Market 2024"
+    },
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "ロッテ クリスマスマーケット2024"
+    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
       "title": "2024 乐天圣诞市场"

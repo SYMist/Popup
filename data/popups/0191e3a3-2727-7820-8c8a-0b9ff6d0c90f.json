@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_hwWDnJeeX/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:35.820436"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:54.445188"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e3a3-2727-7820-8c8a-0b9ff6d0c90f"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3a3-2727-7820-8c8a-0b9ff6d0c90f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e3a3-2727-7820-8c8a-0b9ff6d0c90f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
       "title": "<AMUSE x HELLO KITTY> POP-UP STORE"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "AMUSE x HELLO KITTY"
     }
   }
 }

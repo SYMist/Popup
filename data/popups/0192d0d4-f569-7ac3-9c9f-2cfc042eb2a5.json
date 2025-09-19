@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.inspirekorea.com/ko/entertainment/performance/yoasobi-asia-tour-20242025-live-in-korea",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:46.774562"
+    "fetchedAt": "2025-09-19T14:14:03.486586"
   },
   "pricing": {
     "type": "PAID"

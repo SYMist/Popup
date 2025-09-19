@@ -25,23 +25,33 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://bit.ly/4dOBoDP",
       "label": "See more"
+    },
+    {
+      "href": "https://jp.thejypshop.com/product/project/NMIXX_STICKOUT_POPUP.html",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:17.148079"
+    "fetchedAt": "2025-09-19T14:24:43.575499"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916d00-32ea-7ca2-8b2d-ed845fcc12d1"
+    "enUrl": "https://interparkglobal.com/en/festas/01916d00-32ea-7ca2-8b2d-ed845fcc12d1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916d00-32ea-7ca2-8b2d-ed845fcc12d1"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "NMIXX POP-UP STORE"
+    },
+    "ja": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
       "title": "NMIXX POP-UP STORE"
     }

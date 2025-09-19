@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DA0TU-TSo3s/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:01.740046"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:23:54.120030"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01927937-61c3-7b1d-bc80-754d6b4e7596"
+    "enUrl": "https://interparkglobal.com/en/festas/01927937-61c3-7b1d-bc80-754d6b4e7596",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01927937-61c3-7b1d-bc80-754d6b4e7596"
   },
   "translations": {
     "en": {
       "address": "Seoul, 106, Sogong-ro, Jung-gu, ",
       "title": "<Time Travel to Heritage Josun Hotel>"
+    },
+    "ja": {
+      "address": "Seoul, 106, Sogong-ro, Jung-gu, ",
+      "title": "レゴ展示 ウェスティン朝鮮ホテル "
     }
   }
 }

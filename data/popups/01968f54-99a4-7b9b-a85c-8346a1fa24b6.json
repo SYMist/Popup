@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/qing222113905/status/1910604462382514324",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:47.706584"
+    "fetchedAt": "2025-09-19T14:03:46.848760"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968f54-99a4-7b9b-a85c-8346a1fa24b6"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『Youngjae』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『ヨンジェ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 53, Wausan-ro 35-gil, Mapo-gu, ",
       "title": "“英宰” 生日咖啡厅🎂"

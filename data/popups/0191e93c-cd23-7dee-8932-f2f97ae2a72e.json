@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.sfac.or.kr/artsfestivalseoul/fstvlView.do?fstvlSeq=8",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:22.421055"
+    "fetchedAt": "2025-09-19T14:24:48.603424"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 1, Tongil-ro, Jung-gu, Seoul",
       "title": "Seoul Arts & Tech Festival 'Unfold X'"
+    },
+    "ja": {
+      "address": "Seoul, 1, Tongil-ro, Jung-gu, Seoul",
+      "title": "ソウル融合芸術フェスティバル Unfold X"
     }
   }
 }

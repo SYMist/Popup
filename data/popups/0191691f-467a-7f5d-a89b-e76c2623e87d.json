@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/gvbirthday830",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:06.323033"
+    "fetchedAt": "2025-09-19T14:10:56.474379"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191691f-467a-7f5d-a89b-e76c2623e87d"
+    "enUrl": "https://interparkglobal.com/en/festas/0191691f-467a-7f5d-a89b-e76c2623e87d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191691f-467a-7f5d-a89b-e76c2623e87d"
   },
   "translations": {
     "en": {
       "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu,",
       "title": "『Kyubin』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu,",
+      "title": "『ギュビン』 センイルカフェ 🎂"
     }
   }
 }

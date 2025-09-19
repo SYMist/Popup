@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.ddp.or.kr/index.html?menuno=353&siteno=2&bbsno=151&boardno=75&cateSched=75&bbstopno=151&act=view",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:20.983528"
+    "fetchedAt": "2025-09-19T14:05:30.146890"
   },
   "pricing": {
     "type": "FREE"

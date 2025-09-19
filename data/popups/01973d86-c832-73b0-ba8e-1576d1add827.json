@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://weverse.io/bts/notice/27562",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:24.244934"
+    "fetchedAt": "2025-09-19T14:18:26.860531"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01973d86-c832-73b0-ba8e-1576d1add827",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01973d86-c832-73b0-ba8e-1576d1add827",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973d86-c832-73b0-ba8e-1576d1add827"
   },
   "translations": {
+    "en": {
+      "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
+      "title": "2025 BTS FESTA "
+    },
+    "ja": {
+      "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
+      "title": "2025 BTS FESTA "
+    },
     "zh-cn": {
       "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
       "title": "2025 BTS FESTA "

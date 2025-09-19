@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.kh.or.kr/cont/view/fest/month/menu/210?thisPage=1&idx=109969&searchCategory1=600&searchCategory2=&searchCategory3=&searchField=all&searchDate=202503&weekSel=undefined&searchType=&searchText=",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:04.242135"
+    "fetchedAt": "2025-09-19T14:04:56.501577"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01956996-da77-77dc-b026-383105cff094",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01956996-da77-77dc-b026-383105cff094",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956996-da77-77dc-b026-383105cff094"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
+      "title": "Changgyeonggung Palace Water Light Lotus 2025"
+    },
+    "ja": {
+      "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
+      "title": "2025 昌慶宮 ライトアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
       "title": "2025 昌庆宫水光莲花"

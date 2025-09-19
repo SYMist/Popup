@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_h_1PYy46n/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:40.108819"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:22:58.960196"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d90d-aed2-7737-8197-c36724a89b56"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d90d-aed2-7737-8197-c36724a89b56",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d90d-aed2-7737-8197-c36724a89b56"
   },
   "translations": {
     "en": {
       "address": "Busan, 147, Gijang Coastal-ro, Gijang-eup, Gijang-gun,",
       "title": "FC 7-ELEVEN Encore Pop-up in Busan"
+    },
+    "ja": {
+      "address": "Busan, 147, Gijang Coastal-ro, Gijang-eup, Gijang-gun,",
+      "title": "FC 7-ELEVEN アンコールポップアップ in 釜山"
     }
   }
 }

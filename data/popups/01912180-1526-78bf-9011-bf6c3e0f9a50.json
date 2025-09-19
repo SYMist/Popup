@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C9_8kUihyRO/?img_index=1",
@@ -32,16 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:39.581181"
+    "fetchedAt": "2025-09-19T14:10:11.715049"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01912180-1526-78bf-9011-bf6c3e0f9a50"
+    "enUrl": "https://interparkglobal.com/en/festas/01912180-1526-78bf-9011-bf6c3e0f9a50",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01912180-1526-78bf-9011-bf6c3e0f9a50"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 78, Achasan-ro, Seongdong-gu,",
+      "title": "29cm SUMMER OUTLET"
+    },
+    "ja": {
       "address": "Seoul, 78, Achasan-ro, Seongdong-gu,",
       "title": "29cm SUMMER OUTLET"
     }

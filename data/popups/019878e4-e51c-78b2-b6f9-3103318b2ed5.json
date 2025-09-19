@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMwlF1ySuwY/?img_index=1",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:06.770397"
+    "fetchedAt": "2025-09-19T14:21:18.569590"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019878e4-e51c-78b2-b6f9-3103318b2ed5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019878e4-e51c-78b2-b6f9-3103318b2ed5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878e4-e51c-78b2-b6f9-3103318b2ed5"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "SINGHA SODA WATER POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "SINGHA SODA WATER ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
       "title": "SINGHA SODA WATER 快闪店"

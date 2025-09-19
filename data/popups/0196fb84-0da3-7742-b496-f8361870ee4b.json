@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJ3M6_uS7SG/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:09.096437"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:05:14.503974"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196fb84-0da3-7742-b496-f8361870ee4b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196fb84-0da3-7742-b496-f8361870ee4b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196fb84-0da3-7742-b496-f8361870ee4b"
   },
   "translations": {
+    "en": {
+      "address": " Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Leferi select store : The Beauty Universe"
+    },
+    "ja": {
+      "address": " Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Select Store"
+    },
     "zh-cn": {
       "address": " Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
       "title": "Select Store"

@@ -24,22 +24,37 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DOabcykiWta/",
       "label": "查看详细"
+    },
+    {
+      "href": "https://www.instagram.com/p/DOZ58gBChB0/",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:26.277138"
+    "fetchedAt": "2025-09-19T14:22:34.603915"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199376a-8b21-7081-a32c-a4094e87a28a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0199376a-8b21-7081-a32c-a4094e87a28a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199376a-8b21-7081-a32c-a4094e87a28a"
   },
   "translations": {
+    "en": {
+      "address": "1﻿10 Sejong-daero, Jung-gu, Seoul",
+      "title": "2025 Seoul Hunters Festival"
+    },
+    "ja": {
+      "address": "1﻿10 Sejong-daero, Jung-gu, Seoul",
+      "title": "2025 ソウルハンターズフェスティバル"
+    },
     "zh-cn": {
       "address": "1﻿10 Sejong-daero, Jung-gu, Seoul",
       "title": "2025 Seoul Hunters Festival"

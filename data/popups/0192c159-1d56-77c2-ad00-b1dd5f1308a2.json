@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.songpa.go.kr/culture/detailInfo.do?key=3796&resrceCd=CT0155-1030773&",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:27.243828"
+    "fetchedAt": "2025-09-19T14:15:40.370101"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192c159-1d56-77c2-ad00-b1dd5f1308a2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192c159-1d56-77c2-ad00-b1dd5f1308a2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192c159-1d56-77c2-ad00-b1dd5f1308a2"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
+      "title": "Seokchon Lake: Fall, Winter, and Luminarie"
+    },
+    "ja": {
+      "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
+      "title": "石村湖の秋と冬、そしてルミナリエ"
+    },
     "zh-cn": {
       "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
       "title": "石村湖：湖泊的秋冬与Luminarie灯光艺术展"

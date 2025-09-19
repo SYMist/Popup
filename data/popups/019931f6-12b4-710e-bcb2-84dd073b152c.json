@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/wooodengg/status/1963957949342134631",
@@ -33,18 +34,32 @@
     {
       "href": "https://x.com/to_A357/status/1965401155347120427",
       "label": "A LITTLE PRINCE"
+    },
+    {
+      "href": "https://x.com/popppy1002/status/1963935216969674891",
+      "label": "Carp"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:25.991815"
+    "fetchedAt": "2025-09-19T14:22:33.050305"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019931f6-12b4-710e-bcb2-84dd073b152c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019931f6-12b4-710e-bcb2-84dd073b152c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019931f6-12b4-710e-bcb2-84dd073b152c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-46 Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『Kyungmin』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-46 Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『ギョンミン』誕生日カフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-46 Hangang-daero 10-gil, Yongsan-gu,",
       "title": "“炅潣” 生日咖啡厅🎂"

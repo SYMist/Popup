@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/ja/product/24016224",
@@ -32,16 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:41.603281"
+    "fetchedAt": "2025-09-19T14:23:14.185184"
   },
   "pricing": {
     "description": "110,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01939466-bb55-7424-86cb-9489239f685c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01939466-bb55-7424-86cb-9489239f685c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939466-bb55-7424-86cb-9489239f685c"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 55, APEC-ro, Haeundae-gu,",
+      "priceDesc": "110,000 KRW",
+      "title": "2024 Someday Christmas in Busan"
+    },
+    "ja": {
+      "address": "Busan, 55, APEC-ro, Haeundae-gu,",
+      "priceDesc": "110,000ウォン",
+      "title": "2024 Someday Christmas in 釜山"
+    },
     "zh-cn": {
       "address": "Busan, 55, APEC-ro, Haeundae-gu,",
       "priceDesc": "110,000韩元",

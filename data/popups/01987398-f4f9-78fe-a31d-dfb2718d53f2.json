@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMy_ZieP_44/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:05.123253"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:21:10.743646"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01987398-f4f9-78fe-a31d-dfb2718d53f2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01987398-f4f9-78fe-a31d-dfb2718d53f2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987398-f4f9-78fe-a31d-dfb2718d53f2"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
+      "title": "Yoajung POP-UP in Lotte World Mall"
+    },
+    "ja": {
+      "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
+      "title": "ヨアジョン ポップアップ in ロッテワールドモール🏰"
+    },
     "zh-cn": {
       "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
       "title": "Yoajung 快闪店在乐天世界购物中心🏰"

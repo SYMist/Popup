@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-baK6UyuUf/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:34.466013"
+    "fetchedAt": "2025-09-19T14:22:50.093907"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01914f40-2c91-7124-9735-76c5ce53ad5f"
+    "enUrl": "https://interparkglobal.com/en/festas/01914f40-2c91-7124-9735-76c5ce53ad5f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01914f40-2c91-7124-9735-76c5ce53ad5f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
       "title": "LEE JONG SUK EXHIBITION <Invitation to With>"
+    },
+    "ja": {
+      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
+      "title": "イ・ジョンソク展示会 "
     }
   }
 }

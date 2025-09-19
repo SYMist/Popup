@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.shnesquetour.com/trendsettertour",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:39.102684"
+    "fetchedAt": "2025-09-19T14:25:32.905920"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922c05-0f96-724d-af92-dddf27628bf5"
+    "enUrl": "https://interparkglobal.com/en/festas/01922c05-0f96-724d-af92-dddf27628bf5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922c05-0f96-724d-af92-dddf27628bf5"
   },
   "translations": {
     "en": {
       "address": "Seoul, 2-1, Jangsa-dong, Jongno-gu, ",
       "title": "SEOUL LIFE STYLE TOUR"
+    },
+    "ja": {
+      "address": "Seoul, 2-1, Jangsa-dong, Jongno-gu, ",
+      "title": "ソウル トレンドセッターツアー"
     }
   }
 }

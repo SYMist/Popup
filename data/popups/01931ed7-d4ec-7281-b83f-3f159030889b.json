@@ -25,27 +25,38 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24015567",
       "label": "See more"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24015567",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:11.104240"
+    "fetchedAt": "2025-09-19T14:15:03.664529"
   },
   "pricing": {
     "description": "S Seats: 110,000 KRW, R Seats: 132,000 KRW, SR Seats: 154,000 KRW",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931ed7-d4ec-7281-b83f-3f159030889b"
+    "enUrl": "https://interparkglobal.com/en/festas/01931ed7-d4ec-7281-b83f-3f159030889b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01931ed7-d4ec-7281-b83f-3f159030889b"
   },
   "translations": {
     "en": {
       "address": "Seoul,  424, Olympic-ro, Songpa-gu,",
       "priceDesc": "S Seats: 110,000 KRW, R Seats: 132,000 KRW, SR Seats: 154,000 KRW",
       "title": "Kyuhyun 10th Anniversary Asia Tour"
+    },
+    "ja": {
+      "address": "Seoul,  424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "S席 110,000ウォン、R席 132,000ウォン、SR席 154,000ウォン",
+      "title": "キュヒョン 10周年記念アジアツアー"
     }
   }
 }

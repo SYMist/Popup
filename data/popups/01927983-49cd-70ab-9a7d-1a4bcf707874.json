@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.busanjin.go.kr/board/view.busanjin?boardId=BBS_0000009&menuCd=DOM_000000110001001000&paging=ok&startPage=1&dataSid=3898941",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:16.208344"
+    "fetchedAt": "2025-09-19T14:15:15.972075"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01927983-49cd-70ab-9a7d-1a4bcf707874",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01927983-49cd-70ab-9a7d-1a4bcf707874",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01927983-49cd-70ab-9a7d-1a4bcf707874"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 691, Jungang-daero, Busanjin-gu, ",
+      "title": "Seomyeon Light Festival 2024 "
+    },
+    "ja": {
+      "address": "Busan, 691, Jungang-daero, Busanjin-gu, ",
+      "title": "2024 西面光祭り"
+    },
     "zh-cn": {
       "address": "Busan, 691, Jungang-daero, Busanjin-gu, ",
       "title": "2024年西面灯光节"

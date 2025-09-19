@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/txthbd",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:32.996250"
+    "fetchedAt": "2025-09-19T14:11:40.517905"
   },
   "pricing": {
     "type": "FREE"

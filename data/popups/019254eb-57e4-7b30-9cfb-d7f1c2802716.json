@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAiKebyBM-G/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:51.555363"
+    "fetchedAt": "2025-09-19T14:14:14.900380"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019254eb-57e4-7b30-9cfb-d7f1c2802716"
+    "enUrl": "https://interparkglobal.com/en/festas/019254eb-57e4-7b30-9cfb-d7f1c2802716",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019254eb-57e4-7b30-9cfb-d7f1c2802716"
   },
   "translations": {
     "en": {
       "address": "Seoul, 115, Toegye-ro, Jung-gu,",
       "title": "2024 Seoul Welcome Week"
+    },
+    "ja": {
+      "address": "Seoul, 115, Toegye-ro, Jung-gu,",
+      "title": "2024 ソウルウェルカムウィーク"
     }
   }
 }

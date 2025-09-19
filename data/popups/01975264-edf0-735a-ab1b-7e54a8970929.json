@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/dear_my_coups",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:25.119485"
+    "fetchedAt": "2025-09-19T14:18:31.038803"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01975264-edf0-735a-ab1b-7e54a8970929",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01975264-edf0-735a-ab1b-7e54a8970929",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01975264-edf0-735a-ab1b-7e54a8970929"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 20 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『S.COUPS』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 20 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『S.COUPS』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 20 Wausan-ro 29ra-gil, Mapo-gu,",
       "title": "“S.COUPS” 生日咖啡厅🎂"

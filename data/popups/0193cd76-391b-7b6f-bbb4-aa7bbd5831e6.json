@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DDOymFdKIVD/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:45.165406"
+    "fetchedAt": "2025-09-19T14:16:26.677269"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193cd76-391b-7b6f-bbb4-aa7bbd5831e6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193cd76-391b-7b6f-bbb4-aa7bbd5831e6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cd76-391b-7b6f-bbb4-aa7bbd5831e6"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 405, Hangang-daero, Jung-gu, ",
+      "title": "Merry AREX-mas Festival"
+    },
+    "ja": {
+      "address": "Seoul, 405, Hangang-daero, Jung-gu, ",
+      "title": "AREX-mas Festiva"
+    },
     "zh-cn": {
       "address": "Seoul, 405, Hangang-daero, Jung-gu, ",
       "priceDesc": "null",

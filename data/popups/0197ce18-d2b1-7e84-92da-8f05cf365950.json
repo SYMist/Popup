@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/genre/CONCERT/products/25009026?placeCode=25000769",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:40.239958"
+    "fetchedAt": "2025-09-19T14:19:31.859506"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197ce18-d2b1-7e84-92da-8f05cf365950",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197ce18-d2b1-7e84-92da-8f05cf365950",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197ce18-d2b1-7e84-92da-8f05cf365950"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu,",
+      "title": "2025 FTISLAND LIVE"
+    },
+    "ja": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu,",
+      "title": "2025 FTISLAND LIVE"
+    },
     "zh-cn": {
       "address": "Seoul, 294, Itaewon-ro, Yongsan-gu,",
       "title": "2025 FTISLAND LIVE"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://guesskorea.com/board/event/read.html?no=76900&board_no=8&category_no=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:35.347743"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:19:08.155582"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "Guess X NMIXX POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "GUESS X NMIXX ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
       "title": "GUESS X NMIXX 期间限定店"

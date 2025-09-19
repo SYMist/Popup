@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://museumhanmi.or.kr/post_exhibition/%e3%80%8a%ec%98%81%ec%9b%90%ed%95%9c-%ec%9e%ac%ed%83%84%ec%83%9d%e3%80%8b/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:02.638240"
+    "fetchedAt": "2025-09-19T14:17:19.935131"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924060-aa55-7281-8a03-c67b1902b21f"
+    "enUrl": "https://interparkglobal.com/en/festas/01924060-aa55-7281-8a03-c67b1902b21f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01924060-aa55-7281-8a03-c67b1902b21f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 45, Samcheong-ro 9-gil, Jongno-gu,",
       "title": "ETERNALLY REBORN IN SEOUL⁣"
+    },
+    "ja": {
+      "address": "Seoul, 45, Samcheong-ro 9-gil, Jongno-gu,",
+      "title": "ブルガリ展示 <永遠の再生>"
     }
   }
 }

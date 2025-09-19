@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/staycyooon/status/1900502169998254301?s=46",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:06.115471"
+    "fetchedAt": "2025-09-19T14:24:20.935644"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195d014-162c-77e5-a402-f3271752b76b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195d014-162c-77e5-a402-f3271752b76b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d014-162c-77e5-a402-f3271752b76b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
+      "title": "『Yoon』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
+      "title": "『ユン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
       "title": "\"YOON\" 生日咖啡厅🎂"

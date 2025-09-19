@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCNsDmdyqO0/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:49.016621"
+    "fetchedAt": "2025-09-19T14:23:25.323983"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01933cf8-dc2a-7186-9d09-3f5e032a1fa6"
+    "enUrl": "https://interparkglobal.com/en/festas/01933cf8-dc2a-7186-9d09-3f5e032a1fa6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01933cf8-dc2a-7186-9d09-3f5e032a1fa6"
   },
   "translations": {
     "en": {
       "address": "Seoul, 1642-7, Sillim-dong, Gwanak-gu, ",
       "title": "The 4th Gwanak Starlight Walk"
+    },
+    "ja": {
+      "address": "Seoul, 1642-7, Sillim-dong, Gwanak-gu, ",
+      "title": "第4回 冠岳星空散策"
     }
   }
 }

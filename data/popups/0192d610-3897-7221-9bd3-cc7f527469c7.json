@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/NFL1101/status/1846056182068531416",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:41.915002"
+    "fetchedAt": "2025-09-19T14:23:05.765567"
   },
   "pricing": {
     "type": "UNKNOWN"

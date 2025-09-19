@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DB0eaTFyamU/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:52.886099"
+    "fetchedAt": "2025-09-19T14:04:06.610145"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193f0fc-ec98-7285-b69b-1707c75babd5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193f0fc-ec98-7285-b69b-1707c75babd5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193f0fc-ec98-7285-b69b-1707c75babd5"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
+      "title": "KBS 2025 Countdown Show"
+    },
+    "ja": {
+      "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
+      "title": "KBS 2025 カウントダウンショー"
+    },
     "zh-cn": {
       "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
       "priceDesc": "null",

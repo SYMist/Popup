@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://groundseesaw.co.kr/product/%EC%8A%88%ED%83%80%EC%9D%B4%EB%93%A4-%EB%B6%81-%EC%BB%AC%EC%B2%98%E3%85%A3%EB%A7%A4%EC%A7%81-%EC%98%A8-%ED%8E%98%EC%9D%B4%ED%8D%BC/1246/#visit_information",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:46.691528"
+    "fetchedAt": "2025-09-19T14:23:16.735028"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51"
+    "enUrl": "https://interparkglobal.com/en/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51"
   },
   "translations": {
     "en": {
       "address": "Seoul, 18-8, Jahamun-ro 6-gil, Jongno-gu,",
       "title": "《Steidl Book Culture | Magic on Paper》"
+    },
+    "ja": {
+      "address": "Seoul, 18-8, Jahamun-ro 6-gil, Jongno-gu,",
+      "title": "Steidl Book Culture：Magic on Paper"
     }
   }
 }

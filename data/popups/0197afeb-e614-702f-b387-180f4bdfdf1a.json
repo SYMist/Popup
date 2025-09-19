@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLRwCfFxROx/?img_index=1",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:30.474185"
+    "fetchedAt": "2025-09-19T14:18:50.818999"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197afeb-e614-702f-b387-180f4bdfdf1a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197afeb-e614-702f-b387-180f4bdfdf1a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afeb-e614-702f-b387-180f4bdfdf1a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu, ",
+      "title": "ALLDAY PROJECT Gangnam POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu, ",
+      "title": "ALLDAY PROJECT 江南ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 426, Gangnam-daero, Gangnam-gu, ",
       "title": "ALLDAY PROJECT 江南快闪店"

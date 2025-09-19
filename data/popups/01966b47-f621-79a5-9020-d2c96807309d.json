@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://ddp.or.kr/index.html?menuno=230&siteno=2&bbsno=677&boardno=16&cateSched=16&bbstopno=677&act=view",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:02.007885"
+    "fetchedAt": "2025-09-19T14:04:45.739130"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01966b47-f621-79a5-9020-d2c96807309d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01966b47-f621-79a5-9020-d2c96807309d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01966b47-f621-79a5-9020-d2c96807309d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
+      "title": "DDP Spring Festival: Design Zoo"
+    },
+    "ja": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
+      "title": "DDP春祭り: デザイン動物園 "
+    },
     "zh-cn": {
       "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
       "title": "DDP 春季庆典：设计动物园"

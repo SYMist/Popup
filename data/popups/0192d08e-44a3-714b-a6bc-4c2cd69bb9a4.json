@@ -25,25 +25,35 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DBfNfGsSbhX/",
       "label": "\bSee more"
+    },
+    {
+      "href": "https://www.instagram.com/p/DBZ9AmlzSJA/",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:42.207503"
+    "fetchedAt": "2025-09-19T14:14:01.008006"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192d08e-44a3-714b-a6bc-4c2cd69bb9a4"
+    "enUrl": "https://interparkglobal.com/en/festas/0192d08e-44a3-714b-a6bc-4c2cd69bb9a4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192d08e-44a3-714b-a6bc-4c2cd69bb9a4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 26, Yeonmujang-gil, Seongdong-gu,",
       "title": "BABYMONSTER DRIP POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 26, Yeonmujang-gil, Seongdong-gu,",
+      "title": "＜DRIP＞ポップアップ"
     }
   }
 }

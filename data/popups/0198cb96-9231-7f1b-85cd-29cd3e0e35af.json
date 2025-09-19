@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/places/25001003/products/25011920",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:14.972421"
+    "fetchedAt": "2025-09-19T14:21:50.094935"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198cb96-9231-7f1b-85cd-29cd3e0e35af",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198cb96-9231-7f1b-85cd-29cd3e0e35af",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198cb96-9231-7f1b-85cd-29cd3e0e35af"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 LEE MINHYUK (HUTA) CONCERT 〈HOOK - WHO : KING〉"
+    },
+    "ja": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 LEE MINHYUK (HUTA) CONCERT"
+    },
     "zh-cn": {
       "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
       "title": "2025 LEE MINHYUK (HUTA) CONCERT 〈HOOK - WHO : KING〉"

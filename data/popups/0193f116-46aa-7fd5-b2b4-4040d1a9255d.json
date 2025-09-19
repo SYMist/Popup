@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://m.booking.naver.com/booking/12/bizes/1284679?preview=0&startDateTime=2025-01-04T00%3A00%3A00%2B09%3A00",
@@ -32,16 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:53.536027"
+    "fetchedAt": "2025-09-19T14:04:10.952237"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193f116-46aa-7fd5-b2b4-4040d1a9255d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193f116-46aa-7fd5-b2b4-4040d1a9255d"
   },
   "translations": {
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "なにわ男子 ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "priceDesc": "null",

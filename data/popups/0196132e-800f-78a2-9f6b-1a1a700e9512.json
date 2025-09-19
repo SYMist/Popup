@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/misekiseoul/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:56.257779"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:04:22.820304"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196132e-800f-78a2-9f6b-1a1a700e9512",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196132e-800f-78a2-9f6b-1a1a700e9512",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196132e-800f-78a2-9f6b-1a1a700e9512"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
+      "title": "Miseki Seoul 25SS Pop-up Store"
+    },
+    "ja": {
+      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
+      "title": "ミセキソウル25SSポップアップストア"
+    },
     "zh-cn": {
       "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
       "title": "MISEKI SEOUL 25SS快闪店"

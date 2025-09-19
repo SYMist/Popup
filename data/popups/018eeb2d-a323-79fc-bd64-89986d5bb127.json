@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://bof.or.kr/cms/main_j.do",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:17.119296"
+    "fetchedAt": "2025-09-19T14:06:46.823730"
   },
   "pricing": {
     "type": "UNKNOWN"

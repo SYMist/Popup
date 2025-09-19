@@ -25,23 +25,40 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24016943",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24016943",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:26.136519"
+    "fetchedAt": "2025-09-19T14:25:05.241189"
   },
   "pricing": {
     "description": "B席99,000韩元 / A席176,000韩元 / S席198,000韩元 / R席220,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019365ea-14f5-7bed-a921-bffee084d4b4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019365ea-14f5-7bed-a921-bffee084d4b4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019365ea-14f5-7bed-a921-bffee084d4b4"
   },
   "translations": {
+    "en": {
+      "address": "Goyang-si, 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "B Seat: 99,000 KRW, A Seat: 176,000 KRW, S Seat: 198,000 KRW, R Seat: 220,000 KRW.",
+      "title": "OASIS Live ’25 SOUTH KOREA"
+    },
+    "ja": {
+      "address": "Goyang-si, 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "B席 99,000ウォン、A席 176,000ウォン、S席 198,000ウォン、R席 220,000ウォン",
+      "title": "OASIS Live ’25 SOUTH KOREA"
+    },
     "zh-cn": {
       "address": "Goyang-si, 1601, Jungang-ro, Ilsanseo-gu,",
       "priceDesc": "B席99,000韩元 / A席176,000韩元 / S席198,000韩元 / R席220,000韩元",

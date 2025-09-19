@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/riizeventcafe",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:12.684962"
+    "fetchedAt": "2025-09-19T14:21:42.136271"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01988391-387d-7bdd-9d03-108103cafdb9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01988391-387d-7bdd-9d03-108103cafdb9",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01988391-387d-7bdd-9d03-108103cafdb9"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "『RIIZE』 Debut Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
+      "title": "『RIIZE』デビューカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
       "title": "“RIIZE” 出道咖啡厅 🎂"

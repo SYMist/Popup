@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/pradabeauty/",
@@ -32,16 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:29.647767"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:09:56.142627"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20"
+    "enUrl": "https://interparkglobal.com/en/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "PRADA BEAUTY POP-UP"
+    },
+    "ja": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "PRADA BEAUTY POP-UP"
     }

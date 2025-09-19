@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/daydream722_/status/1939688208562073988",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:37.957857"
+    "fetchedAt": "2025-09-19T14:19:20.707307"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197c858-4a4e-7857-9d44-491b40a650b5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197c858-4a4e-7857-9d44-491b40a650b5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c858-4a4e-7857-9d44-491b40a650b5"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 9, Sinchon-ro 4-gil, Mapo-gu, ",
+      "title": "『New Jeans』 Debut Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 9, Sinchon-ro 4-gil, Mapo-gu, ",
+      "title": "『NewJeans』 デビューカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 9, Sinchon-ro 4-gil, Mapo-gu, ",
       "title": "“NewJeans” 出道咖啡厅🎂"

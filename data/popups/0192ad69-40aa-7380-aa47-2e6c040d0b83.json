@@ -23,24 +23,53 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/20ed9859-782e-49b9-9645-77b9005e6b9a.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1a2aabe7-1224-421b-9037-b65692c2e41f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1a2aabe7-1224-421b-9037-b65692c2e41f.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.stolantern.com/sub3.php?page=1",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.stolantern.com/business/businessB#",
+      "label": "See more"
+    },
+    {
+      "href": "https://www.stolantern.com/business/businessB#.",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:06.118737"
+    "fetchedAt": "2025-09-19T14:17:32.259857"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192ad69-40aa-7380-aa47-2e6c040d0b83",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192ad69-40aa-7380-aa47-2e6c040d0b83",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192ad69-40aa-7380-aa47-2e6c040d0b83"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "Gwanghwamun Christmas Market"
+    },
+    "ja": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "光化門広場マーケット"
+    },
     "zh-cn": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
       "title": "光化门圣诞市场"

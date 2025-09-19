@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/noct.m_theriver/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:18.167050"
+    "fetchedAt": "2025-09-19T14:05:18.847105"
   },
   "pricing": {
     "description": "ライブチャージ : 平日(火-木) 10,000ウォン（1人） / 週末(金、土) 20,000ウォン (お料理とドリンクは別料金)",

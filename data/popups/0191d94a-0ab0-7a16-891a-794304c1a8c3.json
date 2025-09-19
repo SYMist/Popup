@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-opzEYSe8D/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:16.466469"
+    "fetchedAt": "2025-09-19T14:13:04.295275"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d94a-0ab0-7a16-891a-794304c1a8c3"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d94a-0ab0-7a16-891a-794304c1a8c3",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d94a-0ab0-7a16-891a-794304c1a8c3"
   },
   "translations": {
     "en": {
       "address": "Jeju, 25-3, Ongpo 7-gil, Hallim-eup,",
       "title": "Waview Cosmos Festival"
+    },
+    "ja": {
+      "address": "Jeju, 25-3, Ongpo 7-gil, Hallim-eup,",
+      "title": "WAVIEW コスモス祭り"
     }
   }
 }

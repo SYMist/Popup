@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DIGK4k7PkDC/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:49.298132"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:03:48.120995"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01961df2-2e69-7d5d-91ac-76862a6d16b8",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01961df2-2e69-7d5d-91ac-76862a6d16b8",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01961df2-2e69-7d5d-91ac-76862a6d16b8"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 16-12, Seoulsup 2-gil, Seongdong-gu, ",
+      "title": "BEN & JERRY POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 16-12, Seoulsup 2-gil, Seongdong-gu, ",
+      "title": "ベン＆ジェリーズ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 16-12, Seoulsup 2-gil, Seongdong-gu, ",
       "title": "冰淇淋“班恩与杰瑞”快闪店"

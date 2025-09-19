@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLozqgSyTxk/?img_index=1",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:51.148048"
+    "fetchedAt": "2025-09-19T14:20:14.987218"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197f70b-d3c2-7c13-ae8a-43708b7b2a78",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197f70b-d3c2-7c13-ae8a-43708b7b2a78",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f70b-d3c2-7c13-ae8a-43708b7b2a78"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "NCT DREAM POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "NCT DREAM POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
       "title": "NCT DREAM 快闪店"

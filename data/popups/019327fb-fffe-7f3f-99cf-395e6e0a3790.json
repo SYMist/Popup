@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCLY-VTJ7JY/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:13.101082"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:15:04.613750"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019327fb-fffe-7f3f-99cf-395e6e0a3790"
+    "enUrl": "https://interparkglobal.com/en/festas/019327fb-fffe-7f3f-99cf-395e6e0a3790",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019327fb-fffe-7f3f-99cf-395e6e0a3790"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "Toetmaru X d’strict POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "ムーンオーバー江陵"
     }
   }
 }

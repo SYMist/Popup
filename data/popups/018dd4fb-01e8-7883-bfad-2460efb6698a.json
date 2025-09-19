@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.leeumhoam.org/leeum/exhibition/76?params=Y",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:59.632207"
+    "fetchedAt": "2025-09-19T14:07:49.667836"
   },
   "pricing": {
     "description": "成人 (25 - 64歳)：18,000ウォン、青年 (19 - 24歳)：9,000ウォン、 青少年 (7 - 18歳)：9,000ウォン、シニア (65歳以上)：9,000ウォン",

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_SID2HzaL8/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:35.136091"
+    "fetchedAt": "2025-09-19T14:11:52.589629"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d96a-1eb5-7234-91d2-460317050d29"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d96a-1eb5-7234-91d2-460317050d29",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d96a-1eb5-7234-91d2-460317050d29"
   },
   "translations": {
     "en": {
       "address": "Seoul, 15, Yeongjung-ro, Yeongdeungpo-gu,",
       "title": "ONEW 'FLOW' POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 15, Yeongjung-ro, Yeongdeungpo-gu,",
+      "title": "オンユ FLOW ポップアップストア"
     }
   }
 }

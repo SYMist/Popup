@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/23c80626-dc94-464a-bab3-7b16deb88c1a.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8389448b-964a-46be-a3c6-856362282d19.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8389448b-964a-46be-a3c6-856362282d19.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://visitgangnam.net/cultural-events/ongoing/kakao-event/",
@@ -32,16 +43,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:54.070615"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:26:33.337555"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0194243f-2f21-76af-b50d-8f68d324831b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0194243f-2f21-76af-b50d-8f68d324831b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194243f-2f21-76af-b50d-8f68d324831b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 20, Dosan-daero 45-gil, Gangnam-gu, ",
+      "title": "KAKAO FRIENDS <La Chunbok Delivery> POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 20, Dosan-daero 45-gil, Gangnam-gu, ",
+      "title": "ラチュン福配達"
+    },
     "zh-cn": {
       "address": "Seoul, 20, Dosan-daero 45-gil, Gangnam-gu, ",
       "priceDesc": "null",

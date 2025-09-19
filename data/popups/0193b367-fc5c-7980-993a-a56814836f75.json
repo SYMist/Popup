@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DBf2LyyMsM-/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:18.986366"
+    "fetchedAt": "2025-09-19T14:18:07.281738"
   },
   "pricing": {
     "description": "null",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193b367-fc5c-7980-993a-a56814836f75",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193b367-fc5c-7980-993a-a56814836f75",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b367-fc5c-7980-993a-a56814836f75"
   },
   "translations": {
+    "en": {
+      "address": "Seogwipo-si,, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon, ",
+      "title": "Manorblanc Camellia Flower & Tangerine Festival"
+    },
+    "ja": {
+      "address": "Seogwipo-si,, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon, ",
+      "title": "済州 椿の花とみかん狩り祭り 🍊"
+    },
     "zh-cn": {
       "address": "Seogwipo-si,, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon, ",
       "priceDesc": "null",

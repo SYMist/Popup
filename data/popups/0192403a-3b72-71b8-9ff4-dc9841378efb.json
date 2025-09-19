@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAW5gDev0JJ/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:32.411954"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:43.636451"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192403a-3b72-71b8-9ff4-dc9841378efb"
+    "enUrl": "https://interparkglobal.com/en/festas/0192403a-3b72-71b8-9ff4-dc9841378efb",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192403a-3b72-71b8-9ff4-dc9841378efb"
   },
   "translations": {
     "en": {
       "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
       "title": "Detective Conan Pop-up Store"
+    },
+    "ja": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "名探偵コナン ポップアップ"
     }
   }
 }

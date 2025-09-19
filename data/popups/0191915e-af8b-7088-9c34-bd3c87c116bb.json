@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.kh.or.kr/short/fO51",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:12.162491"
+    "fetchedAt": "2025-09-19T14:24:29.423820"
   },
   "pricing": {
     "type": "PAID"

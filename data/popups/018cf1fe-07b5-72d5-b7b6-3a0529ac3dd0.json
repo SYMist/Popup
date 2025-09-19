@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/trala.hannam/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:19.575789"
+    "fetchedAt": "2025-09-19T14:05:23.824262"
   },
   "pricing": {
     "description": "入場料 : 一人当たり 20,000ウォン + カクテル2Dまたはボトルの注文が必要です。",

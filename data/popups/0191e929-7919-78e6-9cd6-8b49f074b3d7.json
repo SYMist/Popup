@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24010203",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:04.296116"
+    "fetchedAt": "2025-09-19T14:12:35.372167"
   },
   "pricing": {
     "description": "49,000ウォン",

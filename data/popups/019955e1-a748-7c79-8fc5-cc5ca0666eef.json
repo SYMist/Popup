@@ -9,8 +9,8 @@
     "start": "2025-09-27"
   },
   "geo": {
-    "lat": 37.52973,
-    "lon": 126.9201
+    "lat": 37.5284304,
+    "lon": 126.9330781
   },
   "id": "019955e1-a748-7c79-8fc5-cc5ca0666eef",
   "images": [
@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://hanwhafireworks.com/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:59.821295"
+    "fetchedAt": "2025-09-19T14:26:55.881005"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef"
   },
   "translations": {
+    "en": {
+      "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "Seoul International Fireworks Festival 2025"
+    },
+    "ja": {
+      "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "ソウル 世界花火フェスティバル2025"
+    },
     "zh-cn": {
       "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
       "title": "2025 首尔世界烟花庆典"

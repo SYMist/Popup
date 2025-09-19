@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/RABBITFORHSWY/status/1832753109279637958",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:39.624096"
+    "fetchedAt": "2025-09-19T14:15:59.191114"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019274cf-1825-7892-8ebd-009dd386ef49"
+    "enUrl": "https://interparkglobal.com/en/festas/019274cf-1825-7892-8ebd-009dd386ef49",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019274cf-1825-7892-8ebd-009dd386ef49"
   },
   "translations": {
     "en": {
       "address": "Seoul, 20, Wausan-ro 29 Ra-gil, Mapo-gu,",
       "title": "『Heeseung』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 20, Wausan-ro 29 Ra-gil, Mapo-gu,",
+      "title": "『ヒスン』 センイルカフェ 🎂"
     }
   }
 }

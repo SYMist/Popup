@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.chf.or.kr/brd/board/1049/L/menu/885?brdType=R&thisPage=1&bbIdx=116469&searchField=&searchText=",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:29.781660"
+    "fetchedAt": "2025-09-19T14:08:28.609765"
   },
   "pricing": {
     "description": "26,000ウォン",

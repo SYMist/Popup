@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/wavetoweno/status/1924072667310891492",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:38.614619"
+    "fetchedAt": "2025-09-19T14:19:23.865716"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197c876-a8a7-7d5e-a16c-12f279cae89d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197c876-a8a7-7d5e-a16c-12f279cae89d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c876-a8a7-7d5e-a16c-12f279cae89d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-50, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『Nicholas』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-50, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『ニコラス』 センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-50, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“NICHOLAS” 生日咖啡厅🎂"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://m.torhop.com/board/event/read.html?no=13444&board_no=8",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:00.817251"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:23:53.515626"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01927909-3ef4-7352-9767-c7c2d1326005"
+    "enUrl": "https://interparkglobal.com/en/festas/01927909-3ef4-7352-9767-c7c2d1326005",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01927909-3ef4-7352-9767-c7c2d1326005"
   },
   "translations": {
     "en": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu,",
       "title": "Olive Young Gangnam Town POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu,",
+      "title": "Torhop ポップアップストア"
     }
   }
 }

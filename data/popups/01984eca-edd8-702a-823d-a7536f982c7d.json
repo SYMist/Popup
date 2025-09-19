@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/kimkimche_/status/1945071326651146400",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:40.985483"
+    "fetchedAt": "2025-09-19T14:25:43.303411"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01984eca-edd8-702a-823d-a7536f982c7d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01984eca-edd8-702a-823d-a7536f982c7d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984eca-edd8-702a-823d-a7536f982c7d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-42 Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『Chaewon』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-42 Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『チェウォン』センイルカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-42 Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“采源”生日咖啡厅 🎂"

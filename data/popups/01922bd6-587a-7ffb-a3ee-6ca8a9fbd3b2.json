@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAP0S0FxxsJ/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:49.830671"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:11.672099"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922bd6-587a-7ffb-a3ee-6ca8a9fbd3b2"
+    "enUrl": "https://interparkglobal.com/en/festas/01922bd6-587a-7ffb-a3ee-6ca8a9fbd3b2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922bd6-587a-7ffb-a3ee-6ca8a9fbd3b2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 300 O﻿lympic-ro, Songpa-gu,",
       "title": "TWICE 9th Anniversary POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 300 O﻿lympic-ro, Songpa-gu,",
+      "title": "TWICE デビュー9周年ポップアップ"
     }
   }
 }

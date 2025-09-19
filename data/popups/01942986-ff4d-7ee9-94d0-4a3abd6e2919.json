@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DEGzB2evs6a/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:38.698991"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:25:41.166535"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01942986-ff4d-7ee9-94d0-4a3abd6e2919",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01942986-ff4d-7ee9-94d0-4a3abd6e2919",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942986-ff4d-7ee9-94d0-4a3abd6e2919"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Maru is a Puppy X Lotte World POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "マルのラッキーニューイヤー"
+    },
     "zh-cn": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "priceDesc": "null",

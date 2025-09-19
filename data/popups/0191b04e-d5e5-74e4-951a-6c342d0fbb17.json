@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-7XZShvBm6/",
@@ -32,16 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:18.009519"
+    "fetchedAt": "2025-09-19T14:11:20.298664"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b04e-d5e5-74e4-951a-6c342d0fbb17"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b04e-d5e5-74e4-951a-6c342d0fbb17",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b04e-d5e5-74e4-951a-6c342d0fbb17"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
+      "title": "2024 Kiaf SEOUL"
+    },
+    "ja": {
       "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
       "title": "2024 Kiaf SEOUL"
     }

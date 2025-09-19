@@ -23,24 +23,49 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e3b6b316-f31f-4239-8b60-526f5480603a.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a64a0974-0e48-4bee-8b18-0ee80daf3423.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a64a0974-0e48-4bee-8b18-0ee80daf3423.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.seoullightgwanghwamun.com/",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.instagram.com/p/DBtDSNdMHuN/?img_index=1",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:43.618755"
+    "fetchedAt": "2025-09-19T14:14:07.627004"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192e00f-6e09-7713-9eac-a0d080e30bf4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192e00f-6e09-7713-9eac-a0d080e30bf4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192e00f-6e09-7713-9eac-a0d080e30bf4"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
+      "title": "2024 Seoul Light Gwanghwamun"
+    },
+    "ja": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
+      "title": "2024 ソウルライト 光化門"
+    },
     "zh-cn": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
       "title": "2024 光化门首尔之光"

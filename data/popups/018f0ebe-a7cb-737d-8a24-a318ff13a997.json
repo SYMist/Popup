@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C47ynviJ5ts/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:37.233488"
+    "fetchedAt": "2025-09-19T14:08:43.189036"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018f0ebe-a7cb-737d-8a24-a318ff13a997"
+    "enUrl": "https://interparkglobal.com/en/festas/018f0ebe-a7cb-737d-8a24-a318ff13a997",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f0ebe-a7cb-737d-8a24-a318ff13a997"
   },
   "translations": {
     "en": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
       "title": "Gwanghwamun Book Garden"
+    },
+    "ja": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "光化門本マダン"
     }
   }
 }

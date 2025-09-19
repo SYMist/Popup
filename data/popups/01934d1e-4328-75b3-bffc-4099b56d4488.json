@@ -25,17 +25,32 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:46.432281"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:23:30.183878"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01934d1e-4328-75b3-bffc-4099b56d4488",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01934d1e-4328-75b3-bffc-4099b56d4488",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934d1e-4328-75b3-bffc-4099b56d4488"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu, ",
+      "title": "Tom and Jerry Christmas House"
+    },
+    "ja": {
+      "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu, ",
+      "title": "トムとジェリーのクリスマスハウス"
+    },
     "zh-cn": {
       "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu, ",
       "title": "汤姆和杰瑞的圣诞屋 🧀"

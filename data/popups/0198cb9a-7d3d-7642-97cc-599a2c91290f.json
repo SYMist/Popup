@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/places/25000929/products/25011317",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:15.136829"
+    "fetchedAt": "2025-09-19T14:21:50.881116"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198cb9a-7d3d-7642-97cc-599a2c91290f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198cb9a-7d3d-7642-97cc-599a2c91290f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198cb9a-7d3d-7642-97cc-599a2c91290f"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 YOUNGJAE ASIA TOUR ‘Fermata’"
+    },
+    "ja": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 YOUNGJAE ASIA TOUR ‘Fermata’"
+    },
     "zh-cn": {
       "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
       "title": "2025 荣宰  YOUNGJAE ASIA TOUR ‘Fermata’"

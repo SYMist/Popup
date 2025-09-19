@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/dido_jazz_lounge/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:19.504777"
+    "fetchedAt": "2025-09-19T14:05:21.934816"
   },
   "pricing": {
     "description": "チャージ料金 1人当たり11,000ウォン（料理とドリンクは別料金）",

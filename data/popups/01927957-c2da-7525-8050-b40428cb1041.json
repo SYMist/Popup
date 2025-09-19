@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://www.bfo.or.kr/festival/info/01.asp?MENUDIV=1",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:59.618815"
+    "fetchedAt": "2025-09-19T14:14:30.819646"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01927957-c2da-7525-8050-b40428cb1041"
+    "enUrl": "https://interparkglobal.com/en/festas/01927957-c2da-7525-8050-b40428cb1041",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01927957-c2da-7525-8050-b40428cb1041"
   },
   "translations": {
     "en": {
       "address": "Busan, 219, Gwangan Beach-ro, Suyeong-gu,",
       "title": "19th Busan Fireworks Festival"
+    },
+    "ja": {
+      "address": "Busan, 219, Gwangan Beach-ro, Suyeong-gu,",
+      "title": "第19回 釜山花火大会"
     }
   }
 }

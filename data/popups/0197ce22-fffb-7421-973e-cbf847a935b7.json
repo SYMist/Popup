@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/genre/CONCERT/products/25009340?placeCode=25000771",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:40.629570"
+    "fetchedAt": "2025-09-19T14:19:35.194897"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197ce22-fffb-7421-973e-cbf847a935b7",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197ce22-fffb-7421-973e-cbf847a935b7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197ce22-fffb-7421-973e-cbf847a935b7"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 AKMU STANDING CONCERT"
+    },
+    "ja": {
+      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
+      "title": "2025 AKMU STANDING CONCERT"
+    },
     "zh-cn": {
       "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
       "title": "2025 AKMU 演唱会"

@@ -25,22 +25,41 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://x.com/ateezpopup_sw/status/1907968878657024212",
       "label": "查看详情"
+    },
+    {
+      "href": "https://ateez.kqent.com/",
+      "label": "See more"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:56.726281"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:04:23.948174"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196139a-64fe-7946-b6ae-53b6ee7e0451",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196139a-64fe-7946-b6ae-53b6ee7e0451",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196139a-64fe-7946-b6ae-53b6ee7e0451"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 149, Yeongjung-ro, Yeongdeungpo-gu,",
+      "title": "ATEEZ X ANITEEZ IN TREASURE Popup Store"
+    },
+    "ja": {
+      "address": "Seoul, 149, Yeongjung-ro, Yeongdeungpo-gu,",
+      "title": "ATEEZ X ANITEEZ IN TREASURE"
+    },
     "zh-cn": {
       "address": "Seoul, 149, Yeongjung-ro, Yeongdeungpo-gu,",
       "title": "ATEEZ X ANITEEZ IN TREASURE 快闪店"

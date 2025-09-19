@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24000310",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:43.563899"
+    "fetchedAt": "2025-09-19T14:07:23.000524"
   },
   "pricing": {
     "description": "1日券: 109,000 ウォン / 2日券: 169,000 ウォン",

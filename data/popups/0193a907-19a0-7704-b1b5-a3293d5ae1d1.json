@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCQBtxyBDLb/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:39.704910"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:08.118880"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193a907-19a0-7704-b1b5-a3293d5ae1d1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193a907-19a0-7704-b1b5-a3293d5ae1d1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193a907-19a0-7704-b1b5-a3293d5ae1d1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Peanuts Snoopy POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "スヌーピー ポップアップ 🎄"
+    },
     "zh-cn": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "花生漫画《史努比》快闪店"

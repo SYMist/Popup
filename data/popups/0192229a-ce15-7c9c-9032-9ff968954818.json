@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000399147",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:06.557086"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:12:43.968442"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192229a-ce15-7c9c-9032-9ff968954818"
+    "enUrl": "https://interparkglobal.com/en/festas/0192229a-ce15-7c9c-9032-9ff968954818",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192229a-ce15-7c9c-9032-9ff968954818"
   },
   "translations": {
     "en": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "PIXAR POP-UP STORE"
+    },
+    "ja": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "ピクサーハウス ポップアップ"
     }
   }
 }

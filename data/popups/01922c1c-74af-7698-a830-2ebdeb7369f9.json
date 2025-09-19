@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/dda_dduu1004",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:08.934591"
+    "fetchedAt": "2025-09-19T14:12:51.919511"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922c1c-74af-7698-a830-2ebdeb7369f9"
+    "enUrl": "https://interparkglobal.com/en/festas/01922c1c-74af-7698-a830-2ebdeb7369f9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922c1c-74af-7698-a830-2ebdeb7369f9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 32, Wausan-ro 29-gil, Mapo-gu,",
       "title": "SEVENTEEN Jeonghan Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 32, Wausan-ro 29-gil, Mapo-gu,",
+      "title": "『ジョンハン』 センイルカフェ 🎂"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DC8BXWjyJfh/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:00.350057"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:39.263777"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019394b0-bbd7-7950-b9dc-8f9b63fafa7c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019394b0-bbd7-7950-b9dc-8f9b63fafa7c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019394b0-bbd7-7950-b9dc-8f9b63fafa7c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu, ",
+      "title": "ZEROBASEONE X LINE FRIENDS POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu, ",
+      "title": "ZERONI POP-UP in SINSA"
+    },
     "zh-cn": {
       "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu, ",
       "title": "ZERONI POP-UP in 新沙"

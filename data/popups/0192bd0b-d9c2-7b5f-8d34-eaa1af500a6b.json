@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://kiaoppositesunited.com/kr",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:30.091621"
+    "fetchedAt": "2025-09-19T14:15:36.061353"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192bd0b-d9c2-7b5f-8d34-eaa1af500a6b"
+    "enUrl": "https://interparkglobal.com/en/festas/0192bd0b-d9c2-7b5f-8d34-eaa1af500a6b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192bd0b-d9c2-7b5f-8d34-eaa1af500a6b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 57, Seongsui-ro 20-gil, Seongdong-gu,",
       "title": "OPPOSITES UNITED_ ‘Intersections Beyond Boundaries’"
+    },
+    "ja": {
+      "address": "Seoul, 57, Seongsui-ro 20-gil, Seongdong-gu,",
+      "title": "KIA自動車 デザイン哲学 ソウル展示"
     }
   }
 }

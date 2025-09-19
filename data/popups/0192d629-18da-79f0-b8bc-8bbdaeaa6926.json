@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/MX_event_cafe/status/1845345193626829026",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:42.146199"
+    "fetchedAt": "2025-09-19T14:23:06.497583"
   },
   "pricing": {
     "type": "UNKNOWN"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.biff.kr/kor/addon/10000001/page.asp?page_num=8140",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:57.608870"
+    "fetchedAt": "2025-09-19T14:14:27.273831"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192645d-baaf-7055-b17d-f5cff065cd2b"
+    "enUrl": "https://interparkglobal.com/en/festas/0192645d-baaf-7055-b17d-f5cff065cd2b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192645d-baaf-7055-b17d-f5cff065cd2b"
   },
   "translations": {
     "en": {
       "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
       "title": "Busan International Film Festival"
+    },
+    "ja": {
+      "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
+      "title": "第29回 釜山国際映画祭"
     }
   }
 }

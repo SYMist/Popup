@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DN-XoWgCXCA/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:19.060099"
+    "fetchedAt": "2025-09-19T14:22:05.246937"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199040e-1de0-7458-8750-612539b1b822",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0199040e-1de0-7458-8750-612539b1b822",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199040e-1de0-7458-8750-612539b1b822"
   },
   "translations": {
+    "en": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "2025 DDP Design & Art"
+    },
+    "ja": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "2025 DDP デザイン＆アート"
+    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "2025 DDP设计与艺术"

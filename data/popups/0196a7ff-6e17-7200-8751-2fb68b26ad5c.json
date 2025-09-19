@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/kyujin_star/status/1916146814274932809",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:50.159570"
+    "fetchedAt": "2025-09-19T14:26:19.756749"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196a7ff-6e17-7200-8751-2fb68b26ad5c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196a7ff-6e17-7200-8751-2fb68b26ad5c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196a7ff-6e17-7200-8751-2fb68b26ad5c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 28-18, Dongmak-ro 3-gil, Mapo-gu, ",
+      "title": "『Kyujin』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 28-18, Dongmak-ro 3-gil, Mapo-gu, ",
+      "title": "『ギュジン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 28-18, Dongmak-ro 3-gil, Mapo-gu, ",
       "title": "“圭珍” 生日咖啡厅🎂"

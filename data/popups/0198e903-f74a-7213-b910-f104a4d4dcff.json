@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/effb30f5-e42e-4c9d-82c3-b3230076a976.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ba155dba-41f7-473f-9d30-025826143f2f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ba155dba-41f7-473f-9d30-025826143f2f.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Happybirstay/status/1954465850439631242",
@@ -36,15 +47,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:17.145264"
+    "fetchedAt": "2025-09-19T14:21:59.083989"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198e903-f74a-7213-b910-f104a4d4dcff",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198e903-f74a-7213-b910-f104a4d4dcff",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e903-f74a-7213-b910-f104a4d4dcff"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
+      "title": "『Felix』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
+      "title": "『フィリックス』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
       "title": "“Felix” 生日咖啡厅🎂"

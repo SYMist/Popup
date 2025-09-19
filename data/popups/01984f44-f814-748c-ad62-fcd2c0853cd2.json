@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/reel/DMzwaFuzcLW/?igsh=cXk1Z2FxM2pyOGw3",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:58.981170"
+    "fetchedAt": "2025-09-19T14:20:44.188478"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01984f44-f814-748c-ad62-fcd2c0853cd2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01984f44-f814-748c-ad62-fcd2c0853cd2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f44-f814-748c-ad62-fcd2c0853cd2"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu, ",
+      "title": "TXT X CU Collab POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu, ",
+      "title": "CU x TXT コラボ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 188, Yanghwa-ro, Mapo-gu, ",
       "title": "CU X TXT 合作快闪店"

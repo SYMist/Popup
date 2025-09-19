@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/KILIG_HARUTO/status/1895443871729172625",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:06.114732"
+    "fetchedAt": "2025-09-19T14:24:18.527414"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195cfce-755e-7e6c-b1df-9f3b292787e5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195cfce-755e-7e6c-b1df-9f3b292787e5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195cfce-755e-7e6c-b1df-9f3b292787e5"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
+      "title": "『Haruto』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
+      "title": "『ハルト』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
       "title": "“渡边温斗”生日咖啡厅🎂"

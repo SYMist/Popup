@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCxGFyxzLRh/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:14.207160"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:17:56.285873"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01938a27-e5f1-7544-b5d9-cc6893b208e1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01938a27-e5f1-7544-b5d9-cc6893b208e1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01938a27-e5f1-7544-b5d9-cc6893b208e1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 50, Donggyo-ro 27-gil, Mapo-gu,",
+      "title": "LUXIAI SANTA'S HOME POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 50, Donggyo-ro 27-gil, Mapo-gu,",
+      "title": "SANTA'S HOME 🎄"
+    },
     "zh-cn": {
       "address": "Seoul, 50, Donggyo-ro 27-gil, Mapo-gu,",
       "title": "SANTA'S HOME 🎅"

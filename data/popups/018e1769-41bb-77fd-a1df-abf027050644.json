@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.sac.or.kr/site/eng/show/show_view?SN=49107",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:11.190760"
+    "fetchedAt": "2025-09-19T14:08:01.236845"
   },
   "pricing": {
     "description": "大人: 20,000ウォン、青少年: 15,000ウォン、子供: 12,000ウォン",

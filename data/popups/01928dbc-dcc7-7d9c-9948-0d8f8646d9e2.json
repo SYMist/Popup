@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DBC4wQ9CTTB/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:08.158538"
+    "fetchedAt": "2025-09-19T14:17:27.157880"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01928dbc-dcc7-7d9c-9948-0d8f8646d9e2"
+    "enUrl": "https://interparkglobal.com/en/festas/01928dbc-dcc7-7d9c-9948-0d8f8646d9e2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01928dbc-dcc7-7d9c-9948-0d8f8646d9e2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 110, Sejong-daero, Jung-gu,",
       "title": "<Han Kang> Book Exhibition"
+    },
+    "ja": {
+      "address": "Seoul, 110, Sejong-daero, Jung-gu,",
+      "title": "作家 ハンガンの図書エディション"
     }
   }
 }

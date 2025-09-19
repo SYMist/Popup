@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://channel.frommyarti.com/channels/theboyz/notice/1031",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:55.575998"
+    "fetchedAt": "2025-09-19T14:26:39.253006"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198e3d7-5f51-78a0-9d9e-577cd886392a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198e3d7-5f51-78a0-9d9e-577cd886392a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e3d7-5f51-78a0-9d9e-577cd886392a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 69, Seongsui-ro, Seongdong-gu,",
+      "title": "THE BOYZ Lucky Little Things"
+    },
+    "ja": {
+      "address": "Seoul, 69, Seongsui-ro, Seongdong-gu,",
+      "title": "THE BOYZ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 69, Seongsui-ro, Seongdong-gu,",
       "title": "THE BOYS：LUCKY LITTLE THINGS"

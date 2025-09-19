@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24014458",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:00.069051"
+    "fetchedAt": "2025-09-19T14:23:52.591972"
   },
   "pricing": {
     "description": "KRW 121,000",

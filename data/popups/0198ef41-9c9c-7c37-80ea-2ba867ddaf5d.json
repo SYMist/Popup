@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/happykeyday/status/1948677221285286204",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:56.614152"
+    "fetchedAt": "2025-09-19T14:26:44.982973"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198ef41-9c9c-7c37-80ea-2ba867ddaf5d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef41-9c9c-7c37-80ea-2ba867ddaf5d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef41-9c9c-7c37-80ea-2ba867ddaf5d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu, ",
+      "title": "『Key』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu, ",
+      "title": "『Key』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu, ",
       "title": "“Key” 生日咖啡厅🎂"

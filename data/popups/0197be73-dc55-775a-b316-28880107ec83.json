@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://m.booking.naver.com/booking/12/bizes/1425271/items/6797076?area=bmp&startDateTime=2025-07-04T00%3A00%3A00%2B09%3A00",
@@ -32,16 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:32.585401"
+    "fetchedAt": "2025-09-19T14:19:01.790758"
   },
   "pricing": {
     "description": "20,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197be73-dc55-775a-b316-28880107ec83",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197be73-dc55-775a-b316-28880107ec83",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be73-dc55-775a-b316-28880107ec83"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 3-4F, 402, Achasan-ro, Gwangjin-gu, ",
+      "priceDesc": "20,000 won",
+      "title": "ASTRO MEDIA EXHIBITION"
+    },
+    "ja": {
+      "address": "Seoul, 3-4F, 402, Achasan-ro, Gwangjin-gu, ",
+      "priceDesc": "20,000ウォン",
+      "title": "ASTRO メディア展示"
+    },
     "zh-cn": {
       "address": "Seoul, 3-4F, 402, Achasan-ro, Gwangjin-gu, ",
       "priceDesc": "20,000韩元",

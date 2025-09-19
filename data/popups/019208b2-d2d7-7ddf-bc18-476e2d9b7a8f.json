@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_6k2EAhvxe/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:50.582324"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:12:13.826032"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019208b2-d2d7-7ddf-bc18-476e2d9b7a8f"
+    "enUrl": "https://interparkglobal.com/en/festas/019208b2-d2d7-7ddf-bc18-476e2d9b7a8f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019208b2-d2d7-7ddf-bc18-476e2d9b7a8f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
       "title": "Olive Young Beauty Pop-up in Hongdae"
+    },
+    "ja": {
+      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "オリーブヤング POP-UP 💄"
     }
   }
 }

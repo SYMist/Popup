@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.nfm.go.kr/user/bbs/home/7/96/bbsDataView/24826.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:44.761699"
+    "fetchedAt": "2025-09-19T14:11:57.976532"
   },
   "pricing": {
     "type": "UNKNOWN"

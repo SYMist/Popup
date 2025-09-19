@@ -17,8 +17,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/3438f0e4-bb96-415f-9716-7339c8d0a773.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6f4ec9ec-58a9-4982-8f16-7573267d211e.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6f4ec9ec-58a9-4982-8f16-7573267d211e.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9fe1cc6c-a598-477d-b204-68965436e5f0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9fe1cc6c-a598-477d-b204-68965436e5f0.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DNluWgwuAbW/",
@@ -26,15 +47,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:16.109997"
+    "fetchedAt": "2025-09-19T14:21:54.249219"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198d032-b121-7813-bdc5-ba2225d84d28",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198d032-b121-7813-bdc5-ba2225d84d28",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198d032-b121-7813-bdc5-ba2225d84d28"
   },
   "translations": {
+    "en": {
+      "title": "BTS X McDonald’s Happy Meal Coming Soon"
+    },
+    "ja": {
+      "title": "BTS X マクドナルド ハッピーミールコラボ"
+    },
     "zh-cn": {
       "title": "BTS X 麦当劳开心乐园餐发布"
     }

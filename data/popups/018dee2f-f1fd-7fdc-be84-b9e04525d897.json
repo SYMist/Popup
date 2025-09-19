@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://vicheollin.com/index.php",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:05.517758"
+    "fetchedAt": "2025-09-19T14:07:53.145674"
   },
   "pricing": {
     "description": "成人 : 8,000ウォン、青少年 : 7,000ウォン、小人 : 6,000ウォン",

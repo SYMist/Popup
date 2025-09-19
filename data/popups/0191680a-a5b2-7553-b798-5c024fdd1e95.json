@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-pHEehJVL3/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:13.582560"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:24:30.426797"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191680a-a5b2-7553-b798-5c024fdd1e95"
+    "enUrl": "https://interparkglobal.com/en/festas/0191680a-a5b2-7553-b798-5c024fdd1e95",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191680a-a5b2-7553-b798-5c024fdd1e95"
   },
   "translations": {
     "en": {
       "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
       "title": "Nagano Market Pop Up"
+    },
+    "ja": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "ナガノマーケットPOP-UP"
     }
   }
 }

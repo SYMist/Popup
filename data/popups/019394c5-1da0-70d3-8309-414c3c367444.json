@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DC2_lWoPOGE/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:01.313180"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:41.443195"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019394c5-1da0-70d3-8309-414c3c367444",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019394c5-1da0-70d3-8309-414c3c367444",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019394c5-1da0-70d3-8309-414c3c367444"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "POKEMON POP-UP in Jamsil"
+    },
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "ポケモンストア in チャムシル"
+    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
       "title": "宝可梦商店"

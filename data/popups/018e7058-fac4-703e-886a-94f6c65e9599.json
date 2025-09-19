@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.deslumieres.co.kr/en/bunker",
@@ -32,19 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:49.720263"
+    "fetchedAt": "2025-09-19T14:06:15.054059"
   },
   "pricing": {
     "description": "Adults : KRW 19,000, Middle School: KRW 14,000, Elementary School: KRW 11,000, Persons with disabilities, Infants: KRW 9,000",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018e7058-fac4-703e-886a-94f6c65e9599"
+    "enUrl": "https://interparkglobal.com/en/festas/018e7058-fac4-703e-886a-94f6c65e9599",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e7058-fac4-703e-886a-94f6c65e9599"
   },
   "translations": {
     "en": {
       "address": "Jeju-do, 89-17, Seoseongil-ro 1168beon-gil, Seongsan-eup, Seogwipo-si, ",
       "priceDesc": "Adults : KRW 19,000, Middle School: KRW 14,000, Elementary School: KRW 11,000, Persons with disabilities, Infants: KRW 9,000",
+      "title": "「CHAGALL, PARIS - NEW YORK」"
+    },
+    "ja": {
+      "address": "Jeju-do, 89-17, Seoseongil-ro 1168beon-gil, Seongsan-eup, Seogwipo-si, ",
+      "priceDesc": "大人 : 19,000ウォン / 中高生 : 14,000ウォン / 小学生 : 11,000ウォン / 障害者、子供 : 9,000ウォン",
       "title": "「CHAGALL, PARIS - NEW YORK」"
     }
   }

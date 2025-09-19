@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/882f7f72-6ead-4108-b8cd-4d6367763300.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/297fa28b-6f22-4bd0-9f07-1c4a35b2efa6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/297fa28b-6f22-4bd0-9f07-1c4a35b2efa6.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/products/ae0fcca5-6b9c-4729-8002-369df4dd1c9a",
@@ -33,21 +44,34 @@
     {
       "href": "https://inkconcert.com/en/",
       "label": "Go to website"
+    },
+    {
+      "href": "/products/32a3d650-0e58-4f49-8776-8a1593094510",
+      "label": "TRIPLE Korea チケット購入"
+    },
+    {
+      "href": "https://inkconcert.com/jp/",
+      "label": "INKコンサート公式HP"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:40.148785"
+    "fetchedAt": "2025-09-19T14:10:12.715084"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01912a5b-de61-79a7-ab21-da5f3b846e66"
+    "enUrl": "https://interparkglobal.com/en/festas/01912a5b-de61-79a7-ab21-da5f3b846e66",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01912a5b-de61-79a7-ab21-da5f3b846e66"
   },
   "translations": {
     "en": {
       "address": "Incheon, 618, Maesohol-ro, Michuhol-gu,",
       "title": "2024 INK K-POP Concert 🎉"
+    },
+    "ja": {
+      "address": "Incheon, 618, Maesohol-ro, Michuhol-gu,",
+      "title": "2024 INKコンサート🎉"
     }
   }
 }

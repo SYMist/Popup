@@ -25,27 +25,38 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://tickets.interpark.com/goods/24011661",
       "label": "Book Now"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24011661",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:43.576228"
+    "fetchedAt": "2025-09-19T14:12:09.167034"
   },
   "pricing": {
     "description": "1 Day -  121,000 KRW",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e91e-2547-741d-8872-9e5eefe383ee"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e91e-2547-741d-8872-9e5eefe383ee",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e91e-2547-741d-8872-9e5eefe383ee"
   },
   "translations": {
     "en": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
       "priceDesc": "1 Day -  121,000 KRW",
       "title": "2024 Grand Mint Festival 🎆"
+    },
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "1日券 121,000ウォン",
+      "title": "グランドミントフェスティバル 2024 🎆"
     }
   }
 }

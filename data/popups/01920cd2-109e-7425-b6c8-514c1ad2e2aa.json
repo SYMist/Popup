@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0814a12d-85ee-4e6a-9502-7cd4d6e239ee.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d7c228a8-b0a8-43cc-8c14-12ced37ca673.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d7c228a8-b0a8-43cc-8c14-12ced37ca673.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/riize_popup?s=21",
@@ -32,16 +43,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:03.063603"
+    "fetchedAt": "2025-09-19T14:12:44.385983"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920cd2-109e-7425-b6c8-514c1ad2e2aa"
+    "enUrl": "https://interparkglobal.com/en/festas/01920cd2-109e-7425-b6c8-514c1ad2e2aa",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920cd2-109e-7425-b6c8-514c1ad2e2aa"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 95, Yeonmumun-gil, Seongdong-gu,",
+      "title": "RIIZE : ON THE SING STREET"
+    },
+    "ja": {
       "address": "Seoul, 95, Yeonmumun-gil, Seongdong-gu,",
       "title": "RIIZE : ON THE SING STREET"
     }

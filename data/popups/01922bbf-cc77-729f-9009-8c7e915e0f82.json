@@ -25,26 +25,37 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24011639",
       "label": "See more"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24011639",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:31.570442"
+    "fetchedAt": "2025-09-19T14:13:40.676002"
   },
   "pricing": {
     "description": "1 day ticket: KRW 99,000, 2 day ticket: KRW 149,000",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922bbf-cc77-729f-9009-8c7e915e0f82"
+    "enUrl": "https://interparkglobal.com/en/festas/01922bbf-cc77-729f-9009-8c7e915e0f82",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922bbf-cc77-729f-9009-8c7e915e0f82"
   },
   "translations": {
     "en": {
       "address": "Seoul, 162, Hangangnanji-ro, Mapo-gu,",
       "priceDesc": "1 day ticket: KRW 99,000, 2 day ticket: KRW 149,000",
+      "title": "2024 THE CRY ground"
+    },
+    "ja": {
+      "address": "Seoul, 162, Hangangnanji-ro, Mapo-gu,",
+      "priceDesc": "1日チケット 99,000ウォン、2日チケット 149,000ウォン",
       "title": "2024 THE CRY ground"
     }
   }

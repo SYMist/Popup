@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/marsinblack403",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:32.114823"
+    "fetchedAt": "2025-09-19T14:18:59.968253"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197b019-f96a-7b8d-a737-b16c3c44afcd",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197b019-f96a-7b8d-a737-b16c3c44afcd",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197b019-f96a-7b8d-a737-b16c3c44afcd"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 8 Donggyo-ro 34-gil, Mapo-gu,",
+      "title": "『San』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 8 Donggyo-ro 34-gil, Mapo-gu,",
+      "title": "『SAN』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 8 Donggyo-ro 34-gil, Mapo-gu,",
       "title": "“伞” 生日咖啡厅🎂"

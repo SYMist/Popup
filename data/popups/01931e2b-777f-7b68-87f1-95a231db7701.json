@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000409901",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:06.101549"
+    "fetchedAt": "2025-09-19T14:14:57.130996"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01931e2b-777f-7b68-87f1-95a231db7701",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01931e2b-777f-7b68-87f1-95a231db7701",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931e2b-777f-7b68-87f1-95a231db7701"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
+      "title": "Wonderful Showtime in Myeongdong"
+    },
+    "ja": {
+      "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
+      "title": "Wonderful Showtime in 明洞🎄"
+    },
     "zh-cn": {
       "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
       "title": "奇幻秀登场（Wonderful Showtime）在明洞"

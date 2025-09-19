@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://thelounge.jwmarriottdongdaemun.com/specials",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:51.241898"
+    "fetchedAt": "2025-09-19T14:04:04.311350"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019496a3-0f64-75c9-915b-e12e3f26186c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019496a3-0f64-75c9-915b-e12e3f26186c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019496a3-0f64-75c9-915b-e12e3f26186c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 279, Cheonggyecheon-ro, Jongno-gu,",
+      "title": "JW Marriott Dongdaemun Square Strawberry Buffet"
+    },
+    "ja": {
+      "address": "Seoul, 279, Cheonggyecheon-ro, Jongno-gu,",
+      "title": "サロン・ド・イチゴ PANTONE🍓"
+    },
     "zh-cn": {
       "address": "Seoul, 279, Cheonggyecheon-ro, Jongno-gu,",
       "priceDesc": "null",

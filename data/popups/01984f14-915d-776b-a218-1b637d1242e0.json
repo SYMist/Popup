@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/day6_bdevent/status/1947857102694977926?s=46",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:41.495523"
+    "fetchedAt": "2025-09-19T14:25:46.990276"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01984f14-915d-776b-a218-1b637d1242e0",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01984f14-915d-776b-a218-1b637d1242e0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f14-915d-776b-a218-1b637d1242e0"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "『Dowoon』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "『ドウン』センイルカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
       "title": "“度云” 生日咖啡厅🎂"

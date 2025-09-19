@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24006195",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:47.977599"
+    "fetchedAt": "2025-09-19T14:08:53.692821"
   },
   "pricing": {
     "description": "Standing  143,000 ウォン  Reserved Seat  143,000 ウォン ",

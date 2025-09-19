@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://m.hueree.com/index.php",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:43.698413"
+    "fetchedAt": "2025-09-19T14:05:58.849465"
   },
   "pricing": {
     "description": "大人: 13,000ウォン、青少年: 11,000ウォン、子供:10,000ウォン",

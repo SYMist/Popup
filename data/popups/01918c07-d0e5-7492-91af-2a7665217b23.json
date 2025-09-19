@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-9Ph2ry_TK/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:04.051317"
+    "fetchedAt": "2025-09-19T14:10:52.645909"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01918c07-d0e5-7492-91af-2a7665217b23"
+    "enUrl": "https://interparkglobal.com/en/festas/01918c07-d0e5-7492-91af-2a7665217b23",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01918c07-d0e5-7492-91af-2a7665217b23"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
       "title": "MEOVV DEBUT PRE-LISTENING POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
+      "title": "新人グループ『MEOVV』POP-UP"
     }
   }
 }

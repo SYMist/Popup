@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAarIc0sTOl/?img_index=5",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:11.586919"
+    "fetchedAt": "2025-09-19T14:12:59.389356"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920cec-a5d3-78a9-b8ca-1ae331dd3d1b"
+    "enUrl": "https://interparkglobal.com/en/festas/01920cec-a5d3-78a9-b8ca-1ae331dd3d1b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920cec-a5d3-78a9-b8ca-1ae331dd3d1b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 95, Haneulgongwon-ro, Mapo-gu,",
       "title": "The 23rd Seoul Silver Grass Festival"
+    },
+    "ja": {
+      "address": "Seoul, 95, Haneulgongwon-ro, Mapo-gu,",
+      "title": "第23回 ソウルすすき祭り"
     }
   }
 }

@@ -25,9 +25,10 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:23.060388"
+    "fetchedAt": "2025-09-19T14:08:21.394552"
   },
   "pricing": {
     "description": "20,000ウォン",

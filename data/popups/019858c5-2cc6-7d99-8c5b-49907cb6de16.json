@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/AfterClass0913/status/1948718179548557467",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:02.199629"
+    "fetchedAt": "2025-09-19T14:20:56.785280"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019858c5-2cc6-7d99-8c5b-49907cb6de16",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019858c5-2cc6-7d99-8c5b-49907cb6de16",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019858c5-2cc6-7d99-8c5b-49907cb6de16"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 32-22 Donggyo-ro 23-gil, Mapo-gu, ",
+      "title": "『Sungchan』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 32-22 Donggyo-ro 23-gil, Mapo-gu, ",
+      "title": "『ソンチャン』センイルカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 32-22 Donggyo-ro 23-gil, Mapo-gu, ",
       "title": "“成灿” 生日咖啡厅🎂"

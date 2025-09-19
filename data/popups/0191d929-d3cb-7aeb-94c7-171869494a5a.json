@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.riizeincinemas.com/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:33.126974"
+    "fetchedAt": "2025-09-19T14:11:49.401979"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d929-d3cb-7aeb-94c7-171869494a5a"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d929-d3cb-7aeb-94c7-171869494a5a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d929-d3cb-7aeb-94c7-171869494a5a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 14, Myeongdong-gil, Jung-gu,",
       "title": "RIIZE FAN-CON TOUR 'RIIZING DAY' FINALE in CINEMAS"
+    },
+    "ja": {
+      "address": "Seoul, 14, Myeongdong-gil, Jung-gu,",
+      "title": "RIIZE ＜RIIZING DAY＞ファイナル in CINEMAS"
     }
   }
 }

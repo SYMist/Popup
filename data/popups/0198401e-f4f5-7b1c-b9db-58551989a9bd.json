@@ -1,11 +1,17 @@
 {
-  "address": {},
+  "address": {
+    "city": "Incheon",
+    "street": "127, Gongha﻿ngmunhwa-ro, Jung-gu,"
+  },
   "category": "ENTER",
   "duration": {
     "end": "2025-11-02",
     "start": "2025-11-01"
   },
-  "geo": {},
+  "geo": {
+    "lat": 37.466736,
+    "lon": 126.3905392
+  },
   "id": "0198401e-f4f5-7b1c-b9db-58551989a9bd",
   "images": [
     {
@@ -19,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMW3qj4Jwt7/?igsh=NWF2YTVhY3R3Zmd5",
@@ -26,15 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:54.745584"
+    "fetchedAt": "2025-09-19T14:20:28.401846"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198401e-f4f5-7b1c-b9db-58551989a9bd",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198401e-f4f5-7b1c-b9db-58551989a9bd",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198401e-f4f5-7b1c-b9db-58551989a9bd"
   },
   "translations": {
+    "en": {
+      "title": "NCT WISH 1st CONCERT TOUR"
+    },
+    "ja": {
+      "address": "Incheon, 127, Gongha﻿ngmunhwa-ro, Jung-gu,",
+      "title": "NCT WISH 1st CONCERT TOUR"
+    },
     "zh-cn": {
       "title": "NCT WISH 首次演唱会巡演"
     }

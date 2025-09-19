@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://weverse.io/seventeen/notice/22784",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:40.055673"
+    "fetchedAt": "2025-09-19T14:13:52.372854"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926ae0-56a9-7599-b738-11833bdccb42"
+    "enUrl": "https://interparkglobal.com/en/festas/01926ae0-56a9-7599-b738-11833bdccb42",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01926ae0-56a9-7599-b738-11833bdccb42"
   },
   "translations": {
     "en": {
       "address": "Seoul, 827, Seonneung-ro, Gangnam-gu,",
       "title": "SEVENTEEN STREET in Apgujeong"
+    },
+    "ja": {
+      "address": "Seoul, 827, Seonneung-ro, Gangnam-gu,",
+      "title": "SEVENTEEN STREET in  狎鴎亭"
     }
   }
 }

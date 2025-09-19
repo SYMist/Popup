@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C7eS3fWyvWk/?img_index=8",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:20.732714"
+    "fetchedAt": "2025-09-19T14:09:36.277185"
   },
   "pricing": {
     "description": "成人： 18,000ウォン、青少年・子供： 15,000ウォン",

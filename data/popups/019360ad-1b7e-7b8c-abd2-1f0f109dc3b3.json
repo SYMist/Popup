@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCEEJewvCbG/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:03.685380"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:24:09.569584"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019360ad-1b7e-7b8c-abd2-1f0f109dc3b3",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019360ad-1b7e-7b8c-abd2-1f0f109dc3b3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019360ad-1b7e-7b8c-abd2-1f0f109dc3b3"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 40, Myeongdong 8-gil, Jung-gu, ",
+      "title": "Brunch Brother House X A-LAND POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 40, Myeongdong 8-gil, Jung-gu, ",
+      "title": "Brunch Brother House x A-LAND"
+    },
     "zh-cn": {
       "address": "Seoul, 40, Myeongdong 8-gil, Jung-gu, ",
       "title": "Brunch Brother House x A-LAND"

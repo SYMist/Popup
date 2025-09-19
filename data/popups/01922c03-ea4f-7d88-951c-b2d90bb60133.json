@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_4ROB_yPkC/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:51.643867"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:13.247841"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922c03-ea4f-7d88-951c-b2d90bb60133"
+    "enUrl": "https://interparkglobal.com/en/festas/01922c03-ea4f-7d88-951c-b2d90bb60133",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922c03-ea4f-7d88-951c-b2d90bb60133"
   },
   "translations": {
     "en": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "HELLO KITTY 50TH ANNIVERSARY POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "ハローキティ50周年記念ポップアップ"
     }
   }
 }

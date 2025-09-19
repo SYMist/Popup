@@ -25,22 +25,37 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://tickets.interpark.com/goods/24010413",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.instagram.com/p/DByK2H2xMqU/",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:15.148988"
+    "fetchedAt": "2025-09-19T14:15:14.718253"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01920cdc-19c3-7249-8b45-2af8ca6c7478",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920cdc-19c3-7249-8b45-2af8ca6c7478",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01920cdc-19c3-7249-8b45-2af8ca6c7478"
   },
   "translations": {
+    "en": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "title": "<Holiday in Paris> Exhibition"
+    },
+    "ja": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "title": "パリの休日"
+    },
     "zh-cn": {
       "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
       "title": "<Holiday in Paris> 展览"

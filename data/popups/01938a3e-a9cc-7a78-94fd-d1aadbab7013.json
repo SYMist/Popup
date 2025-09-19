@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/woongday_1214/status/1849831816179642693",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:07.121702"
+    "fetchedAt": "2025-09-19T14:17:35.635497"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01938a3e-a9cc-7a78-94fd-d1aadbab7013",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01938a3e-a9cc-7a78-94fd-d1aadbab7013",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01938a3e-a9cc-7a78-94fd-d1aadbab7013"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 14-25, Wausan-ro 29-gil, Mapo-gu, ",
+      "title": "『Jiwoong』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 14-25, Wausan-ro 29-gil, Mapo-gu, ",
+      "title": "『キム・ジウン』 センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 14-25, Wausan-ro 29-gil, Mapo-gu, ",
       "title": "“金地雄” 生日咖啡厅 🎂"

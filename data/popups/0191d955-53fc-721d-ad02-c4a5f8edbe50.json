@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.bitseomfestival.com/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:52.505602"
+    "fetchedAt": "2025-09-19T14:12:20.195500"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50"
   },
   "translations": {
     "en": {
       "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
       "title": "Seoul Light Hangang River Festival"
+    },
+    "ja": {
+      "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
+      "title": "ソウルライト 漢江光の島祭り"
     }
   }
 }

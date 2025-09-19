@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/bunnyminju2025/status/1915705679911784713",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:49.592042"
+    "fetchedAt": "2025-09-19T14:26:19.353357"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196a7f2-be51-7773-ba0d-8c476b73815a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196a7f2-be51-7773-ba0d-8c476b73815a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196a7f2-be51-7773-ba0d-8c476b73815a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『Minju』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『ミンジュ』 センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“慜柱” 生日咖啡厅🎂"

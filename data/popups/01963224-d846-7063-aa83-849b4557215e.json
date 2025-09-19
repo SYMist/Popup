@@ -23,8 +23,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d32185bc-ff2d-4ac4-bdff-67bec8cb46e1.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/73877fd3-2fdf-4028-b018-451a3cbc4942.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/73877fd3-2fdf-4028-b018-451a3cbc4942.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/518e0d55-4b35-4333-9280-a254e219f7e8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/518e0d55-4b35-4333-9280-a254e219f7e8.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DIQQSZfSvgR/",
@@ -32,15 +53,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:58.205387"
+    "fetchedAt": "2025-09-19T14:04:29.007418"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01963224-d846-7063-aa83-849b4557215e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01963224-d846-7063-aa83-849b4557215e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963224-d846-7063-aa83-849b4557215e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30 Samcheong-ro, Jongno-gu,",
+      "title": "Ron Mueck Solo Exhibition"
+    },
+    "ja": {
+      "address": "Seoul, 30 Samcheong-ro, Jongno-gu,",
+      "title": "ロン・ミュエク個展"
+    },
     "zh-cn": {
       "address": "Seoul, 30 Samcheong-ro, Jongno-gu,",
       "title": "罗恩·穆克个人展"

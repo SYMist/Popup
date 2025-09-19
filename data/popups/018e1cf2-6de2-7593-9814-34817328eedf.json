@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/chess154",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:16.486767"
+    "fetchedAt": "2025-09-19T14:08:08.624319"
   },
   "pricing": {
     "description": "10,000ウォン",

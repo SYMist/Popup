@@ -23,8 +23,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/1a708864-94c9-4dab-8588-749046c83074.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/572c9aaa-993b-4b82-8029-6f5fbe229d24.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/572c9aaa-993b-4b82-8029-6f5fbe229d24.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/847f1c36-526e-41b1-abb6-97c0187bddc5.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/847f1c36-526e-41b1-abb6-97c0187bddc5.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.seouldroneshow.com/",
@@ -32,15 +53,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:18.192718"
+    "fetchedAt": "2025-09-19T14:22:01.852357"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01990406-ca56-7d13-9cff-8bb95c537db0",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01990406-ca56-7d13-9cff-8bb95c537db0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990406-ca56-7d13-9cff-8bb95c537db0"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 704-1, Jayang-dong, Gwangjin-gu﻿,",
+      "title": "2025 Drone Light Show: Fly with Soul, Shine in Seoul"
+    },
+    "ja": {
+      "address": "Seoul, 704-1, Jayang-dong, Gwangjin-gu﻿,",
+      "title": "2025 ドローン ライトショー"
+    },
     "zh-cn": {
       "address": "Seoul, 704-1, Jayang-dong, Gwangjin-gu﻿,",
       "title": "2025 汉江无人机灯光秀"

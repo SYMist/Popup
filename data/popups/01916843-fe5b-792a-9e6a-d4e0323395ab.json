@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-SsTugvmrn/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:25.477028"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:25:00.365850"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916843-fe5b-792a-9e6a-d4e0323395ab"
+    "enUrl": "https://interparkglobal.com/en/festas/01916843-fe5b-792a-9e6a-d4e0323395ab",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916843-fe5b-792a-9e6a-d4e0323395ab"
   },
   "translations": {
     "en": {
       "address": "Seoul, 21 Yeonmujang-gil, Seongdong-gu,",
       "title": "'Bunkasha Seongsu' POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 21 Yeonmujang-gil, Seongdong-gu,",
+      "title": "文化社ソンス店オープン"
     }
   }
 }

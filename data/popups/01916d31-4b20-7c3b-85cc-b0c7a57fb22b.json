@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://parks.seoul.go.kr/story/news/detailView.do?searchTp=all&searchWd=&currentPage=1&bIdx=3345&SH_C_START_DATE=&SH_C_END_DATE=&SH_C_CODE=&SH_C_PARK_CODE=",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:05.200196"
+    "fetchedAt": "2025-09-19T14:10:47.538551"
   },
   "pricing": {
     "type": "UNKNOWN"

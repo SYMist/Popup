@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_fWN9zJezk/",
@@ -32,16 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:32.447224"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:47.571518"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191bf61-771e-718b-baea-be55ee0b4245"
+    "enUrl": "https://interparkglobal.com/en/festas/0191bf61-771e-718b-baea-be55ee0b4245",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191bf61-771e-718b-baea-be55ee0b4245"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 97, Seongsu-ro, Seongdong-gu,",
+      "title": "JUNTAE KIM AW24 EXHIBITION"
+    },
+    "ja": {
       "address": "Seoul, 97, Seongsu-ro, Seongdong-gu,",
       "title": "JUNTAE KIM AW24 EXHIBITION"
     }

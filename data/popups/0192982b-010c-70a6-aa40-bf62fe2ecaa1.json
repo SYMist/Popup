@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.stolantern.com/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:45.766529"
+    "fetchedAt": "2025-09-19T14:16:27.647867"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192982b-010c-70a6-aa40-bf62fe2ecaa1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192982b-010c-70a6-aa40-bf62fe2ecaa1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192982b-010c-70a6-aa40-bf62fe2ecaa1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "Seoul Lantern Festival"
+    },
+    "ja": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "ソウルランタンフェスティバル"
+    },
     "zh-cn": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
       "title": "首尔花灯节"

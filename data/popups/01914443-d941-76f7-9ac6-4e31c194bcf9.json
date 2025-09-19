@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://smartstore.naver.com/etik_archive/products/10614979938",
@@ -32,20 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:24.575282"
+    "fetchedAt": "2025-09-19T14:24:57.253841"
   },
   "pricing": {
     "description": "Adult: 18,000 KRW | Teen: 12,000 KRW",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01914443-d941-76f7-9ac6-4e31c194bcf9"
+    "enUrl": "https://interparkglobal.com/en/festas/01914443-d941-76f7-9ac6-4e31c194bcf9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01914443-d941-76f7-9ac6-4e31c194bcf9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
       "priceDesc": "Adult: 18,000 KRW | Teen: 12,000 KRW",
       "title": "Exhibit 『NONFUNGIBLE 』"
+    },
+    "ja": {
+      "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
+      "priceDesc": "成人: 18,000ウォン | 青少年: 12,000ウォン",
+      "title": "展示 『NONFUNGIBLE : 代替不可能なあなたの物語』"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=df8c22a2-24cd-4504-9f5e-400ef9362737&cntntsNm=%EB%A7%88%EB%85%B8%EB%A5%B4%EB%B8%94%EB%9E%91%ED%95%91%ED%81%AC%EB%AE%AC%EB%A6%AC%EC%B6%95%EC%A0%9C",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:01.840401"
+    "fetchedAt": "2025-09-19T14:17:16.788857"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920cba-a59e-773b-8015-593b28f9ed3f"
+    "enUrl": "https://interparkglobal.com/en/festas/01920cba-a59e-773b-8015-593b28f9ed3f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920cba-a59e-773b-8015-593b28f9ed3f"
   },
   "translations": {
     "en": {
       "address": "Seogwipo-si, Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon,",
       "title": "Manorblanc Pink Muhly Festival"
+    },
+    "ja": {
+      "address": "Seogwipo-si, Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon,",
+      "title": "マノールブラン ピンクミューリー祭り"
     }
   }
 }

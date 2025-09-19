@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJ27eO5Mgqd/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:49.582577"
+    "fetchedAt": "2025-09-19T14:16:43.743183"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196f1f0-a0a5-762e-bfc8-b78f47961331",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196f1f0-a0a5-762e-bfc8-b78f47961331",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f1f0-a0a5-762e-bfc8-b78f47961331"
   },
   "translations": {
+    "en": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "Hachi & Soul Friends Merch Shop"
+    },
+    "ja": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "Hechi＆ソウルフレンズ グッズショップ"
+    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "獬豸& 灵魂朋友的周边商品"

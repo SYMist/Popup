@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJERl_tS-3K/?img_index=9",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:51.287974"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:48.726356"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196f211-558e-7f4a-8cec-e95d1d06ee61",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196f211-558e-7f4a-8cec-e95d1d06ee61",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f211-558e-7f4a-8cec-e95d1d06ee61"
   },
   "translations": {
+    "en": {
+      "address": " Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "Atelier Ghana chocolate POP-UP"
+    },
+    "ja": {
+      "address": " Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "アトリエ ガーナ 🍫"
+    },
     "zh-cn": {
       "address": " Seoul, 300, Olympic-ro, Songpa-gu,",
       "title": "𝐴𝑇𝐸𝐿𝐼𝐸𝑅 𝐺𝐻𝐴𝑁𝐴"

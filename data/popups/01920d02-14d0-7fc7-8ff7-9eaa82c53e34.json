@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/popppy1002",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:06.671002"
+    "fetchedAt": "2025-09-19T14:12:45.480543"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920d02-14d0-7fc7-8ff7-9eaa82c53e34"
+    "enUrl": "https://interparkglobal.com/en/festas/01920d02-14d0-7fc7-8ff7-9eaa82c53e34",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920d02-14d0-7fc7-8ff7-9eaa82c53e34"
   },
   "translations": {
     "en": {
       "address": "Seoul, 11-46, Hangang-daero 10-gil, Yongsan-gu,",
       "title": "『Kyungmin』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-46, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『ギョンミン』 センイルカフェ 🎂"
     }
   }
 }

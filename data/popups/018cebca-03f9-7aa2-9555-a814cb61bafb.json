@@ -25,17 +25,28 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:47.800163"
+    "fetchedAt": "2025-09-19T14:07:38.987130"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018cebca-03f9-7aa2-9555-a814cb61bafb",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018cebca-03f9-7aa2-9555-a814cb61bafb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018cebca-03f9-7aa2-9555-a814cb61bafb"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, Jongro-gu,Hyojaro 12, National Palace Museum",
+      "title": "Gyeongbokgung Palace Royal Guard Ceremony"
+    },
+    "ja": {
+      "address": "Seoul, Jongro-gu,Hyojaro 12, National Palace Museum",
+      "title": "景福宮の王宮守門将交代儀式"
+    },
     "zh-cn": {
       "address": "Seoul, Jongro-gu,Hyojaro 12, National Palace Museum",
       "title": "景福宫守门将换岗仪式"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/empty.seoul.kr/p/DHsiBirpKVm/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:47.226354"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:35.301564"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195db07-0fc6-74e2-afb5-1ab2fac20a17",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195db07-0fc6-74e2-afb5-1ab2fac20a17",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db07-0fc6-74e2-afb5-1ab2fac20a17"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 97, Seongsui-ro, Seongdong-gu, Seoul, Republic of Korea",
+      "title": "Musinsa Empty x Miyagi Hidetaka Pop-up"
+    },
+    "ja": {
+      "address": "Seoul, 97, Seongsui-ro, Seongdong-gu, Seoul, Republic of Korea",
+      "title": "MUSINSA EMPTY x ミヤギヒデタカ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 97, Seongsui-ro, Seongdong-gu, Seoul, Republic of Korea",
       "title": "MUSINSA EMPTY x 宮城秀贵闪店"

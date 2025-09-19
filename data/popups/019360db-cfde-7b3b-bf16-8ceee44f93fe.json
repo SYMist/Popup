@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://grp.everland.com/pick/2024/wintertopia/index.html",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:04.651678"
+    "fetchedAt": "2025-09-19T14:24:15.217268"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe"
   },
   "translations": {
+    "en": {
+      "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
+      "title": "Moomin X Everland"
+    },
+    "ja": {
+      "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
+      "title": "ムーミン X エバーランド"
+    },
     "zh-cn": {
       "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
       "title": "姆明 MOOMIN X 爱宝乐园"

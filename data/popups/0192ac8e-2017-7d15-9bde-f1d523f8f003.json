@@ -25,23 +25,40 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4902410353791&branchCd=B00149000&category=#pick",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.globalinterpark.com/en/product/24014216",
+      "label": "See more"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:36.949407"
+    "fetchedAt": "2025-09-19T14:16:03.793027"
   },
   "pricing": {
     "description": "KRW 10,000",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192ac8e-2017-7d15-9bde-f1d523f8f003",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192ac8e-2017-7d15-9bde-f1d523f8f003",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192ac8e-2017-7d15-9bde-f1d523f8f003"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeouido-dong, Yeongdeungpo-gu,",
+      "priceDesc": "KRW 10,000",
+      "title": "Yuko Higuchi Special Exhibition"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeouido-dong, Yeongdeungpo-gu,",
+      "priceDesc": "10,000ウォン",
+      "title": "展示 ＜秘密の森＞"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeouido-dong, Yeongdeungpo-gu,",
       "priceDesc": "KRW 10,000",

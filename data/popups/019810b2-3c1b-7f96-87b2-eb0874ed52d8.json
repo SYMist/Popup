@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://map.naver.com/p/search/%ED%88%AC%EB%B0%94%ED%88%AC%20%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4/place/2058360953?placePath=/home?from=nx&fromNxList=true&from=map&fromPanelNum=2&timestamp=202507160942&locale=ko&svcName=map_pcv5&searchText=%ED%88%AC%EB%B0%94%ED%88%AC%20%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4&searchType=place&c=15.00,0,0,0,dh",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:51.568920"
+    "fetchedAt": "2025-09-19T14:20:15.129712"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8"
   },
   "translations": {
+    "en": {
+      "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
+      "title": "TXT The Star Chapter: TOGETHER POP-UP"
+    },
+    "ja": {
+      "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
+      "title": "The Star Chapter: TOGETHER"
+    },
     "zh-cn": {
       "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
       "title": "The Star Chapter: TOGETHER"

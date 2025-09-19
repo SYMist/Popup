@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCHGv8pTix1/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:38.636274"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:23:10.224536"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01936630-fe0c-7a7e-ba0c-c42c72c03826",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01936630-fe0c-7a7e-ba0c-c42c72c03826",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936630-fe0c-7a7e-ba0c-c42c72c03826"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 12, Sajik-ro 2-gil, Jongno-gu,",
+      "title": "J.Tree X PEANUTS Christmas Pop-up"
+    },
+    "ja": {
+      "address": "Seoul, 12, Sajik-ro 2-gil, Jongno-gu,",
+      "title": "スノイビレッジ 🎄"
+    },
     "zh-cn": {
       "address": "Seoul, 12, Sajik-ro 2-gil, Jongno-gu,",
       "title": "史努比的 “Snow Village”"

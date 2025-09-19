@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DIPzFyCypTI/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:58.525616"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:04:30.444787"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019632ca-da8b-72d4-b9bd-3be512979204",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019632ca-da8b-72d4-b9bd-3be512979204",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019632ca-da8b-72d4-b9bd-3be512979204"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 114, Wangsimni-ro, Seongdong-gu,",
+      "title": "Netflix Dae Hwan Jang POP-UP (feat. BTS Jin)"
+    },
+    "ja": {
+      "address": "Seoul, 114, Wangsimni-ro, Seongdong-gu,",
+      "title": "キアンの破天荒ゲストハウス ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 114, Wangsimni-ro, Seongdong-gu,",
       "title": "“奇案84的奇趣民宿”快闪店"

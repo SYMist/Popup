@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/t_entrance",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:26.923634"
+    "fetchedAt": "2025-09-19T14:18:37.276254"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197529b-fd36-78cd-a18c-bda4cda8eaed",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197529b-fd36-78cd-a18c-bda4cda8eaed",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197529b-fd36-78cd-a18c-bda4cda8eaed"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 144-6 Wausan-ro, Mapo-gu,",
+      "title": "『TAEYONG』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 144-6 Wausan-ro, Mapo-gu,",
+      "title": "『テヨン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 144-6 Wausan-ro, Mapo-gu,",
       "title": "“泰容” 生日咖啡厅🎂"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLo8v8LyOfp/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:50.603500"
+    "fetchedAt": "2025-09-19T14:20:11.670900"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197f730-94eb-73a0-b4da-3e75da044e60",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197f730-94eb-73a0-b4da-3e75da044e60",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f730-94eb-73a0-b4da-3e75da044e60"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 249, Dongho-ro, Jung-gu,",
+      "title": "The Shilla Seoul x Vivienne Westwood Afternoon Tea"
+    },
+    "ja": {
+      "address": "Seoul, 249, Dongho-ro, Jung-gu,",
+      "title": "新羅ホテル x Vivienne Westwood アフタヌーンティー"
+    },
     "zh-cn": {
       "address": "Seoul, 249, Dongho-ro, Jung-gu,",
       "title": "首尔新罗酒店 x Vivienne Westwood 下午茶"

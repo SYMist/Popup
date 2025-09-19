@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DKRMfVbTwUQ/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:27.862603"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:18:41.009985"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01978693-b8f5-7e94-9b7a-f634019b52e1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01978693-b8f5-7e94-9b7a-f634019b52e1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01978693-b8f5-7e94-9b7a-f634019b52e1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "Salon de Tsubaki POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "Salon de Tsubaki"
+    },
     "zh-cn": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
       "title": "Salon de TSUBAKI"

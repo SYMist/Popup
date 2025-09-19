@@ -23,22 +23,42 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/595a234b-fa77-4718-816d-67c4b8d5b53e.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e0a7c1d6-0546-4c75-bace-6d5d9ce32210.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e0a7c1d6-0546-4c75-bace-6d5d9ce32210.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:43.229396"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:04.848701"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192dfdc-8f02-7360-9fdf-5d40ad9a4517"
+    "enUrl": "https://interparkglobal.com/en/festas/0192dfdc-8f02-7360-9fdf-5d40ad9a4517",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192dfdc-8f02-7360-9fdf-5d40ad9a4517"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "tvN Jeongnyeon IP POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "ジョンニョン IP ポップアップ"
     }
   }
 }

@@ -23,24 +23,53 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/afdbf631-0134-4459-9e5d-ea80cd451b00.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/69ba6659-57b4-4eea-86dc-8f04c50c7689.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/69ba6659-57b4-4eea-86dc-8f04c50c7689.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/products/2e59d85a-c847-4641-b8c1-9f5558c88056",
       "label": "查看详情"
+    },
+    {
+      "href": "https://triple.global/en/tna/products/dd60e3bd-ed94-49ef-bc10-5a56f53114ef?currency=USD",
+      "label": "Book Now"
+    },
+    {
+      "href": "/products/dd60e3bd-ed94-49ef-bc10-5a56f53114ef",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:01.942517"
+    "fetchedAt": "2025-09-19T14:24:01.798040"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019501b0-1d09-7c60-9651-628a4086132b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019501b0-1d09-7c60-9651-628a4086132b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019501b0-1d09-7c60-9651-628a4086132b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 240 World Cup-r﻿o, Mapo-gu,",
+      "title": "Seoul Spring Festa 2025"
+    },
+    "ja": {
+      "address": "Seoul, 240 World Cup-r﻿o, Mapo-gu,",
+      "title": "2025 ソウルスプリングフェスタ"
+    },
     "zh-cn": {
       "address": "Seoul, 240 World Cup-r﻿o, Mapo-gu,",
       "title": "2025首尔春季庆典"

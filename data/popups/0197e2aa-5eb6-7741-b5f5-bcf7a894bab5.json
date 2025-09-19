@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/reel/DLmly-Jt5Vk/?igsh=ejlqejFhZHN5dHY3",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:43.214797"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:19:42.451711"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197e2aa-5eb6-7741-b5f5-bcf7a894bab5",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197e2aa-5eb6-7741-b5f5-bcf7a894bab5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2aa-5eb6-7741-b5f5-bcf7a894bab5"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "GS25 X Don Quijote Pop-up"
+    },
+    "ja": {
+      "address": "Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
+      "title": "GS25 X ドン・キホーテ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
       "title": "GS25 X 唐吉诃德期间快闪店"

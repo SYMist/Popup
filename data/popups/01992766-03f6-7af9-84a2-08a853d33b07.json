@@ -25,22 +25,37 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/hausnowhere/",
       "label": "查看详细"
+    },
+    {
+      "href": "https://www.instagram.com/p/DOPrNSpk8kb/?img_index=1",
+      "label": "See more"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:21.740767"
+    "fetchedAt": "2025-09-19T14:22:17.238087"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01992766-03f6-7af9-84a2-08a853d33b07",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01992766-03f6-7af9-84a2-08a853d33b07",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01992766-03f6-7af9-84a2-08a853d33b07"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 1F, 433, Ttukseom-ro, Seongdong-gu,",
+      "title": "Haus Nowhere Seoul Store OPEN"
+    },
+    "ja": {
+      "address": "Seoul, 1F, 433, Ttukseom-ro, Seongdong-gu,",
+      "title": "HAUS NOWHERE SEOUL オープン"
+    },
     "zh-cn": {
       "address": "Seoul, 1F, 433, Ttukseom-ro, Seongdong-gu,",
       "title": "HAUS NOWHERE SEOUL 开业"

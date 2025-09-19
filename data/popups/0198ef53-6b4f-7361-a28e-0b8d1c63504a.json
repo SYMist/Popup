@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/skz_hbd/status/1957055753463681121?s=46",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:57.977041"
+    "fetchedAt": "2025-09-19T14:26:49.153897"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198ef53-6b4f-7361-a28e-0b8d1c63504a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef53-6b4f-7361-a28e-0b8d1c63504a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef53-6b4f-7361-a28e-0b8d1c63504a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "『Seungmin』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "『スンミン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 7-8 Wausan-ro 29ma-gil, Mapo-gu, ",
       "title": "“昇玟” 生日咖啡厅🎂"

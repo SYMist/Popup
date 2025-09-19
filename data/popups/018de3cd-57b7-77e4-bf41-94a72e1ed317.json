@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://gallerygwanghwa.co.kr/eng/main/main.php",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:33.939488"
+    "fetchedAt": "2025-09-19T14:05:49.736354"
   },
   "pricing": {
     "description": "10,000ウォン",

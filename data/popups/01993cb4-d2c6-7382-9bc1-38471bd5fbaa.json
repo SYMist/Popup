@@ -25,22 +25,37 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DODjbQNCa97/?img_index=1",
       "label": "查看详细"
+    },
+    {
+      "href": "https://www.instagram.com/p/DOGCLTxDYJK/?img_index=1",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:27.043068"
+    "fetchedAt": "2025-09-19T14:22:38.961312"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01993cb4-d2c6-7382-9bc1-38471bd5fbaa",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01993cb4-d2c6-7382-9bc1-38471bd5fbaa",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993cb4-d2c6-7382-9bc1-38471bd5fbaa"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30, Madeul-ro 13-gil, Dobong-gu,",
+      "title": "Seoul Arena Coming Soon in 2027"
+    },
+    "ja": {
+      "address": "Seoul, 30, Madeul-ro 13-gil, Dobong-gu,",
+      "title": "ソウルアリーナが2027年にオープン！"
+    },
     "zh-cn": {
       "address": "Seoul, 30, Madeul-ro 13-gil, Dobong-gu,",
       "title": "首尔竞技场将于2027年开放！"

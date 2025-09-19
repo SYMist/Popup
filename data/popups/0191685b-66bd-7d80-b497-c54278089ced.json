@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/yongdusan_summer/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:14.100200"
+    "fetchedAt": "2025-09-19T14:24:32.247632"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191685b-66bd-7d80-b497-c54278089ced"
+    "enUrl": "https://interparkglobal.com/en/festas/0191685b-66bd-7d80-b497-c54278089ced",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191685b-66bd-7d80-b497-c54278089ced"
   },
   "translations": {
     "en": {
       "address": "Busan, 37-55, Yongdusan-gil, Jung-gu,",
       "title": "2024 Yongdusan Summer Beach"
+    },
+    "ja": {
+      "address": "Busan, 37-55, Yongdusan-gil, Jung-gu,",
+      "title": "2024 龍頭山サマービーチ"
     }
   }
 }

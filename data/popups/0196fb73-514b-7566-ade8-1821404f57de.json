@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJ3OrJOPhS3/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:08.665365"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:05:13.609210"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196fb73-514b-7566-ade8-1821404f57de",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196fb73-514b-7566-ade8-1821404f57de",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196fb73-514b-7566-ade8-1821404f57de"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
+      "title": "i-dle We are POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
+      "title": "i-dle We are POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
       "title": "i-dle \"We are\" 快闪店"

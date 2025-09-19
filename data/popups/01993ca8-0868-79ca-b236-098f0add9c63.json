@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/allday_event/status/1963456146758664655",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:26.585116"
+    "fetchedAt": "2025-09-19T14:22:38.299215"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01993ca8-0868-79ca-b236-098f0add9c63",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01993ca8-0868-79ca-b236-098f0add9c63",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993ca8-0868-79ca-b236-098f0add9c63"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 20 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『Tarzzan』 Birthday Cafe🎂 "
+    },
+    "ja": {
+      "address": "Seoul, 20 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『ターザン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 20 Sinchon-ro 2an-gil, Mapo-gu,",
       "title": "“Tarzzan” 生日咖啡厅🎂"

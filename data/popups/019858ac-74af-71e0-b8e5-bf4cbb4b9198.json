@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://pokemonkorea.co.kr/capsule_station",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:01.581633"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:20:56.070862"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019858ac-74af-71e0-b8e5-bf4cbb4b9198",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019858ac-74af-71e0-b8e5-bf4cbb4b9198",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019858ac-74af-71e0-b8e5-bf4cbb4b9198"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 772, Gaya-daero, Busanjin-gu,",
+      "title": "Pokémon Capsule Station in Busan"
+    },
+    "ja": {
+      "address": "Busan, 772, Gaya-daero, Busanjin-gu,",
+      "title": "ポケモンカプセルステーション in 釜山"
+    },
     "zh-cn": {
       "address": "Busan, 772, Gaya-daero, Busanjin-gu,",
       "title": "宝可梦扭蛋站 in 釜山"

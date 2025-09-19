@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/021O17/status/1836031716282306916",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:32.261260"
+    "fetchedAt": "2025-09-19T14:15:44.421478"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019274ec-3778-795c-b8cf-50f514e62f09"
+    "enUrl": "https://interparkglobal.com/en/festas/019274ec-3778-795c-b8cf-50f514e62f09",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019274ec-3778-795c-b8cf-50f514e62f09"
   },
   "translations": {
     "en": {
       "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
       "title": "『Lily』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 8, Seongmisan-ro 26-gil, Mapo-gu,",
+      "title": "『リリー』 センイルカフェ 🎂"
     }
   }
 }

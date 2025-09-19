@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_PvqlAJGwT/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:22.622977"
+    "fetchedAt": "2025-09-19T14:11:27.489927"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b512-1edd-76c7-9091-529687dde359"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b512-1edd-76c7-9091-529687dde359",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b512-1edd-76c7-9091-529687dde359"
   },
   "translations": {
     "en": {
       "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
       "title": "Hangang River Night View Tour"
+    },
+    "ja": {
+      "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
+      "title": "漢江夜景ツアー"
     }
   }
 }

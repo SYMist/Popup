@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMPlAcVzwHx/?igsh=cW1rcnE4am81em83&img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:53.230054"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:20:24.628619"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019834fa-9251-7952-8b2a-941c434f7cc1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019834fa-9251-7952-8b2a-941c434f7cc1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019834fa-9251-7952-8b2a-941c434f7cc1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "K League X Zootopia POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "Kリーグ X ズートピア ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "K联赛 X 疯狂动物城期间限定"

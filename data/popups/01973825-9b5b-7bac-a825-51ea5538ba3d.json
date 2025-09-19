@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/arms_torong.ok/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:21.185910"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:18:16.822864"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01973825-9b5b-7bac-a825-51ea5538ba3d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01973825-9b5b-7bac-a825-51ea5538ba3d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973825-9b5b-7bac-a825-51ea5538ba3d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 29, Ttukseom-ro 17-gil, Seongdong-gu, ",
+      "title": "Earth Arcade Rice Cake POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 29, Ttukseom-ro 17-gil, Seongdong-gu, ",
+      "title": " 宇宙餅屋 ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 29, Ttukseom-ro 17-gil, Seongdong-gu, ",
       "title": "BiongBiong地球游戏厅快闪店"

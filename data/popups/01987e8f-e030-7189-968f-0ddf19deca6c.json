@@ -17,8 +17,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/10c971dc-4f90-4ee4-ae16-f8a02bc88ee5.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/fed9cb17-1a4e-4545-b7c8-23c425b8f436.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fed9cb17-1a4e-4545-b7c8-23c425b8f436.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f1fc0237-b0e5-44c4-b971-fd30fee3fc89.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f1fc0237-b0e5-44c4-b971-fd30fee3fc89.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://hangang.seoul.go.kr/www/eventMng/detail.do?srchType=list&evntSn=312&mid=538&pageNo=2&keyword=&opt4=&opt11=&opt12=&opt13=&opt14=",
@@ -26,15 +47,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:08.291970"
+    "fetchedAt": "2025-09-19T14:21:22.000096"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01987e8f-e030-7189-968f-0ddf19deca6c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01987e8f-e030-7189-968f-0ddf19deca6c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987e8f-e030-7189-968f-0ddf19deca6c"
   },
   "translations": {
+    "en": {
+      "title": "2025 Hangang River Under-the-Bridge Film Festival"
+    },
+    "ja": {
+      "title": "2025 漢江 橋の下映画祭🍿"
+    },
     "zh-cn": {
       "title": "2025 汉江桥下电影节 🍿"
     }

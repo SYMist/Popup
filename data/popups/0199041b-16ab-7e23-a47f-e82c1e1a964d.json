@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DOAuOrbj_Vt/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:19.226718"
+    "fetchedAt": "2025-09-19T14:22:07.526226"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199041b-16ab-7e23-a47f-e82c1e1a964d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0199041b-16ab-7e23-a47f-e82c1e1a964d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199041b-16ab-7e23-a47f-e82c1e1a964d"
   },
   "translations": {
+    "en": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "SEOUL LIGHT DDP 2025 Autumn"
+    },
+    "ja": {
+      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
+      "title": "ソウルライトDDP 2025 秋"
+    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "首尔之光 DDP 2025 秋季"

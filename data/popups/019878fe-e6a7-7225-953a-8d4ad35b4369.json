@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMw7mxMy4b_/?img_index=1",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:07.721773"
+    "fetchedAt": "2025-09-19T14:21:19.232697"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019878fe-e6a7-7225-953a-8d4ad35b4369",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019878fe-e6a7-7225-953a-8d4ad35b4369",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878fe-e6a7-7225-953a-8d4ad35b4369"
   },
   "translations": {
+    "en": {
+      "address": "Incheon, 271 Gonghang-ro, Jung-gu,",
+      "title": "G-Dragon’s Birthday POP-UP"
+    },
+    "ja": {
+      "address": "Incheon, 271 Gonghang-ro, Jung-gu,",
+      "title": "G-Dragon’s Birthday Pop-up"
+    },
     "zh-cn": {
       "address": "Incheon, 271 Gonghang-ro, Jung-gu,",
       "title": "G-Dragon 生日快闪店"

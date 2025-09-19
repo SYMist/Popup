@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/myhamsbirthday",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:34.071074"
+    "fetchedAt": "2025-09-19T14:11:43.097564"
   },
   "pricing": {
     "type": "FREE"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DOU01FYE52x/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:23.199121"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:22:22.673832"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019927da-0eaf-758b-af8e-8e1f349f96c7",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019927da-0eaf-758b-af8e-8e1f349f96c7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019927da-0eaf-758b-af8e-8e1f349f96c7"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
+      "title": "YUQI 1st Single Album [Motivation] Event"
+    },
+    "ja": {
+      "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
+      "title": "ウギ (YUQI) 1st Single Album [Motivation]発売記念イベント"
+    },
     "zh-cn": {
       "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
       "title": "雨琦（YUQI）首张单曲专辑《Motivation》发行纪念活动"

@@ -19,6 +19,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.megabox.co.kr/event/detail?eventNo=18360",
@@ -26,15 +27,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:03.582456"
+    "fetchedAt": "2025-09-19T14:20:59.495117"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019860e5-b869-7610-8f7e-795b8165724a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019860e5-b869-7610-8f7e-795b8165724a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019860e5-b869-7610-8f7e-795b8165724a"
   },
   "translations": {
+    "en": {
+      "title": "BTS ARMY: FOREVER WE ARE YOUNG Merch"
+    },
+    "ja": {
+      "title": "BTS  ボラヘエディション発売"
+    },
     "zh-cn": {
       "title": "BTS 紫爱你版本上市"
     }

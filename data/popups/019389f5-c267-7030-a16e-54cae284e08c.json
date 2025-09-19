@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DC5VZ9hTA8v/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:59.054115"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:37.015126"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019389f5-c267-7030-a16e-54cae284e08c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019389f5-c267-7030-a16e-54cae284e08c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019389f5-c267-7030-a16e-54cae284e08c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu, ",
+      "title": "BLACKPINK Jennie X Nudake POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu, ",
+      "title": "Nudake❤️Jennie ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 50, Apgujeong-ro 46-gil, Gangnam-gu, ",
       "title": "Nudake X BLACK PINK的Jennie 快闪店🍰"

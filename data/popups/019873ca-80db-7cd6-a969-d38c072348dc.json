@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://weverse.io/exo/notice/28900",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:05.760881"
+    "fetchedAt": "2025-09-19T14:21:14.476543"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019873ca-80db-7cd6-a969-d38c072348dc",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019873ca-80db-7cd6-a969-d38c072348dc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019873ca-80db-7cd6-a969-d38c072348dc"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
+      "title": "2025 KAI SOLO CONCERT TOUR"
+    },
+    "ja": {
+      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
+      "title": "2025 KAI ソロコンサートツアー"
+    },
     "zh-cn": {
       "address": "Seoul, 241, Dongho-ro, Jung-gu,",
       "title": "2025 KAI 个人演唱会巡演"

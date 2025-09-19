@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/reel/C_ZZzXwyulv/?igsh=MWlydTB0bmh6a2R2eA%3D%3D",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:21.955095"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:26.329951"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b00d-0545-7321-bcf2-304e75df0317"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b00d-0545-7321-bcf2-304e75df0317",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b00d-0545-7321-bcf2-304e75df0317"
   },
   "translations": {
     "en": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
       "title": "Bono Bono Character POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
+      "title": "ぼのぼの、貝を探してね🐚"
     }
   }
 }

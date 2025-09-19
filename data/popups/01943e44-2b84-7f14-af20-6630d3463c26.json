@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DEd3IkdTUHI/",
@@ -36,16 +37,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:51.276041"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:26:25.258359"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01943e44-2b84-7f14-af20-6630d3463c26",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01943e44-2b84-7f14-af20-6630d3463c26",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01943e44-2b84-7f14-af20-6630d3463c26"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "TITAD, EUCERIN, DASIQUE POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "TITAD・ユーセリン・デイジーク ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
       "priceDesc": "null",

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Hyes_Game_Nexus/status/1902736922793148580",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:07.160849"
+    "fetchedAt": "2025-09-19T14:24:25.460078"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195d0d4-b0bd-756d-ac2e-496a1e5b055a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195d0d4-b0bd-756d-ac2e-496a1e5b055a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0d4-b0bd-756d-ac2e-496a1e5b055a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, No.202, 1F, 7, Wausan-ro 29na-gil, Mapo-gu, ",
+      "title": "『Hyein』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, No.202, 1F, 7, Wausan-ro 29ma-gil, Mapo-gu, ",
+      "title": "『ヘイン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, No.202, 1F, 7, Wausan-ro 29ma-gil, Mapo-gu, ",
       "title": "\"惠仁\" 生日咖啡厅🎂"

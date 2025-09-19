@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/2024_nct_hbd/status/1814574967390155109",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:32.792485"
+    "fetchedAt": "2025-09-19T14:09:54.516204"
   },
   "pricing": {
     "type": "FREE"

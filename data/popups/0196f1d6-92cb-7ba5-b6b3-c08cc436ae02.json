@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJqkEBBCnGE/?img_index=3",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:48.829543"
+    "fetchedAt": "2025-09-19T14:16:41.205543"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196f1d6-92cb-7ba5-b6b3-c08cc436ae02",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196f1d6-92cb-7ba5-b6b3-c08cc436ae02",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f1d6-92cb-7ba5-b6b3-c08cc436ae02"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 1 Cheongwadae-ro, Jongno-gu,",
+      "title": "Cheong Wa Dae Weekend Regular Performances"
+    },
+    "ja": {
+      "address": "Seoul, 1 Cheongwadae-ro, Jongno-gu,",
+      "title": "青瓦台 週末常設公演"
+    },
     "zh-cn": {
       "address": "Seoul, 1 Cheongwadae-ro, Jongno-gu,",
       "title": "青瓦台周末常设演出"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/reverdream1205/status/1851222066495963433",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:31.153501"
+    "fetchedAt": "2025-09-19T14:25:24.698344"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01934d69-6bfe-7a25-aa24-03b9b6a9847e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01934d69-6bfe-7a25-aa24-03b9b6a9847e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934d69-6bfe-7a25-aa24-03b9b6a9847e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11-48, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『Soobin』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 11-48, Hangang-daero 10-gil, Yongsan-gu, ",
+      "title": "『スビン』 センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 11-48, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“秀彬” 生日咖啡厅 🎂"

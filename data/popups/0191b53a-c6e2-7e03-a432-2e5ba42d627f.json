@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://hueree.com/pages.php?p=4_3_1_1",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:27.567464"
+    "fetchedAt": "2025-09-19T14:11:38.867072"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b53a-c6e2-7e03-a432-2e5ba42d627f"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b53a-c6e2-7e03-a432-2e5ba42d627f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b53a-c6e2-7e03-a432-2e5ba42d627f"
   },
   "translations": {
     "en": {
       "address": "Seogwipo-si, Jeju-do,  256, Sillyedong-ro, Namwon-eup,",
       "title": "Hueree Pink Muhly Festival"
+    },
+    "ja": {
+      "address": "Seogwipo-si, Jeju-do,  256, Sillyedong-ro, Namwon-eup,",
+      "title": "済州ヒュエリ ピンクミューリー祭り"
     }
   }
 }

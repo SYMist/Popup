@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/ja/product/24011642",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:35.009581"
+    "fetchedAt": "2025-09-19T14:13:40.277903"
   },
   "pricing": {
     "description": "スタンディング R 132,000ウォン、スタンディング S 121,000ウォン",

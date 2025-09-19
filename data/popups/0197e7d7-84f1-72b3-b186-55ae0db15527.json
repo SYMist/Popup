@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/JeongEunJi_X/status/1942152837238231257",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:46.069780"
+    "fetchedAt": "2025-09-19T14:19:54.453683"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197e7d7-84f1-72b3-b186-55ae0db15527",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197e7d7-84f1-72b3-b186-55ae0db15527",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e7d7-84f1-72b3-b186-55ae0db15527"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
+      "title": "2025 JEONG EUNJI Birthday Party"
+    },
+    "ja": {
+      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
+      "title": "2025 JEONG EUNJI Birthday Party"
+    },
     "zh-cn": {
       "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
       "title": "2025 郑恩地生日派对"

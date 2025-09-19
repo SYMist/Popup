@@ -25,25 +25,35 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.nfm.go.kr/user/planexhibition/home/20/selectPlanExhibitionNView.do?planExhibitionIdx=1431&page=1#",
       "label": "\bSee more"
+    },
+    {
+      "href": "https://www.nfm.go.kr/user/bbs/japanese/20/549/bbsDataView/24805.do?page=1",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:00.269170"
+    "fetchedAt": "2025-09-19T14:17:11.093635"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01919b50-528c-7f56-9e47-17343e67bdf1"
+    "enUrl": "https://interparkglobal.com/en/festas/01919b50-528c-7f56-9e47-17343e67bdf1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01919b50-528c-7f56-9e47-17343e67bdf1"
   },
   "translations": {
     "en": {
       "address": "Seoul, 37, Samcheong-ro, Jongno-gu,",
       "title": "Today's Coffee"
+    },
+    "ja": {
+      "address": "Seoul, 37, Samcheong-ro, Jongno-gu,",
+      "title": "今時のコーヒー"
     }
   }
 }

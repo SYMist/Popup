@@ -23,8 +23,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cf71864a-bdc2-4161-bdaa-4cbe0612c776.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9974cb2f-8c34-4f5a-8507-499ca513df68.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/9974cb2f-8c34-4f5a-8507-499ca513df68.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f21e6bd4-1585-4d06-9faf-ab30f0064720.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f21e6bd4-1585-4d06-9faf-ab30f0064720.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/cube_nowadays/p/DHpYz-Du5wr/?img_index=1",
@@ -32,15 +53,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:05.604300"
+    "fetchedAt": "2025-09-19T14:04:57.891766"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195d0fa-f116-7849-8963-724f19930e89",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195d0fa-f116-7849-8963-724f19930e89",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0fa-f116-7849-8963-724f19930e89"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu, ",
+      "title": "NOWADAYS 1st Anniversary Special Cafe"
+    },
+    "ja": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu, ",
+      "title": "NOWADAYS 1周年記念スペシャルカフェ"
+    },
     "zh-cn": {
       "address": "Seoul, 83, Achasan-ro, Seongdong-gu, ",
       "title": "NOWADAYS一周年咖啡厅特别活动"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/CherryCoupsMart/status/1810958639496335772",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:32.524434"
+    "fetchedAt": "2025-09-19T14:09:53.054110"
   },
   "pricing": {
     "type": "FREE"

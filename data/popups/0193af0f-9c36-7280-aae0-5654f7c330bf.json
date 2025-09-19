@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCY3RoUJd65/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:40.677090"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:11.813368"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193af0f-9c36-7280-aae0-5654f7c330bf",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193af0f-9c36-7280-aae0-5654f7c330bf",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af0f-9c36-7280-aae0-5654f7c330bf"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu, ",
+      "title": "NOBIGDEAL POP-UP STORE"
+    },
+    "ja": {
+      "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu, ",
+      "title": "NOBIGDEAL ポップアップストア"
+    },
     "zh-cn": {
       "address": "Seoul, 11, Yeonmujang 15-gil, Seongdong-gu, ",
       "priceDesc": "null",

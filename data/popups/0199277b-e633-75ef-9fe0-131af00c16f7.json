@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DONvl8pEu-F/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:22.602094"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:22:21.114583"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199277b-e633-75ef-9fe0-131af00c16f7",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0199277b-e633-75ef-9fe0-131af00c16f7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199277b-e633-75ef-9fe0-131af00c16f7"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Häagen-Dazs Stick Bar POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
+      "title": "ハーゲンダッツ スティックバー ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 98, Yeonmujang-gil, Seongdong-gu,",
       "title": "哈根達斯冰棒快閃店"

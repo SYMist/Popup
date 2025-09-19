@@ -25,22 +25,41 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://linefriendssquare.com/blogs/event/whdosvmfpswm?utm_source=owned_SNS_STIG&utm_medium=ZONFRIENDS_ST_IG_GL_Popup&utm_campaign=ZONFRIENDS_1st_POPUP&utm_id=EVENT",
       "label": "查看详细"
+    },
+    {
+      "href": "https://linefriendssquare.com/blogs/event/whdosvmfpswm?utm_source=owned_SNS_STIG&utm_me[…]IG_GL_Popup&utm_campaign=ZONFRIENDS_1st_POPUP&utm_id=EVENT",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:54.600299"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:20:27.519816"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01983b63-65ab-7d54-a5c8-8f7588d3e58b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01983b63-65ab-7d54-a5c8-8f7588d3e58b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01983b63-65ab-7d54-a5c8-8f7588d3e58b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
+      "title": "G-dragon ZO&FRIENDS POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
+      "title": "G-DRAGON🤍ZO&FRIENDS ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
       "title": "GD 形象角色周边商品快闪店"

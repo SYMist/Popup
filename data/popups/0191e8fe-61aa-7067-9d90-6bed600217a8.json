@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_t7llkzx6A/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:53.124290"
+    "fetchedAt": "2025-09-19T14:12:24.071202"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e8fe-61aa-7067-9d90-6bed600217a8"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e8fe-61aa-7067-9d90-6bed600217a8",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e8fe-61aa-7067-9d90-6bed600217a8"
   },
   "translations": {
     "en": {
       "address": "Seoul, 8-15, Seoul Forest 2-gil, Seongdong-gu,",
       "title": "2024 Seoul Philharmonic Park Concert"
+    },
+    "ja": {
+      "address": "Seoul, 8-15, Seoul Forest 2-gil, Seongdong-gu,",
+      "title": "2024ソウル市立交響楽団パークコンサート"
     }
   }
 }

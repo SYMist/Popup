@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/04729b70-f032-45bd-a8c7-2fa6b61ac9e7.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/908d483d-3390-4b30-99fc-79b4ffa83665.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/908d483d-3390-4b30-99fc-79b4ffa83665.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/ddori_cute/status/1849348988518199635",
@@ -36,18 +47,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:25.559978"
+    "fetchedAt": "2025-09-19T14:13:24.991599"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931902-143f-722e-8dd1-05166b073f28"
+    "enUrl": "https://interparkglobal.com/en/festas/01931902-143f-722e-8dd1-05166b073f28",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01931902-143f-722e-8dd1-05166b073f28"
   },
   "translations": {
     "en": {
       "address": "Seoul, 5-18, Sinchon-ro 4-gil, Mapo-gu,",
       "title": "RIIZE SOHEE Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 5-18, Sinchon-ro 4-gil, Mapo-gu,",
+      "title": "『ソヒ』 センイルカフェ 🎂"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://tasteofseoul.visitseoul.net/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:25.848750"
+    "fetchedAt": "2025-09-19T14:15:32.169243"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125"
+    "enUrl": "https://interparkglobal.com/en/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125"
   },
   "translations": {
     "en": {
       "address": "Seoul, 445,  Yangnyeong-ro, Yongsan-gu,",
       "title": "Taste of Seoul 2024"
+    },
+    "ja": {
+      "address": "Seoul, 445,  Yangnyeong-ro, Yongsan-gu,",
+      "title": "2024 ソウル美食週間"
     }
   }
 }

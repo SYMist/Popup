@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMcgI0VJWmg/?hl=ko",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:55.773374"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:20:31.480395"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198403c-9fa7-716c-9a01-91d2c2d34863",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198403c-9fa7-716c-9a01-91d2c2d34863",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198403c-9fa7-716c-9a01-91d2c2d34863"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "FC Seoul VS FC Barcelona POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
+      "title": "FCソウル vs FCバルセロナ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
       "title": "FC首尔 vs FC巴塞罗那 快闪店"

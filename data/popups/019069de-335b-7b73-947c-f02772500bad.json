@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C6IimeNhwgB/?img_index=1",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:09.157430"
+    "fetchedAt": "2025-09-19T14:09:30.574003"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019069de-335b-7b73-947c-f02772500bad"
+    "enUrl": "https://interparkglobal.com/en/festas/019069de-335b-7b73-947c-f02772500bad",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019069de-335b-7b73-947c-f02772500bad"
   },
   "translations": {
     "en": {
       "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
       "title": "Outdoor Movie Theater in Busan"
+    },
+    "ja": {
+      "address": "Busan, 120, Suyeonggangbyeon-daero, Haeundae-gu,",
+      "title": "釜山（プサン）野外上映会"
     }
   }
 }

@@ -24,6 +24,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/getallright.haeundae",
@@ -31,16 +32,22 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:35.127507"
+    "fetchedAt": "2025-09-19T14:05:57.329897"
   },
   "pricing": {
     "description": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
     "type": "PAID"
   },
   "source": {
+    "jaUrl": "https://interparkglobal.com/ja/festas/018e1d38-2a29-7cd5-b1ed-49abe7586046",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018e1d38-2a29-7cd5-b1ed-49abe7586046"
   },
   "translations": {
+    "ja": {
+      "address": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, ",
+      "priceDesc": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
+      "title": "Get All Right ジャズバー"
+    },
     "zh-cn": {
       "address": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, ",
       "priceDesc": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",

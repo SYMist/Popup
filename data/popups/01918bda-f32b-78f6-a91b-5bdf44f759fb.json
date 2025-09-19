@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.aniplustv.com/storeCollaboCafe?i=79",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:37.958618"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:25:32.288453"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb"
+    "enUrl": "https://interparkglobal.com/en/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb"
   },
   "translations": {
     "en": {
       "address": "Seoul, 14, World Cup-ro 3-gil, Mapo-gu,",
       "title": "Level Up Alone: ARISE Collaboration Café"
+    },
+    "ja": {
+      "address": "Seoul, 14, World Cup-ro 3-gil, Mapo-gu,",
+      "title": "俺だけレベルアップな件：ARISE"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://festival.seoul.go.kr/hangang",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:33.460483"
+    "fetchedAt": "2025-09-19T14:13:48.431008"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192644e-bf23-7f79-93a8-7e7c929d7b2a"
+    "enUrl": "https://interparkglobal.com/en/festas/0192644e-bf23-7f79-93a8-7e7c929d7b2a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192644e-bf23-7f79-93a8-7e7c929d7b2a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
       "title": "2024 Han River Fall Festival"
+    },
+    "ja": {
+      "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
+      "title": "2024 漢江フェスティバル 秋🍁"
     }
   }
 }

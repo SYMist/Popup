@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002502380661&category=event&page=1&branchCd=B00140000",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:47.146096"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:32.639766"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019535f7-d288-7c24-a3cf-a202b87d948b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019535f7-d288-7c24-a3cf-a202b87d948b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019535f7-d288-7c24-a3cf-a202b87d948b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "ZEROBASEONE 'BLUE PARADIS' POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "ZEROBASEONE ＜BLUE PARADIS＞ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "priceDesc": "null",

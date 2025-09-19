@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/ja/product/24017510",
@@ -32,16 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:16.089692"
+    "fetchedAt": "2025-09-19T14:17:58.774899"
   },
   "pricing": {
     "description": "154,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193943e-0a8a-778f-bee5-e8ab197c5bc3",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193943e-0a8a-778f-bee5-e8ab197c5bc3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193943e-0a8a-778f-bee5-e8ab197c5bc3"
   },
   "translations": {
+    "en": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "154,000 KRW",
+      "title": "2PM Lee Jun Ho Concert: Midnight Sun"
+    },
+    "ja": {
+      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
+      "priceDesc": "154,000ウォン",
+      "title": "2PM ジュノ ファンコンサート"
+    },
     "zh-cn": {
       "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
       "priceDesc": "154,000韩元",

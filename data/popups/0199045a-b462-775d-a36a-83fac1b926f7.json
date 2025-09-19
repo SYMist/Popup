@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DOClclMEnZx/?img_index=5",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:21.084193"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:22:13.595190"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199045a-b462-775d-a36a-83fac1b926f7",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0199045a-b462-775d-a36a-83fac1b926f7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199045a-b462-775d-a36a-83fac1b926f7"
   },
   "translations": {
+    "en": {
+      "address": " Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "MEDICUBE Age-R x My Melody POP-UP"
+    },
+    "ja": {
+      "address": " Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
+      "title": "Medicube エイジアル×マイメロディ ポップアップ"
+    },
     "zh-cn": {
       "address": " Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
       "title": "medicube × My Melody快闪店"

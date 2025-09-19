@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://motorstudio.hyundai.com/seoul/cotn/exhb/oneStepFurther.do?strgCd=02&subPrenMenuId=HPSSIC02",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:23.416888"
+    "fetchedAt": "2025-09-19T14:24:52.673771"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01928e0a-149b-71a0-a207-df811555cdf9"
+    "enUrl": "https://interparkglobal.com/en/festas/01928e0a-149b-71a0-a207-df811555cdf9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01928e0a-149b-71a0-a207-df811555cdf9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 738, Eonju-ro, Gangnam-gu,",
       "title": "One step further 다시, 첫걸음 (A New Start)"
+    },
+    "ja": {
+      "address": "Seoul, 738, Eonju-ro, Gangnam-gu,",
+      "title": "One step further : Again, the First Step"
     }
   }
 }

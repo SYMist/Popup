@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_fNqf5Ss2W/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:54.081008"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:12:24.029786"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e921-0844-77d0-83e8-2e652de96964"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e921-0844-77d0-83e8-2e652de96964",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e921-0844-77d0-83e8-2e652de96964"
   },
   "translations": {
     "en": {
       "address": "Seoul, 14-12, Seoul Forest 2-gil, Seongdong-gu,",
       "title": "H.B.D KOREA POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 14-12, Seoul Forest 2-gil, Seongdong-gu,",
+      "title": "H.B.D KOREA ポップアップ"
     }
   }
 }

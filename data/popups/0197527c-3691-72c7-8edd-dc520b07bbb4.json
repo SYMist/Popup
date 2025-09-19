@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/moohuaz",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:25.639094"
+    "fetchedAt": "2025-09-19T14:18:33.312334"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197527c-3691-72c7-8edd-dc520b07bbb4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197527c-3691-72c7-8edd-dc520b07bbb4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197527c-3691-72c7-8edd-dc520b07bbb4"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 176 Yanghwa-ro, Mapo-gu,",
+      "title": "『Zhang Hao』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 176 Yanghwa-ro, Mapo-gu,",
+      "title": "『ジャン・ハオ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 176 Yanghwa-ro, Mapo-gu,",
       "title": "“章昊” 生日咖啡厅🎂"

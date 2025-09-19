@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://countdownbusan.co.kr/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:59.344346"
+    "fetchedAt": "2025-09-19T14:24:01.120046"
   },
   "pricing": {
     "description": "null",
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
+      "title": "2025 COUNTDOWN BUSAN"
+    },
+    "ja": {
+      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
+      "title": "2025 カウントダウン 釜山 🎉"
+    },
     "zh-cn": {
       "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
       "priceDesc": "null",

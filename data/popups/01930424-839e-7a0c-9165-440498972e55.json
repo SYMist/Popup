@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DBz6tB_syKH/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:24.723910"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:21.166974"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01930424-839e-7a0c-9165-440498972e55"
+    "enUrl": "https://interparkglobal.com/en/festas/01930424-839e-7a0c-9165-440498972e55",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01930424-839e-7a0c-9165-440498972e55"
   },
   "translations": {
     "en": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
       "title": "ZEROID X Olive Young POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
+      "title": "ZEROID ポップアップ"
     }
   }
 }

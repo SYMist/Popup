@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://seoulland.co.kr/eng/?p=8_view&idx=3924",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:58.304649"
+    "fetchedAt": "2025-09-19T14:07:44.527583"
   },
   "pricing": {
     "description": "Oneday Pass : 大人 49,000ウォン / 中高生 46,000ウォン / お子様 43,000ウォン、夜間券 (午後4時以降) : 大人 42,000ウォン / 中高生 38,000ウォン / お子様 36,000ウォン",

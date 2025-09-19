@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://socc.or.kr/bbs/board.php?bo_table=sub04_0208&wr_id=14",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:04.733992"
+    "fetchedAt": "2025-09-19T14:04:57.314041"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
+      "title": "Yangjaecheon Stream Cherry Blossom Lantern Festival"
+    },
+    "ja": {
+      "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
+      "title": "良才川桜灯祭り"
+    },
     "zh-cn": {
       "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
       "title": "良才川樱花灯会"

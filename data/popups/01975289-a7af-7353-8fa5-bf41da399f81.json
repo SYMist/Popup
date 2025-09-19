@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/TAERAE_BAY",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:26.098187"
+    "fetchedAt": "2025-09-19T14:18:34.862063"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01975289-a7af-7353-8fa5-bf41da399f81",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01975289-a7af-7353-8fa5-bf41da399f81",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01975289-a7af-7353-8fa5-bf41da399f81"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 19 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『Kim Tae Rae』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 19 Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『キム・テレ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 19 Wausan-ro 29ra-gil, Mapo-gu,",
       "title": "“金太來”生日咖啡厅🎂"

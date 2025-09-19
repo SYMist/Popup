@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7c1f787d-a24e-4657-b5a9-1261ca048dde.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/c212f678-2c0a-4a72-a2b3-5c802c7b31c9.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/c212f678-2c0a-4a72-a2b3-5c802c7b31c9.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Jyum_J/status/1901619563193852346",
@@ -33,18 +44,32 @@
     {
       "href": "https://x.com/_silverlining23/status/1906301667211116571",
       "label": "Bunny's carnival"
+    },
+    {
+      "href": "https://x.com/_silverlining23/status/1906301667211116571/photo/2",
+      "label": "Bunny's carnival"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:06.648055"
+    "fetchedAt": "2025-09-19T14:24:23.791466"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195d0ad-e3fc-7e37-8549-bfc192a1c0b9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195d0ad-e3fc-7e37-8549-bfc192a1c0b9",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0ad-e3fc-7e37-8549-bfc192a1c0b9"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 9-7, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『Jeno』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 9-7, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "『ジェノ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 9-7, Wausan-ro 35-gil, Mapo-gu, ",
       "title": "\"Jeno\"生日咖啡厅🎂"

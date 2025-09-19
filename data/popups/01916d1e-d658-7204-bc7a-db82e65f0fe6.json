@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2b9b9a76-5610-42d7-81f9-9d69bb6ddc3b.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6af0491e-5f26-443e-9504-ed2f30461f06.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6af0491e-5f26-443e-9504-ed2f30461f06.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/starry_night_busan.kr",
@@ -32,18 +43,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:11.075940"
+    "fetchedAt": "2025-09-19T14:11:03.606515"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916d1e-d658-7204-bc7a-db82e65f0fe6"
+    "enUrl": "https://interparkglobal.com/en/festas/01916d1e-d658-7204-bc7a-db82e65f0fe6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916d1e-d658-7204-bc7a-db82e65f0fe6"
   },
   "translations": {
     "en": {
       "address": "Busan, 14, Morundae 1-gil, Saha-gu,",
       "title": "2024 Starry Night Busan Festa"
+    },
+    "ja": {
+      "address": "Busan, 14, Morundae 1-gil, Saha-gu,",
+      "title": "星の海釜山ナイトフェスタ"
     }
   }
 }

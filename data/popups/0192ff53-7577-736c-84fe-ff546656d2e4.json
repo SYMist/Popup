@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://m.sound-wave.co.kr/article/event-notice/1/64352/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:25.699864"
+    "fetchedAt": "2025-09-19T14:15:31.682099"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192ff53-7577-736c-84fe-ff546656d2e4"
+    "enUrl": "https://interparkglobal.com/en/festas/0192ff53-7577-736c-84fe-ff546656d2e4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192ff53-7577-736c-84fe-ff546656d2e4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "TOMORROW X TOGETHER Pop-Up"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "The Star Chapter : SANCTUARY"
     }
   }
 }

@@ -8,7 +8,10 @@
     "end": "2024-09-12",
     "start": "2024-08-23"
   },
-  "geo": {},
+  "geo": {
+    "lat": 37.55780815967681,
+    "lon": 126.92638557797241
+  },
   "id": "01917771-ec33-7430-86ab-a6342aa47d1e",
   "images": [
     {
@@ -20,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a14b6beb-c63f-421e-820b-307b57ed44dd.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d2794c1c-8058-45a0-854e-fb882bf15bee.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d2794c1c-8058-45a0-854e-fb882bf15bee.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C-_kOW1iIwK/?img_index=1",
@@ -29,18 +43,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:57.945548"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:10:44.453706"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01917771-ec33-7430-86ab-a6342aa47d1e"
+    "enUrl": "https://interparkglobal.com/en/festas/01917771-ec33-7430-86ab-a6342aa47d1e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01917771-ec33-7430-86ab-a6342aa47d1e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
       "title": "I'm Solo POP UP"
+    },
+    "ja": {
+      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
+      "title": "「私はSOLO」 POP-UP"
     }
   }
 }

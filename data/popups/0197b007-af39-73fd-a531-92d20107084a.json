@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Planet_ZB1_",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:31.596344"
+    "fetchedAt": "2025-09-19T14:18:57.400070"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197b007-af39-73fd-a531-92d20107084a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197b007-af39-73fd-a531-92d20107084a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197b007-af39-73fd-a531-92d20107084a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 136-24 Eoulmadang-ro, Mapo-gu,",
+      "title": "『ZEROBASEONE』 Debut Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 136-24 Eoulmadang-ro, Mapo-gu,",
+      "title": "『ZEROBASEONE』デビューカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 136-24 Eoulmadang-ro, Mapo-gu,",
       "title": "“ZEROBASEONE” 出道咖啡厅🎂"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/luckysalon_10",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:56.553736"
+    "fetchedAt": "2025-09-19T14:10:40.998520"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916962-029d-77c1-9442-611851a95617"
+    "enUrl": "https://interparkglobal.com/en/festas/01916962-029d-77c1-9442-611851a95617",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916962-029d-77c1-9442-611851a95617"
   },
   "translations": {
     "en": {
       "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
       "title": "『WONYOUNG』 Birthday Cafe"
+    },
+    "ja": {
+      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
+      "title": "『チャン・ウォニョン』 センイルカフェ 🎂"
     }
   }
 }

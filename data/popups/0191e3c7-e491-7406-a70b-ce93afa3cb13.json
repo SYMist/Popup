@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/withu_0923",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:55.181120"
+    "fetchedAt": "2025-09-19T14:23:44.562928"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e3c7-e491-7406-a70b-ce93afa3cb13"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3c7-e491-7406-a70b-ce93afa3cb13",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191e3c7-e491-7406-a70b-ce93afa3cb13"
   },
   "translations": {
     "en": {
       "address": " Seoul,  148, Wausan-ro, Mapo-gu,",
       "title": "『YUQI』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": " Seoul,  148, Wausan-ro, Mapo-gu,",
+      "title": "『ウギ』 センイルカフェ 🎂"
     }
   }
 }

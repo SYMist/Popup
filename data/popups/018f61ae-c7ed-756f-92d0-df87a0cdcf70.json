@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.jeju.go.kr/mokkwana/night/performance.htm",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:49.681701"
+    "fetchedAt": "2025-09-19T14:09:01.080325"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018f61ae-c7ed-756f-92d0-df87a0cdcf70"
+    "enUrl": "https://interparkglobal.com/en/festas/018f61ae-c7ed-756f-92d0-df87a0cdcf70",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018f61ae-c7ed-756f-92d0-df87a0cdcf70"
   },
   "translations": {
     "en": {
       "address": "Jeju-do, 13, Gwandeok-ro 7-gil, Jeju-si, ",
       "title": "Jeju Mokgwana Night Opening"
+    },
+    "ja": {
+      "address": "Jeju-do, 13, Gwandeok-ro 7-gil, Jeju-si, ",
+      "title": "済州牧官衙の夜間オープン"
     }
   }
 }

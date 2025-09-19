@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://weverse.io/bts/notice/23498?hl=ko",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:15.072371"
+    "fetchedAt": "2025-09-19T14:17:46.437294"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019328df-ee8d-789b-9d61-28c3159ebf48"
+    "enUrl": "https://interparkglobal.com/en/festas/019328df-ee8d-789b-9d61-28c3159ebf48",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019328df-ee8d-789b-9d61-28c3159ebf48"
   },
   "translations": {
     "en": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "BTS Jin: Merry Run Around Event"
+    },
+    "ja": {
+      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
+      "title": "Merry Run Around"
     }
   }
 }

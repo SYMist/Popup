@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/d_halfmooni/status/1955567149738811652?s=46&t=sxkvPnErj4cFfA_7tSOjaw",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:56.087618"
+    "fetchedAt": "2025-09-19T14:26:44.798581"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198ef37-8fd7-7c2c-bedc-1d61ed43b111",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef37-8fd7-7c2c-bedc-1d61ed43b111",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef37-8fd7-7c2c-bedc-1d61ed43b111"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu, ",
+      "title": "『Junkyu』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu, ",
+      "title": "『ジュンギュ』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 86, Yanghwa-ro 6-gil, Mapo-gu, ",
       "title": "“俊奎” 生日咖啡厅🎂"

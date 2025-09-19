@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://tickets.interpark.com/goods/24013018",
@@ -32,15 +33,20 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:30.085580"
+    "fetchedAt": "2025-09-19T14:25:21.429639"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191e912-6547-70c2-af98-9453ee8c625e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191e912-6547-70c2-af98-9453ee8c625e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 2406, Nambu Circulation-ro, Seocho-gu,",
+      "title": "Vincent van Gogh: The Immortal Painter"
+    },
     "zh-cn": {
       "address": "Seoul, 2406, Nambu Circulation-ro, Seocho-gu,",
       "title": "文森特·梵高：不朽的画家"

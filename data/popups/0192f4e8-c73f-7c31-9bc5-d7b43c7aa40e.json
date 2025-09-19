@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/53b13af6-823b-4417-8edf-2c8bd28eb165.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/5426cd78-578f-45fd-89b6-6eb85435e67d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5426cd78-578f-45fd-89b6-6eb85435e67d.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/momo_shine_1109/status/1848365846370103424",
@@ -36,18 +47,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:23.895944"
+    "fetchedAt": "2025-09-19T14:15:27.929158"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192f4e8-c73f-7c31-9bc5-d7b43c7aa40e"
+    "enUrl": "https://interparkglobal.com/en/festas/0192f4e8-c73f-7c31-9bc5-d7b43c7aa40e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192f4e8-c73f-7c31-9bc5-d7b43c7aa40e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu,",
       "title": "『MOMO』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu,",
+      "title": "『モモ』 センイルカフェ 🎂"
     }
   }
 }

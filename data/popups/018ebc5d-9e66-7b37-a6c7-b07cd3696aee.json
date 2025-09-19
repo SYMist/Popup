@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://www.llf.or.kr/jpn/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:29.190428"
+    "fetchedAt": "2025-09-19T14:08:26.152582"
   },
   "pricing": {
     "type": "FREE"

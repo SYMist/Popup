@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DACuk20PR80/",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:39.913752"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:51.408429"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926a9c-5cdb-7849-b377-95bf949def6a"
+    "enUrl": "https://interparkglobal.com/en/festas/01926a9c-5cdb-7849-b377-95bf949def6a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01926a9c-5cdb-7849-b377-95bf949def6a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu, ",
       "title": "SpongeBob Camping Day"
+    },
+    "ja": {
+      "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu, ",
+      "title": "スポンジボブ キャンプデイ"
     }
   }
 }

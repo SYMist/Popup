@@ -22,6 +22,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://waiting.booking.naver.com/?theme=map-pc&waitingId=release-1361724-6573196&businessId=1361724&bizItemId=6573196&title=JISOO%20AMORTAGE%20POP-UP%20STORE&startDateTime=2025-03-10T03:00:00Z&pcImageUrl=https://naverbooking-phinf.pstatic.net/20250306_101/1741255703974nLrrj_PNG/%C1%F6%BC%F6%C6%CB%BE%F7_%BF%B9%BE%E0%BA%A3%B3%CA.png&mobileImageUrl=https://naverbooking-phinf.pstatic.net/20250306_101/1741255703974nLrrj_PNG/%C1%F6%BC%F6%C6%CB%BE%F7_%BF%B9%BE%E0%BA%A3%B3%CA.png&desc1=&desc2=&bookingTerm=%EC%98%88%EB%A7%A4&isSeatUsed=false&cssRgbColor=null&bookingUrl=https://m.booking.naver.com/booking/12/bizes/1361724%3Farea%3Dplt%26lang%3Dko%26map-search%3D1%26service-target%3Dmap-pc%26startDateTime%3D2025-03-10T00%253A00%253A00%252B09%253A00%26theme%3Dplace",
@@ -29,15 +30,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:54.139208"
+    "fetchedAt": "2025-09-19T14:04:12.888216"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01958ddd-919e-76ac-ace6-87b960e92507",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01958ddd-919e-76ac-ace6-87b960e92507",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01958ddd-919e-76ac-ace6-87b960e92507"
   },
   "translations": {
+    "en": {
+      "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, Seoul",
+      "title": "BLACKPINK JISOO AMORTAGE POP-UP"
+    },
+    "ja": {
+      "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, ",
+      "title": "JISOO AMORTAGE POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, ",
       "title": "JISOO AMORTAGE 快闪店"

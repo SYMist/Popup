@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMHa1NxBoS5/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:10.024593"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:21:30.936069"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01987eb9-87f0-7c69-85b8-162aa9c48922",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01987eb9-87f0-7c69-85b8-162aa9c48922",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987eb9-87f0-7c69-85b8-162aa9c48922"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 264, Eulji-ro, Jung-gu,",
+      "title": "Disney X KBO Collab Merch ⚾️"
+    },
+    "ja": {
+      "address": "Seoul, 264, Eulji-ro, Jung-gu,",
+      "title": "KBO x ディズニー コラボ グッズ⚾️"
+    },
     "zh-cn": {
       "address": "Seoul, 264, Eulji-ro, Jung-gu,",
       "title": "KBO x 迪士尼合作周边 ⚾️"

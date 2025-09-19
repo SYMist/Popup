@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/wonderlivet/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:13.790482"
+    "fetchedAt": "2025-09-19T14:17:31.816472"
   },
   "pricing": {
     "type": "PAID"

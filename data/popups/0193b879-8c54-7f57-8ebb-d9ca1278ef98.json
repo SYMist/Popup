@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DDWMWnuzrv5/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:43.091673"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:16:19.287340"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "NETFLIX Squid Game POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "イカゲーム ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "priceDesc": "null",

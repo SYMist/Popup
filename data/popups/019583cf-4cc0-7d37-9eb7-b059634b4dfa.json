@@ -23,19 +23,44 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/66df890c-d99a-4cd4-98de-3ebb5e5ca590.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e99f5c49-1ae8-4caf-be7f-e31ebe8a49d7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e99f5c49-1ae8-4caf-be7f-e31ebe8a49d7.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:55.227785"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:17:06.531710"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019583cf-4cc0-7d37-9eb7-b059634b4dfa",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019583cf-4cc0-7d37-9eb7-b059634b4dfa",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019583cf-4cc0-7d37-9eb7-b059634b4dfa"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "SEVENTEEN Hoshi x Woozi POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "SEVENTEEN ホシ x ウジ ’BEAM’ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "SEVENTEEN HOSHIx WOOZI 快闪店"

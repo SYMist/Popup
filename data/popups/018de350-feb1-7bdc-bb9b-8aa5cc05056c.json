@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.yeongdo.go.kr/yd_coffee_festival.web",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:00.083441"
+    "fetchedAt": "2025-09-19T14:07:50.383534"
   },
   "pricing": {
     "type": "FREE"

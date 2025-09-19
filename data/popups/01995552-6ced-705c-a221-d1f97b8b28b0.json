@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/ivestarship/status/1967454730097238411?s=46",
@@ -32,16 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:59.609097"
+    "fetchedAt": "2025-09-19T14:26:54.506620"
   },
   "pricing": {
     "description": "VIP席 198,000韩元 / 普通席 154,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01995552-6ced-705c-a221-d1f97b8b28b0",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01995552-6ced-705c-a221-d1f97b8b28b0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01995552-6ced-705c-a221-d1f97b8b28b0"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "VIP seats 198,000 won / General seats 154,000 won ",
+      "title": "IVE WORLD TOUR <SHOW WHAT I AM>"
+    },
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "VIP席 198,000ウォン / 一般席 154,000ウォン",
+      "title": "IVE ワールドツアー <SHOW WHAT I AM>"
+    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
       "priceDesc": "VIP席 198,000韩元 / 普通席 154,000韩元",

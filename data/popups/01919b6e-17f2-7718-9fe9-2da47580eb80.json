@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2602408336992&category=event&page=1&branchCd=B00126000",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:14.081822"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:11:11.761651"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01919b6e-17f2-7718-9fe9-2da47580eb80"
+    "enUrl": "https://interparkglobal.com/en/festas/01919b6e-17f2-7718-9fe9-2da47580eb80",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01919b6e-17f2-7718-9fe9-2da47580eb80"
   },
   "translations": {
     "en": {
       "address": "Seoul, 1005, Cheonho-daero, Gangdong-gu,",
       "title": "Shinkai Makoto # Shop"
+    },
+    "ja": {
+      "address": "Seoul, 1005, Cheonho-daero, Gangdong-gu,",
+      "title": "新海誠 POP-UP"
     }
   }
 }

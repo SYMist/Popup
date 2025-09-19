@@ -25,17 +25,32 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:42.084978"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:25:52.022620"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198588a-9ff0-72e4-8243-73ff3d1e69ca",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198588a-9ff0-72e4-8243-73ff3d1e69ca",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198588a-9ff0-72e4-8243-73ff3d1e69ca"
   },
   "translations": {
+    "en": {
+      "address": " Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "Olive Young Frozen Check-in"
+    },
+    "ja": {
+      "address": " Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
+      "title": "オリーブヤング フローズン チェックイン"
+    },
     "zh-cn": {
       "address": " Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
       "title": "FROZEN CHECK-IN"

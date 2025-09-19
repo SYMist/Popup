@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.isoi.co.kr/event/202409/popup_event?tr_ibp=1",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:01.905672"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:12:40.809770"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920ce2-ad08-7243-b3fb-a5f310927c47"
+    "enUrl": "https://interparkglobal.com/en/festas/01920ce2-ad08-7243-b3fb-a5f310927c47",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01920ce2-ad08-7243-b3fb-a5f310927c47"
   },
   "translations": {
     "en": {
       "address": "Seoul, 12, Yeonmumun 7-gil, Seongdong-gu,",
       "title": "ISOI POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 12, Yeonmumun 7-gil, Seongdong-gu,",
+      "title": "ISOI ポップアップストア"
     }
   }
 }

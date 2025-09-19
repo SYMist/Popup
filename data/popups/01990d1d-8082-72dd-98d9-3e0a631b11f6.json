@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://weverse.io/enhypen/notice/29663",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:21.856097"
+    "fetchedAt": "2025-09-19T14:22:14.973225"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01990d1d-8082-72dd-98d9-3e0a631b11f6",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01990d1d-8082-72dd-98d9-3e0a631b11f6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01990d1d-8082-72dd-98d9-3e0a631b11f6"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "ENHYPEN Artist Collection POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
+      "title": "Artist-Made Collection by ENHYPEN POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "Artist-Made Collection by ENHYPEN 快闪店"

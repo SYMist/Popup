@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24005697",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:33.003251"
+    "fetchedAt": "2025-09-19T14:07:09.439653"
   },
   "pricing": {
     "description": "全席  88,000 ウォン ",

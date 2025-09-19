@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/angzz_princess",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:56.096179"
+    "fetchedAt": "2025-09-19T14:10:39.599262"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916943-d73d-7d15-9b75-088412b00ea9"
+    "enUrl": "https://interparkglobal.com/en/festas/01916943-d73d-7d15-9b75-088412b00ea9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916943-d73d-7d15-9b75-088412b00ea9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 44, Sinchon-ro 2an-gil, Mapo-gu,",
       "title": "『YUJIN』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 44, Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『アン・ユジン』 センイルカフェ 🎂"
     }
   }
 }

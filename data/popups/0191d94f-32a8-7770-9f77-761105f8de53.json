@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/fd04a91f-7d22-44cc-9955-daf16f58b075.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/51529b02-e60c-44ae-8079-06e0aa6445a0.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/51529b02-e60c-44ae-8079-06e0aa6445a0.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/ja/product/24011847",
@@ -32,20 +43,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:33.642378"
+    "fetchedAt": "2025-09-19T14:11:52.062165"
   },
   "pricing": {
     "description": "S Section: 132,000 KRW, R Section: 154,000 KRW, VIP Section: 198,000 KRW",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d94f-32a8-7770-9f77-761105f8de53"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d94f-32a8-7770-9f77-761105f8de53",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d94f-32a8-7770-9f77-761105f8de53"
   },
   "translations": {
     "en": {
       "address": "Goyang-si, Gyeonggi-do, 1601, Jungang-ro, Ilsanseo-gu,",
       "priceDesc": "S Section: 132,000 KRW, R Section: 154,000 KRW, VIP Section: 198,000 KRW",
       "title": "ENHYPEN World Tour <Walk The Line >"
+    },
+    "ja": {
+      "address": "Goyang-si, Gyeonggi-do, 1601, Jungang-ro, Ilsanseo-gu,",
+      "priceDesc": "S席 132,000ウォン、R席 154,000ウォン、VIP席 198,000ウォン",
+      "title": "ENHYPEN WORLD TOUR"
     }
   }
 }

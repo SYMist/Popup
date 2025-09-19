@@ -25,27 +25,38 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24010437",
       "label": "Book now"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24010437",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:17.115552"
+    "fetchedAt": "2025-09-19T14:11:18.038388"
   },
   "pricing": {
     "description": "KRW 35,000",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b52a-264d-7657-8758-2d476fd4ecdb"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b52a-264d-7657-8758-2d476fd4ecdb",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b52a-264d-7657-8758-2d476fd4ecdb"
   },
   "translations": {
     "en": {
       "address": "Seoul,  38, Myeongdong 8na-gil, Jung-gu,",
       "priceDesc": "KRW 35,000",
       "title": "BTS JUNG KOOK Solo Exhibition"
+    },
+    "ja": {
+      "address": "Seoul,  38, Myeongdong 8na-gil, Jung-gu,",
+      "priceDesc": "35,000ウォン",
+      "title": "ジョングク展示"
     }
   }
 }

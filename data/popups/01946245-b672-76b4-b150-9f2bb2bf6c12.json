@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DEV4BdcTMSj/",
@@ -32,16 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:52.241641"
+    "fetchedAt": "2025-09-19T14:26:28.755172"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01946245-b672-76b4-b150-9f2bb2bf6c12",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01946245-b672-76b4-b150-9f2bb2bf6c12",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01946245-b672-76b4-b150-9f2bb2bf6c12"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "Atelier Gwanghwa New Year Special Exhibition"
+    },
+    "ja": {
+      "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
+      "title": "Art Logue: Winter Bloom"
+    },
     "zh-cn": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu,",
       "priceDesc": "null",

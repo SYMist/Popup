@@ -25,25 +25,35 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://forms.gle/jKSUUMFz5zGppKt56",
       "label": "Book now"
+    },
+    {
+      "href": "https://forms.gle/8xcQhgfFWBxatuASA",
+      "label": "観覧申請フォーム"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:33.629510"
+    "fetchedAt": "2025-09-19T14:13:48.850461"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926967-e4f4-7dc1-ad30-ce70a7225b44"
+    "enUrl": "https://interparkglobal.com/en/festas/01926967-e4f4-7dc1-ad30-ce70a7225b44",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01926967-e4f4-7dc1-ad30-ce70a7225b44"
   },
   "translations": {
     "en": {
       "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
       "title": "2024 Welcome Daehakro CKL STAGE"
+    },
+    "ja": {
+      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
+      "title": "2024 ウェルカムフリンジ CKL STAGE"
     }
   }
 }

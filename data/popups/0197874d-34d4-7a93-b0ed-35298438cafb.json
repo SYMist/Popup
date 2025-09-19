@@ -19,22 +19,35 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://koreabeautyfestival.com/",
       "label": "查看详情"
+    },
+    {
+      "href": "https://koreabeautyfestival.com/jp",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:28.188648"
+    "fetchedAt": "2025-09-19T14:18:42.998871"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197874d-34d4-7a93-b0ed-35298438cafb",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197874d-34d4-7a93-b0ed-35298438cafb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197874d-34d4-7a93-b0ed-35298438cafb"
   },
   "translations": {
+    "en": {
+      "title": "2025 Korea Beauty Festival"
+    },
+    "ja": {
+      "title": "2025 コリアビューティーフェスティバル"
+    },
     "zh-cn": {
       "title": "2025 韩国美容节"
     }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/j.xofficial/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:01.175872"
+    "fetchedAt": "2025-09-19T14:17:15.487122"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d93d-5cb6-7d66-b288-33928eb16cb9"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d93d-5cb6-7d66-b288-33928eb16cb9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191d93d-5cb6-7d66-b288-33928eb16cb9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
       "title": "JAEJOONG x XIA 2024 CONCERT"
+    },
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "title": "JX 2024 CONCERT"
     }
   }
 }

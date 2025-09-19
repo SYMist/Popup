@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DEmbZe2v_dl/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:48.258630"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:26:13.895447"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0194813c-cd25-7c83-b0b6-0f9b43fe430d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0194813c-cd25-7c83-b0b6-0f9b43fe430d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194813c-cd25-7c83-b0b6-0f9b43fe430d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 13, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "Object Hongdae Exhibit: Hozumi Fortune House"
+    },
+    "ja": {
+      "address": "Seoul, 13, Wausan-ro 35-gil, Mapo-gu, ",
+      "title": "HOZUMI FORTUNE HOUSE"
+    },
     "zh-cn": {
       "address": "Seoul, 13, Wausan-ro 35-gil, Mapo-gu, ",
       "priceDesc": "null",

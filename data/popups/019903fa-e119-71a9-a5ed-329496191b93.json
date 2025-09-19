@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://ateez.kqent.com/shop/kr/event/01K38GYRN5BKSCZTJC1HR1VYG6",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:18.075239"
+    "fetchedAt": "2025-09-19T14:22:01.309744"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019903fa-e119-71a9-a5ed-329496191b93",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019903fa-e119-71a9-a5ed-329496191b93",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019903fa-e119-71a9-a5ed-329496191b93"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 13 Yonsei-ro, Seodaemun-g﻿u,",
+      "title": "ATEEZ X ANITEEZ POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 13 Yonsei-ro, Seodaemun-g﻿u,",
+      "title": "ATEEZ × ANITEEZ ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 13 Yonsei-ro, Seodaemun-g﻿u,",
       "title": "ATEEZ X ANITEEZ 限时快闪店"

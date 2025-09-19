@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCk8bkZP5pN/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:27.874864"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:25:11.158651"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01936138-2ec0-7e57-8802-80eed3391aff",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01936138-2ec0-7e57-8802-80eed3391aff",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936138-2ec0-7e57-8802-80eed3391aff"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 38-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "Netflix 'Squid Game' X Johnnie Walker POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 38-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "ジョニーウォーカー X イカゲーム"
+    },
     "zh-cn": {
       "address": "Seoul, 38-1, Yeonmujang-gil, Seongdong-gu,",
       "title": "约翰尼沃克X韩剧《鱿鱼游戏》🦑"

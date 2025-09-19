@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": " https://www.frieze.com/ko/fairs/frieze-seoul/visitor-information",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:19.440413"
+    "fetchedAt": "2025-09-19T14:11:21.336547"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
       "title": "2024 FRIEZE SEOUL"
+    },
+    "ja": {
+      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
+      "title": "2024 Frieze Seoul"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://pokemonstore.co.kr/pages/board/event_view.html?boardId=event-benefit&articleNo=877951&page=1",
@@ -32,18 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:17.136416"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:13:08.421185"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922be7-d6dd-78df-8eaf-872f1de9b443"
+    "enUrl": "https://interparkglobal.com/en/festas/01922be7-d6dd-78df-8eaf-872f1de9b443",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922be7-d6dd-78df-8eaf-872f1de9b443"
   },
   "translations": {
     "en": {
       "address": "Suwon-si, 175, Suseong-ro, Jangan-gu,",
       "title": "Pokémon Store at Starfield Suwon"
+    },
+    "ja": {
+      "address": "Suwon-si, 175, Suseong-ro, Jangan-gu,",
+      "title": "ポケモンストア in スターフィールド水原"
     }
   }
 }

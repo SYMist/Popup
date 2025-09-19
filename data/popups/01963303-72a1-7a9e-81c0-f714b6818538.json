@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://festival.seoul.go.kr/garden/introduce/introduce2025",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:59.480091"
+    "fetchedAt": "2025-09-19T14:04:35.910586"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01963303-72a1-7a9e-81c0-f714b6818538",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01963303-72a1-7a9e-81c0-f714b6818538",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963303-72a1-7a9e-81c0-f714b6818538"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu,",
+      "title": "2025 Seoul International Garden Expo"
+    },
+    "ja": {
+      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu,",
+      "title": "2025ソウル国際庭園博覧会"
+    },
     "zh-cn": {
       "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu,",
       "title": "2025首尔国际园艺博览会"

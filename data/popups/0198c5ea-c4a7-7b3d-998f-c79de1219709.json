@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "/ticket/places/25000447/products/25011728",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:13.847432"
+    "fetchedAt": "2025-09-19T14:21:42.603930"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198c5ea-c4a7-7b3d-998f-c79de1219709",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198c5ea-c4a7-7b3d-998f-c79de1219709",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c5ea-c4a7-7b3d-998f-c79de1219709"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu, ",
+      "title": "XIUMIN FAN CONCERT 〈 X Times ( ) 〉 ENCORE"
+    },
+    "ja": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu, ",
+      "title": "XIUMIN FAN CONCERT"
+    },
     "zh-cn": {
       "address": "Seoul, 294, Itaewon-ro, Yongsan-gu, ",
       "title": "XIUMIN FAN CONCERT 〈 X Times ( ) 〉 ENCORE"

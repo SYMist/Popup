@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMAWABaPsNz/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:52.582885"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:20:19.707794"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019810c9-cc86-7e58-aa21-ae5fa7904787",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019810c9-cc86-7e58-aa21-ae5fa7904787",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019810c9-cc86-7e58-aa21-ae5fa7904787"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "The Hyundai Summer POP-UP: Hu'i Hu'i Maui!"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "ザ・ヒョンデ・ソウル : Hu'i Hu'i Maui!"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "现代百货夏季快闪店：Hu'i Hu'i Maui！"

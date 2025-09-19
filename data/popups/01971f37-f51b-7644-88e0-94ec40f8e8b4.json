@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DI2qCRkhbt7/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:53.083172"
+    "fetchedAt": "2025-09-19T14:16:58.252055"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01971f37-f51b-7644-88e0-94ec40f8e8b4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01971f37-f51b-7644-88e0-94ec40f8e8b4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f37-f51b-7644-88e0-94ec40f8e8b4"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 445, Yangnyeong-ro, Yongsan-gu,",
+      "title": "SEOUL SUMMER VIBE"
+    },
+    "ja": {
+      "address": "Seoul, 445, Yangnyeong-ro, Yongsan-gu,",
+      "title": "SEOUL SUMMER VIBE"
+    },
     "zh-cn": {
       "address": "Seoul, 445, Yangnyeong-ro, Yongsan-gu,",
       "title": "SEOUL SUMMER VIBE"

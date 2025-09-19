@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DJi26y0yoXW/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:00.297776"
+    "fetchedAt": "2025-09-19T14:04:39.395707"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0196d196-dd1b-7150-b2c8-36ab0d6800ee",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0196d196-dd1b-7150-b2c8-36ab0d6800ee",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196d196-dd1b-7150-b2c8-36ab0d6800ee"
   },
   "translations": {
+    "en": {
+      "address": " Seoul, 163, Seoulsiripdae-ro, Dongdaemun-gu,",
+      "title": "2025 Seoul National University Festival"
+    },
+    "ja": {
+      "address": " Seoul, 163, Seoulsiripdae-ro, Dongdaemun-gu,",
+      "title": "2025 ソウル市立大学祭"
+    },
     "zh-cn": {
       "address": " Seoul, 163, Seoulsiripdae-ro, Dongdaemun-gu,",
       "title": "2025 首尔市立大学大学祭"

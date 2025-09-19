@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://www.ejagalchi.com/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:19.616305"
+    "fetchedAt": "2025-09-19T14:13:16.628047"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924bb9-85d1-7588-b94e-9b7a8c98a06a"
+    "enUrl": "https://interparkglobal.com/en/festas/01924bb9-85d1-7588-b94e-9b7a8c98a06a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01924bb9-85d1-7588-b94e-9b7a8c98a06a"
   },
   "translations": {
     "en": {
       "address": "Busan, 52, Jagalchi Coastal-ro, Jung-gu,",
       "title": "2024 Busan Jagalchi Festival"
+    },
+    "ja": {
+      "address": "Busan, 52, Jagalchi Coastal-ro, Jung-gu,",
+      "title": "2024 釜山 チャガルチ祭り"
     }
   }
 }

@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/5982946e-1adb-4113-8e4e-08af6eef32ed.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/eba96e7c-11ed-4d9d-b0f9-8ca1c41ceca7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/eba96e7c-11ed-4d9d-b0f9-8ca1c41ceca7.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://weverse.io/bts/notice/23309",
@@ -32,15 +43,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:18.747224"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:15:23.426673"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0192f4ae-66e6-7db6-ab6c-ba3e8327866c",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192f4ae-66e6-7db6-ab6c-ba3e8327866c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192f4ae-66e6-7db6-ab6c-ba3e8327866c"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "BTS Jin ‘Happy’ POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
+      "title": "BTSジン＜Happy＞POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "BTS Jin ‘Happy’ 快閃店"

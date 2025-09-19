@@ -23,24 +23,63 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b044850b-71d0-45c7-b5c6-1ae04bddbb6c.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/53b24506-2347-4933-8c22-ee80e7448118.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/53b24506-2347-4933-8c22-ee80e7448118.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/627e9cbc-3f23-46d0-b137-fc4c6b813ea8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/627e9cbc-3f23-46d0-b137-fc4c6b813ea8.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DDHGdDRvNmg/",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.instagram.com/p/DDHGdDRvNmg/?img_index=1",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:02.880567"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:14:45.089995"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193a931-ce07-7531-bbc3-18849435572d",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193a931-ce07-7531-bbc3-18849435572d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193a931-ce07-7531-bbc3-18849435572d"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "The Adventures of Tintin POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "タンタンの冒険"
+    },
     "zh-cn": {
       "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
       "title": "《丁丁历险记》快闪店🐶"

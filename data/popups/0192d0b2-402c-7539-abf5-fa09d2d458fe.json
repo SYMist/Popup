@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCYSbM6J-U9/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:08.582892"
+    "fetchedAt": "2025-09-19T14:14:52.615164"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192d0b2-402c-7539-abf5-fa09d2d458fe"
+    "enUrl": "https://interparkglobal.com/en/festas/0192d0b2-402c-7539-abf5-fa09d2d458fe",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0192d0b2-402c-7539-abf5-fa09d2d458fe"
   },
   "translations": {
     "en": {
       "address": "Seoul, 430, Gyeongin-ro, Guro-gu, ",
       "title": "SMTOWN LIVE 2025 Seoul Concert"
+    },
+    "ja": {
+      "address": "Seoul, 430, Gyeongin-ro, Guro-gu, ",
+      "title": "SMTOWN LIVE 2025"
     }
   }
 }

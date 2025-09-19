@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.p-city.com/front/event/eventView?P_SEQ=12171&ty=MAIN&P_CTNT_TY=imageTy",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:26.667816"
+    "fetchedAt": "2025-09-19T14:25:07.318813"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01936612-7c68-76e0-be5f-84108487b5ce",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01936612-7c68-76e0-be5f-84108487b5ce",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936612-7c68-76e0-be5f-84108487b5ce"
   },
   "translations": {
+    "en": {
+      "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
+      "title": "CHRISTMAS MARKET IN PLAZA"
+    },
+    "ja": {
+      "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
+      "title": "CHRISTMAS MARKET IN PLAZA🌲"
+    },
     "zh-cn": {
       "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
       "title": "CHRISTMAS MARKET IN PLAZA"

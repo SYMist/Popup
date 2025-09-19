@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/simsimoka_",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:57.157595"
+    "fetchedAt": "2025-09-19T14:14:20.600447"
   },
   "pricing": {
     "type": "UNKNOWN"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://www.royalguard.kr/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:47.581020"
+    "fetchedAt": "2025-09-19T14:07:38.283713"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018ce6cf-926f-7f99-a92a-a0740c5ee091",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018ce6cf-926f-7f99-a92a-a0740c5ee091",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018ce6cf-926f-7f99-a92a-a0740c5ee091"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, Jung-gu, Sejongdaero 99,",
+      "title": "Deoksugung Palace Royal Guard Changing Ceremony"
+    },
+    "ja": {
+      "address": "Seoul, Jung-gu, Sejongdaero 99",
+      "title": "徳寿宮の王宮守門将交代儀式"
+    },
     "zh-cn": {
       "address": "Seoul, Jung-gu, Sejongdaero 99,",
       "title": "德寿宫王宫守门将换岗仪式"

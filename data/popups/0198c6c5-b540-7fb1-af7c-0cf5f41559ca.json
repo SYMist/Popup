@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DNj5pwSz4fT/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:14.211314"
+    "fetchedAt": "2025-09-19T14:21:47.809408"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198c6c5-b540-7fb1-af7c-0cf5f41559ca",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198c6c5-b540-7fb1-af7c-0cf5f41559ca",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c6c5-b540-7fb1-af7c-0cf5f41559ca"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 68, Eoulmadang-ro, Mapo-gu, ",
+      "title": "TREASURE - 3rd MINI ALBUM [LOVE PULSE] POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 68, Eoulmadang-ro, Mapo-gu, ",
+      "title": "TREASURE 3rd MINI ALBUM [LOVE PULSE] POP-UP"
+    },
     "zh-cn": {
       "address": "Seoul, 68, Eoulmadang-ro, Mapo-gu, ",
       "title": "TREASURE 第三张迷你专辑 [LOVE PULSE] 快闪店"

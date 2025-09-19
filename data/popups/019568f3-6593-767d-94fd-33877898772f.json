@@ -23,8 +23,29 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/49005985-18a7-4504-8f35-483b98642f43.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/11720956-ee0e-4800-af2a-1bc35d1ef678.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/11720956-ee0e-4800-af2a-1bc35d1ef678.jpeg",
+      "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/85f60334-8051-4b63-bcbd-1ca44614d8be.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/85f60334-8051-4b63-bcbd-1ca44614d8be.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DGzyl6VvrlC/",
@@ -32,15 +53,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:02.154871"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:04:46.371386"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/019568f3-6593-767d-94fd-33877898772f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019568f3-6593-767d-94fd-33877898772f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019568f3-6593-767d-94fd-33877898772f"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 6, Achasan-ro, Seongdong-gu,",
+      "title": "Starbucks Custard Cream Festival"
+    },
+    "ja": {
+      "address": "Seoul, 6, Achasan-ro, Seongdong-gu,",
+      "title": "Starbucks シュークリーム祭り"
+    },
     "zh-cn": {
       "address": "Seoul, 6, Achasan-ro, Seongdong-gu,",
       "title": "星巴克奶油霜节日"

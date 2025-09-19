@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "http://www.chunnyun.com/schedule",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:17.624076"
+    "fetchedAt": "2025-09-19T14:05:18.523147"
   },
   "pricing": {
     "description": "ライブチャージ : 月-木 13,000ウォン、金-日/祝日 15,000ウォン (フード、ドリンク代は別料金)",

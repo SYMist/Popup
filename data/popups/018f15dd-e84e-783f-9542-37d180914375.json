@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://twitter.com/HYBE_MERCH/status/1783299895870595212?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:24:44.649698"
+    "fetchedAt": "2025-09-19T14:08:48.239999"
   },
   "pricing": {
     "type": "FREE"

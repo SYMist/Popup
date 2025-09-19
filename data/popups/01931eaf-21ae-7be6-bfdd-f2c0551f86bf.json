@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.ehyundai.com/newPortal/EV/EV000003_14_V.do?eventNo=32797&eventCd=B0349900",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:14.644689"
+    "fetchedAt": "2025-09-19T14:15:00.535651"
   },
   "pricing": {
     "type": "UNKNOWN"

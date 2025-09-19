@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCgcSKPv41o/",
@@ -32,16 +33,30 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:17.158645"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:18:04.068370"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193ae5b-291d-70e9-80c4-67d83613347e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193ae5b-291d-70e9-80c4-67d83613347e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae5b-291d-70e9-80c4-67d83613347e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
+      "title": "Minini Winter World POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
+      "title": "ミニニ ウィンターワールド"
+    },
     "zh-cn": {
       "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
       "priceDesc": "null",

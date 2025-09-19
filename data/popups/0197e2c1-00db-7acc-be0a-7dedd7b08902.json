@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLjKN6VTbvB/",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:44.190124"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:19:46.571401"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197e2c1-00db-7acc-be0a-7dedd7b08902",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197e2c1-00db-7acc-be0a-7dedd7b08902",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2c1-00db-7acc-be0a-7dedd7b08902"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 23, Ttukseom-ro 17-gil, Seongdong-gu,",
+      "title": "Tamburins BLUE HINOKI POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 23, Ttukseom-ro 17-gil, Seongdong-gu,",
+      "title": "tamburins BLUE HINOKI ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 23, Ttukseom-ro 17-gil, Seongdong-gu,",
       "title": "tamburins BLUE HINOKI 快闪店"

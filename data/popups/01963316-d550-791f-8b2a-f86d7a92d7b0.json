@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DGlCicwvS4A/?img_index=1",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:21:59.745794"
+    "fetchedAt": "2025-09-19T14:04:38.368179"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01963316-d550-791f-8b2a-f86d7a92d7b0",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01963316-d550-791f-8b2a-f86d7a92d7b0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01963316-d550-791f-8b2a-f86d7a92d7b0"
   },
   "translations": {
+    "en": {
+      "address": "Se﻿oul, 330 Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "2025 Reading Han River Park"
+    },
+    "ja": {
+      "address": "Se﻿oul, 330 Yeouidong-ro, Yeongdeungpo-gu,",
+      "title": "2025 本を読む漢江公園"
+    },
     "zh-cn": {
       "address": "Se﻿oul, 330 Yeouidong-ro, Yeongdeungpo-gu,",
       "title": "2025 阅读汉江公园"

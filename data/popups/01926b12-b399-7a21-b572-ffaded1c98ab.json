@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DAht1MCTZba/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:05.100228"
+    "fetchedAt": "2025-09-19T14:17:25.362658"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926b12-b399-7a21-b572-ffaded1c98ab"
+    "enUrl": "https://interparkglobal.com/en/festas/01926b12-b399-7a21-b572-ffaded1c98ab",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01926b12-b399-7a21-b572-ffaded1c98ab"
   },
   "translations": {
     "en": {
       "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
       "title": "2024 HiKR Festa"
+    },
+    "ja": {
+      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu,",
+      "title": "2024 ハイカーフェスタ"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24015157",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:46.016456"
+    "fetchedAt": "2025-09-19T14:26:04.757524"
   },
   "pricing": {
     "description": "普通席400,000韩元 / B席440,000韩元",

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DMscyysSvRF/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:09.278872"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:21:27.105287"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01987ea8-1bed-750e-868b-64be673f962b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01987ea8-1bed-750e-868b-64be673f962b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987ea8-1bed-750e-868b-64be673f962b"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "MEDIHEAL X PLAVE Season 2 POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "MEDIHEAL X PLAVE シーズン2 ポップアップ"
+    },
     "zh-cn": {
       "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
       "title": "MEDIHEAL X PLAVE 第二季快闪店"

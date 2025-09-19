@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DANGwNyTmih/",
@@ -32,16 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:14.177608"
+    "fetchedAt": "2025-09-19T14:13:01.236284"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922bd4-f192-7ea5-81cb-dc89416a8cc9"
+    "enUrl": "https://interparkglobal.com/en/festas/01922bd4-f192-7ea5-81cb-dc89416a8cc9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01922bd4-f192-7ea5-81cb-dc89416a8cc9"
   },
   "translations": {
     "en": {
+      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
+      "title": "JINHO 1st Mini Album [CHO:RD] x Cubistory"
+    },
+    "ja": {
       "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
       "title": "JINHO 1st Mini Album [CHO:RD] x Cubistory"
     }

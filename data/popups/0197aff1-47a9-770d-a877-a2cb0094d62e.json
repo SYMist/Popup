@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/mean_on_sight/?utm_source=ig_embed&ig_rid=9d69d6b4-c99b-4e86-9ed3-966f52d27e2f",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:30.594710"
+    "fetchedAt": "2025-09-19T14:18:52.286501"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197aff1-47a9-770d-a877-a2cb0094d62e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197aff1-47a9-770d-a877-a2cb0094d62e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197aff1-47a9-770d-a877-a2cb0094d62e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 77, Gyedong-gil, Jongno-gu,",
+      "title": "SHINee MINHO Photo Exhibition"
+    },
+    "ja": {
+      "address": "Seoul, 77, Gyedong-gil, Jongno-gu,",
+      "title": "SHINee MINHO 写真展"
+    },
     "zh-cn": {
       "address": "Seoul, 77, Gyedong-gil, Jongno-gu,",
       "title": "SHINee MINHO 摄影展"

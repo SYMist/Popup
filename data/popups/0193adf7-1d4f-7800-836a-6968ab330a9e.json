@@ -25,23 +25,40 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24017335",
       "label": "查看详情"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24017335",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:40.104686"
+    "fetchedAt": "2025-09-19T14:16:12.251641"
   },
   "pricing": {
     "description": "165,000韩元",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193adf7-1d4f-7800-836a-6968ab330a9e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193adf7-1d4f-7800-836a-6968ab330a9e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193adf7-1d4f-7800-836a-6968ab330a9e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "165,000 KRW",
+      "title": "BABYMONSTER 1st World Tour"
+    },
+    "ja": {
+      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
+      "priceDesc": "165,000ウォン",
+      "title": "HELLO MONSTERS IN SEOUL"
+    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
       "priceDesc": "165,000韩元",

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.ydp.go.kr/tour/contents.do?key=6107&",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:47.818016"
+    "fetchedAt": "2025-09-19T14:16:39.306152"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0195db49-0128-7156-b9b7-b478105bb46a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0195db49-0128-7156-b9b7-b478105bb46a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db49-0128-7156-b9b7-b478105bb46a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 8-1, Yeouido-dong, Yeongdeungpo-gu, ",
+      "title": "Yeouido Spring Flower Festival"
+    },
+    "ja": {
+      "address": "Seoul, 8-1, Yeouido-dong, Yeongdeungpo-gu, ",
+      "title": "永登浦 ヨイド春の花祭り"
+    },
     "zh-cn": {
       "address": "Seoul, 8-1, Yeouido-dong, Yeongdeungpo-gu, ",
       "title": "永登浦汝矣岛春花节"

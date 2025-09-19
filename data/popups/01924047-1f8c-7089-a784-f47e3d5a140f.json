@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/joohamlove",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:09.777158"
+    "fetchedAt": "2025-09-19T14:12:56.203845"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924047-1f8c-7089-a784-f47e3d5a140f"
+    "enUrl": "https://interparkglobal.com/en/festas/01924047-1f8c-7089-a784-f47e3d5a140f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01924047-1f8c-7089-a784-f47e3d5a140f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 67-6, Dongmak-ro, Mapo-gu,",
       "title": "『Jooheon』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 67-6, Dongmak-ro, Mapo-gu,",
+      "title": "『ジュホン』 センイルカフェ 🎂"
     }
   }
 }

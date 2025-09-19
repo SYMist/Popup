@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DC6FWe1vjP3/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:03.208749"
+    "fetchedAt": "2025-09-19T14:14:46.307798"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193953b-6471-714c-946d-34c3b5fb1c2a",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193953b-6471-714c-946d-34c3b5fb1c2a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193953b-6471-714c-946d-34c3b5fb1c2a"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 46-3, Bukchon-ro, Jongno-gu, ",
+      "title": "Stray Kids 合(HOP) POP-UP"
+    },
+    "ja": {
+      "address": "Seoul, 46-3, Bukchon-ro, Jongno-gu, ",
+      "title": "合(HOP) POP-UP STORE"
+    },
     "zh-cn": {
       "address": "Seoul, 46-3, Bukchon-ro, Jongno-gu, ",
       "title": "Stray Kids：合(HOP) 快闪店"

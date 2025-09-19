@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Happybirstay/status/1954465850439631242",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:43.642411"
+    "fetchedAt": "2025-09-19T14:25:56.903689"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0198ef2a-3257-790c-a8f6-0c3ebd5527d4",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef2a-3257-790c-a8f6-0c3ebd5527d4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef2a-3257-790c-a8f6-0c3ebd5527d4"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
+      "title": "『Han』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
+      "title": "『ハン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 30 Yanghwa-ro 16-gil, Mapo-gu, ",
       "title": "“HAN” 生日咖啡厅🎂"

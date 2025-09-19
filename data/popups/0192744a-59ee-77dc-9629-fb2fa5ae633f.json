@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DASwE7dSa7O/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:44.621851"
+    "fetchedAt": "2025-09-19T14:13:55.889535"
   },
   "pricing": {
     "type": "FREE"

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/BOOlooming_0116/status/1852964054677274682",
@@ -36,16 +37,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:54.454019"
+    "fetchedAt": "2025-09-19T14:26:33.991094"
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01942480-d3e9-7b13-bc18-5cf3d8e7d58e",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01942480-d3e9-7b13-bc18-5cf3d8e7d58e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942480-d3e9-7b13-bc18-5cf3d8e7d58e"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 16, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "SEVENTEEN 『SeungKwan』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 16, Wausan-ro 29ra-gil, Mapo-gu,",
+      "title": "『スングァン』センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 16, Wausan-ro 29ra-gil, Mapo-gu,",
       "priceDesc": "null",

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/ja/product/24011941",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:25.073750"
+    "fetchedAt": "2025-09-19T14:15:19.361094"
   },
   "pricing": {
     "description": "A席 121,000ウォン、S席 143,000ウォン、R席 176,000ウォン、VIP席 187,000ウォン",

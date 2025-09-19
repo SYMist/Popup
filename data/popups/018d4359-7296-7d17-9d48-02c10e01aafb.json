@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.morningcalm.co.kr/_JPN/html/main.php",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:24.725291"
+    "fetchedAt": "2025-09-19T14:05:34.972905"
   },
   "pricing": {
     "description": "大人 : 11,000ウォン / 中高生 : 8,500ウォン / お子様 : 7,500ウォン",

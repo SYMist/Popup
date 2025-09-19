@@ -23,8 +23,19 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/32303943-4c90-4042-9164-3349c23b56bb.jpeg",
       "variant": "small_square"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e9968fa0-ed17-43cc-8361-c22970a79000.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e9968fa0-ed17-43cc-8361-c22970a79000.jpeg",
+      "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.kia.com/kr/event/detail?eventId=372&statusCd=PEND",
@@ -32,18 +43,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:28:17.058629"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:15:12.194046"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01932851-9b50-75c3-9559-e045fd91c2a9"
+    "enUrl": "https://interparkglobal.com/en/festas/01932851-9b50-75c3-9559-e045fd91c2a9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01932851-9b50-75c3-9559-e045fd91c2a9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 10, Sangwon 4-gil, Seongdong-gu, ",
       "title": "The new Sportage X Squid Game Season 2"
+    },
+    "ja": {
+      "address": "Seoul, 10, Sangwon 4-gil, Seongdong-gu, ",
+      "title": "The new Sportage X イカゲーム シーズン2"
     }
   }
 }

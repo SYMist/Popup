@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.chf.or.kr/brd/board/1049/L/menu/885?brdType=R&thisPage=1&bbIdx=116469&searchField=&searchText=",
@@ -32,20 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:05.206962"
+    "fetchedAt": "2025-09-19T14:06:35.655849"
   },
   "pricing": {
     "description": "15,000 KRW",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018eb7c4-b894-7a18-bb4e-f206a6d8118f"
+    "enUrl": "https://interparkglobal.com/en/festas/018eb7c4-b894-7a18-bb4e-f206a6d8118f",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018eb7c4-b894-7a18-bb4e-f206a6d8118f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
       "priceDesc": "15,000 KRW",
       "title": "Gyeongbokgung Palace Royal Tea Ceremony 「Saenggwabang」"
+    },
+    "ja": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "priceDesc": "15,000ウォン",
+      "title": "景福宮の宮中お茶会「生果房（センクァバン）」"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/pjg920/status/1855991267576197377",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:06.638615"
+    "fetchedAt": "2025-09-19T14:17:34.820799"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193705a-4a99-729e-817e-bc0920abaad3",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193705a-4a99-729e-817e-bc0920abaad3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193705a-4a99-729e-817e-bc0920abaad3"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 30, Seongan-ro, Gangdong-gu,",
+      "title": "ITZY  『Yuna』 Birthday Cafe🎂"
+    },
+    "ja": {
+      "address": "Seoul, 30, Seongan-ro, Gangdong-gu,",
+      "title": "『ユナ』 センイルカフェ 🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 30, Seongan-ro, Gangdong-gu,",
       "title": "\"有娜\" 生日咖啡厅🎂"

@@ -25,9 +25,10 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:46.547889"
+    "fetchedAt": "2025-09-19T14:06:06.452138"
   },
   "pricing": {
     "type": "UNKNOWN"

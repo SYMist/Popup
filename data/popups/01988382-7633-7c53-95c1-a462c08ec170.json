@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/CODE_82/status/1917868185124303050",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:11.080608"
+    "fetchedAt": "2025-09-19T14:21:35.094265"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/01988382-7633-7c53-95c1-a462c08ec170",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01988382-7633-7c53-95c1-a462c08ec170",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01988382-7633-7c53-95c1-a462c08ec170"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 19 Hongik-ro 2-gil, Mapo-gu,",
+      "title": "『NCT DREAM』 Debut Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 19 Hongik-ro 2-gil, Mapo-gu,",
+      "title": "『NCT DREAM』デビューカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 19 Hongik-ro 2-gil, Mapo-gu,",
       "title": "“NCT DREAM” 出道咖啡厅 🎂"

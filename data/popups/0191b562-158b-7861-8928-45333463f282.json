@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/mikroskosmoz",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:24.073660"
+    "fetchedAt": "2025-09-19T14:11:31.874761"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b562-158b-7861-8928-45333463f282"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b562-158b-7861-8928-45333463f282",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b562-158b-7861-8928-45333463f282"
   },
   "translations": {
     "en": {
       "address": "Seoul, 15, Hangang-daero 10-gil, Yongsan-gu,",
       "title": "BTS RM Birthday Cafe"
+    },
+    "ja": {
+      "address": "Seoul, 15, Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『RM』 センイルカフェ🎂"
     }
   }
 }

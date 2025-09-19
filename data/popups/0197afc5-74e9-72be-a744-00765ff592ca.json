@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLPF6gmTdPa/",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:29.322163"
+    "fetchedAt": "2025-09-19T14:18:47.578198"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197afc5-74e9-72be-a744-00765ff592ca",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197afc5-74e9-72be-a744-00765ff592ca",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afc5-74e9-72be-a744-00765ff592ca"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "Contemplation of Gyeongbokgung Palace"
+    },
+    "ja": {
+      "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
+      "title": "景福宮の思い"
+    },
     "zh-cn": {
       "address": "Seoul, 161, Sajik-ro, Jongno-gu, ",
       "title": "景福宫的想法"

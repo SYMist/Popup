@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.snoopygarden.com/",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:32.424129"
+    "fetchedAt": "2025-09-19T14:05:42.243134"
   },
   "pricing": {
     "description": "大人：19,000ウォン、青少年：16,000ウォン、小人：13,000ウォン",

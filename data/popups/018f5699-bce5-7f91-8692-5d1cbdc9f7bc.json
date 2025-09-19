@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://ticket.melon.com/performance/index.htm?prodId=209831",
@@ -32,7 +33,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:23:31.267497"
+    "fetchedAt": "2025-09-19T14:07:05.138996"
   },
   "pricing": {
     "type": "FREE"

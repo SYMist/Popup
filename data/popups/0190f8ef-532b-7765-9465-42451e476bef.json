@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/ryochandesu__/status/1814617326462857536",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:25:27.144597"
+    "fetchedAt": "2025-09-19T14:09:50.980439"
   },
   "pricing": {
     "type": "FREE"

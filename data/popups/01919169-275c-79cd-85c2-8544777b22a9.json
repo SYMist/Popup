@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.kh.or.kr/short/Jt76",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:09.748404"
+    "fetchedAt": "2025-09-19T14:11:00.577984"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01919169-275c-79cd-85c2-8544777b22a9"
+    "enUrl": "https://interparkglobal.com/en/festas/01919169-275c-79cd-85c2-8544777b22a9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01919169-275c-79cd-85c2-8544777b22a9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 185, Changgyeonggung-ro, Jongno-gu,",
       "title": "2024 Changgyeonggung Palace Night Show"
+    },
+    "ja": {
+      "address": "Seoul, 185, Changgyeonggung-ro, Jongno-gu,",
+      "title": "2024 昌慶宮夜宴"
     }
   }
 }

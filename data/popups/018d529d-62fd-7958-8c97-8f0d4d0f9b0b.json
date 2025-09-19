@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.chanel.com/kr/fashion/services/boutique-jeju/?utm_campaign=fsh_bor_sea_ao_boutiqueopening&utm_source=naver&utm_medium=cpc&utm_content=nsa_fsh_fas_b_all_fas_even_pope-jeju&utm_term=%EC%A0%9C%EC%A3%BC%EC%83%A4%EB%84%AC%ED%8C%9D%EC%97%85",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:22:21.605594"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:05:35.067134"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b",
+    "jaUrl": "https://interparkglobal.com/ja/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b"
   },
   "translations": {
+    "en": {
+      "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
+      "title": "CHANEL Jeju Seasonal Boutique"
+    },
+    "ja": {
+      "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
+      "title": "CHANEL 済州 シーズナルブティック"
+    },
     "zh-cn": {
       "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
       "title": "CHANEL济州季节精品店"

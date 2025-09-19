@@ -25,23 +25,40 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.globalinterpark.com/en/product/24011855",
       "label": "查看更多"
+    },
+    {
+      "href": "https://www.globalinterpark.com/ja/product/24011855",
+      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:09.452252"
+    "fetchedAt": "2025-09-19T14:11:08.646794"
   },
   "pricing": {
     "description": "KRW 30,000",
     "type": "PAID"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0191912b-a5e5-718f-8f01-c323ceb437e1",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191912b-a5e5-718f-8f01-c323ceb437e1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191912b-a5e5-718f-8f01-c323ceb437e1"
   },
   "translations": {
+    "en": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "priceDesc": "KRW 30,000",
+      "title": "Disney 100th Anniversary POP-UP"
+    },
+    "ja": {
+      "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
+      "priceDesc": "30,000ウォン",
+      "title": "ディズニー100周年記念展示会"
+    },
     "zh-cn": {
       "address": "Seoul,  807, Seolleung-ro, Gangnam-gu,",
       "priceDesc": "KRW 30,000",

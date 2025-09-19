@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/sweetpotato_yj",
@@ -36,7 +37,7 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:27:56.140307"
+    "fetchedAt": "2025-09-19T14:14:18.787831"
   },
   "pricing": {
     "type": "UNKNOWN"

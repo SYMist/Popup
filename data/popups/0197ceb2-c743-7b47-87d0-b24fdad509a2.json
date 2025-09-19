@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DLZmoSkzbsz/?img_index=1",
@@ -32,15 +33,29 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:41.174616"
+    "detection": {
+      "category": "POP-UP",
+      "rule": "category"
+    },
+    "fetchedAt": "2025-09-19T14:19:36.052461"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197ceb2-c743-7b47-87d0-b24fdad509a2",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197ceb2-c743-7b47-87d0-b24fdad509a2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197ceb2-c743-7b47-87d0-b24fdad509a2"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
+      "title": "BLACKPINK WORLD TOUR [DEADLINE] MD"
+    },
+    "ja": {
+      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
+      "title": "BLACKPINK WORLD TOUR [DEADLINE] MD"
+    },
     "zh-cn": {
       "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
       "title": "BLACKPINK 世界巡回演唱会 [DEADLINE] MD"

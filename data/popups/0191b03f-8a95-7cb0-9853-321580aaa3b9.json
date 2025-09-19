@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://www.instagram.com/p/C91FLNkSWNd/",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:26:20.921531"
+    "fetchedAt": "2025-09-19T14:11:23.549505"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b03f-8a95-7cb0-9853-321580aaa3b9"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b03f-8a95-7cb0-9853-321580aaa3b9",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0191b03f-8a95-7cb0-9853-321580aaa3b9"
   },
   "translations": {
     "en": {
       "address": "Seoul,  281, Eulji-ro, Jung-gu,",
       "title": "2025 S/S Seoul Fashion Week"
+    },
+    "ja": {
+      "address": "Seoul,  281, Eulji-ro, Jung-gu,",
+      "title": "ソウルファッションウィーク 2025 S/S"
     }
   }
 }

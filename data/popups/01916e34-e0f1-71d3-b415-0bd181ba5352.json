@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/y2yuw",
@@ -36,18 +37,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:31:15.440503"
+    "fetchedAt": "2025-09-19T14:24:37.520765"
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916e34-e0f1-71d3-b415-0bd181ba5352"
+    "enUrl": "https://interparkglobal.com/en/festas/01916e34-e0f1-71d3-b415-0bd181ba5352",
+    "jaUrl": "https://interparkglobal.com/ja/festas/01916e34-e0f1-71d3-b415-0bd181ba5352"
   },
   "translations": {
     "en": {
       "address": "Seoul, Donggyo-ro 34-gil 8, Mapo-gu,",
       "title": "『SUNGHO』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, Donggyo-ro 34-gil 8, Mapo-gu,",
+      "title": "『ソンホ』センイルカフェ 🎂"
     }
   }
 }

@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://adventurebusan.lotteworld.com/kor/enjoy/season-contents/list.do",
@@ -32,15 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:16.614856"
+    "fetchedAt": "2025-09-19T14:18:02.473028"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0193948d-fd28-70a8-80ea-df1444c9ff42",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0193948d-fd28-70a8-80ea-df1444c9ff42",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193948d-fd28-70a8-80ea-df1444c9ff42"
   },
   "translations": {
+    "en": {
+      "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
+      "title": "Lotte World Adventure Busan Winter Festival"
+    },
+    "ja": {
+      "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
+      "title": "Miracle Winter ❄️"
+    },
     "zh-cn": {
       "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
       "title": "Miracle Winter"

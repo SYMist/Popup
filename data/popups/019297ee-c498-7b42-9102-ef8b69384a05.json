@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://museum1.co.kr/18",
@@ -32,18 +33,23 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:30:47.106585"
+    "fetchedAt": "2025-09-19T14:23:17.967144"
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019297ee-c498-7b42-9102-ef8b69384a05"
+    "enUrl": "https://interparkglobal.com/en/festas/019297ee-c498-7b42-9102-ef8b69384a05",
+    "jaUrl": "https://interparkglobal.com/ja/festas/019297ee-c498-7b42-9102-ef8b69384a05"
   },
   "translations": {
     "en": {
       "address": "Busan, 20, Centumseo-ro, Haeundae-gu,",
       "title": "Myth: A Story of Beginnings"
+    },
+    "ja": {
+      "address": "Busan, 20, Centumseo-ro, Haeundae-gu,",
+      "title": "神話：はじまりの物語"
     }
   }
 }

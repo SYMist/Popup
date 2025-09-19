@@ -25,6 +25,7 @@
       "variant": "small_square"
     }
   ],
+  "isPopup": false,
   "links": [
     {
       "href": "https://x.com/Getready_808HBD",
@@ -36,15 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-18T14:29:50.427864"
+    "fetchedAt": "2025-09-19T14:20:11.240118"
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0197f723-3c28-7fe2-b98b-f337d12cdabd",
+    "jaUrl": "https://interparkglobal.com/ja/festas/0197f723-3c28-7fe2-b98b-f337d12cdabd",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f723-3c28-7fe2-b98b-f337d12cdabd"
   },
   "translations": {
+    "en": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『Younghoon』 Birthday Cafe 🎂"
+    },
+    "ja": {
+      "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu,",
+      "title": "『ヨンフン』センイルカフェ🎂"
+    },
     "zh-cn": {
       "address": "Seoul, 44 Sinchon-ro 2an-gil, Mapo-gu,",
       "title": "“英勋” 生日咖啡厅🎂"
