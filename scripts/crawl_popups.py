@@ -24,6 +24,7 @@ from scripts.triple_client import (
     parse_sitemap_urls,
 )
 from scripts.storage import save_record_json, upsert_records_sqlite
+from scripts.rules import PopupRules
 
 
 # Preferred locales to fetch (ko often missing; include zh-CN)
@@ -171,6 +172,14 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
         if not any_lang_ok:
             return None
         merged.setdefault("meta", {})["fetchedAt"] = datetime.utcnow().isoformat()
+        # Classification (non-blocking): set isPopup based on category allowlist
+        rules = PopupRules()
+        is_popup = rules.match_category(merged.get("category"))
+        merged["isPopup"] = is_popup
+        if is_popup:
+            det = merged.setdefault("meta", {}).setdefault("detection", {})
+            det["rule"] = "category"
+            det["category"] = merged.get("category")
         save_record_json(merged)
         return merged
 
