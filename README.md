@@ -3,11 +3,11 @@
 Weekly crawler that discovers Festa pages on the target service and extracts popup-store events from SSR Apollo State, saving normalized JSON and a SQLite snapshot.
 
 ## What it does
-- Discovers Festa detail URLs via `sitemap-index.xml` → `sitemap-festa-detail-urls-*.xml`.
-- Fetches detail pages for `ko`, `en`, `ja` locales: `/{lang}/content/festas/{id}`.
-- Parses Next.js `__NEXT_DATA__` JSON → `apolloState` → `Festa` entity.
-- Classifies popups by category allowlist and keyword/duration heuristics.
-- Saves JSON to `data/popups/{id}.json` and updates `data/popups.sqlite`.
+- Discovers Festa detail URLs via `https://triple.global/sitemap-index.xml` → `sitemap-festa-detail-urls-*.xml`.
+- Fetches Festa detail pages from Interpark Global for preferred locales `zh-cn`, `en`, `ja`, `ko`: `https://interparkglobal.com/{lang}/festas/{id}`.
+- Parses Next.js `__NEXT_DATA__` JSON and supports both legacy `apolloState` and `pageProps.__APOLLO_CACHE__` to extract the `Festa` entity.
+- Classifies popups with a normalized category allowlist (e.g., `POP-UP`/`POP UP`/`POPUP_EVENT` → popup). Keyword/duration heuristics are planned.
+- Saves JSON to `data/popups/{id}.json` and updates `data/popups.sqlite`. Records are tagged with `isPopup` and `meta.detection` but not filtered out at save time.
 
 ## Image rules
 - Representative: `headImage` if present; otherwise first content image.
@@ -17,14 +17,23 @@ Weekly crawler that discovers Festa pages on the target service and extracts pop
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-python scripts/crawl_popups.py  # optional: limit with an integer arg
+# Basic run
+python scripts/crawl_popups.py
+
+# Useful options
+#   --limit N       Limit number of Festa IDs
+#   --fast          Stop after first successful locale
+#   --workers N     Concurrency (default: 8)
+#   --qps Q         Global requests/sec (default: 2.0)
+#   --langs list    Comma-separated locale order (default: zh-cn,en,ja,ko)
+python scripts/crawl_popups.py --limit 50 --fast --workers 8 --qps 2.0
 ```
 
 ## GitHub Actions
 - Workflow: `.github/workflows/crawl-popups.yml`
 - Schedule: weekly at 19:00 UTC (Mon 04:00 KST)
 - Artifacts: entire `data/` folder (JSON + SQLite)
-- PR: JSON changes only (under `data/popups/`)
+- Commit policy: changes under `data/**/*.json` are committed directly to `main` with a summary of added/modified/deleted counts in the job summary.
 
 ## TODO
 - 상세한 진행 항목은 `docs/TODO.md`를 확인하세요.
@@ -43,10 +52,17 @@ python scripts/crawl_popups.py  # optional: limit with an integer arg
   "translations": { "ko": { "title": "...", "address": "..." }, "en": {}, "ja": {} },
   "source": { "koUrl": "...", "enUrl": "...", "jaUrl": "..." },
   "isPopup": true,
-  "meta": { "fetchedAt": "2025-01-01T00:00:00Z", "detection": {"rule": "category|keyword|duration"} }
+  "meta": {
+    "fetchedAt": "2025-01-01T00:00:00Z",
+    "detection": {
+      "rule": "category",
+      "category": "POP-UP"
+    }
+  }
 }
 ```
 
 ## Notes
 - Respects robots.txt (Allow: /) and uses gentle rate limiting.
 - No GraphQL direct calls; relies on SSR data to avoid introspection/auth constraints.
+- Current classification writes tags only; filtering to popups can be enabled later if needed by downstreams.
