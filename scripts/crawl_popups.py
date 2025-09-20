@@ -27,6 +27,7 @@ from scripts.triple_client import (
 from scripts.storage import save_record_json, upsert_records_sqlite
 from scripts.rules import PopupRules, load_rules
 from scripts.http_cache import HttpCache
+from scripts.validators import validate_record
 
 
 # Preferred locales to fetch (ko often missing; include zh-CN)
@@ -215,6 +216,11 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
         norm = _normalize_pricing_from_texts(price_texts)
         if norm:
             merged.setdefault("pricing", {})["normalized"] = norm
+        # Validation (non-blocking): attach errors/warnings
+        errs, warns = validate_record(merged)
+        if errs or warns:
+            merged.setdefault("meta", {}).setdefault("validation", {})["errors"] = errs
+            merged.setdefault("meta", {}).setdefault("validation", {})["warnings"] = warns
         save_record_json(merged)
         return merged
 

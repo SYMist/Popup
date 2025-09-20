@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/popup-record.schema.json",
+  "type": "object",
+  "required": ["id", "meta"],
+  "properties": {
+    "id": { "type": "string" },
+    "category": { "type": ["string", "null"] },
+    "duration": {
+      "type": ["object", "null"],
+      "properties": {
+        "start": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "end": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+      },
+      "additionalProperties": true
+    },
+    "geo": {
+      "type": ["object", "null"],
+      "properties": {
+        "lon": { "type": ["number", "null"] },
+        "lat": { "type": ["number", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "links": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "object",
+        "properties": {
+          "href": { "type": ["string", "null"], "format": "uri" },
+          "label": { "type": ["string", "null"] }
+        },
+        "required": ["href"],
+        "additionalProperties": true
+      }
+    },
+    "images": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": ["string", "null"], "format": "uri" },
+          "variant": { "type": ["string", "null"] },
+          "role": { "type": ["string", "null"] }
+        },
+        "required": ["url"],
+        "additionalProperties": true
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "fetchedAt": { "type": "string" },
+        "detection": { "type": ["object", "null"] }
+      },
+      "required": ["fetchedAt"],
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}
+
