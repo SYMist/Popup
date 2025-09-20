@@ -33,10 +33,20 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:21.934816"
+    "fetchedAt": "2025-09-20T07:35:11.706036",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "チャージ料金 1人当たり11,000ウォン（料理とドリンクは別料金）",
+    "normalized": {
+      "amountMax": 11000.0,
+      "amountMin": 1.0
+    },
     "type": "PAID"
   },
   "source": {

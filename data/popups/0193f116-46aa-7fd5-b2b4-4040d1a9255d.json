@@ -33,21 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:10.952237"
+    "detection": {
+      "durationDays": 11,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:45.931454",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193f116-46aa-7fd5-b2b4-4040d1a9255d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193f116-46aa-7fd5-b2b4-4040d1a9255d"
   },
   "translations": {
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
-      "title": "なにわ男子 ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "priceDesc": "null",

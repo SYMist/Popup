@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 10,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:41.305858"
+    "fetchedAt": "2025-09-20T07:34:53.240582",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196d1a0-ae48-7320-9fb0-b998aee70bd5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196d1a0-ae48-7320-9fb0-b998aee70bd5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196d1a0-ae48-7320-9fb0-b998aee70bd5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
-      "title": "IVE x MINIVE POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
-      "title": "IVE x MINIVE ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 300 Olympic-ro﻿, Songpa-gu,",
       "title": "IVE x MINIVE 快闪店"

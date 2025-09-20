@@ -32,22 +32,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:57.329897"
+    "fetchedAt": "2025-09-20T07:35:27.529474",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
+    "normalized": {
+      "amountMax": 20000.0,
+      "amountMin": 10000.0
+    },
     "type": "PAID"
   },
   "source": {
-    "jaUrl": "https://interparkglobal.com/ja/festas/018e1d38-2a29-7cd5-b1ed-49abe7586046",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018e1d38-2a29-7cd5-b1ed-49abe7586046"
   },
   "translations": {
-    "ja": {
-      "address": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, ",
-      "priceDesc": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",
-      "title": "Get All Right ジャズバー"
-    },
     "zh-cn": {
       "address": "2-3F, 304, Haeundaehaebyeon-ro, Haeundae-gu, ",
       "priceDesc": "水、木、日曜日：10,000ウォン / 金、土曜日：20,000ウォン",

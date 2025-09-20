@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:56.501577"
+    "fetchedAt": "2025-09-20T07:34:56.655898",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01956996-da77-77dc-b026-383105cff094",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01956996-da77-77dc-b026-383105cff094",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956996-da77-77dc-b026-383105cff094"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
-      "title": "Changgyeonggung Palace Water Light Lotus 2025"
-    },
-    "ja": {
-      "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
-      "title": "2025 昌慶宮 ライトアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 185 ﻿Changgyeonggung-ro, Jongno-gu,",
       "title": "2025 昌庆宫水光莲花"

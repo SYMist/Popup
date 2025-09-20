@@ -30,32 +30,24 @@
     {
       "href": "http://gwangallimdrone.co.kr/",
       "label": "查看更多"
-    },
-    {
-      "href": "https://www.gwangallimdrone.co.kr/en/home",
-      "label": "See more"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:37.036228"
+    "fetchedAt": "2025-09-20T07:35:14.745515",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018d52af-bdee-73f4-a491-1000cbf16a31",
-    "jaUrl": "https://interparkglobal.com/ja/festas/018d52af-bdee-73f4-a491-1000cbf16a31",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018d52af-bdee-73f4-a491-1000cbf16a31"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu,",
-      "title": "Gwangalli M Drone Light Show"
-    },
-    "ja": {
-      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu,",
-      "title": "広安里 M ドローンライトショー"
-    },
     "zh-cn": {
       "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu,",
       "title": "广安里M无人机灯光秀"

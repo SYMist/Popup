@@ -33,10 +33,20 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:18.847105"
+    "fetchedAt": "2025-09-20T07:35:10.641353",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "ライブチャージ : 平日(火-木) 10,000ウォン（1人） / 週末(金、土) 20,000ウォン (お料理とドリンクは別料金)",
+    "normalized": {
+      "amountMax": 20000.0,
+      "amountMin": 1.0
+    },
     "type": "PAID"
   },
   "source": {

@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:03:47.248638"
+    "detection": {
+      "durationDays": 57,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:40.285798",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01961d56-b207-7850-be8e-4ba495639706",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01961d56-b207-7850-be8e-4ba495639706",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01961d56-b207-7850-be8e-4ba495639706"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 10, Neungdong-ro, Gwangjin-gu, ",
-      "title": "Hangang River Fireworks Drone Light Show"
-    },
-    "ja": {
-      "address": "Seoul, 10, Neungdong-ro, Gwangjin-gu, ",
-      "title": "2025 漢江ドローン ライトショー"
-    },
     "zh-cn": {
       "address": "Seoul, 10, Neungdong-ro, Gwangjin-gu, ",
       "title": "2025 汉江灯光表演无人机灯光秀"

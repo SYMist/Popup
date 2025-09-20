@@ -25,10 +25,23 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:40.575276"
+    "detection": {
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-20T07:35:23.480944",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

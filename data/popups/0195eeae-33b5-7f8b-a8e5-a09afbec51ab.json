@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 5,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:05:03.760624"
+    "fetchedAt": "2025-09-20T07:34:59.180440",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195eeae-33b5-7f8b-a8e5-a09afbec51ab",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195eeae-33b5-7f8b-a8e5-a09afbec51ab",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eeae-33b5-7f8b-a8e5-a09afbec51ab"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu, ",
-      "title": "Pokemon Bread POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu, ",
-      "title": "ポケモンパン ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 74, Seongsui-ro, Seongdong-gu, ",
       "title": "宝可梦面包快闪店"

@@ -23,26 +23,6 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e039ca90-2ecc-4181-bbc5-5ea37d743b9d.jpeg",
       "variant": "small_square"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4d7c9eac-68ef-4107-b2bf-06377c6a0dab.jpeg",
-      "variant": "full"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4d7c9eac-68ef-4107-b2bf-06377c6a0dab.jpeg",
-      "variant": "small_square"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/54f93be5-e05d-497e-a59a-b5685ca11f1b.jpeg",
-      "variant": "full"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/54f93be5-e05d-497e-a59a-b5685ca11f1b.jpeg",
-      "variant": "small_square"
     }
   ],
   "isPopup": false,
@@ -53,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:01.199157"
+    "detection": {
+      "durationDays": 67,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:42.717347",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196422a-367b-701d-83e0-fc58ce67c64f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196422a-367b-701d-83e0-fc58ce67c64f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196422a-367b-701d-83e0-fc58ce67c64f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 1﻿10 Sejong-daero, Jung-gu,",
-      "title": "2025 Seoul Outdoor Library"
-    },
-    "ja": {
-      "address": "Seoul, 1﻿10 Sejong-daero, Jung-gu,",
-      "title": "2025 ソウル野外図書館"
-    },
     "zh-cn": {
       "address": "Seoul, 1﻿10 Sejong-daero, Jung-gu,",
       "title": "2025首尔户外图书馆"

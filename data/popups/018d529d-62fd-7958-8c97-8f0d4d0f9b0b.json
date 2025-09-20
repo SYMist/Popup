@@ -37,25 +37,21 @@
       "category": "POP-UP",
       "rule": "category"
     },
-    "fetchedAt": "2025-09-19T14:05:35.067134"
+    "fetchedAt": "2025-09-20T07:35:13.577013",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018d529d-62fd-7958-8c97-8f0d4d0f9b0b"
   },
   "translations": {
-    "en": {
-      "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
-      "title": "CHANEL Jeju Seasonal Boutique"
-    },
-    "ja": {
-      "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
-      "title": "CHANEL 済州 シーズナルブティック"
-    },
     "zh-cn": {
       "address": "Jeju, 75, Jungmungwangwang-ro 72beon-gil, Seogwipo-si",
       "title": "CHANEL济州季节精品店"

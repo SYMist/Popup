@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:03:45.861855"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:38.281764",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196668a-8617-762e-8f37-d87ff8e71484",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196668a-8617-762e-8f37-d87ff8e71484",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196668a-8617-762e-8f37-d87ff8e71484"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
-      "title": "Seoul Royal Palaces International Walk 2025"
-    },
-    "ja": {
-      "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
-      "title": "2025年ソウル外国人 宮殿ウォーキング大会"
-    },
     "zh-cn": {
       "address": "Seoul, 45, Jong-ro 1-gil, Jongno-gu, ",
       "title": "2025首尔外国人宫殿徒步大会 "

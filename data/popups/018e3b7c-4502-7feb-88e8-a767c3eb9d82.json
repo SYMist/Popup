@@ -35,9 +35,16 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 29,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:06:05.607648"
+    "fetchedAt": "2025-09-20T07:35:37.721894",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

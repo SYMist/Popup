@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:03:57.986234"
+    "fetchedAt": "2025-09-20T07:34:41.264221",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971ac4-1074-7dcc-8715-abfd9dcdf4d6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971ac4-1074-7dcc-8715-abfd9dcdf4d6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971ac4-1074-7dcc-8715-abfd9dcdf4d6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "SEVENTEEN 5th Album HAPPY BURSTDAY POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "SEVENTEEN 5th Album HAPPY BURSTDAY POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "SEVENTEEN 第5张专辑 HAPPY BURSTDAY"

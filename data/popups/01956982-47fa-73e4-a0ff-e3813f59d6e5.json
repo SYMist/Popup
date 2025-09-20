@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 30,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:53.425797"
+    "fetchedAt": "2025-09-20T07:34:56.182800",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01956982-47fa-73e4-a0ff-e3813f59d6e5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01956982-47fa-73e4-a0ff-e3813f59d6e5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956982-47fa-73e4-a0ff-e3813f59d6e5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 807 Seolleung-ro, G﻿angnam-gu,",
-      "title": "Space Dust Character POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 807 Seolleung-ro, G﻿angnam-gu,",
-      "title": "ウジュモンジ ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 807 Seolleung-ro, G﻿angnam-gu,",
       "title": "宇宙尘埃快闪店"

@@ -25,25 +25,25 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:15.274797"
+    "detection": {
+      "durationDays": 11,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:46.735045",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01958df3-0f0b-7277-a0eb-8b81d73eb870",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01958df3-0f0b-7277-a0eb-8b81d73eb870",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01958df3-0f0b-7277-a0eb-8b81d73eb870"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "Mediheal X Fleabee Pop-up Store"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "MEDIHEAL x PLAVE ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
       "title": "MEDIHEAL X 8LAY 快闪店"

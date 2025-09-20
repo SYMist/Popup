@@ -33,28 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:43.064226"
+    "detection": {
+      "durationDays": 38,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:53.733372",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "观览费用3,000韩元",
+    "normalized": {
+      "amountMax": 3000.0,
+      "amountMin": 3000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196d1ac-fe3e-7230-845d-957b49dca75e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196d1ac-fe3e-7230-845d-957b49dca75e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196d1ac-fe3e-7230-845d-957b49dca75e"
   },
   "translations": {
-    "en": {
-      "address": " Seoul, 161 Sajik-﻿ro, Jongno-gu",
-      "priceDesc": "Admission fee 3,000 won",
-      "title": "Gyeongbokgung Palace Night Opening"
-    },
-    "ja": {
-      "address": " Seoul, 161 Sajik-﻿ro, Jongno-gu",
-      "priceDesc": "観覧料金3,000ウォン",
-      "title": "景福宮夜間観覧"
-    },
     "zh-cn": {
       "address": " Seoul, 161 Sajik-﻿ro, Jongno-gu",
       "priceDesc": "观览费用3,000韩元",

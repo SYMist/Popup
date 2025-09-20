@@ -37,25 +37,21 @@
       "category": "POP-UP",
       "rule": "category"
     },
-    "fetchedAt": "2025-09-19T14:03:58.733389"
+    "fetchedAt": "2025-09-20T07:34:42.318933",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971ad0-5482-7232-ac0f-f2454d2f12f0",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971ad0-5482-7232-ac0f-f2454d2f12f0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971ad0-5482-7232-ac0f-f2454d2f12f0"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu, ",
-      "title": "HiKR Ground Exhibit POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu, ",
-      "title": "ハイカーグラウンド 展示ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 40, Cheonggyecheon-ro, Jung-gu, ",
       "title": "好客空间 HiKR Ground 展览快闪"

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 30,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:26.608092"
+    "fetchedAt": "2025-09-20T07:34:49.666839",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01956f12-52b7-7ccd-90f5-7fc3acf9150e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01956f12-52b7-7ccd-90f5-7fc3acf9150e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01956f12-52b7-7ccd-90f5-7fc3acf9150e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
-      "title": "Gudal x TiniPing"
-    },
-    "ja": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
-      "title": "goodal x ティニピン"
-    },
     "zh-cn": {
       "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
       "title": "Gudal xTeenieping"

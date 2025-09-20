@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:38.737128"
+    "detection": {
+      "durationDays": 89,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:35:23.233636",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "1人用 茶菓セット25,000ウォン / 単品メニュー 12,000ウォン",
+    "normalized": {
+      "amountMax": 25000.0,
+      "amountMin": 1.0
+    },
     "type": "PAID"
   },
   "source": {

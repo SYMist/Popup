@@ -33,7 +33,17 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:06:47.300311"
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:36:09.223527",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

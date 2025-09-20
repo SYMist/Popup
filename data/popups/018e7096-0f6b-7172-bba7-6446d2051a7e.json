@@ -28,10 +28,24 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:06:12.562198"
+    "detection": {
+      "durationDays": 30,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:35:46.705151",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "大人 : 6,000ウォン",
+    "normalized": {
+      "amountMax": 6000.0,
+      "amountMin": 6000.0
+    },
     "type": "PAID"
   },
   "source": {

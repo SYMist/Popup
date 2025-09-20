@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:12.875796"
+    "detection": {
+      "durationDays": 29,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:35:02.184935",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195eef5-00da-7090-9fa9-dfa787373794",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195eef5-00da-7090-9fa9-dfa787373794",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eef5-00da-7090-9fa9-dfa787373794"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
-      "title": "Dermatory X Do Kyung-soo POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
-      "title": "DERMATORY X ドギョンス ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu, ",
       "title": "DERMATORY X 都暻秀快闪店"

@@ -1,0 +1,16 @@
+{
+  "saved": 100,
+  "skipped": 0,
+  "failedEntries": [
+    {
+      "id": "018e7058-fac4-703e-886a-94f6c65e9599",
+      "lang": "zh-cn",
+      "error": "HTTPError('404 Client Error: Not Found for url: https://interparkglobal.com/zh-cn/festas/018e7058-fac4-703e-886a-94f6c65e9599')"
+    },
+    {
+      "id": "018e7058-fac4-703e-886a-94f6c65e9599",
+      "lang": "zh-cn",
+      "error": "HTTPError('404 Client Error: Not Found for url: https://interparkglobal.com/zh-cn/festas/018e7058-fac4-703e-886a-94f6c65e9599')"
+    }
+  ]
+}

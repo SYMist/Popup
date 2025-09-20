@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:45.739130"
+    "detection": {
+      "durationDays": 30,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:54.233288",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01966b47-f621-79a5-9020-d2c96807309d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01966b47-f621-79a5-9020-d2c96807309d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01966b47-f621-79a5-9020-d2c96807309d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "DDP Spring Festival: Design Zoo"
-    },
-    "ja": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "DDP春祭り: デザイン動物園 "
-    },
     "zh-cn": {
       "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
       "title": "DDP 春季庆典：设计动物园"

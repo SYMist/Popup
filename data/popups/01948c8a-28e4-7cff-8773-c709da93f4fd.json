@@ -28,26 +28,26 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:03.980568"
+    "detection": {
+      "durationDays": 34,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:44.088348",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01948c8a-28e4-7cff-8773-c709da93f4fd",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01948c8a-28e4-7cff-8773-c709da93f4fd",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01948c8a-28e4-7cff-8773-c709da93f4fd"
   },
   "translations": {
-    "en": {
-      "address": "Seoul,, 66, Chungmin-ro, Songpa-gu,",
-      "title": "Hyundai Outlet Garden Five Event"
-    },
-    "ja": {
-      "address": "Seoul,, 66, Chungmin-ro, Songpa-gu,",
-      "title": "現代アウトレットガーデンファイブ店イベント"
-    },
     "zh-cn": {
       "address": "Seoul,, 66, Chungmin-ro, Songpa-gu,",
       "priceDesc": "null",

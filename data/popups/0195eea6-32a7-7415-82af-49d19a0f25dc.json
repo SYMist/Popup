@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:02.394257"
+    "detection": {
+      "durationDays": 12,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:58.823062",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195eea6-32a7-7415-82af-49d19a0f25dc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195eea6-32a7-7415-82af-49d19a0f25dc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eea6-32a7-7415-82af-49d19a0f25dc"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "SHINee KEY X Hello Kitty POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "KEYとHELLO KITTYはどこ？"
-    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "KEY在哪里？with HELLO KITTY"

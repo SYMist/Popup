@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:18.064851"
+    "fetchedAt": "2025-09-20T07:34:47.090529",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019612f3-609b-7f81-9ff7-d765601e0384",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019612f3-609b-7f81-9ff7-d765601e0384",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019612f3-609b-7f81-9ff7-d765601e0384"
   },
   "translations": {
-    "en": {
-      "address": "Hanam-si,, 750, Misadaero,",
-      "title": "Lica Rica Pop-up at Starfield Hanam"
-    },
-    "ja": {
-      "address": "Hanam-si,, 750, Misadaero,",
-      "title": "likalika ポップアップ"
-    },
     "zh-cn": {
       "address": "Hanam-si,, 750, Misadaero,",
       "title": "likalika 快闪店 in Starfield 河南"

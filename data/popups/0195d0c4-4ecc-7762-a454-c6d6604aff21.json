@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:57.314041"
+    "detection": {
+      "durationDays": 24,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:57.062223",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d0c4-4ecc-7762-a454-c6d6604aff21"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
-      "title": "Yangjaecheon Stream Cherry Blossom Lantern Festival"
-    },
-    "ja": {
-      "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
-      "title": "良才川桜灯祭り"
-    },
     "zh-cn": {
       "address": "Seoul, 261-23, Yangjae-dong, Seocho-gu, ",
       "title": "良才川樱花灯会"

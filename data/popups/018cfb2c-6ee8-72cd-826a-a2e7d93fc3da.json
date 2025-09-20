@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:05:29.322091"
+    "fetchedAt": "2025-09-20T07:35:05.145983",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018cfb2c-6ee8-72cd-826a-a2e7d93fc3da",
-    "jaUrl": "https://interparkglobal.com/ja/festas/018cfb2c-6ee8-72cd-826a-a2e7d93fc3da",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018cfb2c-6ee8-72cd-826a-a2e7d93fc3da"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, Jung-gu, Sejongdaero 40",
-      "title": "Sungnyemun Gate Guard Ceremony"
-    },
-    "ja": {
-      "address": "Seoul, Jung-gu, Sejongdaero 40",
-      "title": "崇礼門 把守儀式"
-    },
     "zh-cn": {
       "address": "Seoul, Jung-gu, Sejongdaero 40",
       "title": "崇礼门把守仪式"

@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:03:48.291351"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:39.760756",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01968f60-aea4-79c0-b2bd-6b126bb77eda",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01968f60-aea4-79c0-b2bd-6b126bb77eda",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01968f60-aea4-79c0-b2bd-6b126bb77eda"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu, ",
-      "title": "『Haechan』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu, ",
-      "title": "『ヘチャン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu, ",
       "title": "“楷灿”生日咖啡厅🎂"

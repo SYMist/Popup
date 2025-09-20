@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:32.532564"
+    "fetchedAt": "2025-09-20T07:34:51.048160",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019632df-3ed6-73e7-96da-ba7a9dab6ea0",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019632df-3ed6-73e7-96da-ba7a9dab6ea0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019632df-3ed6-73e7-96da-ba7a9dab6ea0"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 17-1, Yeonmujang-gil, Seongdong-gu,",
-      "title": "Chilsung Cider Seongsu POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 17-1, Yeonmujang-gil, Seongdong-gu,",
-      "title": "チルソンサイダー 聖水 ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 17-1, Yeonmujang-gil, Seongdong-gu,",
       "title": "七星雪碧圣水快闪店"

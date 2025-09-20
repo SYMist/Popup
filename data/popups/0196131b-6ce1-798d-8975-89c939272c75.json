@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 8,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:21.893482"
+    "fetchedAt": "2025-09-20T07:34:48.330235",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196131b-6ce1-798d-8975-89c939272c75",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196131b-6ce1-798d-8975-89c939272c75",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196131b-6ce1-798d-8975-89c939272c75"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "Wakemake Showroom Pop-up Store"
-    },
-    "ja": {
-      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "wakemake ショールーム ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
       "title": "wakemake 展示快闪店"

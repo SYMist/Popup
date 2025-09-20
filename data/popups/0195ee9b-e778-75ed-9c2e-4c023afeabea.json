@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 39,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:05:02.261384"
+    "fetchedAt": "2025-09-20T07:34:58.259127",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195ee9b-e778-75ed-9c2e-4c023afeabea",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195ee9b-e778-75ed-9c2e-4c023afeabea",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195ee9b-e778-75ed-9c2e-4c023afeabea"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 6, Yeonmujang 5-gil, Seongdong-gu, ",
-      "title": "K-beauty Brand Dasique POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 6, Yeonmujang 5-gil, Seongdong-gu, ",
-      "title": "チューインググロー ポット ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 6, Yeonmujang 5-gil, Seongdong-gu, ",
       "title": "Chewing glow pot 快闪店"

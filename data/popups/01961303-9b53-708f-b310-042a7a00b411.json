@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:04:20.269101"
+    "fetchedAt": "2025-09-20T07:34:47.738091",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01961303-9b53-708f-b310-042a7a00b411",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01961303-9b53-708f-b310-042a7a00b411",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01961303-9b53-708f-b310-042a7a00b411"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "Innisfree X Tweety POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "INNISFREE X トゥイーティー ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 77, Yeonmujang 7-gil, Seongdong-gu,",
       "title": "悦诗风吟 X 翠迪鸟快闪店"

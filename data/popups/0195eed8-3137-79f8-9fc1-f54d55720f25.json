@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 61,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:05:08.297944"
+    "fetchedAt": "2025-09-20T07:35:00.190833",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195eed8-3137-79f8-9fc1-f54d55720f25",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195eed8-3137-79f8-9fc1-f54d55720f25",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195eed8-3137-79f8-9fc1-f54d55720f25"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 38, Apgujeong-ro 46-gil, Gangnam-gu, ",
-      "title": "Medicube X Kuromi POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 38, Apgujeong-ro 46-gil, Gangnam-gu, ",
-      "title": "Medicube X クロミ ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 38, Apgujeong-ro 46-gil, Gangnam-gu, ",
       "title": "MEDICUBE X 库洛米快闪店"

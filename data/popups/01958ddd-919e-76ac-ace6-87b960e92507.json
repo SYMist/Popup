@@ -30,25 +30,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:12.888216"
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:46.241609",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01958ddd-919e-76ac-ace6-87b960e92507",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01958ddd-919e-76ac-ace6-87b960e92507",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01958ddd-919e-76ac-ace6-87b960e92507"
   },
   "translations": {
-    "en": {
-      "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, Seoul",
-      "title": "BLACKPINK JISOO AMORTAGE POP-UP"
-    },
-    "ja": {
-      "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, ",
-      "title": "JISOO AMORTAGE POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul,  426, Gangnam-daero, Gangnam-gu, ",
       "title": "JISOO AMORTAGE 快闪店"

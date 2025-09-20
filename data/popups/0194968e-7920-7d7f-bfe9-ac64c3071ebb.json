@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:04:03.592051"
+    "detection": {
+      "durationDays": 72,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-20T07:34:43.214692",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0194968e-7920-7d7f-bfe9-ac64c3071ebb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0194968e-7920-7d7f-bfe9-ac64c3071ebb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194968e-7920-7d7f-bfe9-ac64c3071ebb"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "DDP Exhibition Free Admission"
-    },
-    "ja": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "DDP 無料展示"
-    },
     "zh-cn": {
       "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
       "priceDesc": "null",
