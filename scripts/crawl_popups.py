@@ -24,7 +24,7 @@ from scripts.triple_client import (
     parse_sitemap_urls,
 )
 from scripts.storage import save_record_json, upsert_records_sqlite
-from scripts.rules import PopupRules
+from scripts.rules import PopupRules, load_rules
 
 
 # Preferred locales to fetch (ko often missing; include zh-CN)
@@ -173,7 +173,7 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
             return None
         merged.setdefault("meta", {})["fetchedAt"] = datetime.utcnow().isoformat()
         # Classification (non-blocking): tag popup detection by category|keyword|duration
-        rules = PopupRules()
+        rules = load_rules()
         titles: List[str] = []
         tr = merged.get("translations") or {}
         if isinstance(tr, dict):

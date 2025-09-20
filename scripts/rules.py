@@ -2,6 +2,9 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from datetime import date
+import json
+import os
+from pathlib import Path
 import re
 from typing import Iterable, List, Tuple, Dict, Any
 
@@ -125,3 +128,47 @@ class PopupRules:
         is_popup = cat_ok or (kw_ok and dur_ok)
         details["rule"] = "|".join(reasons) if reasons else ""
         return is_popup, details
+
+
+# ---- Config loading ----
+def _project_root() -> Path:
+    return Path(__file__).resolve().parent.parent
+
+
+def _default_config_path() -> Path:
+    return _project_root() / "config" / "rules.json"
+
+
+def load_rules(path: str | os.PathLike | None = None) -> PopupRules:
+    """Load PopupRules from a JSON config file if present; otherwise defaults.
+
+    The config shape:
+      {
+        "allowed_categories": ["POPUP", "POPUPEVENT", ...],
+        "keyword_ko": ["팝업", ...],
+        "keyword_en": ["popup", ...],
+        "keyword_ja": ["ポップアップ", ...],
+        "max_days_heuristic": 90
+      }
+    """
+    cfg_path = Path(path) if path else _default_config_path()
+    if not cfg_path.exists():
+        return PopupRules()
+    try:
+        data = json.loads(cfg_path.read_text(encoding="utf-8"))
+    except Exception:
+        return PopupRules()
+
+    def as_tuple(key: str, fallback: tuple[str, ...]) -> tuple[str, ...]:
+        v = data.get(key)
+        if isinstance(v, list):
+            return tuple(str(x) for x in v)
+        return fallback
+
+    return PopupRules(
+        allowed_categories=as_tuple("allowed_categories", PopupRules.allowed_categories),
+        keyword_ko=as_tuple("keyword_ko", PopupRules.keyword_ko),
+        keyword_en=as_tuple("keyword_en", PopupRules.keyword_en),
+        keyword_ja=as_tuple("keyword_ja", PopupRules.keyword_ja),
+        max_days_heuristic=int(data.get("max_days_heuristic", PopupRules.max_days_heuristic)),
+    )

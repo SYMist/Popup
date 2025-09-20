@@ -1,0 +1,34 @@
+{
+  "allowed_categories": [
+    "POPUP",
+    "POPUPEVENT",
+    "POPUPSTORE"
+  ],
+  "keyword_ko": [
+    "팝업",
+    "팝업스토어",
+    "팝업 스토어",
+    "팝업샵",
+    "팝업 샵",
+    "팝업전",
+    "팝업 전"
+  ],
+  "keyword_en": [
+    "popup",
+    "pop-up",
+    "pop up",
+    "popup store",
+    "popup shop",
+    "pop-up store",
+    "pop-up shop",
+    "popup event",
+    "pop-up event"
+  ],
+  "keyword_ja": [
+    "ポップアップ",
+    "ポップアップストア",
+    "ポップアップショップ",
+    "ポップアップ イベント"
+  ],
+  "max_days_heuristic": 90
+}
