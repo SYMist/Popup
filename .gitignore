@@ -11,7 +11,9 @@ docs/chat-log-*.md
 
 # Data
 data/popups.sqlite
+data/http_cache.sqlite
 data/*.db
+data/*.sqlite
 data/*.sqlite3
 
 # OS/editor
