@@ -272,21 +272,7 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
     return 0
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Crawl popup festas")
-    parser.add_argument("--limit", type=int, default=None, help="Limit number of festa IDs")
-    parser.add_argument("--fast", action="store_true", help="Stop after first successful locale")
-    parser.add_argument("--workers", type=int, default=8, help="Number of concurrent workers")
-    parser.add_argument("--qps", type=float, default=2.0, help="Global requests per second")
-    parser.add_argument(
-        "--langs",
-        type=str,
-        default=",".join(LANGS),
-        help="Comma-separated locale order to try",
-    )
-    args = parser.parse_args()
-    lang_list = [x.strip() for x in args.langs.split(",") if x.strip()]
-    raise SystemExit(main(args.limit, args.fast, args.workers, args.qps, lang_list))
+ 
 def _parse_date(s: Optional[str]) -> Optional[date]:
     if not s:
         return None
@@ -352,3 +338,20 @@ def _normalize_pricing_from_texts(texts: List[str]) -> Optional[Dict[str, Any]]:
     if currency:
         norm["currency"] = currency
     return norm if norm else None
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Crawl popup festas")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of festa IDs")
+    parser.add_argument("--fast", action="store_true", help="Stop after first successful locale")
+    parser.add_argument("--workers", type=int, default=8, help="Number of concurrent workers")
+    parser.add_argument("--qps", type=float, default=2.0, help="Global requests per second")
+    parser.add_argument(
+        "--langs",
+        type=str,
+        default=",".join(LANGS),
+        help="Comma-separated locale order to try",
+    )
+    args = parser.parse_args()
+    lang_list = [x.strip() for x in args.langs.split(",") if x.strip()]
+    raise SystemExit(main(args.limit, args.fast, args.workers, args.qps, lang_list))
