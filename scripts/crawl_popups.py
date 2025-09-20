@@ -7,6 +7,7 @@ import threading
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
+import json
 
 import requests
 from tqdm import tqdm
@@ -198,6 +199,22 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
         merged["isPopup"] = is_popup
         if any(det_details.values()):
             merged.setdefault("meta", {})["detection"] = det_details
+        # Image selection meta
+        imgs = merged.get("images") or []
+        if isinstance(imgs, list):
+            merged.setdefault("meta", {})["images"] = _compute_image_meta(imgs)
+        # Pricing normalization from description texts
+        price_texts: List[str] = []
+        pr = merged.get("pricing") or {}
+        if isinstance(pr, dict) and pr.get("description"):
+            price_texts.append(str(pr.get("description")))
+        if isinstance(tr, dict):
+            for loc, vals in tr.items():
+                if isinstance(vals, dict) and vals.get("priceDesc"):
+                    price_texts.append(str(vals.get("priceDesc")))
+        norm = _normalize_pricing_from_texts(price_texts)
+        if norm:
+            merged.setdefault("pricing", {})["normalized"] = norm
         save_record_json(merged)
         return merged
 
@@ -271,3 +288,61 @@ def _parse_date(s: Optional[str]) -> Optional[date]:
         return datetime.strptime(s, "%Y-%m-%d").date()
     except Exception:
         return None
+
+
+def _compute_image_meta(images: List[Dict[str, Any]]) -> Dict[str, Any]:
+    meta: Dict[str, Any] = {"total": len(images), "gallery": max(0, len(images) - 1)}
+    if images:
+        first = images[0]
+        role = first.get("role") or ""
+        if role == "head":
+            meta["selectionRule"] = "headImage"
+        else:
+            meta["selectionRule"] = "firstContentImage"
+        meta["representativeRole"] = role or "unknown"
+    return meta
+
+
+_CURRENCY_MAP = [
+    ("₩", "KRW"), ("원", "KRW"), ("KRW", "KRW"), ("WON", "KRW"),
+    ("$", "USD"), ("USD", "USD"), ("달러", "USD"),
+    ("¥", "JPY"), ("JPY", "JPY"), ("엔", "JPY"), ("円", "JPY"),
+    ("CNY", "CNY"), ("RMB", "CNY"), ("人民币", "CNY"), ("元", "CNY"), ("￥", "CNY"), ("CN¥", "CNY"),
+]
+
+
+def _normalize_amount_token(tok: str) -> Optional[float]:
+    try:
+        t = tok.replace(",", "").replace(" ", "")
+        return float(t)
+    except Exception:
+        return None
+
+
+def _normalize_pricing_from_texts(texts: List[str]) -> Optional[Dict[str, Any]]:
+    if not texts:
+        return None
+    import re as _re
+    # Detect currency
+    currency = None
+    joined = " \n ".join(texts)
+    for pat, code in _CURRENCY_MAP:
+        if pat.lower() in joined.lower():
+            currency = code
+            break
+    # Extract numbers
+    nums: List[float] = []
+    for txt in texts:
+        for m in _re.finditer(r"(?<!\d)(\d{1,3}(?:[ ,]\d{3})+|\d+)(?:\.\d+)?", txt):
+            val = _normalize_amount_token(m.group(0))
+            if val is not None:
+                nums.append(val)
+    if not nums and currency is None:
+        return None
+    norm: Dict[str, Any] = {}
+    if nums:
+        norm["amountMin"] = float(min(nums))
+        norm["amountMax"] = float(max(nums))
+    if currency:
+        norm["currency"] = currency
+    return norm if norm else None
