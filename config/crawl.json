@@ -1,0 +1,10 @@
+{
+  "retry": {
+    "attempts": 4,
+    "initial": 1.0,
+    "max": 8.0,
+    "multiplier": 2.0,
+    "jitter": 0.2
+  },
+  "timeout": 20
+}

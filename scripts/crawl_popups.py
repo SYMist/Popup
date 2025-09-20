@@ -25,6 +25,7 @@ from scripts.triple_client import (
 )
 from scripts.storage import save_record_json, upsert_records_sqlite
 from scripts.rules import PopupRules, load_rules
+from scripts.http_cache import HttpCache
 
 
 # Preferred locales to fetch (ko often missing; include zh-CN)
@@ -137,6 +138,7 @@ def merge_localized(base: Dict[str, Any], festa: Dict[str, Any], lang: str) -> D
 def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List[str]) -> int:
     session = requests.Session()
     limiter = RateLimiter(qps) if qps and qps > 0 else None
+    cache = HttpCache()
 
     festa_urls = load_sitemap_festa_urls(session, limiter)
     festa_ids: List[str] = []
@@ -155,19 +157,24 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
     if limit:
         ordered_ids = ordered_ids[:limit]
 
+    errors: List[Dict[str, Any]] = []
+    err_lock = threading.Lock()
+
     def process_one(fid: str) -> Optional[Dict[str, Any]]:
         sess = requests.Session()
         merged: Dict[str, Any] = {}
         any_lang_ok = False
         for lang in langs:
             try:
-                festa = fetch_festa_by_lang(sess, fid, lang, limiter.acquire if limiter else None)
+                festa = fetch_festa_by_lang(sess, fid, lang, limiter.acquire if limiter else None, cache)
                 if festa:
                     any_lang_ok = True
                     merged = merge_localized(merged, festa, lang)
                     if fast:
                         break
-            except Exception:
+            except Exception as e:
+                with err_lock:
+                    errors.append({"id": fid, "lang": lang, "error": repr(e)})
                 continue
         if not any_lang_ok:
             return None
@@ -210,7 +217,35 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
     if records:
         upsert_records_sqlite(records)
 
-    print(f"Saved: {saved}, Skipped(non-popup or failed): {skipped}")
+    # Retry queue for failures (second attempt, sequential)
+    if errors:
+        retry_ids = sorted({e["id"] for e in errors})
+        retry_saved = 0
+        for fid in tqdm(retry_ids, desc="Retry failures"):
+            try:
+                res = process_one(fid)
+                if res:
+                    retry_saved += 1
+            except Exception:
+                pass
+        if retry_saved:
+            print(f"Retry saved additionally: {retry_saved}")
+
+    # Emit report
+    report = {
+        "saved": saved,
+        "skipped": skipped,
+        "failedEntries": errors,
+    }
+    try:
+        Path("data").mkdir(parents=True, exist_ok=True)
+        (Path("data") / "crawl_report.json").write_text(
+            json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+    except Exception:
+        pass
+
+    print(f"Saved: {saved}, Skipped(non-popup/failed/unchanged): {skipped}, Failures: {len(errors)}")
     return 0
 
 

@@ -6,10 +6,13 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, date
 from typing import Any, Dict, List, Optional, Tuple, Callable
+import time as _time
+import random
+import json
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
-from tenacity import retry, wait_exponential_jitter, stop_after_attempt
 
 
 SITEMAP_INDEX_URL = "https://triple.global/sitemap-index.xml"
@@ -38,11 +41,52 @@ def _lang_headers(lang: str) -> Dict[str, str]:
     }
 
 
-@retry(wait=wait_exponential_jitter(initial=1, max=10), stop=stop_after_attempt(3))
+def _load_crawl_conf() -> Dict[str, Any]:
+    cfg_path = Path(__file__).resolve().parent.parent / "config" / "crawl.json"
+    if cfg_path.exists():
+        try:
+            return json.loads(cfg_path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {
+        "retry": {"attempts": 4, "initial": 1.0, "max": 8.0, "multiplier": 2.0, "jitter": 0.2},
+        "timeout": 20,
+    }
+
+
 def fetch(session: requests.Session, url: str, *, headers: Optional[Dict[str, str]] = None) -> requests.Response:
-    resp = session.get(url, headers=headers, timeout=20)
-    resp.raise_for_status()
-    return resp
+    conf = _load_crawl_conf().get("retry", {})
+    attempts = int(conf.get("attempts", 4))
+    initial = float(conf.get("initial", 1.0))
+    max_wait = float(conf.get("max", 8.0))
+    mult = float(conf.get("multiplier", 2.0))
+    jitter_ratio = float(conf.get("jitter", 0.2))
+    timeout = float(_load_crawl_conf().get("timeout", 20))
+
+    last_exc: Optional[Exception] = None
+    for i in range(1, attempts + 1):
+        try:
+            resp = session.get(url, headers=headers, timeout=timeout)
+            # Respect Retry-After on throttling/server busy
+            if resp.status_code in (429, 503) and resp.headers.get("Retry-After"):
+                try:
+                    ra = float(resp.headers.get("Retry-After", "0"))
+                    _time.sleep(min(ra, max_wait))
+                    continue
+                except Exception:
+                    pass
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            last_exc = e
+            if i >= attempts:
+                break
+            backoff = min(max_wait, initial * (mult ** (i - 1)))
+            # Full jitter
+            sleep_for = random.uniform(0, backoff)
+            _time.sleep(sleep_for)
+    assert last_exc is not None
+    raise last_exc
 
 
 def parse_sitemap_index(xml_text: str) -> List[str]:
@@ -294,11 +338,26 @@ def fetch_festa_by_lang(
     festa_id: str,
     lang: str,
     limiter: Optional[Callable[[], None]] = None,
+    cache: Optional["HttpCache"] = None,
 ) -> Optional[Dict[str, Any]]:
     url = triple_detail_url(lang, festa_id)
     if limiter:
         limiter()
-    resp = fetch(session, url, headers=_lang_headers(lang))
+    hdrs = _lang_headers(lang)
+    if cache is not None:
+        try:
+            cond = cache.get_conditional_headers(url)
+            hdrs = {**hdrs, **cond}
+        except Exception:
+            pass
+    resp = fetch(session, url, headers=hdrs)
+    if cache is not None:
+        try:
+            cache.update_from_response(url, resp)
+        except Exception:
+            pass
+    if resp.status_code == 304:
+        return None
     data = parse_next_data(resp.text)
     if not data:
         return None
