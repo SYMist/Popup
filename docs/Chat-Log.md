@@ -3,6 +3,34 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-20
+
+- 분류/규칙 보정 및 휴리스틱 강화
+  - 카테고리 Allowlist 정규화: `POP-UP/POP UP/POPUP_EVENT/POPUP_STORE` 등을 토큰화해 매칭(`PopupRules._normalize_category`).
+  - 크롤 결과에 `isPopup` 태깅과 `meta.detection` 기록(원본 category 포함).
+  - 키워드 확장(ko/en/ja) + 기간 휴리스틱 결합: `classify()`로 `category` 또는 `(keyword AND duration≤90일)`일 때 팝업 판정. `keywordHits`, `durationDays`, `rule` 저장.
+  - 규칙/임계값 외부화: `config/rules.json` 도입, `load_rules()`로 런타임 로드.
+- 수집/성능 개선
+  - HTTP 캐시(ETag/Last-Modified): `scripts/http_cache.py` 추가, 상세 요청에 조건부 헤더 적용, 304 시 파싱 스킵. 캐시 DB: `data/http_cache.sqlite`.
+  - 재시도 하드닝: 백오프+풀 지터, 429/503 `Retry-After` 존중. 설정 `config/crawl.json`(attempts/initial/max/multiplier/jitter/timeout).
+  - 실패 수집/재시도/리포트: 1차 실패를 모아 2차 재시도 및 `data/crawl_report.json` 생성.
+  - 버그픽스: `crawl_popups.py`의 `__main__` 블록을 헬퍼 정의 아래로 이동해 `_parse_date` `NameError` 해결.
+- 데이터/출력 고도화
+  - 이미지 메타: `meta.images = { selectionRule, representativeRole, total, gallery }` 기록.
+  - 가격 정규화: `pricing.normalized = { currency, amountMin, amountMax }` 추출.
+  - README 동기화: 인터파크 경로/로케일 우선순위/CLI 옵션/직접 커밋/메타 예시 반영.
+  - TODO의 데이터/출력 항목 체크 완료.
+- 품질보증
+  - JSON 스키마(`config/record.schema.json`)와 검증기(`scripts/validators.py`) 추가, 결과를 `meta.validation.errors/warnings`에 첨부(차단하지 않음).
+  - 파서/검증 단위 테스트(pytest): `tests/test_triple_parser.py`, `tests/test_validators.py` 추가. `requirements.txt`에 `jsonschema`, `pytest` 추가.
+- 실행/결과
+  - 로컬(Python 3.11) 실행: `--limit 100 --fast --workers 8 --qps 2.0`으로 테스트.
+  - 결과: `Saved: 100, Skipped: 0, Failures: 2` → 재시도 `Retry saved additionally: 1` 확인.
+  - 데이터 커밋: `data/**/*.json` + `data/crawl_report.json` 반영.
+- 저장소/운영
+  - `.gitignore`에 `data/http_cache.sqlite` 및 `data/*.sqlite` 무시 규칙 추가.
+  - 정적 웹페이지(뷰어) TODO 섹션 추가(인덱스 빌더/웹 UI/배포 체크리스트).
+
 ## 2025-09-18
 
 - Actions push 실패 원인 해결 및 워크플로 안정화
