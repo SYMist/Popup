@@ -1,7 +1,7 @@
 from __future__ import annotations
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, date
 import argparse
 import threading
 from concurrent.futures import ThreadPoolExecutor
@@ -172,14 +172,25 @@ def main(limit: Optional[int], fast: bool, workers: int, qps: float, langs: List
         if not any_lang_ok:
             return None
         merged.setdefault("meta", {})["fetchedAt"] = datetime.utcnow().isoformat()
-        # Classification (non-blocking): set isPopup based on category allowlist
+        # Classification (non-blocking): tag popup detection by category|keyword|duration
         rules = PopupRules()
-        is_popup = rules.match_category(merged.get("category"))
+        titles: List[str] = []
+        tr = merged.get("translations") or {}
+        if isinstance(tr, dict):
+            for loc, vals in tr.items():
+                if isinstance(vals, dict):
+                    t = vals.get("title")
+                    if t:
+                        titles.append(str(t))
+        dur = merged.get("duration") or {}
+        start = _parse_date(dur.get("start")) if isinstance(dur, dict) else None
+        end = _parse_date(dur.get("end")) if isinstance(dur, dict) else None
+        is_popup, det_details = rules.classify(
+            category=merged.get("category"), titles=titles, start=start, end=end
+        )
         merged["isPopup"] = is_popup
-        if is_popup:
-            det = merged.setdefault("meta", {}).setdefault("detection", {})
-            det["rule"] = "category"
-            det["category"] = merged.get("category")
+        if any(det_details.values()):
+            merged.setdefault("meta", {})["detection"] = det_details
         save_record_json(merged)
         return merged
 
@@ -218,3 +229,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
     lang_list = [x.strip() for x in args.langs.split(",") if x.strip()]
     raise SystemExit(main(args.limit, args.fast, args.workers, args.qps, lang_list))
+def _parse_date(s: Optional[str]) -> Optional[date]:
+    if not s:
+        return None
+    try:
+        return datetime.strptime(s, "%Y-%m-%d").date()
+    except Exception:
+        return None
