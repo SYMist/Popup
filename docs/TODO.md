@@ -28,3 +28,24 @@
 - [x] JSON 스키마 검증(필수 필드 누락 감지)
 - [x] 좌표/기간/링크 유효성 검사 강화
 
+## 정적 웹페이지(뷰어) 구성
+- [ ] 인덱스 빌더 추가(`scripts/build_index.py`) — `data/popups/*.json`에서 요약 `data/index.json` 생성
+  - [ ] 필드 구성: `id,title,start,end,city,lat,lon,category,isPopup,thumb,sourceUrl`
+  - [ ] 타이틀 로케일 우선순위(fallback): `ko → en → ja → zh-cn`
+  - [ ] 썸네일(대표) 선택: `meta.images.selectionRule`/첫 이미지 기반
+  - [ ] 용량 관리: 필요 필드만 포함, 5MB 이하 목표(필요 시 월별 샤딩)
+- [ ] 정적 뷰어 스캐폴드(`web/`) — `index.html`, `app.js`, `styles.css`
+  - [ ] 리스트 카드 UI(대표 이미지/제목/기간/도시/카테고리)
+  - [ ] 상세 모달(갤러리/링크/가격 정규화/감지 근거 표시)
+  - [ ] 필터: `isPopup` 기본 on, 도시/카테고리, 진행상태(진행중/예정/종료)
+  - [ ] 정렬: 종료일 오름차순 기본, 옵션 제공
+  - [ ] 검색: 제목 텍스트 포함 검색
+- [ ] 퍼포먼스
+  - [ ] 인덱스 분할(연-월 단위 `index-YYYY-MM.json`) 및 지연 로딩
+  - [ ] 캐시 버스팅(쿼리스트링에 `?v=timestamp`)
+- [ ] 배포( GitHub Pages )
+  - [ ] Actions 단계 추가: 크롤 후 인덱스 빌드 → `web/` 아티팩트 Pages 배포
+  - [ ] 사용자 도메인/CNAME(선택)
+- [ ] 품질/접근성
+  - [ ] 스키마/인덱스 필드 검증 스크립트(누락/형식)
+  - [ ] 반응형 레이아웃/키보드 내비게이션/대체텍스트
