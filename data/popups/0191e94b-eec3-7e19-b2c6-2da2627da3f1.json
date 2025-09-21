@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:28.087103"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:32.285668",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e94b-eec3-7e19-b2c6-2da2627da3f1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e94b-eec3-7e19-b2c6-2da2627da3f1"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e94b-eec3-7e19-b2c6-2da2627da3f1"
   },
   "translations": {
     "en": {
       "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
       "title": "2024 Seoul Beauty Travel Week"
-    },
-    "ja": {
-      "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
-      "title": "2024 ソウルビューティトラベルウィーク"
     }
   }
 }

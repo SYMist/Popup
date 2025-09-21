@@ -33,23 +33,34 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:21.336547"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:56.385129",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[0]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b05b-6ea9-77de-ab30-5a0b2e7cecf2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
       "title": "2024 FRIEZE SEOUL"
-    },
-    "ja": {
-      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu,",
-      "title": "2024 Frieze Seoul"
     }
   }
 }

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 44,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:59.792843"
+    "fetchedAt": "2025-09-21T19:20:31.269781",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971f7a-1f11-70ef-8839-ff4b1eefd145",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971f7a-1f11-70ef-8839-ff4b1eefd145",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f7a-1f11-70ef-8839-ff4b1eefd145"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 91, Hannam-daero, Yongsan-gu, ",
-      "title": "TSUTAYA Bookstore POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 91, Hannam-daero, Yongsan-gu, ",
-      "title": "蔦屋 ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 91, Hannam-daero, Yongsan-gu, ",
       "title": "茑屋书店生活方式快闪店"

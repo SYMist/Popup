@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:08:53.196426"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:24.856288",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "全席  77,000 ウォン ",
+    "normalized": {
+      "amountMax": 77000.0,
+      "amountMin": 77000.0
+    },
     "type": "PAID"
   },
   "source": {

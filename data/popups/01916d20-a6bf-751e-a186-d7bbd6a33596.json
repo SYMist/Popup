@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:45.826726"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:10.170287",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916d20-a6bf-751e-a186-d7bbd6a33596",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916d20-a6bf-751e-a186-d7bbd6a33596"
+    "enUrl": "https://interparkglobal.com/en/festas/01916d20-a6bf-751e-a186-d7bbd6a33596"
   },
   "translations": {
     "en": {
       "address": "Busan, 1222, Nakdong-daero, Sasang-gu,",
       "title": "2024 BUSAN ROCK FESTIVAL"
-    },
-    "ja": {
-      "address": "Busan, 1222, Nakdong-daero, Sasang-gu,",
-      "title": "2024 釜山国際ロックフェスティバル"
     }
   }
 }

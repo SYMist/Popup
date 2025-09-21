@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:02.473028"
+    "detection": {
+      "durationDays": 38,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:53.937675",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193948d-fd28-70a8-80ea-df1444c9ff42",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193948d-fd28-70a8-80ea-df1444c9ff42",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193948d-fd28-70a8-80ea-df1444c9ff42"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
-      "title": "Lotte World Adventure Busan Winter Festival"
-    },
-    "ja": {
-      "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
-      "title": "Miracle Winter ❄️"
-    },
     "zh-cn": {
       "address": "Busan, 42, Dongbusan Gwangwang-ro, Gijang-eup, Gijang-gun,",
       "title": "Miracle Winter"

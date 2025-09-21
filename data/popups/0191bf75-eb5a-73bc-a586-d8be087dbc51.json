@@ -33,23 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:16.735028"
+    "fetchedAt": "2025-09-21T19:22:23.976327",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51"
+    "enUrl": "https://interparkglobal.com/en/festas/0191bf75-eb5a-73bc-a586-d8be087dbc51"
   },
   "translations": {
     "en": {
       "address": "Seoul, 18-8, Jahamun-ro 6-gil, Jongno-gu,",
       "title": "《Steidl Book Culture | Magic on Paper》"
-    },
-    "ja": {
-      "address": "Seoul, 18-8, Jahamun-ro 6-gil, Jongno-gu,",
-      "title": "Steidl Book Culture：Magic on Paper"
     }
   }
 }

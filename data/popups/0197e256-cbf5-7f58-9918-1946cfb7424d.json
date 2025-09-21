@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:39.755916"
+    "fetchedAt": "2025-09-21T19:21:19.431052",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e256-cbf5-7f58-9918-1946cfb7424d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e256-cbf5-7f58-9918-1946cfb7424d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e256-cbf5-7f58-9918-1946cfb7424d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 65, Yeonmujang-gil, Seongdong-gu,",
-      "title": "Mickey and Friends Seoul Tour 2025"
-    },
-    "ja": {
-      "address": "Seoul, 65, Yeonmujang-gil, Seongdong-gu,",
-      "title": "ソウルツアー2025ポップアップ in 聖水"
-    },
     "zh-cn": {
       "address": "Seoul, 65, Yeonmujang-gil, Seongdong-gu,",
       "title": "2025年首尔巡演快闪店 in 圣水"

@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:09:45.279802"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:58.074517",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0190eca6-a772-757d-b44f-7df10b97bf43",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0190eca6-a772-757d-b44f-7df10b97bf43"
+    "enUrl": "https://interparkglobal.com/en/festas/0190eca6-a772-757d-b44f-7df10b97bf43"
   },
   "translations": {
     "en": {
       "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
       "title": "Hangang River Moonlight Circus"
-    },
-    "ja": {
-      "address": "Seoul, 40, Sinbanpo-ro 11-gil, Seocho-gu,",
-      "title": "漢江月光サーカス"
     }
   }
 }

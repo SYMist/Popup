@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:47.371910"
+    "fetchedAt": "2025-09-21T19:20:27.496664",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196f20d-ac9b-765f-a747-01c718704782",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196f20d-ac9b-765f-a747-01c718704782",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f20d-ac9b-765f-a747-01c718704782"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
-      "title": "FoRest POP-UP with MUSINSA BEAUTY🍊"
-    },
-    "ja": {
-      "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
-      "title": "FoRest ギュルタミン ポップアップ🍊"
-    },
     "zh-cn": {
       "address": "Seoul, 81, Yeonmujang-gil, Seongdong-gu,",
       "title": "FoRest 柑橘维C 期间限定店🍊"

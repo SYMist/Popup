@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 59,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:45.549237"
+    "fetchedAt": "2025-09-21T19:21:06.104712",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197aa9e-40de-753f-903a-a13e48a7d2e6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197aa9e-40de-753f-903a-a13e48a7d2e6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197aa9e-40de-753f-903a-a13e48a7d2e6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
-      "title": "Harry Potter Mahodokoro POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
-      "title": "ハリー・ポッター 魔法のデパート POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
       "title": "哈利波特魔法世界快闪店"

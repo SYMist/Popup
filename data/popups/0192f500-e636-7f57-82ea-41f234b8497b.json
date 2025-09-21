@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:28.332237"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:01.390683",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192f500-e636-7f57-82ea-41f234b8497b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192f500-e636-7f57-82ea-41f234b8497b"
+    "enUrl": "https://interparkglobal.com/en/festas/0192f500-e636-7f57-82ea-41f234b8497b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu, ",
       "title": "『Eunchae』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu, ",
-      "title": "『ウンチェ』 センイルカフェ 🎂"
     }
   }
 }

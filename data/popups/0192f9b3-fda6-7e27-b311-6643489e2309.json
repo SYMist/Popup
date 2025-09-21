@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:11.468574"
+    "fetchedAt": "2025-09-21T19:23:09.348570",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192f9b3-fda6-7e27-b311-6643489e2309",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192f9b3-fda6-7e27-b311-6643489e2309"
+    "enUrl": "https://interparkglobal.com/en/festas/0192f9b3-fda6-7e27-b311-6643489e2309"
   },
   "translations": {
     "en": {
       "address": "Seoul, 5, Yeonmujang 17-gil, Seongdong-gu, ",
       "title": "UNOVE Eternal Aura POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 5, Yeonmujang 17-gil, Seongdong-gu, ",
-      "title": "UNOVE Eternal Aura"
     }
   }
 }

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 24,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:24:50.979624"
+    "fetchedAt": "2025-09-21T19:23:00.014452",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019288a3-a067-79c3-aaed-c1f5e74e7d68",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019288a3-a067-79c3-aaed-c1f5e74e7d68"
+    "enUrl": "https://interparkglobal.com/en/festas/019288a3-a067-79c3-aaed-c1f5e74e7d68"
   },
   "translations": {
     "en": {
       "address": "Seoul, 437, Gangnam-daero, Seocho-gu, ",
       "title": "Joguman Brachio Pop-Up"
-    },
-    "ja": {
-      "address": "Seoul, 437, Gangnam-daero, Seocho-gu, ",
-      "title": "JOGUMAN ブラキオ ポップアップ"
     }
   }
 }

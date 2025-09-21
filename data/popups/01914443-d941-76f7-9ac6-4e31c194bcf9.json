@@ -33,26 +33,35 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:57.253841"
+    "detection": {
+      "durationDays": 16,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:01.395287",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "Adult: 18,000 KRW | Teen: 12,000 KRW",
+    "normalized": {
+      "amountMax": 18000.0,
+      "amountMin": 12000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01914443-d941-76f7-9ac6-4e31c194bcf9",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01914443-d941-76f7-9ac6-4e31c194bcf9"
+    "enUrl": "https://interparkglobal.com/en/festas/01914443-d941-76f7-9ac6-4e31c194bcf9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
       "priceDesc": "Adult: 18,000 KRW | Teen: 12,000 KRW",
       "title": "Exhibit 『NONFUNGIBLE 』"
-    },
-    "ja": {
-      "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
-      "priceDesc": "成人: 18,000ウォン | 青少年: 12,000ウォン",
-      "title": "展示 『NONFUNGIBLE : 代替不可能なあなたの物語』"
     }
   }
 }

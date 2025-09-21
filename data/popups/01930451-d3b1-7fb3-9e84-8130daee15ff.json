@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:14:55.360325"
+    "detection": {
+      "durationDays": 52,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:42.414137",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01930451-d3b1-7fb3-9e84-8130daee15ff",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01930451-d3b1-7fb3-9e84-8130daee15ff",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01930451-d3b1-7fb3-9e84-8130daee15ff"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
-      "title": "CHANEL Winter Holiday Ice Rink"
-    },
-    "ja": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
-      "title": "シャネル ホリデーアイスリンク"
-    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
       "title": "CHANEL 香奈儿冬季假期溜冰场⛸️"

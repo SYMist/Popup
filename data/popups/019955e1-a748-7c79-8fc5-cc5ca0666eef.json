@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:55.881005"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:38.365068",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019955e1-a748-7c79-8fc5-cc5ca0666eef"
   },
   "translations": {
-    "en": {
-      "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
-      "title": "Seoul International Fireworks Festival 2025"
-    },
-    "ja": {
-      "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
-      "title": "ソウル 世界花火フェスティバル2025"
-    },
     "zh-cn": {
       "address": "Se﻿oul, 330, Yeouidong-ro, Yeongdeungpo-gu,",
       "title": "2025 首尔世界烟花庆典"

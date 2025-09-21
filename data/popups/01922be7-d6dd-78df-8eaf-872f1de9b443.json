@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 17,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:13:08.421185"
+    "fetchedAt": "2025-09-21T19:18:54.493840",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922be7-d6dd-78df-8eaf-872f1de9b443",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01922be7-d6dd-78df-8eaf-872f1de9b443"
+    "enUrl": "https://interparkglobal.com/en/festas/01922be7-d6dd-78df-8eaf-872f1de9b443"
   },
   "translations": {
     "en": {
       "address": "Suwon-si, 175, Suseong-ro, Jangan-gu,",
       "title": "Pokémon Store at Starfield Suwon"
-    },
-    "ja": {
-      "address": "Suwon-si, 175, Suseong-ro, Jangan-gu,",
-      "title": "ポケモンストア in スターフィールド水原"
     }
   }
 }

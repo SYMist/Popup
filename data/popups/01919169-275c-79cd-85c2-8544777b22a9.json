@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:00.577984"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:47.543217",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01919169-275c-79cd-85c2-8544777b22a9",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01919169-275c-79cd-85c2-8544777b22a9"
+    "enUrl": "https://interparkglobal.com/en/festas/01919169-275c-79cd-85c2-8544777b22a9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 185, Changgyeonggung-ro, Jongno-gu,",
       "title": "2024 Changgyeonggung Palace Night Show"
-    },
-    "ja": {
-      "address": "Seoul, 185, Changgyeonggung-ro, Jongno-gu,",
-      "title": "2024 昌慶宮夜宴"
     }
   }
 }

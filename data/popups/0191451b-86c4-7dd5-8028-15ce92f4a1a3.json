@@ -30,28 +30,29 @@
     {
       "href": "https://www.globalinterpark.com/en/product/24010841",
       "label": "Book Now"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24010841",
-      "label": "予約ホームページ"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:10:24.191262"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:24.428390",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191451b-86c4-7dd5-8028-15ce92f4a1a3",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191451b-86c4-7dd5-8028-15ce92f4a1a3"
+    "enUrl": "https://interparkglobal.com/en/festas/0191451b-86c4-7dd5-8028-15ce92f4a1a3"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 424, Olympic-ro, Songpa-gu, ",
-      "title": "2024 ZEROBASEONE THE FIRST TOUR"
-    },
-    "ja": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu, ",
       "title": "2024 ZEROBASEONE THE FIRST TOUR"
     }

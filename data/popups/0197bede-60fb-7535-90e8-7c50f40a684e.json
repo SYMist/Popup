@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 10,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:10.249994"
+    "fetchedAt": "2025-09-21T19:21:12.425995",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bede-60fb-7535-90e8-7c50f40a684e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bede-60fb-7535-90e8-7c50f40a684e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bede-60fb-7535-90e8-7c50f40a684e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 9, Yeonmujang 3-gil, Seongdong-gu",
-      "title": "Asahi Travel Bar POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 9, Yeonmujang 3-gil, Seongdong-gu",
-      "title": "アサヒトラベルバー ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 9, Yeonmujang 3-gil, Seongdong-gu",
       "title": "Asahi 旅行酒吧快闪店"

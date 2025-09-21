@@ -34,33 +34,29 @@
     {
       "href": "https://x.com/BTSDAY_cafe/status/1864200365765480507",
       "label": "Visual déjà Vu"
-    },
-    {
-      "href": "https://x.com/btsday_cafe/status/1864200365765480507",
-      "label": "Visual déjà Vu"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:28.521058"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:29.977098",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193d218-fb50-7625-8091-43ae7a070e31",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193d218-fb50-7625-8091-43ae7a070e31",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193d218-fb50-7625-8091-43ae7a070e31"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 20, Sinchon-ro 2an-gil, Mapo-gu, ",
-      "title": "BTS V Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 20, Sinchon-ro 2an-gil, Mapo-gu, ",
-      "title": "『V』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 20, Sinchon-ro 2an-gil, Mapo-gu, ",
       "priceDesc": "null",

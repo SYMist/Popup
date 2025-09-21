@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:02.872570"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:31.406832",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195f3c0-3a68-70bb-9196-f23c301ae384",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195f3c0-3a68-70bb-9196-f23c301ae384",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195f3c0-3a68-70bb-9196-f23c301ae384"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 27-1, Tojeong-ro, Mapo-gu, ",
-      "title": "『Sehun』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 27-1, Tojeong-ro, Mapo-gu, ",
-      "title": "『セフン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 27-1, Tojeong-ro, Mapo-gu, ",
       "title": "\"世勋\" 生日咖啡厅🎂"

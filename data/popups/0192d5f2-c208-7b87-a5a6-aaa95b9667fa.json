@@ -33,10 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:52.591972"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:38.190062",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "KRW 121,000",
+    "normalized": {
+      "amountMax": 121000.0,
+      "amountMin": 121000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {

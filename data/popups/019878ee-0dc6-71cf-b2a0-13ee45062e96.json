@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:18.474371"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:44.641252",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019878ee-0dc6-71cf-b2a0-13ee45062e96",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019878ee-0dc6-71cf-b2a0-13ee45062e96",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019878ee-0dc6-71cf-b2a0-13ee45062e96"
   },
   "translations": {
-    "en": {
-      "address": "Gyeonggi-﻿do, 1601, Jungang-ro, Ilsanseo-gu, Goyang-si,",
-      "title": "DAY6 Tour <The DECADE>"
-    },
-    "ja": {
-      "address": "Gyeonggi-﻿do, 1601, Jungang-ro, Ilsanseo-gu, Goyang-si,",
-      "title": "DAY6 Tour <The DECADE>"
-    },
     "zh-cn": {
       "address": "Gyeonggi-﻿do, 1601, Jungang-ro, Ilsanseo-gu, Goyang-si,",
       "title": "DAY6 巡回演唱会 <The DECADE>"

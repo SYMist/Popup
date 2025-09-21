@@ -33,28 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:08:06.586842"
+    "fetchedAt": "2025-09-21T19:15:41.982205",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "一般：20000韩元  / 贵宾：80000韩元（最多3人）",
+    "normalized": {
+      "amountMax": 80000.0,
+      "amountMin": 3.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018e1c75-c413-735c-8f5a-827648842311",
-    "jaUrl": "https://interparkglobal.com/ja/festas/018e1c75-c413-735c-8f5a-827648842311",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018e1c75-c413-735c-8f5a-827648842311"
   },
   "translations": {
-    "en": {
-      "address": "Jeju-do, 46-1, Gonae-ro 7-gil, Aewol-eup, Jeju-si, ",
-      "priceDesc": "General: KRW 20,000, VIP: KRW 80,000 (max 3 people)",
-      "title": "MILES Jazz Bar"
-    },
-    "ja": {
-      "address": "Jeju-do, 46-1, Gonae-ro 7-gil, Aewol-eup, Jeju-si, ",
-      "priceDesc": "一般 : 20,000ウォン、VIP : 80,000ウォン（３人まで）",
-      "title": "MILESジャズバー"
-    },
     "zh-cn": {
       "address": "Jeju-do, 46-1, Gonae-ro 7-gil, Aewol-eup, Jeju-si, ",
       "priceDesc": "一般：20000韩元  / 贵宾：80000韩元（最多3人）",

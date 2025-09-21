@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 15,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:39.296788"
+    "fetchedAt": "2025-09-21T19:21:04.908410",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01978674-4a12-7976-8fb6-ffa0e71614da",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01978674-4a12-7976-8fb6-ffa0e71614da",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01978674-4a12-7976-8fb6-ffa0e71614da"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 08, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "Pat & Mat POP-UP in Korea"
-    },
-    "ja": {
-      "address": "Seoul, 08, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "Pat & Mat, Cozy Workshop"
-    },
     "zh-cn": {
       "address": "Seoul, 08, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "Pat & Mat, Cozy Workshop "

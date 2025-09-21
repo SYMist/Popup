@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:53.867432"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:11.988049",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019167eb-9198-7e39-ab19-f472d0b2eafd",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019167eb-9198-7e39-ab19-f472d0b2eafd"
+    "enUrl": "https://interparkglobal.com/en/festas/019167eb-9198-7e39-ab19-f472d0b2eafd"
   },
   "translations": {
     "en": {
       "address": "Seoul, 177, Walkerhill-ro, Gwangjin-gu,",
       "title": "Beenzino Solo Concert"
-    },
-    "ja": {
-      "address": "Seoul, 177, Walkerhill-ro, Gwangjin-gu,",
-      "title": "Beenzino単独コンサート"
     }
   }
 }

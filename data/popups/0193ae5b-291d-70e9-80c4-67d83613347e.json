@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 38,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:04.068370"
+    "fetchedAt": "2025-09-21T19:20:54.474225",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193ae5b-291d-70e9-80c4-67d83613347e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193ae5b-291d-70e9-80c4-67d83613347e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae5b-291d-70e9-80c4-67d83613347e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
-      "title": "Minini Winter World POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
-      "title": "ミニニ ウィンターワールド"
-    },
     "zh-cn": {
       "address": "Seoul, 437, Gangnam-daero, Seocho-gu,",
       "priceDesc": "null",

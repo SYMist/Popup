@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:11.649414"
+    "detection": {
+      "durationDays": 11,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:55.397360",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924073-b308-7d19-a734-e72c1475c835",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01924073-b308-7d19-a734-e72c1475c835"
+    "enUrl": "https://interparkglobal.com/en/festas/01924073-b308-7d19-a734-e72c1475c835"
   },
   "translations": {
     "en": {
       "address": "Seoul, 221-124, Jamwon-ro, Seocho-gu,",
       "title": "2024 Light and Sound Festival"
-    },
-    "ja": {
-      "address": "Seoul, 221-124, Jamwon-ro, Seocho-gu,",
-      "title": "2024 光と音祭り"
     }
   }
 }

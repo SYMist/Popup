@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:40.811797"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:05.243863",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01993cd7-fff5-756e-8048-33ff38ce36e8",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01993cd7-fff5-756e-8048-33ff38ce36e8",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993cd7-fff5-756e-8048-33ff38ce36e8"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
-      "title": "2025 Cho Jung Seok SHOW: SIDE B Seoul"
-    },
-    "ja": {
-      "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
-      "title": "2025 チョ・ジョンソク SHOW: SIDE B ソウル"
-    },
     "zh-cn": {
       "address": "Seoul, 50, Yonsei-ro, Seodaemun-gu,",
       "title": "2025 曹政奭 SHOW: SIDE B 首尔"

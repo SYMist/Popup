@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:32.169243"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:02.876755",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125"
+    "enUrl": "https://interparkglobal.com/en/festas/0192bc2a-8aeb-73be-a5c8-592f19b5a125"
   },
   "translations": {
     "en": {
       "address": "Seoul, 445,  Yangnyeong-ro, Yongsan-gu,",
       "title": "Taste of Seoul 2024"
-    },
-    "ja": {
-      "address": "Seoul, 445,  Yangnyeong-ro, Yongsan-gu,",
-      "title": "2024 ソウル美食週間"
     }
   }
 }

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:35.814085"
+    "fetchedAt": "2025-09-21T19:17:30.968306",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01914f34-7c5e-7233-8e1f-174cf847784b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01914f34-7c5e-7233-8e1f-174cf847784b"
+    "enUrl": "https://interparkglobal.com/en/festas/01914f34-7c5e-7233-8e1f-174cf847784b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "TEAFFERENCE POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
-      "title": "ティーファレンス POP-UP"
     }
   }
 }

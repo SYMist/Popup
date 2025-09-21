@@ -30,32 +30,28 @@
     {
       "href": "https://www.instagram.com/reel/DMNGoKOSlz0/?igsh=b3hqdXA2NG1qMWx1",
       "label": "查看详细"
-    },
-    {
-      "href": "https://www.instagram.com/p/DMPkxmXBjdy/?img_index=1",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:24.122290"
+    "detection": {
+      "durationDays": 10,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:29.782945",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019834ee-b699-77a8-8cd5-bb786639ea0b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019834ee-b699-77a8-8cd5-bb786639ea0b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019834ee-b699-77a8-8cd5-bb786639ea0b"
   },
   "translations": {
-    "en": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "Seoul Light DDP 2025 Summer"
-    },
-    "ja": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "ソウルライト DDP 2025 夏"
-    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "首尔之光 DDP 2025 夏季"

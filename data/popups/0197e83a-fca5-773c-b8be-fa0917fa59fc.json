@@ -30,27 +30,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 30,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:55.813997"
+    "fetchedAt": "2025-09-21T19:21:24.079618",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e83a-fca5-773c-b8be-fa0917fa59fc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e83a-fca5-773c-b8be-fa0917fa59fc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e83a-fca5-773c-b8be-fa0917fa59fc"
   },
   "translations": {
-    "en": {
-      "address": "Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "Olive Young N Seongsu x Sanrio POP-UP"
-    },
-    "ja": {
-      "address": "Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "OLIVE YOUNG N 聖水 x サンリオ ポップアップ"
-    },
     "zh-cn": {
       "address": "Se﻿oul, 13, Yeonmujang 7-gil, Seongdong-gu,",
       "title": "Olive Young N圣水 x 三丽鸥线下快闪店"

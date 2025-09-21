@@ -30,32 +30,31 @@
     {
       "href": "https://companysoosoo.com/notice/66bc3a163cbbf35330a3d47a",
       "label": "See more"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24012301",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:34.702128"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:51.918990",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
-    "description": "132,000ウォン",
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916873-eb2a-707b-876b-b48382aeea32",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916873-eb2a-707b-876b-b48382aeea32"
+    "enUrl": "https://interparkglobal.com/en/festas/01916873-eb2a-707b-876b-b48382aeea32"
   },
   "translations": {
     "en": {
       "address": "Seoul, 25, Olympic-ro, Songpa-gu,",
       "title": "DOH KYUNG SOO Concert"
-    },
-    "ja": {
-      "address": "Seoul, 25, Olympic-ro, Songpa-gu,",
-      "priceDesc": "132,000ウォン",
-      "title": "ド・ギョンス アンコールコンサート"
     }
   }
 }

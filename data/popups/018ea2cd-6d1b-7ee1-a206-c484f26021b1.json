@@ -25,13 +25,30 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:08:21.394552"
+    "detection": {
+      "durationDays": 10,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:00.465952",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "20,000ウォン",
+    "normalized": {
+      "amountMax": 20000.0,
+      "amountMin": 20000.0
+    },
     "type": "PAID"
   },
   "source": {

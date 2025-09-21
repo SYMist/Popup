@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 90,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:43.907651"
+    "fetchedAt": "2025-09-21T19:20:27.065736",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196f205-629e-7205-91ed-5e65fca7405f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196f205-629e-7205-91ed-5e65fca7405f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f205-629e-7205-91ed-5e65fca7405f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu, ",
-      "title": "Torriden Paradise POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu, ",
-      "title": "Torriden ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu, ",
       "title": "Torriden桃源快闪店"

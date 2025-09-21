@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:19.361094"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:02.592447",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "A席 121,000ウォン、S席 143,000ウォン、R席 176,000ウォン、VIP席 187,000ウォン",
+    "normalized": {
+      "amountMax": 187000.0,
+      "amountMin": 121000.0
+    },
     "type": "PAID"
   },
   "source": {

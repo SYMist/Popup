@@ -30,12 +30,26 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 3,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:08:00.277667"
+    "fetchedAt": "2025-09-21T19:15:46.411177",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "リップカラーテスト 無料 / パーソナルカラーテスト + メイクアップ 60,000ウォン",
+    "normalized": {
+      "amountMax": 60000.0,
+      "amountMin": 60000.0
+    },
     "type": "PAID"
   },
   "source": {

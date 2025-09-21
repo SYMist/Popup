@@ -30,27 +30,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:46.334458"
+    "fetchedAt": "2025-09-21T19:21:36.547823",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01985882-e12f-71c5-a690-3130b8be873d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01985882-e12f-71c5-a690-3130b8be873d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01985882-e12f-71c5-a690-3130b8be873d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "Pokémon X SUNGBOON EDITOR POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "ポケモン X  成分エディター ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
       "title": "SUNGBOON EDITOR X 宝可梦快闪店"

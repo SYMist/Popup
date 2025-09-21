@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 15,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:17:51.652101"
+    "fetchedAt": "2025-09-21T19:20:49.989830",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193ae11-ee5f-719b-bef6-ad63e87e37fc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193ae11-ee5f-719b-bef6-ad63e87e37fc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae11-ee5f-719b-bef6-ad63e87e37fc"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu, ",
-      "title": "Zanmang \bLoopy Christmas POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu, ",
-      "title": "Zanmang Loopy クリスマスポップアップ 🎄"
-    },
     "zh-cn": {
       "address": "Seoul, 513, Yeongdong-daero, Gangnam-gu, ",
       "title": "ZANMANG CHRISTMAS EXPRESS"

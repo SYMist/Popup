@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:08:53.692821"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:25.416007",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "Standing  143,000 ウォン  Reserved Seat  143,000 ウォン ",
+    "normalized": {
+      "amountMax": 143000.0,
+      "amountMin": 143000.0
+    },
     "type": "PAID"
   },
   "source": {

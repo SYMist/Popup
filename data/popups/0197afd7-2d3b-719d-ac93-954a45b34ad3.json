@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:48.602545"
+    "detection": {
+      "durationDays": 19,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:07.038029",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197afd7-2d3b-719d-ac93-954a45b34ad3",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197afd7-2d3b-719d-ac93-954a45b34ad3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197afd7-2d3b-719d-ac93-954a45b34ad3"
   },
   "translations": {
-    "en": {
-      "address": "Gyeonggi-do, 199, Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, ",
-      "title": "NCT WISH - EVER WISH PASS Ticket"
-    },
-    "ja": {
-      "address": "Gyeonggi-do, 199, Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, ",
-      "title": "NCT WISH in エバーランド"
-    },
     "zh-cn": {
       "address": "Gyeonggi-do, 199, Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, ",
       "title": "限定 NCT WISH 爱宝乐园套票预售"

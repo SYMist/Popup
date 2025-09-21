@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:26.246685"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:46.041084",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01987e9a-d01e-7eb1-b4af-b9702d0ec90b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01987e9a-d01e-7eb1-b4af-b9702d0ec90b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987e9a-d01e-7eb1-b4af-b9702d0ec90b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 25, Olympic-ro﻿, Songpa-gu,",
-      "title": "XIA 2025 CONCERT Chapter 2 : Festa"
-    },
-    "ja": {
-      "address": "Seoul, 25, Olympic-ro﻿, Songpa-gu,",
-      "title": "XIA 2025 CONCERT Chapter 2 : Festa"
-    },
     "zh-cn": {
       "address": "Seoul, 25, Olympic-ro﻿, Songpa-gu,",
       "title": "XIA 2025 CONCERT Chapter 2 : Festa"

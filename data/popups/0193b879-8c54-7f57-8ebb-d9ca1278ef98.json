@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:19.287340"
+    "fetchedAt": "2025-09-21T19:20:20.531676",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b879-8c54-7f57-8ebb-d9ca1278ef98"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "NETFLIX Squid Game POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "イカゲーム ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "priceDesc": "null",

@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:23.102027"
+    "fetchedAt": "2025-09-21T19:20:22.097686",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193cd25-d0ac-75f4-a9d5-c9e925522936",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193cd25-d0ac-75f4-a9d5-c9e925522936",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cd25-d0ac-75f4-a9d5-c9e925522936"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "BONOBONO Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "アンニョン！ぼのぼの 願いの森"
-    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "priceDesc": "null",

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:12.618772"
+    "fetchedAt": "2025-09-21T19:21:12.959100",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bee9-23dd-742a-93b2-8124d0bfecca",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bee9-23dd-742a-93b2-8124d0bfecca",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bee9-23dd-742a-93b2-8124d0bfecca"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu",
-      "title": "SUMADORI AIR Bar POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu",
-      "title": "SUMADORI-BAR ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu",
       "title": "SUMMADORI BAR 期间限定店"

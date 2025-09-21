@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 19,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:57.328493"
+    "fetchedAt": "2025-09-21T19:22:35.427977",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193aef9-16f5-77af-93c3-e65cd6554afb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193aef9-16f5-77af-93c3-e65cd6554afb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193aef9-16f5-77af-93c3-e65cd6554afb"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
-      "title": "Christian Dior Beauty Holiday POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
-      "title": "ディオール 夢の舞踏会"
-    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
       "priceDesc": "null",

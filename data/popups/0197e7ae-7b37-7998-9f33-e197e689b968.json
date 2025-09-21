@@ -23,26 +23,6 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ab2d0982-6066-40f9-a9b8-5c358e378f8f.jpeg",
       "variant": "small_square"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/4c28c189-cabf-49b7-9074-6abe76b12931.jpeg",
-      "variant": "full"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/4c28c189-cabf-49b7-9074-6abe76b12931.jpeg",
-      "variant": "small_square"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/75c37a73-a069-49c1-b285-8f8e2a42e707.jpeg",
-      "variant": "full"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/75c37a73-a069-49c1-b285-8f8e2a42e707.jpeg",
-      "variant": "small_square"
     }
   ],
   "isPopup": false,
@@ -50,36 +30,28 @@
     {
       "href": "https://interparkglobal.com/zh-CN/ticket/places/25000983/products/25011665",
       "label": "查看详情"
-    },
-    {
-      "href": "https://artist.mnetplus.world/main/stg/zerobaseone/contents/6864b05d2b1a605afe7995de?fbclid=PAQ0xDSwLZL3lleHRuA2FlbQIxMQABp4ONJBLSZ5Q9xN12BsC2-yZvNQB6lKG0icLaFi9iHyDhgrnUmGMP8XcHMu9l_aem_SjKow15iSA8tHKtCvqp5JQ",
-      "label": "See more"
-    },
-    {
-      "href": "https://interparkglobal.com/ja/ticket/genre/CONCERT/products/25011665?placeCode=25000983",
-      "label": "ソウル公演 詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:52.083643"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:22.829163",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e7ae-7b37-7998-9f33-e197e689b968",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e7ae-7b37-7998-9f33-e197e689b968",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e7ae-7b37-7998-9f33-e197e689b968"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "2025 ZEROBASEONE WORLD TOUR"
-    },
-    "ja": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "2025 ZEROBASEONE WORLD TOUR"
-    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
       "title": "2025 ZEROBASEONE 世界巡回演唱会"

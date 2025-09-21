@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:40.277903"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:12.435268",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "スタンディング R 132,000ウォン、スタンディング S 121,000ウォン",
+    "normalized": {
+      "amountMax": 132000.0,
+      "amountMin": 121000.0
+    },
     "type": "PAID"
   },
   "source": {

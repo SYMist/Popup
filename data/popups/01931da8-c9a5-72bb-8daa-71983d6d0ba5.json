@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:22.762907"
+    "detection": {
+      "durationDays": 12,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:21.832100",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931da8-c9a5-72bb-8daa-71983d6d0ba5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931da8-c9a5-72bb-8daa-71983d6d0ba5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931da8-c9a5-72bb-8daa-71983d6d0ba5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "Seoul Light DDP 2024 Winter"
-    },
-    "ja": {
-      "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
-      "title": "ソウルライト DDP 2024 冬"
-    },
     "zh-cn": {
       "address": "Seoul, 281, Eulji-ro, Jung-gu, ",
       "title": "首尔之光DDP：2024冬日⛄️"

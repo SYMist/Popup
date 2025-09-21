@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://x.com/NCTsmtown_127/status/1810554499922292819",
@@ -33,7 +33,20 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:09:40.147772"
+    "detection": {
+      "durationDays": 12,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:00.470754",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:26.860531"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:01.555779",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01973d86-c832-73b0-ba8e-1576d1add827",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01973d86-c832-73b0-ba8e-1576d1add827",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973d86-c832-73b0-ba8e-1576d1add827"
   },
   "translations": {
-    "en": {
-      "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
-      "title": "2025 BTS FESTA "
-    },
-    "ja": {
-      "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
-      "title": "2025 BTS FESTA "
-    },
     "zh-cn": {
       "address": "Goyang-si, , 217-60, Kintex-ro, Ilsanseo-gu, ",
       "title": "2025 BTS FESTA "

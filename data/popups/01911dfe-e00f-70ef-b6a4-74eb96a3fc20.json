@@ -35,23 +35,28 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:09:56.142627"
+    "fetchedAt": "2025-09-21T19:17:06.914329",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20"
+    "enUrl": "https://interparkglobal.com/en/festas/01911dfe-e00f-70ef-b6a4-74eb96a3fc20"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "PRADA BEAUTY POP-UP"
-    },
-    "ja": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "PRADA BEAUTY POP-UP"
     }

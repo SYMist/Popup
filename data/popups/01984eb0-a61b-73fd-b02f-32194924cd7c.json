@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 1,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:41.336826"
+    "fetchedAt": "2025-09-21T19:21:34.926368",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984eb0-a61b-73fd-b02f-32194924cd7c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984eb0-a61b-73fd-b02f-32194924cd7c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984eb0-a61b-73fd-b02f-32194924cd7c"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 76-1, Wausan-ro, Mapo-gu,",
-      "title": "Tottenham Hotspur Pop-up Bar "
-    },
-    "ja": {
-      "address": "Seoul, 76-1, Wausan-ro, Mapo-gu,",
-      "title": "トッテナム ポップアップ⚽️ "
-    },
     "zh-cn": {
       "address": "Seoul, 76-1, Wausan-ro, Mapo-gu,",
       "title": "Tottenham Hotspur队酒吧快闪店"

@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:54.621762"
+    "detection": {
+      "durationDays": 13,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:08.553979",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197aff9-9484-7e3d-a051-36219f52787a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197aff9-9484-7e3d-a051-36219f52787a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197aff9-9484-7e3d-a051-36219f52787a"
   },
   "translations": {
-    "en": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "Design Miami Lands in Seoul"
-    },
-    "ja": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "Design Miamiがソウル上陸"
-    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "Design Miami 登陆首尔"

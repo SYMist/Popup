@@ -33,26 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:09.082690"
+    "fetchedAt": "2025-09-21T19:23:24.532302",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "门票 15,000韩元（包含饮料券）/ 使用券 55,000韩元",
+    "normalized": {
+      "amountMax": 55000.0,
+      "amountMin": 15000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019480e6-49f0-7a44-9c0b-468fe48d62a3",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019480e6-49f0-7a44-9c0b-468fe48d62a3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019480e6-49f0-7a44-9c0b-468fe48d62a3"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 322 Sowol-ro, Yongsan-gu, ",
-      "title": "Grand Hyatt Seoul Ice Rink"
-    },
-    "ja": {
-      "address": "Seoul, 322 Sowol-ro, Yongsan-gu, ",
-      "title": "グランドハイアット ソウル アイスリンク"
-    },
     "zh-cn": {
       "address": "Seoul, 322 Sowol-ro, Yongsan-gu, ",
       "priceDesc": "门票 15,000韩元（包含饮料券）/ 使用券 55,000韩元",

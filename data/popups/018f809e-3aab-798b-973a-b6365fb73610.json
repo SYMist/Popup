@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:09:15.700364"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:38.837800",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "1日券: 109,000 ウォン / 2日券: 149,000 ウォン",
+    "normalized": {
+      "amountMax": 149000.0,
+      "amountMin": 1.0
+    },
     "type": "PAID"
   },
   "source": {

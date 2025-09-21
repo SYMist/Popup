@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 10,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:15.826322"
+    "fetchedAt": "2025-09-21T19:23:10.310795",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192f9c7-2503-7f60-9126-8898a1848b34",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192f9c7-2503-7f60-9126-8898a1848b34"
+    "enUrl": "https://interparkglobal.com/en/festas/0192f9c7-2503-7f60-9126-8898a1848b34"
   },
   "translations": {
     "en": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
       "title": "Red Velvet X Knotted POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu,",
-      "title": "Sweet Dreams POP-UP STORE"
     }
   }
 }

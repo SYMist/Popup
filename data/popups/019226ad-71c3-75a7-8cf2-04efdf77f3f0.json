@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:56.966525"
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:48.426505",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019226ad-71c3-75a7-8cf2-04efdf77f3f0",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019226ad-71c3-75a7-8cf2-04efdf77f3f0"
+    "enUrl": "https://interparkglobal.com/en/festas/019226ad-71c3-75a7-8cf2-04efdf77f3f0"
   },
   "translations": {
     "en": {
       "address": "Seoul,  30, Yanghwa-ro 16-gil, Mapo-gu,",
       "title": "『Bang Chan』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul,  30, Yanghwa-ro 16-gil, Mapo-gu,",
-      "title": "『バンチャン』 センイルカフェ 🎂"
     }
   }
 }

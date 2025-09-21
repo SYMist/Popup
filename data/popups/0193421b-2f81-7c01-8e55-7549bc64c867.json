@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:20.553438"
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:11.368270",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193421b-2f81-7c01-8e55-7549bc64c867",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193421b-2f81-7c01-8e55-7549bc64c867"
+    "enUrl": "https://interparkglobal.com/en/festas/0193421b-2f81-7c01-8e55-7549bc64c867"
   },
   "translations": {
     "en": {
       "address": "Seoul, 13-3, Wausan-ro 29na-gil, Mapo-gu, ",
       "title": "『Myung Jae-hyun』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 13-3, Wausan-ro 29na-gil, Mapo-gu, ",
-      "title": "『ミョン・ジェヒョン』 センイルカフェ 🎂"
     }
   }
 }

@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 4,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:13:32.541002"
+    "fetchedAt": "2025-09-21T19:19:01.467073",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193cd58-ca2a-7849-a2f9-c50c4d42cbdc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193cd58-ca2a-7849-a2f9-c50c4d42cbdc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cd58-ca2a-7849-a2f9-c50c4d42cbdc"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13, Yeonmujang 11-gil, Seongdong-gu,",
-      "title": "BTS JIN X Baek Jong Won POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yeonmujang 11-gil, Seongdong-gu,",
-      "title": "IGIN SMILE LIFE TOWN"
-    },
     "zh-cn": {
       "address": "Seoul, 13, Yeonmujang 11-gil, Seongdong-gu,",
       "priceDesc": "null",

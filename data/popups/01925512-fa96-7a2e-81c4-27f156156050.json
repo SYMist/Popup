@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:14:16.480586"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:29.383896",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01925512-fa96-7a2e-81c4-27f156156050",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01925512-fa96-7a2e-81c4-27f156156050"
+    "enUrl": "https://interparkglobal.com/en/festas/01925512-fa96-7a2e-81c4-27f156156050"
   },
   "translations": {
     "en": {
       "address": "Jeju-si,, 40, Samseong-ro,",
       "title": "2024 Sinsan Dochebi Light Festival"
-    },
-    "ja": {
-      "address": "Jeju-si,, 40, Samseong-ro,",
-      "title": "2024 新山ドチェビ光祭り"
     }
   }
 }

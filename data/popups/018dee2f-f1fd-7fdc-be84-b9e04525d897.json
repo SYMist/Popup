@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:07:53.145674"
+    "detection": {
+      "durationDays": 66,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:15:42.851100",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "成人 : 8,000ウォン、青少年 : 7,000ウォン、小人 : 6,000ウォン",
+    "normalized": {
+      "amountMax": 8000.0,
+      "amountMin": 6000.0
+    },
     "type": "PAID"
   },
   "source": {

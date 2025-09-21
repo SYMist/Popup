@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:31.235958"
+    "fetchedAt": "2025-09-21T19:21:47.464813",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01987ec7-f8f0-729f-b3b4-59dbb5b08372",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01987ec7-f8f0-729f-b3b4-59dbb5b08372",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987ec7-f8f0-729f-b3b4-59dbb5b08372"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 7, Seongsui-ro 7ga-gil, Seongdong-gu,",
-      "title": "Laka Seongsu Flagship Store OPEN 💄"
-    },
-    "ja": {
-      "address": "Seoul, 7, Seongsui-ro 7ga-gil, Seongdong-gu,",
-      "title": "Laka 聖水フラッグシップストア オープン💄"
-    },
     "zh-cn": {
       "address": "Seoul, 7, Seongsui-ro 7ga-gil, Seongdong-gu,",
       "title": "Laka 圣水旗舰店开业 💄"

@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:02.001781"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:17.865731",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916932-61d6-7c6a-9cdc-ee5c262983e5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916932-61d6-7c6a-9cdc-ee5c262983e5"
+    "enUrl": "https://interparkglobal.com/en/festas/01916932-61d6-7c6a-9cdc-ee5c262983e5"
   },
   "translations": {
     "en": {
       "address": "Seoul, 10, Wausan-ro 29da-gil, Mapo-gu,",
       "title": "『Soyeon』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 10, Wausan-ro 29da-gil, Mapo-gu,",
-      "title": "『ソヨン』 センイルカフェ 🎂"
     }
   }
 }

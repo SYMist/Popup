@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DBK02zDyARm/",
@@ -33,23 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:06.585330"
+    "detection": {
+      "durationDays": 10,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:18.917532",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192b6ba-5816-708b-9ad8-75bf6e86c1f2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192b6ba-5816-708b-9ad8-75bf6e86c1f2"
+    "enUrl": "https://interparkglobal.com/en/festas/0192b6ba-5816-708b-9ad8-75bf6e86c1f2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 14,  Seongsui-ro 10-gil, Seongdong-gu,",
       "title": "aespa x 032c Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 14 Seongsui-ro 10-gil, Seongdong-gu,",
-      "title": "aespa x 032c ポップアップ"
     }
   }
 }

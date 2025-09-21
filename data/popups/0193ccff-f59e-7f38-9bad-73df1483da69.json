@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 31,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:22.122032"
+    "fetchedAt": "2025-09-21T19:20:21.497336",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193ccff-f59e-7f38-9bad-73df1483da69",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193ccff-f59e-7f38-9bad-73df1483da69",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ccff-f59e-7f38-9bad-73df1483da69"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu, ",
-      "title": "BT21 Angel & Villain Popup"
-    },
-    "ja": {
-      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu, ",
-      "title": "BT21 エンジェル＆ヴィラン ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 141, Yanghwa-ro, Mapo-gu, ",
       "priceDesc": "null",

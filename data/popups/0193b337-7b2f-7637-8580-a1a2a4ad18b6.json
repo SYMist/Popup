@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:01.120046"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:36.526416",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b337-7b2f-7637-8580-a1a2a4ad18b6"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
-      "title": "2025 COUNTDOWN BUSAN"
-    },
-    "ja": {
-      "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
-      "title": "2025 カウントダウン 釜山 🎉"
-    },
     "zh-cn": {
       "address": "Busan, 219, Gwanganhaebyeon-ro, Suyeong-gu, ",
       "priceDesc": "null",

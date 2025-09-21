@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:28.521863"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:17.001430",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197c88d-e35b-7759-9296-62429de067c7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197c88d-e35b-7759-9296-62429de067c7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c88d-e35b-7759-9296-62429de067c7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "『Yoon Jae-hyuk』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "『ユン・ジェヒョク』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 31-12, Wausan-ro 21-gil, Mapo-gu,",
       "title": "“尹材赫” 生日咖啡厅🎂"

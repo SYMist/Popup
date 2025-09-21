@@ -33,23 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:17.967144"
+    "fetchedAt": "2025-09-21T19:22:24.379798",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019297ee-c498-7b42-9102-ef8b69384a05",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019297ee-c498-7b42-9102-ef8b69384a05"
+    "enUrl": "https://interparkglobal.com/en/festas/019297ee-c498-7b42-9102-ef8b69384a05"
   },
   "translations": {
     "en": {
       "address": "Busan, 20, Centumseo-ro, Haeundae-gu,",
       "title": "Myth: A Story of Beginnings"
-    },
-    "ja": {
-      "address": "Busan, 20, Centumseo-ro, Haeundae-gu,",
-      "title": "神話：はじまりの物語"
     }
   }
 }

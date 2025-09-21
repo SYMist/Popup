@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 59,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:56.640466"
+    "fetchedAt": "2025-09-21T19:23:20.807930",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198ef04-d5a4-7fa2-bd04-a7173638c678",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef04-d5a4-7fa2-bd04-a7173638c678",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef04-d5a4-7fa2-bd04-a7173638c678"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 14, Bukchon-ro 5-gil, Jongno-gu,",
-      "title": "KANU CAPSULE Flagship Store"
-    },
-    "ja": {
-      "address": "Seoul, 14, Bukchon-ro 5-gil, Jongno-gu,",
-      "title": "KANU カプセル フラッグシップストア☕️"
-    },
     "zh-cn": {
       "address": "Seoul, 14, Bukchon-ro 5-gil, Jongno-gu,",
       "title": "KANU 咖啡胶囊旗舰店"

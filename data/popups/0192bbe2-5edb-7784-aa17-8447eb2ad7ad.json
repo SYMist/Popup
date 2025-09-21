@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:37.790549"
+    "fetchedAt": "2025-09-21T19:22:30.947908",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192bbe2-5edb-7784-aa17-8447eb2ad7ad",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192bbe2-5edb-7784-aa17-8447eb2ad7ad"
+    "enUrl": "https://interparkglobal.com/en/festas/0192bbe2-5edb-7784-aa17-8447eb2ad7ad"
   },
   "translations": {
     "en": {
       "address": "Seoul, 13, Seongsui-ro 7ga-gil, Seongdong-gu,",
       "title": "tvN Jeongnyeon Photo Booth"
-    },
-    "ja": {
-      "address": "Seoul, 13, Seongsui-ro 7ga-gil, Seongdong-gu,",
-      "title": "ジョンニョン フォトブース"
     }
   }
 }

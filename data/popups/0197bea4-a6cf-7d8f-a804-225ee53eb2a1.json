@@ -39,27 +39,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 58,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:07.028310"
+    "fetchedAt": "2025-09-21T19:21:11.498956",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[1]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bea4-a6cf-7d8f-a804-225ee53eb2a1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bea4-a6cf-7d8f-a804-225ee53eb2a1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bea4-a6cf-7d8f-a804-225ee53eb2a1"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 116 Ho., D dong, 41, Jeonpo-daero 255beon-gil, Busanjin-gu,",
-      "title": "Dinotaeng Quok Scout Character POP-UP"
-    },
-    "ja": {
-      "address": "Busan, 116 Ho., D dong, 41, Jeonpo-daero 255beon-gil, Busanjin-gu,",
-      "title": "ダイノテン クォッカスカウト ポップアップ"
-    },
     "zh-cn": {
       "address": "Busan, 116 Ho., D dong, 41, Jeonpo-daero 255beon-gil, Busanjin-gu,",
       "title": "Marshville Quokscout 🏕️"

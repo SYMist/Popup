@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:23.358372"
+    "detection": {
+      "durationDays": 19,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:58.412664",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193189c-d5d2-7080-8c6f-1cea497a20c7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193189c-d5d2-7080-8c6f-1cea497a20c7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193189c-d5d2-7080-8c6f-1cea497a20c7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
-      "title": "NCT DREAM POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
-      "title": "DREAM FINDER : Chase The Light"
-    },
     "zh-cn": {
       "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
       "title": "NCT DREAM 快閃店"

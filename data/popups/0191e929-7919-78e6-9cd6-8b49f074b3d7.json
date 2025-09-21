@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:35.372167"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:41.632851",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "49,000ウォン",
+    "normalized": {
+      "amountMax": 49000.0,
+      "amountMin": 49000.0
+    },
     "type": "PAID"
   },
   "source": {

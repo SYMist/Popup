@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:55.340771"
+    "fetchedAt": "2025-09-21T19:20:29.593107",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971f26-9893-7c93-8fa5-41e61f0e71fb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971f26-9893-7c93-8fa5-41e61f0e71fb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f26-9893-7c93-8fa5-41e61f0e71fb"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 88, Changgyeonggung-ro, Jongno-gu,",
-      "title": "Starbucks Gwangjang Market OPEN"
-    },
-    "ja": {
-      "address": "Seoul, 88, Changgyeonggung-ro, Jongno-gu,",
-      "title": "Starbucks 広場マーケット店オープン！"
-    },
     "zh-cn": {
       "address": "Seoul, 88, Changgyeonggung-ro, Jongno-gu,",
       "title": "星巴克广藏市场店开业！"

@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:55.935019"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:15.479696",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931912-8f3a-7e8e-a0fd-d05b886fb91e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931912-8f3a-7e8e-a0fd-d05b886fb91e"
+    "enUrl": "https://interparkglobal.com/en/festas/01931912-8f3a-7e8e-a0fd-d05b886fb91e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 10, Yeonnam-ro, Mapo-gu,",
       "title": "『Woozi』 Birthday Café 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 10, Yeonnam-ro, Mapo-gu,",
-      "title": "『ウジ』 センイルカフェ 🎂"
     }
   }
 }

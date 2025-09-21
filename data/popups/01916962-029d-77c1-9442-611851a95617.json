@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:10:40.998520"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:34.246244",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916962-029d-77c1-9442-611851a95617",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916962-029d-77c1-9442-611851a95617"
+    "enUrl": "https://interparkglobal.com/en/festas/01916962-029d-77c1-9442-611851a95617"
   },
   "translations": {
     "en": {
       "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
       "title": "『WONYOUNG』 Birthday Cafe"
-    },
-    "ja": {
-      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
-      "title": "『チャン・ウォニョン』 センイルカフェ 🎂"
     }
   }
 }

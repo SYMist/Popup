@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:00.249585"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:39.766055",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019862e0-d7fa-7620-bf37-0af2999220ef",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019862e0-d7fa-7620-bf37-0af2999220ef",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019862e0-d7fa-7620-bf37-0af2999220ef"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 376, Gonghang-daero, Gangseo-gu, ",
-      "title": "ITZY: The 4th Fan Meeting SEOUL <ON AIR>"
-    },
-    "ja": {
-      "address": "Seoul, 376, Gonghang-daero, Gangseo-gu, ",
-      "title": "ITZY The 4th Fan Meeting ITZY MIDZY, LET'S FLY! “ON AIR”"
-    },
     "zh-cn": {
       "address": "Seoul, 376, Gonghang-daero, Gangseo-gu, ",
       "title": "ITZY 第四次粉丝见面会 “ON AIR”"

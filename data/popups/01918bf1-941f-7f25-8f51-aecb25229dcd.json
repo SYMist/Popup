@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 20,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:51.009411"
+    "fetchedAt": "2025-09-21T19:17:40.369326",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01918bf1-941f-7f25-8f51-aecb25229dcd",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01918bf1-941f-7f25-8f51-aecb25229dcd"
+    "enUrl": "https://interparkglobal.com/en/festas/01918bf1-941f-7f25-8f51-aecb25229dcd"
   },
   "translations": {
     "en": {
       "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
       "title": "Sylvanian Family 'Baby Friends of the Forest'"
-    },
-    "ja": {
-      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
-      "title": "シルバニアファミリーPOP-UP"
     }
   }
 }

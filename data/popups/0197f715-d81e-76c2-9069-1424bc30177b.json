@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:09.158457"
+    "fetchedAt": "2025-09-21T19:21:27.049786",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197f715-d81e-76c2-9069-1424bc30177b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197f715-d81e-76c2-9069-1424bc30177b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f715-d81e-76c2-9069-1424bc30177b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
-      "title": "MUSINSA x NIKE POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
-      "title": "MUSINSA x NIKE ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
       "title": "MUSINSA x NIKE 快闪店"

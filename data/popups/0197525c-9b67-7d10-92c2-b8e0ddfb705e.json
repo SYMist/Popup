@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:29.034224"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:01.998669",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197525c-9b67-7d10-92c2-b8e0ddfb705e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197525c-9b67-7d10-92c2-b8e0ddfb705e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197525c-9b67-7d10-92c2-b8e0ddfb705e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 34 Wausan-ro 27-gil, Mapo-gu,",
-      "title": "『Wonwoo』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 34 Wausan-ro 27-gil, Mapo-gu,",
-      "title": "『ウォヌ』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 34 Wausan-ro 27-gil, Mapo-gu,",
       "title": "“圆佑”生日咖啡厅🎂"

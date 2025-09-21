@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:59.191114"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:17.230770",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019274cf-1825-7892-8ebd-009dd386ef49",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019274cf-1825-7892-8ebd-009dd386ef49"
+    "enUrl": "https://interparkglobal.com/en/festas/019274cf-1825-7892-8ebd-009dd386ef49"
   },
   "translations": {
     "en": {
       "address": "Seoul, 20, Wausan-ro 29 Ra-gil, Mapo-gu,",
       "title": "『Heeseung』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 20, Wausan-ro 29 Ra-gil, Mapo-gu,",
-      "title": "『ヒスン』 センイルカフェ 🎂"
     }
   }
 }

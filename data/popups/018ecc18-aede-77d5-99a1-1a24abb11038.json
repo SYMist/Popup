@@ -35,9 +35,20 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 59,
+      "keywordHits": [
+        "ポップアップストア",
+        "ポップアップ"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:08:33.039122"
+    "fetchedAt": "2025-09-21T19:16:09.138366",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

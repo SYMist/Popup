@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:26:31.257935"
+    "fetchedAt": "2025-09-21T19:23:31.039106",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01946256-4d74-712a-b279-5086adb2b6c2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01946256-4d74-712a-b279-5086adb2b6c2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01946256-4d74-712a-b279-5086adb2b6c2"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 78, Achasan-ro, Seongdong-gu, ",
-      "title": "BOYNEXTDOOR X BBNEXDO POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 78, Achasan-ro, Seongdong-gu, ",
-      "title": "BBNEXDO in Town"
-    },
     "zh-cn": {
       "address": "Seoul, 78, Achasan-ro, Seongdong-gu, ",
       "priceDesc": "null",

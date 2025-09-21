@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:06.948066"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:25.906464",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197f23d-91e6-7112-8ddc-e1d9c8c187f6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197f23d-91e6-7112-8ddc-e1d9c8c187f6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f23d-91e6-7112-8ddc-e1d9c8c187f6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 16 Yonsei-ro 9-gil, Seodaemun-gu,",
-      "title": "『Taemin』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 16 Yonsei-ro 9-gil, Seodaemun-gu,",
-      "title": "『テミン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 16 Yonsei-ro 9-gil, Seodaemun-gu,",
       "title": "“泰民”生日咖啡厅 🎂"

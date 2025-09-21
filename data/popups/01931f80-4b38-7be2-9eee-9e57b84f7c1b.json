@@ -31,30 +31,34 @@
     {
       "href": "https://en.feelthebeatkorea.or.kr/board/promotion/read.html?board_no=3001&no=46",
       "label": "Welcome Kit Event"
-    },
-    {
-      "href": "https://jp.feelthebeatkorea.or.kr/board/promotion/read.html?board_no=3001&no=40",
-      "label": "ランダムイベントの詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:03.251141"
+    "detection": {
+      "durationDays": 60,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:22.991199",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[0]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931f80-4b38-7be2-9eee-9e57b84f7c1b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931f80-4b38-7be2-9eee-9e57b84f7c1b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931f80-4b38-7be2-9eee-9e57b84f7c1b"
   },
   "translations": {
-    "en": {
-      "title": "50% Off Discount & Welcome Kit Event"
-    },
-    "ja": {
-      "title": "TRIPLE Korea 50%割引クーポン"
-    },
     "zh-cn": {
       "title": "50% Off Discount & Welcome Kit Event"
     }

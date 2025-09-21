@@ -30,34 +30,36 @@
     {
       "href": "https://www.instagram.com/reel/C_mm_2Rp0Xl/?igsh=MWlkMWExcGJoc3Rucw%3D%3D",
       "label": "See more"
-    },
-    {
-      "href": "https://www.instagram.com/p/C_kbOOSsUyO/",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 29,
+      "keywordHits": [
+        "pop-up store",
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:12.144127"
+    "fetchedAt": "2025-09-21T19:18:20.854834",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d95b-0469-7eff-be0e-9bc899954634",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d95b-0469-7eff-be0e-9bc899954634"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d95b-0469-7eff-be0e-9bc899954634"
   },
   "translations": {
     "en": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-﻿gu,",
       "title": "Skinfood Pop-Up Store"
-    },
-    "ja": {
-      "address": "Seoul, 429, Gangnam-daero, Seocho-﻿gu,",
-      "title": "スキンフード POP-UP"
     }
   }
 }

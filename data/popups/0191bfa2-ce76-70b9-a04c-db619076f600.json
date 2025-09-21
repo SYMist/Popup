@@ -30,34 +30,32 @@
     {
       "href": "https://www.instagram.com/p/C_aLyqQy3P6/",
       "label": "See more"
-    },
-    {
-      "href": "https://viviennewestwood.kr/customer-care/notice/76",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 19,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:16.699635"
+    "fetchedAt": "2025-09-21T19:18:28.984394",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191bfa2-ce76-70b9-a04c-db619076f600",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191bfa2-ce76-70b9-a04c-db619076f600"
+    "enUrl": "https://interparkglobal.com/en/festas/0191bfa2-ce76-70b9-a04c-db619076f600"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
       "title": "Vivienne Westwood X Palace Collab Collection"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu,",
-      "title": "ヴィヴィアン・ウエストウッド X PALACE"
     }
   }
 }

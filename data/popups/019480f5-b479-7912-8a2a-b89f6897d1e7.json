@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:11.619577"
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:25.022422",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019480f5-b479-7912-8a2a-b89f6897d1e7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019480f5-b479-7912-8a2a-b89f6897d1e7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019480f5-b479-7912-8a2a-b89f6897d1e7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
-      "title": "(G)I-DLE Minnie 1st Mini Album [HER] X Cubi Story"
-    },
-    "ja": {
-      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
-      "title": "(G)I-DLE Minnie [HER] X Cubi Story"
-    },
     "zh-cn": {
       "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
       "priceDesc": "null",

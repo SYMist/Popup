@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:48.972492"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:18.912645",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984f21-f1bf-7433-922f-3945a5e4f3c8",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984f21-f1bf-7433-922f-3945a5e4f3c8",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984f21-f1bf-7433-922f-3945a5e4f3c8"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 51-9 Wausan-ro, Mapo-gu, ",
-      "title": "『Ryo』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 51-9 Wausan-ro, Mapo-gu, ",
-      "title": "『リョウ』センイルカフェ🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 51-9 Wausan-ro, Mapo-gu, ",
       "title": "“RYO” 生日咖啡厅 🎂"

@@ -28,25 +28,21 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:09:05.155527"
+    "fetchedAt": "2025-09-21T19:16:26.984814",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/018f7068-f1a3-7638-a068-870e41ceee28",
-    "jaUrl": "https://interparkglobal.com/ja/festas/018f7068-f1a3-7638-a068-870e41ceee28",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/018f7068-f1a3-7638-a068-870e41ceee28"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
-      "title": "K-Food Festival Knock Knock"
-    },
-    "ja": {
-      "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
-      "title": "K-フードフェスティバル・ノクノク"
-    },
     "zh-cn": {
       "address": "Seoul, 175, Sejong-daero, Jongno-gu, ",
       "title": "K-Food 庆典 Knock Knock"

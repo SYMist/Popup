@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:52.768722"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:23.037426",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e7af-b8c6-769f-aba8-a278ff38a708",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e7af-b8c6-769f-aba8-a278ff38a708",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e7af-b8c6-769f-aba8-a278ff38a708"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "THE BOYZ <THE BLAZE> WORLD TOUR in SEOUL"
-    },
-    "ja": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "THE BOYZ <THE BLAZE> WORLD TOUR in SEOUL"
-    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
       "title": "THE BOYZ <THE BLAZE> 世界巡回演唱会首尔站"

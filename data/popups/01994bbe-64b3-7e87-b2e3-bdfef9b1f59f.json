@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:51.851671"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:36.920547",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01994bbe-64b3-7e87-b2e3-bdfef9b1f59f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01994bbe-64b3-7e87-b2e3-bdfef9b1f59f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01994bbe-64b3-7e87-b2e3-bdfef9b1f59f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 32 Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『Leehan』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 32 Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『イハン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 32 Wausan-ro 29-gil, Mapo-gu,",
       "title": "“LEEHAN” 生日咖啡厅🎂"

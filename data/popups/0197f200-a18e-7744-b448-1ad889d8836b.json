@@ -30,36 +30,28 @@
     {
       "href": "https://www.instagram.com/p/DLmDbvCNhRb",
       "label": "查看详情"
-    },
-    {
-      "href": "https://www.instagram.com/p/DLmKH9_BH1m/?hl=ja",
-      "label": "See more"
-    },
-    {
-      "href": "https://www.instagram.com/p/DL4aultJiT3/?hl=ja",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:00.048141"
+    "detection": {
+      "durationDays": 53,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:25.013847",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197f200-a18e-7744-b448-1ad889d8836b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197f200-a18e-7744-b448-1ad889d8836b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f200-a18e-7744-b448-1ad889d8836b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 338, Yeouidong-ro, Yeongdeungpo-gu,",
-      "title": "Hangang River Bus Trial-Run 🛳️"
-    },
-    "ja": {
-      "address": "Seoul, 338, Yeouidong-ro, Yeongdeungpo-gu,",
-      "title": "漢江バス 体験運航中！🛳️"
-    },
     "zh-cn": {
       "address": "Seoul, 338, Yeouidong-ro, Yeongdeungpo-gu,",
       "title": "汉江巴士体验运营中🛳️"

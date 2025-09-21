@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:12.595985"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:57.895049",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196c2fc-e0a0-70a4-b344-dd8acd24129d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196c2fc-e0a0-70a4-b344-dd8acd24129d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196c2fc-e0a0-70a4-b344-dd8acd24129d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
-      "title": "i-dle 8th Mini Album [We are] Release Event"
-    },
-    "ja": {
-      "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
-      "title": " i-dle 8thミニアルバム[We are]発売記念"
-    },
     "zh-cn": {
       "address": "Seoul, 83 ﻿Achasan-ro, Seongdong-gu,",
       "title": "i-dle 第八张迷你专辑[We are]发行纪念"

@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:56.344631"
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:38.847699",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019955f3-3636-730a-8471-271550a1f378",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019955f3-3636-730a-8471-271550a1f378",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019955f3-3636-730a-8471-271550a1f378"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
-      "title": "NCT Dream X LINE FRIENDS POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
-      "title": "NCT Dream × LINE FRIENDS ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 141, Yanghwa-ro, Mapo-gu,",
       "title": "NCT Dream X LINE FRIENDS 限时快闪店"

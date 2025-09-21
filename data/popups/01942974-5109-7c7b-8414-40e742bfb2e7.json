@@ -33,26 +33,22 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:37.903922"
+    "fetchedAt": "2025-09-21T19:23:14.100977",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01942974-5109-7c7b-8414-40e742bfb2e7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01942974-5109-7c7b-8414-40e742bfb2e7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01942974-5109-7c7b-8414-40e742bfb2e7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
-      "title": "Squid Game X Kakao Friends"
-    },
-    "ja": {
-      "address": "Seoul, 162,  Yanghwa-ro, Mapo-gu,",
-      "title": "イカゲーム2 X カカオフレンズ グッズ"
-    },
     "zh-cn": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu, ",
       "priceDesc": "null",

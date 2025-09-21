@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:06.956784"
+    "detection": {
+      "durationDays": 11,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:55.394218",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193af3a-44d2-7dbf-86b8-f9909bdf884a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193af3a-44d2-7dbf-86b8-f9909bdf884a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af3a-44d2-7dbf-86b8-f9909bdf884a"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 330, Yeouidong-ro, Yeongdeungpo-gu, ",
-      "title": "2024 Hangang Festival Winter"
-    },
-    "ja": {
-      "address": "Seoul, 330, Yeouidong-ro, Yeongdeungpo-gu, ",
-      "title": "2024 漢江フェスティバル 冬 ⛄️"
-    },
     "zh-cn": {
       "address": "Seoul, 330, Yeouidong-ro, Yeongdeungpo-gu, ",
       "priceDesc": "null",

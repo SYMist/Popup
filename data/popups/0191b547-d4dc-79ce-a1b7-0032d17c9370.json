@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 14,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:11:16.178206"
+    "fetchedAt": "2025-09-21T19:17:54.235246",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b547-d4dc-79ce-a1b7-0032d17c9370",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b547-d4dc-79ce-a1b7-0032d17c9370"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b547-d4dc-79ce-a1b7-0032d17c9370"
   },
   "translations": {
     "en": {
       "address": "Seoul, 8, Dosan-daero 49-gil, Gangnam-gu, ",
       "title": "LeSportsac x HELLO KITTY POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 8, Dosan-daero 49-gil, Gangnam-gu, ",
-      "title": "レスポートサック ポップアップ"
     }
   }
 }

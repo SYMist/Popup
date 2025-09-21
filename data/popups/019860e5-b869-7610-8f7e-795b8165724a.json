@@ -27,23 +27,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:59.495117"
+    "detection": {
+      "durationDays": 36,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:39.441591",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019860e5-b869-7610-8f7e-795b8165724a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019860e5-b869-7610-8f7e-795b8165724a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019860e5-b869-7610-8f7e-795b8165724a"
   },
   "translations": {
-    "en": {
-      "title": "BTS ARMY: FOREVER WE ARE YOUNG Merch"
-    },
-    "ja": {
-      "title": "BTS  ボラヘエディション発売"
-    },
     "zh-cn": {
       "title": "BTS 紫爱你版本上市"
     }

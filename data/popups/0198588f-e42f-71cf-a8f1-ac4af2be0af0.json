@@ -30,27 +30,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 10,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:48.440953"
+    "fetchedAt": "2025-09-21T19:21:37.075514",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198588f-e42f-71cf-a8f1-ac4af2be0af0",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198588f-e42f-71cf-a8f1-ac4af2be0af0",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198588f-e42f-71cf-a8f1-ac4af2be0af0"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "OBgE x DUCATI POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "OBgE x DUCATI ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
       "title": "OBgE x DUCATI 期间限定店"

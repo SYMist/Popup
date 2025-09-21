@@ -33,10 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:04.757524"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:23.859257",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "普通席400,000韩元 / B席440,000韩元",
+    "normalized": {
+      "amountMax": 440000.0,
+      "amountMin": 400000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {

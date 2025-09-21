@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:07.318813"
+    "detection": {
+      "durationDays": 47,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:04.019550",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01936612-7c68-76e0-be5f-84108487b5ce",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01936612-7c68-76e0-be5f-84108487b5ce",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936612-7c68-76e0-be5f-84108487b5ce"
   },
   "translations": {
-    "en": {
-      "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
-      "title": "CHRISTMAS MARKET IN PLAZA"
-    },
-    "ja": {
-      "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
-      "title": "CHRISTMAS MARKET IN PLAZA🌲"
-    },
     "zh-cn": {
       "address": "Incheon, 186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu,",
       "title": "CHRISTMAS MARKET IN PLAZA"

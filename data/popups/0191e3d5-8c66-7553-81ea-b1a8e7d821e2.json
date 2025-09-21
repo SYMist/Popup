@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:45.556269"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:33.380443",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e3d5-8c66-7553-81ea-b1a8e7d821e2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e3d5-8c66-7553-81ea-b1a8e7d821e2"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e3d5-8c66-7553-81ea-b1a8e7d821e2"
   },
   "translations": {
     "en": {
       "address": "Seoul, 52, Eoulmadang-ro 5-gil, Mapo-gu,",
       "title": "『Gaeul』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 52, Eoulmadang-ro 5-gil, Mapo-gu,",
-      "title": "『ガウル』 センイルカフェ 🎂"
     }
   }
 }

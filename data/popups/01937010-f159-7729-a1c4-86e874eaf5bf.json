@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:10.723554"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:16.766318",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01937010-f159-7729-a1c4-86e874eaf5bf",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01937010-f159-7729-a1c4-86e874eaf5bf",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01937010-f159-7729-a1c4-86e874eaf5bf"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 20, Gucheonmyeon-ro, Gwangjin-gu,",
-      "title": "Ong Seong-wu Solo Fan Meeting"
-    },
-    "ja": {
-      "address": "Seoul, 20, Gucheonmyeon-ro, Gwangjin-gu,",
-      "title": "COMEONG"
-    },
     "zh-cn": {
       "address": "Seoul, 20, Gucheonmyeon-ro, Gwangjin-gu,",
       "title": "邕圣佑 “COMEONG”见面会"

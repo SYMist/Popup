@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:32.905920"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:15.846397",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922c05-0f96-724d-af92-dddf27628bf5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01922c05-0f96-724d-af92-dddf27628bf5"
+    "enUrl": "https://interparkglobal.com/en/festas/01922c05-0f96-724d-af92-dddf27628bf5"
   },
   "translations": {
     "en": {
       "address": "Seoul, 2-1, Jangsa-dong, Jongno-gu, ",
       "title": "SEOUL LIFE STYLE TOUR"
-    },
-    "ja": {
-      "address": "Seoul, 2-1, Jangsa-dong, Jongno-gu, ",
-      "title": "ソウル トレンドセッターツアー"
     }
   }
 }

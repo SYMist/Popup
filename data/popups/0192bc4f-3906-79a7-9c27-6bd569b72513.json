@@ -35,23 +35,28 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:37.587350"
+    "fetchedAt": "2025-09-21T19:22:30.757570",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192bc4f-3906-79a7-9c27-6bd569b72513",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192bc4f-3906-79a7-9c27-6bd569b72513"
+    "enUrl": "https://interparkglobal.com/en/festas/0192bc4f-3906-79a7-9c27-6bd569b72513"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "SEVENTEEN Season 3. POP-UP"
-    },
-    "ja": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "SEVENTEEN Season 3. POP-UP"
     }

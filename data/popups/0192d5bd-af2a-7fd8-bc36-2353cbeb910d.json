@@ -30,33 +30,38 @@
     {
       "href": "https://www.globalinterpark.com/en/product/24007623",
       "label": "Buy Now"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24007623",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:52.737810"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:12.334994",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "Standing R Section: 143,000 KRW, Standing P Section: 154,000 KRW, Reserved Seat R Section: 165,000 KRW, Reserved Seat P Section: 176,000 KRW",
+    "normalized": {
+      "amountMax": 176000.0,
+      "amountMin": 143000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192d5bd-af2a-7fd8-bc36-2353cbeb910d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192d5bd-af2a-7fd8-bc36-2353cbeb910d"
+    "enUrl": "https://interparkglobal.com/en/festas/0192d5bd-af2a-7fd8-bc36-2353cbeb910d"
   },
   "translations": {
     "en": {
       "address": "Seoul, 430, Gyeongin-ro, Guro-gu,",
       "priceDesc": "Standing R Section: 143,000 KRW, Standing P Section: 154,000 KRW, Reserved Seat R Section: 165,000 KRW, Reserved Seat P Section: 176,000 KRW",
       "title": "Dua Lipa: Radical Optimism Tour 2024"
-    },
-    "ja": {
-      "address": "Seoul, 430, Gyeongin-ro, Guro-gu,",
-      "priceDesc": "スタンディングR席 143,000ウォン、スタンディングP石 154,000ウォン、指定席 R席 165,000ウォン、指定席 P席 176,000ウォン",
-      "title": "Radical Optimism Tour 2024"
     }
   }
 }

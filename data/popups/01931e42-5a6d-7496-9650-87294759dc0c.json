@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:14:58.351171"
+    "detection": {
+      "durationDays": 60,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:47.436997",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931e42-5a6d-7496-9650-87294759dc0c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931e42-5a6d-7496-9650-87294759dc0c"
+    "enUrl": "https://interparkglobal.com/en/festas/01931e42-5a6d-7496-9650-87294759dc0c"
   },
   "translations": {
     "en": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "Lotte Department Jamsil: Christmas Show"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "title": "Wonderful Showtime in蚕室🎄"
     }
   }
 }

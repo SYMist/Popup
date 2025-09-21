@@ -35,28 +35,37 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 30,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:14.831230"
+    "fetchedAt": "2025-09-21T19:17:18.391334",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "KRW 7,000 per person",
+    "normalized": {
+      "amountMax": 7000.0,
+      "amountMin": 7000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01912a8d-fa87-7f3c-9a15-cd2627b52e7d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01912a8d-fa87-7f3c-9a15-cd2627b52e7d"
+    "enUrl": "https://interparkglobal.com/en/festas/01912a8d-fa87-7f3c-9a15-cd2627b52e7d"
   },
   "translations": {
     "en": {
       "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
       "priceDesc": "KRW 7,000 per person",
       "title": "Acorn Caricature POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 188, Yanghwa-ro, Mapo-gu,",
-      "priceDesc": "1人あたり7,000ウォン",
-      "title": "どんぐりカリカチュア POP-UP"
     }
   }
 }

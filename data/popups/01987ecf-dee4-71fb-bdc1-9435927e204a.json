@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:21:33.598344"
+    "fetchedAt": "2025-09-21T19:21:48.023324",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01987ecf-dee4-71fb-bdc1-9435927e204a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01987ecf-dee4-71fb-bdc1-9435927e204a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01987ecf-dee4-71fb-bdc1-9435927e204a"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 67, Namdaemun-ro, Jung-gu,",
-      "title": "BETTY BOOP❤️ POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 67, Namdaemun-ro, Jung-gu,",
-      "title": "BETTY BOOP❤️  ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 67, Namdaemun-ro, Jung-gu,",
       "title": "贝蒂娃娃❤️快闪店"

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 27,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:30.075884"
+    "fetchedAt": "2025-09-21T19:22:23.172660",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01934ca6-806d-7fc9-856f-acfdea89df2e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01934ca6-806d-7fc9-856f-acfdea89df2e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934ca6-806d-7fc9-856f-acfdea89df2e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
-      "title": "COACH Holiday POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
-      "title": "COACH ホリデーポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "COACH “Holiday” 快闪店"

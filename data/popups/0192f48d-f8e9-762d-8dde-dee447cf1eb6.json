@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:15:20.664192"
+    "fetchedAt": "2025-09-21T19:19:59.306333",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192f48d-f8e9-762d-8dde-dee447cf1eb6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192f48d-f8e9-762d-8dde-dee447cf1eb6"
+    "enUrl": "https://interparkglobal.com/en/festas/0192f48d-f8e9-762d-8dde-dee447cf1eb6"
   },
   "translations": {
     "en": {
       "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu, ",
       "title": "Life Four Cuts X Mugunghwa Girl POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 47, Yeonmujang-gil, Seongdong-gu, ",
-      "title": "4カット ポップアップ📸"
     }
   }
 }

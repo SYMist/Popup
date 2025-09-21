@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:02.837248"
+    "detection": {
+      "durationDays": 20,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:10.561019",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197be87-ef20-7a13-ae88-9432f5a03839",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197be87-ef20-7a13-ae88-9432f5a03839",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be87-ef20-7a13-ae88-9432f5a03839"
   },
   "translations": {
-    "en": {
-      "address": " Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
-      "title": "Everline World of Street Woman Fighter"
-    },
-    "ja": {
-      "address": " Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
-      "title": "EVERLINE World of Street Woman Fighter"
-    },
     "zh-cn": {
       "address": " Seoul, 5F, 108, Yeoui-daero, Yeongdeungpo-gu",
       "title": "EVERLINE World of Street Woman Fighter"

@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:40.428753"
+    "detection": {
+      "durationDays": 10,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:52.928656",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191680e-b3e4-735f-9077-b79025f894a3",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191680e-b3e4-735f-9077-b79025f894a3"
+    "enUrl": "https://interparkglobal.com/en/festas/0191680e-b3e4-735f-9077-b79025f894a3"
   },
   "translations": {
     "en": {
       "address": "Seoul,  281, Eulji-ro, Jung-gu,",
       "title": "SEOUL LIGHT DDP 2024 AUTUMN"
-    },
-    "ja": {
-      "address": "Seoul,  281, Eulji-ro, Jung-gu,",
-      "title": "ソウルライトDDP2024秋"
     }
   }
 }

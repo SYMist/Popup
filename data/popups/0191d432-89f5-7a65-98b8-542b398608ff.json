@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 27,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:22:57.655860"
+    "fetchedAt": "2025-09-21T19:22:12.852785",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d432-89f5-7a65-98b8-542b398608ff",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d432-89f5-7a65-98b8-542b398608ff"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d432-89f5-7a65-98b8-542b398608ff"
   },
   "translations": {
     "en": {
       "address": "Seoul, 63, Wangsimni-ro, Seongdong-gu,",
       "title": "'Together for a Long Time' POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 63, Wangsimni-ro, Seongdong-gu,",
-      "title": "カカオペイ ポップアップ"
     }
   }
 }

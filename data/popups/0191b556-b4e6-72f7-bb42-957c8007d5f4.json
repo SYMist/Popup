@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:35.755858"
+    "detection": {
+      "durationDays": 22,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:03.491103",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b556-b4e6-72f7-bb42-957c8007d5f4",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b556-b4e6-72f7-bb42-957c8007d5f4"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b556-b4e6-72f7-bb42-957c8007d5f4"
   },
   "translations": {
     "en": {
       "address": "Busan,  270, Saengtaegongwon-gil, Buk-gu,",
       "title": "2024 Starry Busan Night Market"
-    },
-    "ja": {
-      "address": "Busan,  270, Saengtaegongwon-gil, Buk-gu,",
-      "title": "星の海釜山ナイトマーケット"
     }
   }
 }

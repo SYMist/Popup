@@ -35,25 +35,31 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up store",
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:43.968442"
+    "fetchedAt": "2025-09-21T19:18:42.870444",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192229a-ce15-7c9c-9032-9ff968954818",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192229a-ce15-7c9c-9032-9ff968954818"
+    "enUrl": "https://interparkglobal.com/en/festas/0192229a-ce15-7c9c-9032-9ff968954818"
   },
   "translations": {
     "en": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "PIXAR POP-UP STORE"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "title": "ピクサーハウス ポップアップ"
     }
   }
 }

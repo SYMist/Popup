@@ -28,7 +28,17 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:07:57.245752"
+    "detection": {
+      "durationDays": 16,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:15:45.494468",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"

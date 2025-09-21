@@ -35,23 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:24.922556"
+    "fetchedAt": "2025-09-21T19:20:21.242619",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193cce5-d63c-79e6-b2ed-119a3b275660",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193cce5-d63c-79e6-b2ed-119a3b275660"
   },
   "translations": {
-    "ja": {
-      "address": "Busan, 35, Centumnam-daero, Haeundae-gu,",
-      "title": "ZANMANG HOLLY EXPRESS"
-    },
     "zh-cn": {
       "address": "Busan, 35, Centumnam-daero, Haeundae-gu,",
       "priceDesc": "null",

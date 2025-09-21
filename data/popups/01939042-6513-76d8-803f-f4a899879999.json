@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:42.903483"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:47.457920",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01939042-6513-76d8-803f-f4a899879999",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01939042-6513-76d8-803f-f4a899879999",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939042-6513-76d8-803f-f4a899879999"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 4-15, Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『NIKI』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 4-15, Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『ニキ』 センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 4-15, Wausan-ro 29-gil, Mapo-gu,",
       "title": "“NI-KI” 生日咖啡厅 🎂"

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 34,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:15.202564"
+    "fetchedAt": "2025-09-21T19:20:57.947816",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197153a-0289-7e07-8808-b348441aaff5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197153a-0289-7e07-8808-b348441aaff5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197153a-0289-7e07-8808-b348441aaff5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 424, Olympic-ro, Songpa-gu, Seoul",
-      "title": "G-Dragon PEACEMINUSONE Highball POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 424, Olympic-ro, Songpa-gu, Seoul",
-      "title": "G-Dragon PEACEMINUSONE ハイボール POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu, Seoul",
       "title": "G-Dragon PEACEMINUSONE 高球快闪店"

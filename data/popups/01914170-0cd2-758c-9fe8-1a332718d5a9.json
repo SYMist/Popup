@@ -35,23 +35,28 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 28,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:28.049849"
+    "fetchedAt": "2025-09-21T19:17:26.380536",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01914170-0cd2-758c-9fe8-1a332718d5a9",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01914170-0cd2-758c-9fe8-1a332718d5a9"
+    "enUrl": "https://interparkglobal.com/en/festas/01914170-0cd2-758c-9fe8-1a332718d5a9"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 429, Gangnam-daero, Seocho-gu,",
-      "title": "Torriden X Branden POP-UP"
-    },
-    "ja": {
       "address": "Seoul, 429, Gangnam-daero, Seocho-gu,",
       "title": "Torriden X Branden POP-UP"
     }

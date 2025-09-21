@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:40.125724"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:38.437975",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920cbe-3968-7765-854e-b0a9d830d85e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01920cbe-3968-7765-854e-b0a9d830d85e"
+    "enUrl": "https://interparkglobal.com/en/festas/01920cbe-3968-7765-854e-b0a9d830d85e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 216, Neungdong-ro, Gwangjin-gu,",
       "title": "2024 Cheongchun-daero: Our Way"
-    },
-    "ja": {
-      "address": "Seoul, 216, Neungdong-ro, Gwangjin-gu,",
-      "title": "2024青春大路"
     }
   }
 }

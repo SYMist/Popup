@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 23,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:43.975578"
+    "fetchedAt": "2025-09-21T19:21:20.888399",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e2b8-ab27-7b07-81d9-e3496c0d09d7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e2b8-ab27-7b07-81d9-e3496c0d09d7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2b8-ab27-7b07-81d9-e3496c0d09d7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "Olive Young x Sanrio Characters Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "Oliveyoung x サンリオキャラクターズ ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
       "title": "Olive Young x 三丽鸥角色期间限定店"

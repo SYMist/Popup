@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:34.457353"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:34.316887",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984070-d208-7aef-8163-108fa9115a28",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984070-d208-7aef-8163-108fa9115a28",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984070-d208-7aef-8163-108fa9115a28"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 424 Ol﻿ympic-ro, Songpa-gu, ",
-      "title": "2025 KEYLAND : Uncanny Valley"
-    },
-    "ja": {
-      "address": "Seoul, 424 Ol﻿ympic-ro, Songpa-gu, ",
-      "title": "2025 KEYLAND : Uncanny Valley"
-    },
     "zh-cn": {
       "address": "Seoul, 424 Ol﻿ympic-ro, Songpa-gu, ",
       "title": "2025 KEYLAND : Uncanny Valley"

@@ -33,25 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:35.194897"
+    "detection": {
+      "durationDays": 16,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:18.065317",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[0]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197ce22-fffb-7421-973e-cbf847a935b7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197ce22-fffb-7421-973e-cbf847a935b7",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197ce22-fffb-7421-973e-cbf847a935b7"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
-      "title": "2025 AKMU STANDING CONCERT"
-    },
-    "ja": {
-      "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
-      "title": "2025 AKMU STANDING CONCERT"
-    },
     "zh-cn": {
       "address": "Seoul, 30, Beodeunaru-ro, Yeongdeungpo-gu,",
       "title": "2025 AKMU 演唱会"

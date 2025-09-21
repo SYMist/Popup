@@ -1,0 +1,64 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11-48 Hangang-daero 10-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-13",
+    "start": "2025-10-08"
+  },
+  "geo": {
+    "lat": 37.52468,
+    "lon": 126.9647
+  },
+  "id": "0199607f-c474-70f1-9fb3-4fd541d0cba5",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/822c4fac-f127-43d0-8530-434e0501277d.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/822c4fac-f127-43d0-8530-434e0501277d.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://x.com/ethereal__jimin/status/1968248885543137405",
+      "label": "SUBLUNARY"
+    },
+    {
+      "href": "https://x.com/bomnalcafe/status/1968264057213063220",
+      "label": "Midnight Flying"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:57.390786",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "enUrl": "https://interparkglobal.com/en/festas/0199607f-c474-70f1-9fb3-4fd541d0cba5"
+  },
+  "translations": {
+    "en": {
+      "address": "Seoul, 11-48 Hangang-daero 10-gil, Yongsan-gu,",
+      "title": "『Jimin』 Birthday Cafe 🎂"
+    }
+  }
+}

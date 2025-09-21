@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 36,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:17:55.074962"
+    "fetchedAt": "2025-09-21T19:20:50.742997",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193ae37-f7b6-7cdf-86b0-da1420b28d69",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193ae37-f7b6-7cdf-86b0-da1420b28d69",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae37-f7b6-7cdf-86b0-da1420b28d69"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 7, Yeonmujang 9-gil, Seongdong-gu,",
-      "title": "Jo Malone London Seongsu POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 7, Yeonmujang 9-gil, Seongdong-gu,",
-      "title": "ジョー・マローン・ロンドン  ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 7, Yeonmujang 9-gil, Seongdong-gu,",
       "title": "祖·玛珑伦敦圣诞快闪"

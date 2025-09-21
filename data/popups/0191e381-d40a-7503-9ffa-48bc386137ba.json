@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 24,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:28.478621"
+    "fetchedAt": "2025-09-21T19:18:36.258865",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e381-d40a-7503-9ffa-48bc386137ba",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e381-d40a-7503-9ffa-48bc386137ba"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e381-d40a-7503-9ffa-48bc386137ba"
   },
   "translations": {
     "en": {
       "address": "Seoul, 6-1, Pilwoon-daero, Jongno-gu,",
       "title": "Only Stickers 2024"
-    },
-    "ja": {
-      "address": "Seoul, 6-1, Pilwoon-daero, Jongno-gu,",
-      "title": "オンリー ステッカーズ2024"
     }
   }
 }

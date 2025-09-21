@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:11:32.942190"
+    "fetchedAt": "2025-09-21T19:18:03.289465",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b505-7e70-78b7-af4d-7303115a5a74",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b505-7e70-78b7-af4d-7303115a5a74"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b505-7e70-78b7-af4d-7303115a5a74"
   },
   "translations": {
     "en": {
       "address": "Seoul, 99, Wausan-ro, Mapo-gu,",
       "title": "Gadeokhagae POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 99, Wausan-ro, Mapo-gu,",
-      "title": "カドクカゲ ポップアップ"
     }
   }
 }

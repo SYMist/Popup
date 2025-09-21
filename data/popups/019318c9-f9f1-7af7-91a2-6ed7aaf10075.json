@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:21.134206"
+    "detection": {
+      "durationDays": 51,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:20.889451",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019318c9-f9f1-7af7-91a2-6ed7aaf10075",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019318c9-f9f1-7af7-91a2-6ed7aaf10075",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019318c9-f9f1-7af7-91a2-6ed7aaf10075"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
-      "title": "Seoul Plaza Ice Rink"
-    },
-    "ja": {
-      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
-      "title": "ソウル広場 アイスリンク⛸️"
-    },
     "zh-cn": {
       "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
       "title": "首尔广场溜冰场"

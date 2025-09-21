@@ -35,30 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 22,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:39.671127"
+    "fetchedAt": "2025-09-21T19:21:34.492037",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "2,000韩元",
+    "normalized": {
+      "amountMax": 2000.0,
+      "amountMin": 2000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984e46-a649-768c-9399-0262a8c8ae5a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984e46-a649-768c-9399-0262a8c8ae5a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984e46-a649-768c-9399-0262a8c8ae5a"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 11, Tojeong-ro 3-gil, Mapo-gu, ",
-      "priceDesc": "2,000 won",
-      "title": "Lee Chan-hyuk: Fountain of Inspiration"
-    },
-    "ja": {
-      "address": "Seoul, 11, Tojeong-ro 3-gil, Mapo-gu, ",
-      "priceDesc": "2,000ウォン",
-      "title": "AKMU  イ・チャンヒョク ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 11, Tojeong-ro 3-gil, Mapo-gu, ",
       "priceDesc": "2,000韩元",

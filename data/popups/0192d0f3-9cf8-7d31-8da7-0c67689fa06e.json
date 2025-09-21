@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 30,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:15:52.424984"
+    "fetchedAt": "2025-09-21T19:20:11.061827",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192d0f3-9cf8-7d31-8da7-0c67689fa06e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192d0f3-9cf8-7d31-8da7-0c67689fa06e"
+    "enUrl": "https://interparkglobal.com/en/festas/0192d0f3-9cf8-7d31-8da7-0c67689fa06e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "Wicked x The Hyundai Seoul POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "ウィキッド ポップアップ"
     }
   }
 }

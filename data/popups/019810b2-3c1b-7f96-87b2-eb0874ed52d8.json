@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:15.129712"
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:28.959319",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019810b2-3c1b-7f96-87b2-eb0874ed52d8"
   },
   "translations": {
-    "en": {
-      "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
-      "title": "TXT The Star Chapter: TOGETHER POP-UP"
-    },
-    "ja": {
-      "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
-      "title": "The Star Chapter: TOGETHER"
-    },
     "zh-cn": {
       "address": " Seou, 99, Yeonmujang-gil, Seongdong-gu,",
       "title": "The Star Chapter: TOGETHER"

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:15:39.119812"
+    "fetchedAt": "2025-09-21T19:20:07.910531",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192c106-74ff-7e3a-a8a9-fb552f424eda",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192c106-74ff-7e3a-a8a9-fb552f424eda"
+    "enUrl": "https://interparkglobal.com/en/festas/0192c106-74ff-7e3a-a8a9-fb552f424eda"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
       "title": "Ichiran Home Kit Pop-Up"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
-      "title": "一蘭ラーメンポップアップ🍜"
     }
   }
 }

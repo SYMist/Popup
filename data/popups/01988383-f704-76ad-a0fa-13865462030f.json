@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:35.880047"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:48.990427",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01988383-f704-76ad-a0fa-13865462030f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01988383-f704-76ad-a0fa-13865462030f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01988383-f704-76ad-a0fa-13865462030f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 26 Wausan-ro 21-gil, Mapo-gu,",
-      "title": "『Yejun』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 26 Wausan-ro 21-gil, Mapo-gu,",
-      "title": "『イェジュン』センイルカフェ🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 26 Wausan-ro 21-gil, Mapo-gu,",
       "title": "“艺俊” 生日咖啡厅🎂"

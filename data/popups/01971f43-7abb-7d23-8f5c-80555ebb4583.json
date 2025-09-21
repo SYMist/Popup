@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:59.107798"
+    "fetchedAt": "2025-09-21T19:20:30.623391",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971f43-7abb-7d23-8f5c-80555ebb4583",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971f43-7abb-7d23-8f5c-80555ebb4583",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f43-7abb-7d23-8f5c-80555ebb4583"
   },
   "translations": {
-    "en": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "DDP Exhibition: Prelude to Spring"
-    },
-    "ja": {
-      "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
-      "title": "Prelude to Spring"
-    },
     "zh-cn": {
       "address": "Seou﻿l, 281 Eulji-ro, Jung-gu,",
       "title": "Prelude to Spring"

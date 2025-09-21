@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:15:43.610914"
+    "fetchedAt": "2025-09-21T19:20:08.913657",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192d077-004d-7cf7-8582-6924d16bb168",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192d077-004d-7cf7-8582-6924d16bb168"
+    "enUrl": "https://interparkglobal.com/en/festas/0192d077-004d-7cf7-8582-6924d16bb168"
   },
   "translations": {
     "en": {
       "address": "Seoul, 426, Gangnam-daero, Gangnam-gu,",
       "title": "Jeongnyeon x Zanmang Loopy Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 426, Gangnam-daero, Gangnam-gu,",
-      "title": "ジョンニョン コラボポップアップ"
     }
   }
 }

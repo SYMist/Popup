@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:17.538808"
+    "detection": {
+      "durationDays": 50,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:19.962456",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193af8e-4e08-7102-b752-7e22a885c573",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193af8e-4e08-7102-b752-7e22a885c573",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af8e-4e08-7102-b752-7e22a885c573"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 238, Haeundae Beach-ro, Haeundae-gu,",
-      "title": "The 11th Haeundae Light Festival"
-    },
-    "ja": {
-      "address": "Busan, 238, Haeundae Beach-ro, Haeundae-gu,",
-      "title": "第11回 ヘウンデ 光フェスティバル"
-    },
     "zh-cn": {
       "address": "Busan, 238, Haeundae Beach-ro, Haeundae-gu,",
       "priceDesc": "null",

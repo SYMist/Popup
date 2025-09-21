@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCF8TTXyRJi/",
@@ -33,23 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:08.923103"
+    "detection": {
+      "durationDays": 14,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:52.706583",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193282e-f277-73d1-b91f-e9513210174c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193282e-f277-73d1-b91f-e9513210174c"
+    "enUrl": "https://interparkglobal.com/en/festas/0193282e-f277-73d1-b91f-e9513210174c"
   },
   "translations": {
     "en": {
       "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
       "title": "NCT DREAM X LINE FRIENDS POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 42, Gangnam-daero 160-gil, Gangnam-gu,",
-      "title": "DREAMSCAPE ポップアップ"
     }
   }
 }

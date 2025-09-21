@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:24.034942"
+    "detection": {
+      "durationDays": 31,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:00.596813",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01973849-90a3-7f62-a66a-98714f37637c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01973849-90a3-7f62-a66a-98714f37637c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973849-90a3-7f62-a66a-98714f37637c"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu, ",
-      "title": "Pokemon METAMONG Garden"
-    },
-    "ja": {
-      "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu, ",
-      "title": "メタモンガーデン"
-    },
     "zh-cn": {
       "address": "Seoul, 33, Yeouidaebang-ro 20-gil, Dongjak-gu, ",
       "title": "百变怪花园"

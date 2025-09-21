@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:26.979252"
+    "detection": {
+      "durationDays": 84,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:22.553246",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019341b2-b2f4-7070-a1c2-b1cd5b7e0668",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019341b2-b2f4-7070-a1c2-b1cd5b7e0668",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019341b2-b2f4-7070-a1c2-b1cd5b7e0668"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 221, Seobinggo-ro, Yongsan-gu,",
-      "title": "Christmas in Yongsan Park"
-    },
-    "ja": {
-      "address": "Seoul, 221, Seobinggo-ro, Yongsan-gu,",
-      "title": "ハッピークリスマスビレッジ 🌲"
-    },
     "zh-cn": {
       "address": "Seoul, 221, Seobinggo-ro, Yongsan-gu,",
       "title": "龙山公园“Happy Christmas Village” 🌲"

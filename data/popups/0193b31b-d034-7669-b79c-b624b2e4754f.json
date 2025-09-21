@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:58.153016"
+    "detection": {
+      "durationDays": 44,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:22.343077",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193b31b-d034-7669-b79c-b624b2e4754f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193b31b-d034-7669-b79c-b624b2e4754f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b31b-d034-7669-b79c-b624b2e4754f"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 1324, Jungang-daero, Dongrae-gu,",
-      "title": "The 2nd Oncheoncheon Light Festival"
-    },
-    "ja": {
-      "address": "Busan, 1324, Jungang-daero, Dongrae-gu,",
-      "title": "第2回 オンチョンチョン光フェスティバル"
-    },
     "zh-cn": {
       "address": "Busan, 1324, Jungang-daero, Dongrae-gu,",
       "priceDesc": "null",

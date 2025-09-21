@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:48.603424"
+    "detection": {
+      "durationDays": 23,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:59.362323",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e93c-cd23-7dee-8932-f2f97ae2a72e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 1, Tongil-ro, Jung-gu, Seoul",
       "title": "Seoul Arts & Tech Festival 'Unfold X'"
-    },
-    "ja": {
-      "address": "Seoul, 1, Tongil-ro, Jung-gu, Seoul",
-      "title": "ソウル融合芸術フェスティバル Unfold X"
     }
   }
 }

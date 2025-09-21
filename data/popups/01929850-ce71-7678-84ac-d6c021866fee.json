@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:01.287416"
+    "fetchedAt": "2025-09-21T19:20:13.509005",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01929850-ce71-7678-84ac-d6c021866fee",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01929850-ce71-7678-84ac-d6c021866fee",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01929850-ce71-7678-84ac-d6c021866fee"
   },
   "translations": {
-    "en": {
-      "address": "Gwacheon,, 81, Gwangmyeong-ro, ",
-      "title": "Seoul Land Christmas Festival 2024"
-    },
-    "ja": {
-      "address": "Gwacheon,, 81, Gwangmyeong-ro, ",
-      "title": "ソウルランド 10月のクリスマス"
-    },
     "zh-cn": {
       "address": "Gwacheon,, 81, Gwangmyeong-ro, ",
       "title": "2024年首尔乐园圣诞节"

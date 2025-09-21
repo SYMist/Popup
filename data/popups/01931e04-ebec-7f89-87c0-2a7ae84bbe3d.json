@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:26.113651"
+    "fetchedAt": "2025-09-21T19:23:14.567132",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931e04-ebec-7f89-87c0-2a7ae84bbe3d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931e04-ebec-7f89-87c0-2a7ae84bbe3d"
+    "enUrl": "https://interparkglobal.com/en/festas/01931e04-ebec-7f89-87c0-2a7ae84bbe3d"
   },
   "translations": {
     "en": {
       "address": "Seoul, 27, Seoul Forest 2-gil, Seongdong-gu, ",
       "title": "Kkamja Pop-Up Exhibition"
-    },
-    "ja": {
-      "address": "Seoul, 27, Seoul Forest 2-gil, Seongdong-gu, ",
-      "title": "子犬カムジャ ポップアップ"
     }
   }
 }

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 86,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:22:29.295300"
+    "fetchedAt": "2025-09-21T19:22:02.068686",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01993141-7962-7164-b767-e79c4e0ca2b2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01993141-7962-7164-b767-e79c4e0ca2b2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993141-7962-7164-b767-e79c4e0ca2b2"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 7-1, Yeonmujang 1-gil, Seongdong-gu,",
-      "title": "DEBUT COUNTDOWN POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 7-1, Yeonmujang 1-gil, Seongdong-gu,",
-      "title": "T Factory 聖水 DEBUT COUNTDOWN"
-    },
     "zh-cn": {
       "address": "Seoul, 7-1, Yeonmujang 1-gil, Seongdong-gu,",
       "title": "T Factory 圣水 DEBUT COUNTDOWN"

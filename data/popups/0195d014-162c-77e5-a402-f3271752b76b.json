@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:20.935644"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:43.491771",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195d014-162c-77e5-a402-f3271752b76b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195d014-162c-77e5-a402-f3271752b76b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d014-162c-77e5-a402-f3271752b76b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
-      "title": "『Yoon』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
-      "title": "『ユン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 25, Eoulmadang-ro 5-gil, Mapo-gu, ",
       "title": "\"YOON\" 生日咖啡厅🎂"

@@ -37,7 +37,13 @@
       "category": "POP-UP",
       "rule": "category"
     },
-    "fetchedAt": "2025-09-19T14:13:34.639157"
+    "fetchedAt": "2025-09-21T19:19:11.037618",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"

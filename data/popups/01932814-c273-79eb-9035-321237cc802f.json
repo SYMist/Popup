@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/DCN_OUxRCjW/",
@@ -33,23 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:08.386635"
+    "detection": {
+      "durationDays": 8,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:50.950786",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01932814-c273-79eb-9035-321237cc802f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01932814-c273-79eb-9035-321237cc802f"
+    "enUrl": "https://interparkglobal.com/en/festas/01932814-c273-79eb-9035-321237cc802f"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
       "title": "TWICE 'STRATEGY' POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu, ",
-      "title": "TWICE ＜STRATEGY＞"
     }
   }
 }

@@ -37,25 +37,21 @@
       "category": "POP-UP",
       "rule": "category"
     },
-    "fetchedAt": "2025-09-19T14:18:22.563199"
+    "fetchedAt": "2025-09-21T19:20:59.930019",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01973841-8198-7a6b-8c01-0cd0c9271e51",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01973841-8198-7a6b-8c01-0cd0c9271e51",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01973841-8198-7a6b-8c01-0cd0c9271e51"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 26, Seongsui-ro 7-gil, Seongdong-gu, ",
-      "title": "Gentle Monster X Bratz Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 26, Seongsui-ro 7-gil, Seongdong-gu, ",
-      "title": "GENTLE MONSTER X Bratz ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 26, Seongsui-ro 7-gil, Seongdong-gu, ",
       "title": "Gentle Monster X Bratz 合作快闪店"

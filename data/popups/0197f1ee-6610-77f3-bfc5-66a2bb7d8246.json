@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:58.793335"
+    "detection": {
+      "durationDays": 20,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:24.585176",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197f1ee-6610-77f3-bfc5-66a2bb7d8246",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197f1ee-6610-77f3-bfc5-66a2bb7d8246",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197f1ee-6610-77f3-bfc5-66a2bb7d8246"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 172, Sejong-daero, Jongno-gu,",
-      "title": "2025 Seoul Summer Beach"
-    },
-    "ja": {
-      "address": "Seoul, 172, Sejong-daero, Jongno-gu,",
-      "title": "2025 ソウルサマービーチ"
-    },
     "zh-cn": {
       "address": "Seoul, 172, Sejong-daero, Jongno-gu,",
       "title": "2025 首尔夏季海滩"

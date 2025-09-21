@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:13:51.408429"
+    "fetchedAt": "2025-09-21T19:19:16.911360",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926a9c-5cdb-7849-b377-95bf949def6a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01926a9c-5cdb-7849-b377-95bf949def6a"
+    "enUrl": "https://interparkglobal.com/en/festas/01926a9c-5cdb-7849-b377-95bf949def6a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu, ",
       "title": "SpongeBob Camping Day"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yonsei-ro, Seodaemun-gu, ",
-      "title": "スポンジボブ キャンプデイ"
     }
   }
 }

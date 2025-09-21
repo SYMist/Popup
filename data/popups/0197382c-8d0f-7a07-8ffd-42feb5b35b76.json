@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 17,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:19.258340"
+    "fetchedAt": "2025-09-21T19:20:59.240040",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197382c-8d0f-7a07-8ffd-42feb5b35b76",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197382c-8d0f-7a07-8ffd-42feb5b35b76",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197382c-8d0f-7a07-8ffd-42feb5b35b76"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 53, Seoulsup-gil, Seongdong-gu, ",
-      "title": "K-beauty Brand Dinto POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 53, Seoulsup-gil, Seongdong-gu, ",
-      "title": "Dinto ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 53, Seoulsup-gil, Seongdong-gu, ",
       "title": "Dinto 快闪店"

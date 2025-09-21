@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:23.678573"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:28.972784",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195d4c8-a61b-7cb3-b0ae-53ead3eb5b10",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195d4c8-a61b-7cb3-b0ae-53ead3eb5b10",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195d4c8-a61b-7cb3-b0ae-53ead3eb5b10"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 3-3, Wausan-ro 29na-gil, Mapo-gu, ",
-      "title": "『Wonpil』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 3-3, Wausan-ro 29na-gil, Mapo-gu, ",
-      "title": "『ウォンピル』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 3-3, Wausan-ro 29na-gil, Mapo-gu, ",
       "title": "\"元弼\" 生日咖啡厅🎂"

@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:37.344264"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:04.362516",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b583-054b-7efc-9148-e0fa504cf636",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b583-054b-7efc-9148-e0fa504cf636"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b583-054b-7efc-9148-e0fa504cf636"
   },
   "translations": {
     "en": {
       "address": "Seoul, 24-4, Wausan-ro 29na-gil, Mapo-gu,",
       "title": "『HYUNJAE』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul,  24-4, Wausan-ro 29na-gil, Mapo-gu,",
-      "title": "『ヒョンジェ』 センイルカフェ 🎂"
     }
   }
 }

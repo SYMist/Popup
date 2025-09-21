@@ -33,21 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:29.372957"
+    "detection": {
+      "durationDays": 33,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:35.017240",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191bf8f-5ead-71b2-844d-082530002028",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191bf8f-5ead-71b2-844d-082530002028"
+    "enUrl": "https://interparkglobal.com/en/festas/0191bf8f-5ead-71b2-844d-082530002028"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 412, Apgujeong-ro, Gangnam-gu,",
-      "title": "MCM WEARABLE CASA"
-    },
-    "ja": {
       "address": "Seoul, 412, Apgujeong-ro, Gangnam-gu,",
       "title": "MCM WEARABLE CASA"
     }

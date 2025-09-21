@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:32.502974"
+    "detection": {
+      "durationDays": 78,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:02.732744",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019341e1-41d0-7333-ac84-92ae32c3fd5d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019341e1-41d0-7333-ac84-92ae32c3fd5d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019341e1-41d0-7333-ac84-92ae32c3fd5d"
   },
   "translations": {
-    "en": {
-      "address": "Seogwipo-si,, 256, Silryedong-ro, Namwon-eup, ",
-      "title": "Jeju Hueree Camellia Festival"
-    },
-    "ja": {
-      "address": "Seogwipo-si,, 256, Silryedong-ro, Namwon-eup, ",
-      "title": "済州ヒュエリ 冬椿フェスティバル"
-    },
     "zh-cn": {
       "address": "Seogwipo-si,, 256, Silryedong-ro, Namwon-eup, ",
       "title": "济州休爱里山茶花庆典"

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 27,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:43.185163"
+    "fetchedAt": "2025-09-21T19:21:36.300385",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984ebb-3bd4-793d-8f3f-cd315947122f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984ebb-3bd4-793d-8f3f-cd315947122f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984ebb-3bd4-793d-8f3f-cd315947122f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
-      "title": "Movie <Omniscient Reader's Viewpoint> POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
-      "title": "映画<全知的な読者の視点から> ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
       "title": "电影《全知读者视角》快闪店"

@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:47.282316"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:10.274926",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01928994-5086-761a-bbc3-e99928ac4f40",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01928994-5086-761a-bbc3-e99928ac4f40"
+    "enUrl": "https://interparkglobal.com/en/festas/01928994-5086-761a-bbc3-e99928ac4f40"
   },
   "translations": {
     "en": {
       "address": "Seoul, 40-18, Wausan-ro 29-gil, Mapo-gu, ",
       "title": "『Lee Han』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 40-18, Wausan-ro 29-gil, Mapo-gu, ",
-      "title": "『イハン』 センイルカフェ 🎂"
     }
   }
 }

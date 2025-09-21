@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:17.135986"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:27.180915",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01954526-871a-77b6-ad88-532d67548676",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01954526-871a-77b6-ad88-532d67548676",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01954526-871a-77b6-ad88-532d67548676"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu, ",
-      "title": "『Ju Haknyeon』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu, ",
-      "title": "『チュ・ハンニョン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 16, Yonsei-ro 9-gil, Seodaemun-gu, ",
       "title": "“周鹤年”生日咖啡厅🎂"

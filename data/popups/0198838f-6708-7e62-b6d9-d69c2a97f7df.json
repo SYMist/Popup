@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:38.371643"
+    "detection": {
+      "durationDays": 10,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:49.414489",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198838f-6708-7e62-b6d9-d69c2a97f7df",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198838f-6708-7e62-b6d9-d69c2a97f7df",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198838f-6708-7e62-b6d9-d69c2a97f7df"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
-      "title": "『Sungho』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
-      "title": "『ソンホ』センイルカフェ🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu,",
       "title": "“成淏” 生日咖啡厅🎂"

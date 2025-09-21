@@ -35,25 +35,31 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 16,
+      "keywordHits": [
+        "pop-up store",
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:13:44.796394"
+    "fetchedAt": "2025-09-21T19:19:10.223776",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192404d-7ee1-7c5d-9c74-180dfbfe590a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192404d-7ee1-7c5d-9c74-180dfbfe590a"
+    "enUrl": "https://interparkglobal.com/en/festas/0192404d-7ee1-7c5d-9c74-180dfbfe590a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 35, Yeonmujang-gil, Seongdong-gu,",
       "title": "Thom Browne Pop-up Store"
-    },
-    "ja": {
-      "address": "Seoul, 35, Yeonmujang-gil, Seongdong-gu,",
-      "title": "トムブラウン ポップアップ"
     }
   }
 }

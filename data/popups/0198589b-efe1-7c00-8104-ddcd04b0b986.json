@@ -30,27 +30,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 27,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:55.225085"
+    "fetchedAt": "2025-09-21T19:21:37.765647",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198589b-efe1-7c00-8104-ddcd04b0b986",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198589b-efe1-7c00-8104-ddcd04b0b986",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198589b-efe1-7c00-8104-ddcd04b0b986"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu,",
-      "title": "Torriden X Ghana D POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu,",
-      "title": "トリデン X カナディ ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 57, Hongik-ro 6-gil, Mapo-gu,",
       "title": "Torriden X Ganadi 快闪店"

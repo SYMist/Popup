@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:12.924277"
+    "detection": {
+      "durationDays": 21,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:25.449390",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0194811b-8505-7ac0-9c99-d48ebad26e45",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0194811b-8505-7ac0-9c99-d48ebad26e45",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0194811b-8505-7ac0-9c99-d48ebad26e45"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 30, Eonju-ro 174-gil, Gangnam-gu, ",
-      "title": "MUSINSA EMPTY Fortune Cookie Giveaway"
-    },
-    "ja": {
-      "address": "Seoul, 30, Eonju-ro 174-gil, Gangnam-gu, ",
-      "title": "Your lucky style guide: MUSINSA EMPTY"
-    },
     "zh-cn": {
       "address": "Seoul, 30, Eonju-ro 174-gil, Gangnam-gu, ",
       "priceDesc": "null",

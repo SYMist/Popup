@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:47.379092"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:35.420528",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198ef50-ed60-7eab-9c7c-fbba54976a54",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef50-ed60-7eab-9c7c-fbba54976a54",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef50-ed60-7eab-9c7c-fbba54976a54"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 11-44 Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『Yeonjun』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 11-44 Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『ヨンジュン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 11-44 Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“然竣”生日咖啡厅🎂"

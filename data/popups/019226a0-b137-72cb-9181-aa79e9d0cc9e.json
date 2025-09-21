@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 81,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:03.210383"
+    "fetchedAt": "2025-09-21T19:22:14.462115",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019226a0-b137-72cb-9181-aa79e9d0cc9e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019226a0-b137-72cb-9181-aa79e9d0cc9e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019226a0-b137-72cb-9181-aa79e9d0cc9e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
-      "title": "Now in Myeongdong X Pixar POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
-      "title": "ピクサー ポップアップストア"
-    },
     "zh-cn": {
       "address": "Seoul, 15, Myeongdong-gil, Jung-gu,",
       "title": "Now in Myeongdong X Pixar皮克斯"

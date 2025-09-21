@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 41,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:24.171877"
+    "fetchedAt": "2025-09-21T19:17:23.104826",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019144ee-1425-7eac-8d25-95158b6e9045",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019144ee-1425-7eac-8d25-95158b6e9045"
+    "enUrl": "https://interparkglobal.com/en/festas/019144ee-1425-7eac-8d25-95158b6e9045"
   },
   "translations": {
     "en": {
       "address": "Seoul, 162, Yanghwa-ro, Mapo-gu,",
       "title": "Gosimperson POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 162, Yanghwa-ro, Mapo-gu,",
-      "title": "チェゴシム POP-UP"
     }
   }
 }

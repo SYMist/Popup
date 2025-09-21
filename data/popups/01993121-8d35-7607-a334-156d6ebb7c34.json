@@ -35,27 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 61,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:22:25.816839"
+    "fetchedAt": "2025-09-21T19:22:00.996097",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01993121-8d35-7607-a334-156d6ebb7c34",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01993121-8d35-7607-a334-156d6ebb7c34",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01993121-8d35-7607-a334-156d6ebb7c34"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 58-1, Yeonmujang-gil, Seongdong-gu,",
-      "title": "LUSH POP-UP THEATER 🍿"
-    },
-    "ja": {
-      "address": "Seoul, 58-1, Yeonmujang-gil, Seongdong-gu,",
-      "title": "LUSH POP-UP THEATER 🍿"
-    },
     "zh-cn": {
       "address": "Seoul, 58-1, Yeonmujang-gil, Seongdong-gu,",
       "title": "LUSH POP-UP THEATER 🍿"

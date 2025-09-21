@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:15.217268"
+    "detection": {
+      "durationDays": 87,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:41.954358",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019360db-cfde-7b3b-bf16-8ceee44f93fe"
   },
   "translations": {
-    "en": {
-      "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
-      "title": "Moomin X Everland"
-    },
-    "ja": {
-      "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
-      "title": "ムーミン X エバーランド"
-    },
     "zh-cn": {
       "address": "Yongin-si, , 199, Everland-ro, Pogok-eup, Cheoin-gu, ",
       "title": "姆明 MOOMIN X 爱宝乐园"

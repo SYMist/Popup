@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:22:17.928780"
+    "fetchedAt": "2025-09-21T19:21:59.578779",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01992772-2fdc-7723-9111-01deaf1148a4",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01992772-2fdc-7723-9111-01deaf1148a4",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01992772-2fdc-7723-9111-01deaf1148a4"
   },
   "translations": {
-    "en": {
-      "address": "Seoul,  74, Seongsu﻿i-ro, Seongdong-gu,",
-      "title": "COACH X MUSINSA POP-UP"
-    },
-    "ja": {
-      "address": "Seoul,  74, Seongsu﻿i-ro, Seongdong-gu,",
-      "title": "COACH x MUSINSA ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul,  74, Seongsu﻿i-ro, Seongdong-gu,",
       "title": "COACH x MUSINSA 快闪店"

@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:08.155582"
+    "fetchedAt": "2025-09-21T19:21:11.994202",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bebf-809e-7c10-b4b8-0f2ab5dfa405"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
-      "title": "Guess X NMIXX POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
-      "title": "GUESS X NMIXX ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, B2, 108, Yeoui-daero, Yeongdeungpo-gu",
       "title": "GUESS X NMIXX 期间限定店"

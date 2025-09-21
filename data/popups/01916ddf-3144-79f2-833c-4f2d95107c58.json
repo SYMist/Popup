@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:55.149084"
+    "detection": {
+      "durationDays": 10,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:12.743832",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916ddf-3144-79f2-833c-4f2d95107c58",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916ddf-3144-79f2-833c-4f2d95107c58"
+    "enUrl": "https://interparkglobal.com/en/festas/01916ddf-3144-79f2-833c-4f2d95107c58"
   },
   "translations": {
     "en": {
       "address": "Seoul, 15, Seoul Forest 4-gil, Seongdong-gu, ",
       "title": "TAEMIN The 5th Mini Album ‘ETERNAL’ EXHIBITION"
-    },
-    "ja": {
-      "address": "Seoul, 15, Seoul Forest 4-gil, Seongdong-gu, ",
-      "title": "テミン展示会＜EXHIBITION>"
     }
   }
 }

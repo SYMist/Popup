@@ -30,27 +30,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:50.260047"
+    "fetchedAt": "2025-09-21T19:21:37.517640",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01985895-66e6-759b-864a-6a982b4341e1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01985895-66e6-759b-864a-6a982b4341e1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01985895-66e6-759b-864a-6a982b4341e1"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "Mediheal X KBO POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "MEDIHEAL X KBOポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 13, Yeonmujang 7-gil, Seongdong-gu, ",
       "title": "MEDIHEAL X KBO 期间限定店"

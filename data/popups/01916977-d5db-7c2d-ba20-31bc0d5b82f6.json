@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:10:48.246993"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:39.384020",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916977-d5db-7c2d-ba20-31bc0d5b82f6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916977-d5db-7c2d-ba20-31bc0d5b82f6"
+    "enUrl": "https://interparkglobal.com/en/festas/01916977-d5db-7c2d-ba20-31bc0d5b82f6"
   },
   "translations": {
     "en": {
       "address": "Seoul,  40, Sinchon-ro 2an-gil, Mapo-gu,",
       "title": "『Jungkook』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul,  40, Sinchon-ro 2an-gil, Mapo-gu,",
-      "title": "『ジョングク』 センイルカフェ 🎂"
     }
   }
 }

@@ -30,30 +30,31 @@
     {
       "href": "https://kr.burberry.com/c/burberry-world/news-events/seoul-art-exhibition/",
       "label": "See more"
-    },
-    {
-      "href": "https://jp.burberry.com/c/burberry-world/news-events/seoul-art-exhibition/?srsltid=AfmBOopOa_oJXcjRJrFhfo_41vLWaf6B6-juilcTtRwo4-ux6abCrKnJ",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:22.683523"
+    "detection": {
+      "durationDays": 38,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:40.447441",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926476-4de1-7466-bb0e-e40b00119ee1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01926476-4de1-7466-bb0e-e40b00119ee1"
+    "enUrl": "https://interparkglobal.com/en/festas/01926476-4de1-7466-bb0e-e40b00119ee1"
   },
   "translations": {
     "en": {
       "address": "Seoul, 459, Dosan-daero, Gangnam-gu,",
       "title": "Burberry Art Space"
-    },
-    "ja": {
-      "address": "Seoul, 459, Dosan-daero, Gangnam-gu,",
-      "title": "バーバリー アートスペース"
     }
   }
 }

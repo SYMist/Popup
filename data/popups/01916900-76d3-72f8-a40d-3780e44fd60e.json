@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:42.457537"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:53.352789",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916900-76d3-72f8-a40d-3780e44fd60e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916900-76d3-72f8-a40d-3780e44fd60e"
+    "enUrl": "https://interparkglobal.com/en/festas/01916900-76d3-72f8-a40d-3780e44fd60e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
       "title": "9th Seoul Forest Film Festival"
-    },
-    "ja": {
-      "address": "Seoul, 273, Ttukseom-ro, Seongdong-gu,",
-      "title": "第9回ソウルの森ヒーリング映画祭"
     }
   }
 }

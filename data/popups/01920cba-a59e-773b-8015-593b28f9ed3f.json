@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:16.788857"
+    "detection": {
+      "durationDays": 76,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:39.268621",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920cba-a59e-773b-8015-593b28f9ed3f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01920cba-a59e-773b-8015-593b28f9ed3f"
+    "enUrl": "https://interparkglobal.com/en/festas/01920cba-a59e-773b-8015-593b28f9ed3f"
   },
   "translations": {
     "en": {
       "address": "Seogwipo-si, Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon,",
       "title": "Manorblanc Pink Muhly Festival"
-    },
-    "ja": {
-      "address": "Seogwipo-si, Jeju-do, 46, Iljuseo-ro 2100beon-gil, Andeok-myeon,",
-      "title": "マノールブラン ピンクミューリー祭り"
     }
   }
 }

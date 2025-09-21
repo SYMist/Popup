@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:40.754821"
+    "detection": {
+      "durationDays": 16,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:20.012588",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e260-85e0-733f-9cbb-48618b3ecd42",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e260-85e0-733f-9cbb-48618b3ecd42",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e260-85e0-733f-9cbb-48618b3ecd42"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 20 Bukchon-ro 4-gil, Jongno-gu,﻿",
-      "title": "London Bagel Museum Anguk Branch Temporary Closure"
-    },
-    "ja": {
-      "address": "Seoul, 20 Bukchon-ro 4-gil, Jongno-gu,﻿",
-      "title": "ロンドンベーグルミュージアム安国店 営業日程変更"
-    },
     "zh-cn": {
       "address": "Seoul, 20 Bukchon-ro 4-gil, Jongno-gu,﻿",
       "title": "伦敦贝果博物馆安国店营业时间变更"

@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:18:05.367858"
+    "fetchedAt": "2025-09-21T19:20:55.002586",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193ae78-7609-7dec-a4ab-ffd388d2a6c6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193ae78-7609-7dec-a4ab-ffd388d2a6c6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193ae78-7609-7dec-a4ab-ffd388d2a6c6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
-      "title": "MUSINSA Beauty Awards POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
-      "title": "MUSINSA ビューティアワード ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 74, Seongsui-ro, Seongdong-gu,",
       "priceDesc": "null",

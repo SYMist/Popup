@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:26.842401"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:16.422570",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197c881-c690-7cbe-8de7-f35b7d436925",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197c881-c690-7cbe-8de7-f35b7d436925",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c881-c690-7cbe-8de7-f35b7d436925"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『JO』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『ジョウ』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 11-42, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "“JO” 生日咖啡厅🎂"

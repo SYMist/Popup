@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:18.869092"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:39.677616",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922bf4-e487-7ecd-8eb6-89c5cfb9952e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01922bf4-e487-7ecd-8eb6-89c5cfb9952e"
+    "enUrl": "https://interparkglobal.com/en/festas/01922bf4-e487-7ecd-8eb6-89c5cfb9952e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
       "title": "Seoul Entertainer Tour"
-    },
-    "ja": {
-      "address": "Seoul, 206, Songpanaru-gil, Songpa-gu,",
-      "title": "ソウル エンターテイナーツアー"
     }
   }
 }

@@ -34,37 +34,38 @@
     {
       "href": "https://www.globalinterpark.com/en/product/24014403",
       "label": "Tour Package"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24013735",
-      "label": "コンサートチケット予約"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24014403",
-      "label": "宿泊付きパッケージ予約"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:30.988489"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:46.712693",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "General: 154,000 KRW, VIP: 198,000 KRW",
+    "normalized": {
+      "amountMax": 198000.0,
+      "amountMin": 154000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01928e7a-daff-7cb1-9bb9-14a5722766e8",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01928e7a-daff-7cb1-9bb9-14a5722766e8"
+    "enUrl": "https://interparkglobal.com/en/festas/01928e7a-daff-7cb1-9bb9-14a5722766e8"
   },
   "translations": {
     "en": {
       "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
       "priceDesc": "General: 154,000 KRW, VIP: 198,000 KRW",
       "title": " <KNOCK ON Vol.1> TOUR IN INCHEON"
-    },
-    "ja": {
-      "address": "Incheon, 127, Gonghangmunhwa-ro, Jung-gu,",
-      "priceDesc": "一般席 154,000ウォン、VIP席 198,000ウォン",
-      "title": "＜KNOCK ON Vol.1＞ IN INCHEON"
     }
   }
 }

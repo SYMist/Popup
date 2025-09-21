@@ -33,28 +33,27 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:14.364504"
+    "fetchedAt": "2025-09-21T19:20:33.959586",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "A组：90000韩元、S组：130000韩元、R组：160000韩元、VIP组：190000韩元",
+    "normalized": {
+      "amountMax": 190000.0,
+      "amountMin": 90000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d930-4ef9-7fdb-af5a-26040ccbdf69",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d930-4ef9-7fdb-af5a-26040ccbdf69",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0191d930-4ef9-7fdb-af5a-26040ccbdf69"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "priceDesc": "A Section: 90,000 won, S Section: 130,000 won, R Section: 160,000 won, VIP Section: 190,000 won ",
-      "title": "Disney <Aladdin> Musical in Korea"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "priceDesc": "A席 90,000ウォン、S席 130,000ウォン、R席 160,000ウォン、VIP席 190,000ウォン",
-      "title": "ミュージカル アラジン 韓国初演"
-    },
     "zh-cn": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "priceDesc": "A组：90000韩元、S组：130000韩元、R组：160000韩元、VIP组：190000韩元",

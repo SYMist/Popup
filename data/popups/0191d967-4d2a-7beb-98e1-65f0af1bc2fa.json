@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:20.290490"
+    "detection": {
+      "durationDays": 35,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:29.871903",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d967-4d2a-7beb-98e1-65f0af1bc2fa",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d967-4d2a-7beb-98e1-65f0af1bc2fa"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d967-4d2a-7beb-98e1-65f0af1bc2fa"
   },
   "translations": {
     "en": {
       "address": "Seoul, 139, Gangbyeonbuk-ro, Gwangjin-gu,",
       "title": "2024 Hangang River Light Show"
-    },
-    "ja": {
-      "address": "Seoul, 139, Gangbyeonbuk-ro, Gwangjin-gu,",
-      "title": "2024 漢江ドローン ライトショー"
     }
   }
 }

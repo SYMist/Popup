@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 26,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:40.809770"
+    "fetchedAt": "2025-09-21T19:18:39.382443",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920ce2-ad08-7243-b3fb-a5f310927c47",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01920ce2-ad08-7243-b3fb-a5f310927c47"
+    "enUrl": "https://interparkglobal.com/en/festas/01920ce2-ad08-7243-b3fb-a5f310927c47"
   },
   "translations": {
     "en": {
       "address": "Seoul, 12, Yeonmumun 7-gil, Seongdong-gu,",
       "title": "ISOI POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 12, Yeonmumun 7-gil, Seongdong-gu,",
-      "title": "ISOI ポップアップストア"
     }
   }
 }

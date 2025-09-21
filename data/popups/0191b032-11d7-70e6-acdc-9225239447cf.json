@@ -33,23 +33,34 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:12.528404"
+    "detection": {
+      "durationDays": 56,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:51.879869",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[0]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b032-11d7-70e6-acdc-9225239447cf",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b032-11d7-70e6-acdc-9225239447cf"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b032-11d7-70e6-acdc-9225239447cf"
   },
   "translations": {
     "en": {
       "address": "Seoul,  2085-14, Olympic-daero, Seocho-gu,",
       "title": "Car-Free Bridge Ttubuk Ttubuk Festival"
-    },
-    "ja": {
-      "address": "Seoul,  2085-14, Olympic-daero, Seocho-gu,",
-      "title": "チャムスギョてくてく祭り"
     }
   }
 }

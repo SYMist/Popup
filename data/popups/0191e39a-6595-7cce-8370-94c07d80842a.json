@@ -30,30 +30,31 @@
     {
       "href": "https://www.instagram.com/reel/C_zftH0S3If/?igsh=NW12YjU1ejdqZ2gz",
       "label": "See more"
-    },
-    {
-      "href": "https://www.instagram.com/p/C_zftH0S3If/",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:03.422430"
+    "detection": {
+      "durationDays": 22,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:18.875303",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e39a-6595-7cce-8370-94c07d80842a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e39a-6595-7cce-8370-94c07d80842a"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e39a-6595-7cce-8370-94c07d80842a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 99, Sejong-daero, Jung-gu,",
       "title": "Mickey in Deoksugung Palace"
-    },
-    "ja": {
-      "address": "Seoul, 99, Sejong-daero, Jung-gu,",
-      "title": "ミッキー in 徳寿宮"
     }
   }
 }

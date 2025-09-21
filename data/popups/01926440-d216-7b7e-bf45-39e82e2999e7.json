@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 58,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:14:23.034742"
+    "fetchedAt": "2025-09-21T19:19:30.908971",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926440-d216-7b7e-bf45-39e82e2999e7",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01926440-d216-7b7e-bf45-39e82e2999e7"
+    "enUrl": "https://interparkglobal.com/en/festas/01926440-d216-7b7e-bf45-39e82e2999e7"
   },
   "translations": {
     "en": {
       "address": "Busan, 56, Millaksubyeon-ro 17beon-gil, Suyeong-gu,",
       "title": "Damgomi Cafe"
-    },
-    "ja": {
-      "address": "Busan, 56, Millaksubyeon-ro 17beon-gil, Suyeong-gu,",
-      "title": "ダンゴミくまカフェ"
     }
   }
 }

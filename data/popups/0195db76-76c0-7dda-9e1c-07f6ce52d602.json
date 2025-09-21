@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:39.367502"
+    "detection": {
+      "durationDays": 33,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:25.766003",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195db76-76c0-7dda-9e1c-07f6ce52d602",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195db76-76c0-7dda-9e1c-07f6ce52d602",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195db76-76c0-7dda-9e1c-07f6ce52d602"
   },
   "translations": {
-    "en": {
-      "address": "Gyeonggi-do, 278-1, Docheogwit-ro, Docheok-myeon, Gwangju-si, ",
-      "title": "Hwadam Botanic Garden Spring Narcissus Festival"
-    },
-    "ja": {
-      "address": "Gyeonggi-do, 278-1, Docheogwit-ro, Docheok-myeon, Gwangju-si, ",
-      "title": "ファダムスプ 春のスイセン祭り"
-    },
     "zh-cn": {
       "address": "Gyeonggi-do, 278-1, Docheogwit-ro, Docheok-myeon, Gwangju-si, ",
       "title": "和谈林春季水仙花节"

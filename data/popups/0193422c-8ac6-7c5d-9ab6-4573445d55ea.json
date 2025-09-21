@@ -23,16 +23,6 @@
       "role": "head",
       "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/98c466df-db45-477a-9dda-e6eb0a2ce6b5.jpeg",
       "variant": "small_square"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/f7682b19-f895-44d2-ac3b-20a0d95748fe.jpeg",
-      "variant": "full"
-    },
-    {
-      "role": "head",
-      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/f7682b19-f895-44d2-ac3b-20a0d95748fe.jpeg",
-      "variant": "small_square"
     }
   ],
   "isPopup": false,
@@ -47,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:23.009581"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:07.956235",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193422c-8ac6-7c5d-9ab6-4573445d55ea",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193422c-8ac6-7c5d-9ab6-4573445d55ea",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193422c-8ac6-7c5d-9ab6-4573445d55ea"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "BTS 『Jin』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "『ジン』 センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
       "title": "BTS \"Jin\" 的生日咖啡厅 🎂"

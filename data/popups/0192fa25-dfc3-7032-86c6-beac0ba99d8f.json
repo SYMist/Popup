@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:25:18.496189"
+    "detection": {
+      "durationDays": 54,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:06.401692",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192fa25-dfc3-7032-86c6-beac0ba99d8f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192fa25-dfc3-7032-86c6-beac0ba99d8f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192fa25-dfc3-7032-86c6-beac0ba99d8f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu, ",
-      "title": "Shinsegae Christmas Market"
-    },
-    "ja": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu, ",
-      "title": "JOY MARKET🌲"
-    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu, ",
       "title": "Shinsegae Christmas Market"

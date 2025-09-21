@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 1,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:25.492969"
+    "fetchedAt": "2025-09-21T19:21:30.915536",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01983500-5fdf-759c-8075-8cff779a4ee2",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01983500-5fdf-759c-8075-8cff779a4ee2",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01983500-5fdf-759c-8075-8cff779a4ee2"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 5, Wangsimni-ro 4-gil, Seongdong-gu,",
-      "title": "The 14th Seoul Record Fair"
-    },
-    "ja": {
-      "address": "Seoul, 5, Wangsimni-ro 4-gil, Seongdong-gu,",
-      "title": "第14回 ソウルレコードフェア"
-    },
     "zh-cn": {
       "address": "Seoul, 5, Wangsimni-ro 4-gil, Seongdong-gu,",
       "title": "第 14 届首尔唱片展"

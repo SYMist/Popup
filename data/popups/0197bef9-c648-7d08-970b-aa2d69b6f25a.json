@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:18.765239"
+    "fetchedAt": "2025-09-21T19:21:14.431988",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bef9-c648-7d08-970b-aa2d69b6f25a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bef9-c648-7d08-970b-aa2d69b6f25a",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bef9-c648-7d08-970b-aa2d69b6f25a"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "Netflix Squid Game Season 3 POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "＜イカゲーム＞シーズン3 ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "《鱿鱼游戏》第 3 季快闪店"

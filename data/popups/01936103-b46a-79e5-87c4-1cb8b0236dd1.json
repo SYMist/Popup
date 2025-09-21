@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 39,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:01.615946"
+    "fetchedAt": "2025-09-21T19:23:02.129077",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01936103-b46a-79e5-87c4-1cb8b0236dd1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01936103-b46a-79e5-87c4-1cb8b0236dd1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01936103-b46a-79e5-87c4-1cb8b0236dd1"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 20, Yeonmujang-gil, Seongdong-gu, ",
-      "title": "MARITHÉ POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 20, Yeonmujang-gil, Seongdong-gu, ",
-      "title": "マリテフランソワジルボー ポップアップストア"
-    },
     "zh-cn": {
       "address": "Seoul, 20, Yeonmujang-gil, Seongdong-gu, ",
       "title": "Marithé et François Girbaud 快闪店 “CHALET DE MARITHé”"

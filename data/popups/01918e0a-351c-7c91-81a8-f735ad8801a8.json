@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C_HSnwyTNOd/",
@@ -33,23 +33,31 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:43.685045"
+    "detection": {
+      "durationDays": 26,
+      "keywordHits": [
+        "pop up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:57.868030",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01918e0a-351c-7c91-81a8-f735ad8801a8",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01918e0a-351c-7c91-81a8-f735ad8801a8"
+    "enUrl": "https://interparkglobal.com/en/festas/01918e0a-351c-7c91-81a8-f735ad8801a8"
   },
   "translations": {
     "en": {
       "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
       "title": "NOWADAYS POP UP"
-    },
-    "ja": {
-      "address": "Seoul, 83, Achasan-ro, Seongdong-gu,",
-      "title": "NOWADAYSイベントストア"
     }
   }
 }

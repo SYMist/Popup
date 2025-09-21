@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 14,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:14:25.210511"
+    "fetchedAt": "2025-09-21T19:19:31.374689",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926440-ef43-7dd9-b912-5726e394441e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01926440-ef43-7dd9-b912-5726e394441e"
+    "enUrl": "https://interparkglobal.com/en/festas/01926440-ef43-7dd9-b912-5726e394441e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
       "title": "Olive Young Slow Aging POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 37, Wausan-ro 21-gil, Mapo-gu,",
-      "title": "スローエイジング ポップアップ"
     }
   }
 }

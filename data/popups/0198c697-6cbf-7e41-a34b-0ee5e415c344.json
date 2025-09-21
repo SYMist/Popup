@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:45.527224"
+    "fetchedAt": "2025-09-21T19:21:51.034129",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198c697-6cbf-7e41-a34b-0ee5e415c344",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198c697-6cbf-7e41-a34b-0ee5e415c344",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198c697-6cbf-7e41-a34b-0ee5e415c344"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "title": "Sanrio My Melody Cafe OPEN"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "title": "サンリオ マイメロディカフェオープン！"
-    },
     "zh-cn": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "Sanrio My Melody 咖啡厅首尔开业"

@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:09.543135"
+    "detection": {
+      "durationDays": 15,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:57.006885",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0199042a-19c5-7bb9-ab73-b15130b8d44f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0199042a-19c5-7bb9-ab73-b15130b8d44f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199042a-19c5-7bb9-ab73-b15130b8d44f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
-      "title": "J-POP Snow Man 1st POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
-      "title": "Snow Man 1st POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 73, Yeonmujang-gil, Seongdong-gu,",
       "title": "Snow Man 首次快闪店"

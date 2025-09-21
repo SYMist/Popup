@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:11:23.047757"
+    "detection": {
+      "durationDays": 22,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:56.703112",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b546-45fe-7617-9f31-04ac19964f93",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b546-45fe-7617-9f31-04ac19964f93"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b546-45fe-7617-9f31-04ac19964f93"
   },
   "translations": {
     "en": {
       "address": "Jeju-si, Jeju-do, 2144, Pyeonghwa-ro, Aewol-eup,",
       "title": "Let’s Run Park Jeju Night Market"
-    },
-    "ja": {
-      "address": "Jeju-si, Jeju-do, 2144, Pyeonghwa-ro, Aewol-eup,",
-      "title": "レッツランパーク済州夜間マーケット"
     }
   }
 }

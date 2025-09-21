@@ -30,33 +30,38 @@
     {
       "href": "https://www.globalinterpark.com/en/product/24012385",
       "label": "Book Now"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24012385",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:23:32.989723"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:29.019210",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "General: 154,000 KRW M & G: 198,000 KRW VIP: 198,000 KRW",
+    "normalized": {
+      "amountMax": 198000.0,
+      "amountMin": 154000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922693-bbac-7ae2-a671-bc7f889a9932",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01922693-bbac-7ae2-a671-bc7f889a9932"
+    "enUrl": "https://interparkglobal.com/en/festas/01922693-bbac-7ae2-a671-bc7f889a9932"
   },
   "translations": {
     "en": {
       "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
       "priceDesc": "General: 154,000 KRW M & G: 198,000 KRW VIP: 198,000 KRW",
       "title": "〈ACT : PROMISE〉 ENCORE IN SEOUL"
-    },
-    "ja": {
-      "address": "Seoul, 424, Olympic-ro, Songpa-gu,",
-      "priceDesc": "GENERAL 154,000ウォン、M & G 198,000ウォン、VIP 198,000ウォン",
-      "title": "ACT : PROMISE アンコール in Seoul"
     }
   }
 }

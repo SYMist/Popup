@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:13.019630"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:56.358409",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924bab-ec9f-7020-aaa6-0333ff6c5d7b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01924bab-ec9f-7020-aaa6-0333ff6c5d7b"
+    "enUrl": "https://interparkglobal.com/en/festas/01924bab-ec9f-7020-aaa6-0333ff6c5d7b"
   },
   "translations": {
     "en": {
       "address": "Busan, 55,  APEC-ro, Haeundae-gu,",
       "title": "Busan Craft Beer Masters Challenge"
-    },
-    "ja": {
-      "address": "Busan, 55,  APEC-ro, Haeundae-gu,",
-      "title": "釜山 クラフトビール マスターズチャレンジ"
     }
   }
 }

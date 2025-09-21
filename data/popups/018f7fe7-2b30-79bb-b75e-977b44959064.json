@@ -25,7 +25,7 @@
       "variant": "small_square"
     }
   ],
-  "isPopup": false,
+  "isPopup": true,
   "links": [
     {
       "href": "https://www.instagram.com/p/C6-YxBTLEoB/?img_index=1",
@@ -33,7 +33,20 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:07:17.302471"
+    "detection": {
+      "durationDays": 13,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "keyword|duration"
+    },
+    "fetchedAt": "2025-09-21T19:15:18.517447",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:35.851627"
+    "fetchedAt": "2025-09-21T19:18:37.879666",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01920ca9-7e1e-7e70-9f60-93d0c8d936e9",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01920ca9-7e1e-7e70-9f60-93d0c8d936e9"
+    "enUrl": "https://interparkglobal.com/en/festas/01920ca9-7e1e-7e70-9f60-93d0c8d936e9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 31-1, Yeonmumun-gil, Seongdong-gu,",
       "title": "Le Chat Botté POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 31-1, Yeonmujang-gil, Seongdong-gu,",
-      "title": "DINTO ポップアップ"
     }
   }
 }

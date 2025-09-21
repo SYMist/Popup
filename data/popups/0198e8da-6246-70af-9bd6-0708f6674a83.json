@@ -30,32 +30,28 @@
     {
       "href": "https://weverse.io/82major/notice/29629",
       "label": "查看详细"
-    },
-    {
-      "href": "/ticket/places/25001056/products/25012012",
-      "label": "Book ticket (EN)"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:57.557754"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:53.890401",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198e8da-6246-70af-9bd6-0708f6674a83",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198e8da-6246-70af-9bd6-0708f6674a83",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e8da-6246-70af-9bd6-0708f6674a83"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 20, Gwangun-ro, Nowon-gu,",
-      "title": "82MAJOR 〈82DE WORLD〉"
-    },
-    "ja": {
-      "address": "Seoul, 20, Gwangun-ro, Nowon-gu,",
-      "title": "82MAJOR 〈82DE WORLD〉"
-    },
     "zh-cn": {
       "address": "Seoul, 20, Gwangun-ro, Nowon-gu,",
       "title": "82MAJOR 〈82DE WORLD〉"

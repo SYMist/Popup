@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 68,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:18.881560"
+    "fetchedAt": "2025-09-21T19:21:14.699203",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197bf04-421f-7171-9959-64c7676c099e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197bf04-421f-7171-9959-64c7676c099e",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197bf04-421f-7171-9959-64c7676c099e"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 45, Hyoja-ro 13-gil, Jongno-gu,",
-      "title": "Cheong Wa Dae Sarangchae Local Travel POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 45, Hyoja-ro 13-gil, Jongno-gu,",
-      "title": "青瓦台 サランチェ ローカル旅行ポップアップ展示"
-    },
     "zh-cn": {
       "address": "Seoul, 45, Hyoja-ro 13-gil, Jongno-gu,",
       "title": "青瓦台舍廊房当地旅行快闪展览"

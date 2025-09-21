@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:00.109745"
+    "detection": {
+      "durationDays": 60,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:22.440481",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192fa03-9fc4-73cf-a31d-d91b4307ee8f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192fa03-9fc4-73cf-a31d-d91b4307ee8f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192fa03-9fc4-73cf-a31d-d91b4307ee8f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
-      "title": "Shinsegae Christmas Show🎄"
-    },
-    "ja": {
-      "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
-      "title": "メディアファサードショー"
-    },
     "zh-cn": {
       "address": "Seoul, 63, Sogong-ro, Jung-gu, ",
       "title": "新世界圣诞秀🎄"

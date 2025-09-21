@@ -30,35 +30,34 @@
     {
       "href": "https://www.globalinterpark.com/en/product/25002078",
       "label": "查看详情"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/25002078",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:27.124465"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:44.888535",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "A区154,000韩元、S区165,000韩元、R区187,000韩元",
+    "normalized": {
+      "amountMax": 187000.0,
+      "amountMin": 154000.0,
+      "currency": "CNY"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195115f-9474-7428-8975-505c6c7ebabc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195115f-9474-7428-8975-505c6c7ebabc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195115f-9474-7428-8975-505c6c7ebabc"
   },
   "translations": {
-    "en": {
-      "address": "Goyang-si, , 1601, Jungang-ro, Ilsanseo-gu,",
-      "priceDesc": "A-seat 154,000 won, S-seat 165,000 won, R-seat 187,000 won",
-      "title": "G-DRAGON 2025 WORLD TOUR IN KOREA"
-    },
-    "ja": {
-      "address": "Goyang-si, , 1601, Jungang-ro, Ilsanseo-gu,",
-      "priceDesc": "A席154,000ウォン、S席165,000ウォン、R席187,000ウォン",
-      "title": "G-DRAGON 2025 WORLD TOUR IN KOREA"
-    },
     "zh-cn": {
       "address": "Goyang-si, , 1601, Jungang-ro, Ilsanseo-gu,",
       "priceDesc": "A区154,000韩元、S区165,000韩元、R区187,000韩元",

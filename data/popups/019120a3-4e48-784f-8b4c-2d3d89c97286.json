@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:10:00.729363"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:09.227488",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019120a3-4e48-784f-8b4c-2d3d89c97286",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019120a3-4e48-784f-8b4c-2d3d89c97286"
+    "enUrl": "https://interparkglobal.com/en/festas/019120a3-4e48-784f-8b4c-2d3d89c97286"
   },
   "translations": {
     "en": {
       "address": "Seoul, 11-54, Hangang-daero 10-gil, Yongsan-gu,",
       "title": "『Huening Kai』Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 11-54, Hangang-daero 10-gil, Yongsan-gu,",
-      "title": "『ヒュニンカイ』 センイルカフェ 🎂"
     }
   }
 }

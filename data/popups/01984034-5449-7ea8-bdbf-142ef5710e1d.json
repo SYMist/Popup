@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:20:30.413845"
+    "fetchedAt": "2025-09-21T19:21:32.572096",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984034-5449-7ea8-bdbf-142ef5710e1d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984034-5449-7ea8-bdbf-142ef5710e1d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984034-5449-7ea8-bdbf-142ef5710e1d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 160, Yanghwa-ro, Mapo-gu, ",
-      "title": "K-POP Photo Card Vending Machine ✨"
-    },
-    "ja": {
-      "address": "Seoul, 160, Yanghwa-ro, Mapo-gu, ",
-      "title": "K-POPアイドル フォトカード自動販売機 ✨"
-    },
     "zh-cn": {
       "address": "Seoul, 160, Yanghwa-ro, Mapo-gu, ",
       "title": "K-POP偶像照片卡自动售货机✨"

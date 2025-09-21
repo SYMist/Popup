@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 12,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:12:48.962099"
+    "fetchedAt": "2025-09-21T19:18:44.919047",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01922691-e564-7e85-98f1-d81ae830d54b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01922691-e564-7e85-98f1-d81ae830d54b"
+    "enUrl": "https://interparkglobal.com/en/festas/01922691-e564-7e85-98f1-d81ae830d54b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu, ",
       "title": "Musical <Aladdin> POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 108, Yeouido-daero, Yeongdeungpo-gu, ",
-      "title": "ミュージカル アラジン ポップアップ"
     }
   }
 }

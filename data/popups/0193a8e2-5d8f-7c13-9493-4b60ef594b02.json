@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 50,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:14:43.833899"
+    "fetchedAt": "2025-09-21T19:19:39.482393",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193a8e2-5d8f-7c13-9493-4b60ef594b02",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193a8e2-5d8f-7c13-9493-4b60ef594b02",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193a8e2-5d8f-7c13-9493-4b60ef594b02"
   },
   "translations": {
-    "en": {
-      "address": "Busan, 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, ",
-      "title": "M&M's Christmas POP-UP"
-    },
-    "ja": {
-      "address": "Busan, 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, ",
-      "title": "釜山 M&M's クリスマス POP-UP"
-    },
     "zh-cn": {
       "address": "Busan, 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, ",
       "title": " 釜山 M&M's圣诞节快闪店🍫"

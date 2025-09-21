@@ -39,27 +39,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 58,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:49.516351"
+    "fetchedAt": "2025-09-21T19:20:28.521833",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[1]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0196f220-df57-7e08-9c08-5dcf73469866",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0196f220-df57-7e08-9c08-5dcf73469866",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0196f220-df57-7e08-9c08-5dcf73469866"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 13 Wausan-ro 35-gil, Map﻿o-gu,",
-      "title": "Marshville Quokscout 🏕️"
-    },
-    "ja": {
-      "address": "Seoul, 13 Wausan-ro 35-gil, Map﻿o-gu,",
-      "title": "Marshville Quokscout 🏕️"
-    },
     "zh-cn": {
       "address": "Seoul, 13 Wausan-ro 35-gil, Map﻿o-gu,",
       "title": "Marshville Quokscout 🏕️"

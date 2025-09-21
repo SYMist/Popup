@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 31,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:14:09.043846"
+    "fetchedAt": "2025-09-21T19:19:21.434922",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192e02d-968b-7be3-bb47-95168098f97d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192e02d-968b-7be3-bb47-95168098f97d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0192e02d-968b-7be3-bb47-95168098f97d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 12, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "TEAFFERENCE POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 12, Yeonmujang 7-gil, Seongdong-gu,",
-      "title": "ティーファレンス POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 12, Yeonmujang 7-gil, Seongdong-gu,",
       "title": "TEAFFERENCE 快閃店"

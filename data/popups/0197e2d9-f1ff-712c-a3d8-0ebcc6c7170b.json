@@ -41,25 +41,21 @@
       "category": "POP-UP",
       "rule": "category"
     },
-    "fetchedAt": "2025-09-19T14:19:51.303064"
+    "fetchedAt": "2025-09-21T19:21:22.164209",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197e2d9-f1ff-712c-a3d8-0ebcc6c7170b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197e2d9-f1ff-712c-a3d8-0ebcc6c7170b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197e2d9-f1ff-712c-a3d8-0ebcc6c7170b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu,",
-      "title": "Torriden Summer POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu,",
-      "title": "Torriwave Club OPEN 🌊"
-    },
     "zh-cn": {
       "address": "Seoul, 17, Seongsui-ro 7ga-gil, Seongdong-gu,",
       "title": "Torriwave Club OPEN 🌊"

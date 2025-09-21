@@ -33,10 +33,24 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:07:02.387709"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:15:06.482044",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "R席  154,000 ウォン  S席  143,000 ウォン  A席  132,000 ウォン ",
+    "normalized": {
+      "amountMax": 154000.0,
+      "amountMin": 132000.0
+    },
     "type": "FREE"
   },
   "source": {

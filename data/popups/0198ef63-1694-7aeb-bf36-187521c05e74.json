@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:50.048888"
+    "detection": {
+      "durationDays": 11,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:36.558419",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198ef63-1694-7aeb-bf36-187521c05e74",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198ef63-1694-7aeb-bf36-187521c05e74",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198ef63-1694-7aeb-bf36-187521c05e74"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
-      "title": "2025 IU POP-UP STORE "
-    },
-    "ja": {
-      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
-      "title": "2025 IU ポップアップストア"
-    },
     "zh-cn": {
       "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
       "title": "2025 IU 限时快闪店"

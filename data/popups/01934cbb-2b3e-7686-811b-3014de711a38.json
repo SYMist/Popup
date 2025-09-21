@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:27.592951"
+    "detection": {
+      "durationDays": 40,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:59.935683",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01934cbb-2b3e-7686-811b-3014de711a38",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01934cbb-2b3e-7686-811b-3014de711a38",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01934cbb-2b3e-7686-811b-3014de711a38"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
-      "title": "Seoul Plaza Christmas Tree"
-    },
-    "ja": {
-      "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
-      "title": "ソウル広場 クリスマスツリー🌲"
-    },
     "zh-cn": {
       "address": "Seoul, 12, Eulji-ro, Jung-gu, ",
       "title": "首尔广场圣诞树🎄"

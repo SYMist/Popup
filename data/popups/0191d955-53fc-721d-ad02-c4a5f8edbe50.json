@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:20.195500"
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:29.508381",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d955-53fc-721d-ad02-c4a5f8edbe50"
   },
   "translations": {
     "en": {
       "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
       "title": "Seoul Light Hangang River Festival"
-    },
-    "ja": {
-      "address": "Seoul, 330, Yeouido-dong-ro, Yeongdeungpo-gu,",
-      "title": "ソウルライト 漢江光の島祭り"
     }
   }
 }

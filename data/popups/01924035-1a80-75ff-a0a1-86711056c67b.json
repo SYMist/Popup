@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:52.560788"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:46.355353",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01924035-1a80-75ff-a0a1-86711056c67b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01924035-1a80-75ff-a0a1-86711056c67b"
+    "enUrl": "https://interparkglobal.com/en/festas/01924035-1a80-75ff-a0a1-86711056c67b"
   },
   "translations": {
     "en": {
       "address": "Seoul, 26, Wausan-ro 21-gil, Mapo-gu,",
       "title": "『Hanni』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 43, Hongik-ro 2-gil, Mapo-gu,",
-      "title": "『ハニ』 センイルカフェ 🎂"
     }
   }
 }

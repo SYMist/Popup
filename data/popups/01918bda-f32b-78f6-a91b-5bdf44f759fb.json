@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 45,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:32.288453"
+    "fetchedAt": "2025-09-21T19:23:14.932619",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb"
+    "enUrl": "https://interparkglobal.com/en/festas/01918bda-f32b-78f6-a91b-5bdf44f759fb"
   },
   "translations": {
     "en": {
       "address": "Seoul, 14, World Cup-ro 3-gil, Mapo-gu,",
       "title": "Level Up Alone: ARISE Collaboration Café"
-    },
-    "ja": {
-      "address": "Seoul, 14, World Cup-ro 3-gil, Mapo-gu,",
-      "title": "俺だけレベルアップな件：ARISE"
     }
   }
 }

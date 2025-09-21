@@ -30,32 +30,34 @@
     {
       "href": "/articles/ec716be5-d307-4dd4-84f8-6d04ed0fd051#hyetaeg-2-kyubeu-kaerigteo-yurikeob",
       "label": "查看详情"
-    },
-    {
-      "href": "/articles/ec716be5-d307-4dd4-84f8-6d04ed0fd051#te-dian-2-cubekiyarakutagurasuzeng-cheng",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:35.576209"
+    "detection": {
+      "durationDays": 13,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:33.083223",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [
+        "links[0]:non_http_scheme"
+      ]
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197a44c-1e81-73e5-98a1-e1b22e0e7bdb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197a44c-1e81-73e5-98a1-e1b22e0e7bdb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197a44c-1e81-73e5-98a1-e1b22e0e7bdb"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 83 Achasan-ro, Seongdong-﻿gu, ",
-      "title": "CUBI STORY Special Perk for interpark Global members 🎁"
-    },
-    "ja": {
-      "address": "Seoul, 83 Achasan-ro, Seongdong-﻿gu, ",
-      "title": "CUBI STORY 特別イベント🎁"
-    },
     "zh-cn": {
       "address": "Seoul, 83 Achasan-ro, Seongdong-﻿gu, ",
       "title": "CUBI STORY的特别礼物 🎁"

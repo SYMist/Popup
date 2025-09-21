@@ -35,25 +35,27 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 3,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:13:17.254343"
+    "fetchedAt": "2025-09-21T19:18:58.868513",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019254f4-604e-73d8-82fe-1d61e9dabf9a",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019254f4-604e-73d8-82fe-1d61e9dabf9a"
+    "enUrl": "https://interparkglobal.com/en/festas/019254f4-604e-73d8-82fe-1d61e9dabf9a"
   },
   "translations": {
     "en": {
       "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
       "title": "ADIDAS Ground Seongsu"
-    },
-    "ja": {
-      "address": "Seoul, 36, Seongsuil-ro 6-gil, Seongdong-gu,",
-      "title": "アディダス グラウンド聖水"
     }
   }
 }

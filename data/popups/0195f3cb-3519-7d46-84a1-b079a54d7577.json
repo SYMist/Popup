@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:04.643795"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:31.977707",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0195f3cb-3519-7d46-84a1-b079a54d7577",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0195f3cb-3519-7d46-84a1-b079a54d7577",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0195f3cb-3519-7d46-84a1-b079a54d7577"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『Jay』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
-      "title": "『ジェイ』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 11-18, Hangang-daero 10-gil, Yongsan-gu, ",
       "title": "\"JAY\"生日咖啡厅🎂"

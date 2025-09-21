@@ -30,33 +30,38 @@
     {
       "href": "https://www.globalinterpark.com/en/product/24011915",
       "label": "Book Now"
-    },
-    {
-      "href": "https://www.globalinterpark.com/ja/product/24011915",
-      "label": "詳細を見る"
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:12:12.671927"
+    "detection": {
+      "durationDays": 23,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:18:26.845666",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "KRW 35,000",
+    "normalized": {
+      "amountMax": 35000.0,
+      "amountMin": 35000.0,
+      "currency": "KRW"
+    },
     "type": "PAID"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191e36b-c5b4-7a2d-8008-dd943887e7f5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191e36b-c5b4-7a2d-8008-dd943887e7f5"
+    "enUrl": "https://interparkglobal.com/en/festas/0191e36b-c5b4-7a2d-8008-dd943887e7f5"
   },
   "translations": {
     "en": {
       "address": "Seoul, 38, Myeongdong 8-na-gil, Jung-gu,",
       "priceDesc": "KRW 35,000",
       "title": "BTS Jimin Exhibition"
-    },
-    "ja": {
-      "address": "Seoul, 38, Myeongdong 8-na-gil, Jung-gu,",
-      "priceDesc": "35,000ウォン",
-      "title": "BTS ジミン 展示"
     }
   }
 }

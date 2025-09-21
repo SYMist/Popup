@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 23,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:23:59.051816"
+    "fetchedAt": "2025-09-21T19:22:36.049210",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193af28-705d-73bd-b9cd-eaa1035d3311",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193af28-705d-73bd-b9cd-eaa1035d3311",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193af28-705d-73bd-b9cd-eaa1035d3311"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu,",
-      "title": "Mofusand POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu,",
-      "title": "モフサンド ポップアップストア"
-    },
     "zh-cn": {
       "address": "Seoul, 28, Seongsui-ro 7-gil, Seongdong-gu,",
       "priceDesc": "null",

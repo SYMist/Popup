@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 34,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:16:54.574504"
+    "fetchedAt": "2025-09-21T19:20:28.902670",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01971f19-a2c5-74a9-a9f7-84ab99abc43f",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01971f19-a2c5-74a9-a9f7-84ab99abc43f",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01971f19-a2c5-74a9-a9f7-84ab99abc43f"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 115, Toegye-ro, Jung-gu,",
-      "title": "Hotel Bibigo Olive Young Pop-up"
-    },
-    "ja": {
-      "address": "Seoul, 115, Toegye-ro, Jung-gu,",
-      "title": "Hotel bibigo オリーブヤング ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 115, Toegye-ro, Jung-gu,",
       "title": "Hotel bibigo OLIVE YOUNG 快闪店"

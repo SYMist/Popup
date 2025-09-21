@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 60,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:05.121464"
+    "fetchedAt": "2025-09-21T19:21:11.410138",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197be95-524f-771b-a59a-0a97cdd2754c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197be95-524f-771b-a59a-0a97cdd2754c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197be95-524f-771b-a59a-0a97cdd2754c"
   },
   "translations": {
-    "en": {
-      "address": "Incheon, 3F, 271, Gonghang-ro, Jung-gu",
-      "title": "Jeju Air X Sanrio Characters POP-UP"
-    },
-    "ja": {
-      "address": "Incheon, 3F, 271, Gonghang-ro, Jung-gu",
-      "title": "チェジュ航空 X サンリオ ポップアップ"
-    },
     "zh-cn": {
       "address": "Incheon, 3F, 271, Gonghang-ro, Jung-gu",
       "title": "济州航空 X 三丽鸥卡通人物快闪店"

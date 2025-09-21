@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:13.338476"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:45.830370",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931ddb-98f8-7a6d-be1a-65bf4aea0e44",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931ddb-98f8-7a6d-be1a-65bf4aea0e44"
+    "enUrl": "https://interparkglobal.com/en/festas/01931ddb-98f8-7a6d-be1a-65bf4aea0e44"
   },
   "translations": {
     "en": {
       "address": "Seoul, 54, Jongno, Jongno-gu,",
       "title": "New Year’s Eve Bell-Ringing Ceremony"
-    },
-    "ja": {
-      "address": "Seoul, 54, Jongno, Jongno-gu,",
-      "title": "除夜の鐘 鐘打ちイベント"
     }
   }
 }

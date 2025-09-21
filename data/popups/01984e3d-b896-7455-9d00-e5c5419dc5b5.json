@@ -39,27 +39,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 9,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:20:40.094244"
+    "fetchedAt": "2025-09-21T19:21:33.942960",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01984e3d-b896-7455-9d00-e5c5419dc5b5",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01984e3d-b896-7455-9d00-e5c5419dc5b5",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01984e3d-b896-7455-9d00-e5c5419dc5b5"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 21, Donggyo-ro 30-gil, Mapo-gu, ",
-      "title": "Drama \"Gyeonu and Seonnyeo\" POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 21, Donggyo-ro 30-gil, Mapo-gu, ",
-      "title": "ドラマ「巫女と彦星」 ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 21, Donggyo-ro 30-gil, Mapo-gu, ",
       "title": "韩剧 \"牵牛与织女\" 快闪店"

@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:10:39.599262"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:17:32.344907",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01916943-d73d-7d15-9b75-088412b00ea9",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01916943-d73d-7d15-9b75-088412b00ea9"
+    "enUrl": "https://interparkglobal.com/en/festas/01916943-d73d-7d15-9b75-088412b00ea9"
   },
   "translations": {
     "en": {
       "address": "Seoul, 44, Sinchon-ro 2an-gil, Mapo-gu,",
       "title": "『YUJIN』 Birthday Cafe 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 44, Sinchon-ro 2an-gil, Mapo-gu,",
-      "title": "『アン・ユジン』 センイルカフェ 🎂"
     }
   }
 }

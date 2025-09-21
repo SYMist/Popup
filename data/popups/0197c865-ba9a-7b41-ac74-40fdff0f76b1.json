@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:19:22.559111"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:15.423775",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197c865-ba9a-7b41-ac74-40fdff0f76b1",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197c865-ba9a-7b41-ac74-40fdff0f76b1",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197c865-ba9a-7b41-ac74-40fdff0f76b1"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 19, Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『Taesan』 Birthday Cafe"
-    },
-    "ja": {
-      "address": "Seoul, 19, Wausan-ro 29-gil, Mapo-gu,",
-      "title": "『テサン』センイルカフェ 🎂"
-    },
     "zh-cn": {
       "address": "Seoul, 19, Wausan-ro 29-gil, Mapo-gu,",
       "title": "“TAESAN” 生日咖啡厅🎂"

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:14:48.324971"
+    "fetchedAt": "2025-09-21T19:19:44.385157",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01933cbd-f548-7cc3-b804-e9eea5a0b471",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01933cbd-f548-7cc3-b804-e9eea5a0b471"
+    "enUrl": "https://interparkglobal.com/en/festas/01933cbd-f548-7cc3-b804-e9eea5a0b471"
   },
   "translations": {
     "en": {
       "address": "Seoul, 16, Yeonmujang 7-gil, Seongdong-gu, ",
       "title": "Moana 2 Pop-Up"
-    },
-    "ja": {
-      "address": "Seoul, 16, Yeonmujang 7-gil, Seongdong-gu, ",
-      "title": "モアナ 2 ポップアップ"
     }
   }
 }

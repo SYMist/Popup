@@ -37,25 +37,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:26:39.987500"
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:23:33.468209",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198e3c8-21d4-767e-b522-1b3dfe655163",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198e3c8-21d4-767e-b522-1b3dfe655163",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198e3c8-21d4-767e-b522-1b3dfe655163"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 35, Dosan-daero 15-gil, Gangnam-gu,",
-      "title": "DAY6 10th Anniv. POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 35, Dosan-daero 15-gil, Gangnam-gu,",
-      "title": "DAY6.zip"
-    },
     "zh-cn": {
       "address": "Seoul, 35, Dosan-daero 15-gil, Gangnam-gu,",
       "title": "DAY6.zip"

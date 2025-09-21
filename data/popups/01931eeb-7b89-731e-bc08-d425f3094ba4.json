@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:56.762390"
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:16.211782",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931eeb-7b89-731e-bc08-d425f3094ba4",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931eeb-7b89-731e-bc08-d425f3094ba4"
+    "enUrl": "https://interparkglobal.com/en/festas/01931eeb-7b89-731e-bc08-d425f3094ba4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 25, Wausan-ro 32-gil, Mapo-gu,",
       "title": "『Shotaro』 Birthday Café 🎂"
-    },
-    "ja": {
-      "address": "Seoul, 25, Wausan-ro 32-gil, Mapo-gu,",
-      "title": "『ショウタロウ』 センイルカフェ 🎂"
     }
   }
 }

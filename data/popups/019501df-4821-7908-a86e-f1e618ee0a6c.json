@@ -33,26 +33,26 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:24:08.396309"
+    "detection": {
+      "durationDays": 84,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:40.096107",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019501df-4821-7908-a86e-f1e618ee0a6c",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019501df-4821-7908-a86e-f1e618ee0a6c",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019501df-4821-7908-a86e-f1e618ee0a6c"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu, ",
-      "title": "Pokemon World Adventure: Spring Camp"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu, ",
-      "title": "ポケモンワールドアドベンチャー：スプリングキャンプ"
-    },
     "zh-cn": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu, ",
       "priceDesc": "null",

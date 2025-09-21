@@ -35,28 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 31,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:24:10.210613"
+    "fetchedAt": "2025-09-21T19:22:41.247708",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "description": "null",
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193b853-b0c1-7183-87a7-cf0de306568b",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193b853-b0c1-7183-87a7-cf0de306568b",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193b853-b0c1-7183-87a7-cf0de306568b"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 95, Yeonmujang-gil, Seongdong-gu,",
-      "title": "TIRTIR POP-UP in Seongsu"
-    },
-    "ja": {
-      "address": "Seoul, 95, Yeonmujang-gil, Seongdong-gu,",
-      "title": "TIRTIR 聖水ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 95, Yeonmujang-gil, Seongdong-gu,",
       "priceDesc": "null",

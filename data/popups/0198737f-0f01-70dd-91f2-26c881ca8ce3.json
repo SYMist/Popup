@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 11,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:21:03.858625"
+    "fetchedAt": "2025-09-21T19:21:41.028694",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198737f-0f01-70dd-91f2-26c881ca8ce3",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198737f-0f01-70dd-91f2-26c881ca8ce3",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198737f-0f01-70dd-91f2-26c881ca8ce3"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "Pop Mart <HELLO, MOON> POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
-      "title": "ポップマート <HELLO, MOON> ポップアップ"
-    },
     "zh-cn": {
       "address": "Seoul, 176, Sinbanpo-ro, Seocho-gu,",
       "title": "泡泡玛特<HELLO, MOON>快闪店"

@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:39.189739"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:44.911748",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193901b-8402-77c9-8d89-cb577700686d",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193901b-8402-77c9-8d89-cb577700686d",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0193901b-8402-77c9-8d89-cb577700686d"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 110, Sejong-daero, Jung-gu, ",
-      "title": "2024 World Nobel Literature Festival"
-    },
-    "ja": {
-      "address": "Seoul, 110, Sejong-daero, Jung-gu, ",
-      "title": "2024 世界ノーベル文学フェスティバル"
-    },
     "zh-cn": {
       "address": "Seoul, 110, Sejong-daero, Jung-gu, ",
       "title": "2024世界诺贝尔文学节📖"

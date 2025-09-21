@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:14:57.130996"
+    "detection": {
+      "durationDays": 60,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:43.121845",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01931e2b-777f-7b68-87f1-95a231db7701",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01931e2b-777f-7b68-87f1-95a231db7701",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01931e2b-777f-7b68-87f1-95a231db7701"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
-      "title": "Wonderful Showtime in Myeongdong"
-    },
-    "ja": {
-      "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
-      "title": "Wonderful Showtime in 明洞🎄"
-    },
     "zh-cn": {
       "address": "Seoul, 81, Namdaemun-ro, Jung-gu, ",
       "title": "奇幻秀登场（Wonderful Showtime）在明洞"

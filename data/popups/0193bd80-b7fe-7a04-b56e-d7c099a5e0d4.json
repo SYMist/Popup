@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:18:11.322889"
+    "detection": {
+      "durationDays": 3,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:00.857097",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0193bd80-b7fe-7a04-b56e-d7c099a5e0d4",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0193bd80-b7fe-7a04-b56e-d7c099a5e0d4"
+    "enUrl": "https://interparkglobal.com/en/festas/0193bd80-b7fe-7a04-b56e-d7c099a5e0d4"
   },
   "translations": {
     "en": {
       "address": "Seoul, 27, Dongmak-ro 2-gil, Mapo-gu, ",
       "title": "『DOYOUNG』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 27, Dongmak-ro 2-gil, Mapo-gu, ",
-      "title": "『ドヨン』 センイルカフェ 🎂"
     }
   }
 }

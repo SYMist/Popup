@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:52.928450"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:53.011099",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0198d020-7e20-7237-ac94-7acbf1776039",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0198d020-7e20-7237-ac94-7acbf1776039",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0198d020-7e20-7237-ac94-7acbf1776039"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
-      "title": "2025 WENDY 1st WORLD TOUR <W:EALIVE> IN SEOUL"
-    },
-    "ja": {
-      "address": "Seoul, 241, Dongho-ro, Jung-gu,",
-      "title": "2025 WENDY 1st WORLD TOUR"
-    },
     "zh-cn": {
       "address": "Seoul, 241, Dongho-ro, Jung-gu,",
       "title": "2025 WENDY 1st WORLD TOUR <W:EALIVE> IN SEOUL"

@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:15:13.214730"
+    "detection": {
+      "durationDays": 38,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:55.434694",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01932873-4a6d-7d76-ad11-bd8abe2a5b8e",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01932873-4a6d-7d76-ad11-bd8abe2a5b8e"
+    "enUrl": "https://interparkglobal.com/en/festas/01932873-4a6d-7d76-ad11-bd8abe2a5b8e"
   },
   "translations": {
     "en": {
       "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
       "title": "Snoopy Christmas at Lotte World"
-    },
-    "ja": {
-      "address": "Seoul, 240, Olympic-ro, Songpa-gu,",
-      "title": "スヌーピー クリスマス inロッテワールド🎄"
     }
   }
 }

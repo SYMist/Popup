@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 90,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:24:45.944662"
+    "fetchedAt": "2025-09-21T19:22:58.848866",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191d40e-f04f-73b9-9950-dd86081e9075",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191d40e-f04f-73b9-9950-dd86081e9075"
+    "enUrl": "https://interparkglobal.com/en/festas/0191d40e-f04f-73b9-9950-dd86081e9075"
   },
   "translations": {
     "en": {
       "address": "Busan,  125, Beomil-ro, Dong-gu,",
       "title": "🛒 IKEA Pop-up in Busan"
-    },
-    "ja": {
-      "address": "Busan,  125, Beomil-ro, Dong-gu,",
-      "title": "イケア ポップアップ🛒"
     }
   }
 }

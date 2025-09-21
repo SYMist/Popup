@@ -33,25 +33,21 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:17:51.194194"
+    "fetchedAt": "2025-09-21T19:20:49.810487",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01939551-2b5a-7e92-a6d9-72e5f21c8cdb",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01939551-2b5a-7e92-a6d9-72e5f21c8cdb",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01939551-2b5a-7e92-a6d9-72e5f21c8cdb"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 99, Sejong-daero, Jung-gu,",
-      "title": "Deoksugung Palace: Lighting of the Korean Empire"
-    },
-    "ja": {
-      "address": "Seoul, 99, Sejong-daero, Jung-gu,",
-      "title": "モダンライト -大韓帝国皇室照明-"
-    },
     "zh-cn": {
       "address": "Seoul, 99, Sejong-daero, Jung-gu,",
       "title": "摩登之光 : 大韩帝国皇室照明"

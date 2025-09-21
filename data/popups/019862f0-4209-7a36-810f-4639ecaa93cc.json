@@ -33,25 +33,25 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:21:02.464601"
+    "detection": {
+      "durationDays": 1,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:21:40.812932",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/019862f0-4209-7a36-810f-4639ecaa93cc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/019862f0-4209-7a36-810f-4639ecaa93cc",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019862f0-4209-7a36-810f-4639ecaa93cc"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "2025 NAM WOO HYUN CONCERT "
-    },
-    "ja": {
-      "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
-      "title": "2025 NAM WOO HYUN CONCERT "
-    },
     "zh-cn": {
       "address": "Seoul, 424, Olympic﻿-ro, Songpa-gu",
       "title": "2025 南优铉演唱会 "

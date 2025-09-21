@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:13:52.372854"
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:17.382070",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01926ae0-56a9-7599-b738-11833bdccb42",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01926ae0-56a9-7599-b738-11833bdccb42"
+    "enUrl": "https://interparkglobal.com/en/festas/01926ae0-56a9-7599-b738-11833bdccb42"
   },
   "translations": {
     "en": {
       "address": "Seoul, 827, Seonneung-ro, Gangnam-gu,",
       "title": "SEVENTEEN STREET in Apgujeong"
-    },
-    "ja": {
-      "address": "Seoul, 827, Seonneung-ro, Gangnam-gu,",
-      "title": "SEVENTEEN STREET in  狎鴎亭"
     }
   }
 }

@@ -35,25 +35,30 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 29,
+      "keywordHits": [
+        "pop-up"
+      ],
+      "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-19T14:25:26.918314"
+    "fetchedAt": "2025-09-21T19:23:12.913881",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192e051-2b52-7c95-8c08-88fb7cc03acc",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192e051-2b52-7c95-8c08-88fb7cc03acc"
+    "enUrl": "https://interparkglobal.com/en/festas/0192e051-2b52-7c95-8c08-88fb7cc03acc"
   },
   "translations": {
     "en": {
       "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
       "title": "Puppy Happiness Disney Pop-Up"
-    },
-    "ja": {
-      "address": "Seoul, 300, Olympic-ro, Songpa-gu, ",
-      "title": "PUFFY HAPPINES"
     }
   }
 }

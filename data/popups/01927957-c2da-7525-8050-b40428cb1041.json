@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:14:30.819646"
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:19:36.839651",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01927957-c2da-7525-8050-b40428cb1041",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01927957-c2da-7525-8050-b40428cb1041"
+    "enUrl": "https://interparkglobal.com/en/festas/01927957-c2da-7525-8050-b40428cb1041"
   },
   "translations": {
     "en": {
       "address": "Busan, 219, Gwangan Beach-ro, Suyeong-gu,",
       "title": "19th Busan Fireworks Festival"
-    },
-    "ja": {
-      "address": "Busan, 219, Gwangan Beach-ro, Suyeong-gu,",
-      "title": "第19回 釜山花火大会"
     }
   }
 }

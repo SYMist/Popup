@@ -35,27 +35,24 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 19,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:19:37.131946"
+    "fetchedAt": "2025-09-21T19:21:19.016092",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0197cebb-d405-7249-868a-6dc0df325ec6",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0197cebb-d405-7249-868a-6dc0df325ec6",
     "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0197cebb-d405-7249-868a-6dc0df325ec6"
   },
   "translations": {
-    "en": {
-      "address": "Seoul, 7, Achasan-ro 11-gil, Seongdong-gu,",
-      "title": "Musical <Wicked> X Amore Seongsu POP-UP"
-    },
-    "ja": {
-      "address": "Seoul, 7, Achasan-ro 11-gil, Seongdong-gu,",
-      "title": "<ウィキッド> X AMOREソンス POP-UP"
-    },
     "zh-cn": {
       "address": "Seoul, 7, Achasan-ro 11-gil, Seongdong-gu,",
       "title": "音乐剧《女巫》X 爱茉莉圣水快闪店"

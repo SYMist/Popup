@@ -37,23 +37,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:16:04.097290"
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:20:18.597109",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0192ad98-6cac-76d9-b87f-c8299f784465",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0192ad98-6cac-76d9-b87f-c8299f784465"
+    "enUrl": "https://interparkglobal.com/en/festas/0192ad98-6cac-76d9-b87f-c8299f784465"
   },
   "translations": {
     "en": {
       "address": "Seoul, 22, Wausan-ro 29ra-gil, Mapo-gu,",
       "title": "『Giselle』 Birthday Cafe🎂"
-    },
-    "ja": {
-      "address": "Seoul, 22, Wausan-ro 29ra-gil, Mapo-gu,",
-      "title": "『ジゼル』センイルカフェ 🎂"
     }
   }
 }

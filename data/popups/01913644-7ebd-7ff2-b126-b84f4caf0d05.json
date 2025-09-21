@@ -35,23 +35,25 @@
   "meta": {
     "detection": {
       "category": "POP-UP",
-      "rule": "category"
+      "durationDays": 13,
+      "rule": "category|duration"
     },
-    "fetchedAt": "2025-09-19T14:10:18.903488"
+    "fetchedAt": "2025-09-21T19:17:21.410067",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/01913644-7ebd-7ff2-b126-b84f4caf0d05",
-    "jaUrl": "https://interparkglobal.com/ja/festas/01913644-7ebd-7ff2-b126-b84f4caf0d05"
+    "enUrl": "https://interparkglobal.com/en/festas/01913644-7ebd-7ff2-b126-b84f4caf0d05"
   },
   "translations": {
     "en": {
-      "address": "Seoul, 43, Myeongdong-gil, Jung-gu,",
-      "title": "HAPPY BROWN DAY"
-    },
-    "ja": {
       "address": "Seoul, 43, Myeongdong-gil, Jung-gu,",
       "title": "HAPPY BROWN DAY"
     }

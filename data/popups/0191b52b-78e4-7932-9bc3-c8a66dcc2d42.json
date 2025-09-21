@@ -33,23 +33,28 @@
     }
   ],
   "meta": {
-    "fetchedAt": "2025-09-19T14:22:46.827903"
+    "detection": {
+      "durationDays": 7,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:22:10.406298",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "UNKNOWN"
   },
   "source": {
-    "enUrl": "https://interparkglobal.com/en/festas/0191b52b-78e4-7932-9bc3-c8a66dcc2d42",
-    "jaUrl": "https://interparkglobal.com/ja/festas/0191b52b-78e4-7932-9bc3-c8a66dcc2d42"
+    "enUrl": "https://interparkglobal.com/en/festas/0191b52b-78e4-7932-9bc3-c8a66dcc2d42"
   },
   "translations": {
     "en": {
       "address": "Seoul, 10-15, Yeonhui-ro 27 Da-gil, Seodaemun-gu,",
       "title": "Red Velvet SEULGI Photo Exhibition"
-    },
-    "ja": {
-      "address": "Seoul, 10-15, Yeonhui-ro 27 Da-gil, Seodaemun-gu,",
-      "title": "Red Velvet スルギ フィルム写真展"
     }
   }
 }

@@ -28,7 +28,17 @@
   "isPopup": false,
   "links": [],
   "meta": {
-    "fetchedAt": "2025-09-19T14:08:49.190360"
+    "detection": {
+      "durationDays": 7,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-21T19:16:22.803104",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
   },
   "pricing": {
     "type": "FREE"
