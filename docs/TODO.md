@@ -29,23 +29,29 @@
 - [x] 좌표/기간/링크 유효성 검사 강화
 
 ## 정적 웹페이지(뷰어) 구성
-- [ ] 인덱스 빌더 추가(`scripts/build_index.py`) — `data/popups/*.json`에서 요약 `data/index.json` 생성
-  - [ ] 필드 구성: `id,title,start,end,city,lat,lon,category,isPopup,thumb,sourceUrl`
-  - [ ] 타이틀 로케일 우선순위(fallback): `ko → en → ja → zh-cn`
-  - [ ] 썸네일(대표) 선택: `meta.images.selectionRule`/첫 이미지 기반
-  - [ ] 용량 관리: 필요 필드만 포함, 5MB 이하 목표(필요 시 월별 샤딩)
+- [x] 인덱스 빌더 추가(`scripts/build_index.py`) — `data/popups/*.json`에서 요약 `data/index.json` 생성
+  - [x] 필드 구성: `id,title,start,end,city,lat,lon,category,isPopup,thumb,sourceUrl`
+  - [x] 타이틀 로케일 우선순위(fallback): `ko → en → ja → zh-cn`
+  - [x] 썸네일(대표) 선택: `meta.images.selectionRule`/첫 이미지 기반
+  - [x] 용량 관리: 필요 필드만 포함, 5MB 이하 목표(필요 시 월별 샤딩)
 - [ ] 정적 뷰어 스캐폴드(`web/`) — `index.html`, `app.js`, `styles.css`
-  - [ ] 리스트 카드 UI(대표 이미지/제목/기간/도시/카테고리)
+  - [x] 리스트 카드 UI(대표 이미지/제목/기간/도시/카테고리)
   - [ ] 상세 모달(갤러리/링크/가격 정규화/감지 근거 표시)
-  - [ ] 필터: `isPopup` 기본 on, 도시/카테고리, 진행상태(진행중/예정/종료)
-  - [ ] 정렬: 종료일 오름차순 기본, 옵션 제공
-  - [ ] 검색: 제목 텍스트 포함 검색
+  - [x] 카드 클릭 시 상세 페이지로 이동(SEO)
+  - [x] 정적 상세 페이지 생성 스크립트(`scripts/build_pages.py`) 및 `web/p/*.html` 출력
+  - [x] 필터: `isPopup` 기본 on, 도시/카테고리, 진행상태(진행중/예정/종료)
+  - [x] 정렬: 종료일 오름차순 기본, 옵션 제공
+  - [x] 검색: 제목 텍스트 포함 검색
 - [ ] 퍼포먼스
   - [ ] 인덱스 분할(연-월 단위 `index-YYYY-MM.json`) 및 지연 로딩
-  - [ ] 캐시 버스팅(쿼리스트링에 `?v=timestamp`)
+  - [x] 캐시 버스팅(쿼리스트링에 `?v=timestamp`)
 - [ ] 배포( GitHub Pages )
-  - [ ] Actions 단계 추가: 크롤 후 인덱스 빌드 → `web/` 아티팩트 Pages 배포
+  - [x] Actions 단계 추가: 크롤 후 인덱스/상세 페이지 빌드 → `web/` 아티팩트 업로드 + `deploy-pages`로 배포
   - [ ] 사용자 도메인/CNAME(선택)
 - [ ] 품질/접근성
   - [ ] 스키마/인덱스 필드 검증 스크립트(누락/형식)
   - [ ] 반응형 레이아웃/키보드 내비게이션/대체텍스트
+
+## 운영 메모
+- 요약 수치(Modified 과다) 완화: `scripts/storage.py` 저장 시 `meta.fetchedAt` 무시 비교 도입 → 의미 없는 파일 재저장 방지.
+- 배포 실행은 내일 수동 트리거 예정.

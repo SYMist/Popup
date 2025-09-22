@@ -8,6 +8,8 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: crawl-popups
@@ -36,6 +38,11 @@ jobs:
         run: |
           python scripts/crawl_popups.py --fast --workers 8 --qps 2.0
 
+      - name: Build web index and pages
+        run: |
+          python scripts/build_index.py --output web/data/index.json
+          python scripts/build_pages.py --out-dir web/p
+
       - name: Sync with remote main (rebase)
         run: |
           git config --global pull.rebase true
@@ -58,6 +65,8 @@ jobs:
           commit_message: 'chore(crawl): weekly popup data sync'
           file_pattern: |
             data/**/*.json
+            web/data/*.json
+            web/p/*.html
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           branch: main
@@ -86,3 +95,24 @@ jobs:
             echo "- Modified: ${modified}"
             echo "- Deleted: ${deleted}"
           } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload Pages artifact (web/)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

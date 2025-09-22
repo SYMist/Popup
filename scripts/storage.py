@@ -24,10 +24,36 @@ def dump_json(path: str, data: Dict[str, Any]) -> None:
         f.write(orjson.dumps(data, option=orjson.OPT_INDENT_2 | orjson.OPT_SORT_KEYS))
 
 
+def _strip_volatile_meta(data: Dict[str, Any]) -> Dict[str, Any]:
+    # Return a shallow-normalized copy with volatile fields removed for stable comparison
+    try:
+        import copy
+        clean = copy.deepcopy(data)
+    except Exception:
+        clean = json.loads(json.dumps(data))
+    meta = clean.get("meta")
+    if isinstance(meta, dict) and "fetchedAt" in meta:
+        # Remove fetchedAt to avoid churn-only updates
+        meta.pop("fetchedAt", None)
+        if not meta:
+            clean.pop("meta", None)
+    return clean
+
+
 def save_record_json(record: Dict[str, Any]) -> str:
     ensure_dirs()
     rid = record["id"]
     path = os.path.join(DATA_DIR, f"{rid}.json")
+    # Write only when meaningful content changed (ignore meta.fetchedAt)
+    try:
+        if os.path.exists(path):
+            with open(path, "rb") as f:
+                existing = json.loads(f.read().decode("utf-8"))
+            if _strip_volatile_meta(existing) == _strip_volatile_meta(record):
+                return path  # no-op
+    except Exception:
+        # On any error, fall back to writing
+        pass
     dump_json(path, record)
     return path
 

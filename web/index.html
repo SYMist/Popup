@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Popup Index Viewer</title>
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Pop-up Finder</h1>
+      <div class="meta" id="meta"></div>
+    </header>
+
+    <section class="controls">
+      <div class="control-group">
+        <label>
+          <input type="checkbox" id="f-isPopup" checked />
+          팝업만 보기
+        </label>
+      </div>
+
+      <div class="control-group">
+        <label for="f-status">진행상태</label>
+        <select id="f-status">
+          <option value="all">전체</option>
+          <option value="ongoing">진행중</option>
+          <option value="upcoming">예정</option>
+          <option value="ended">종료</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="f-city">도시</label>
+        <select id="f-city" multiple size="6"></select>
+      </div>
+
+      <div class="control-group">
+        <label for="f-category">카테고리</label>
+        <select id="f-category" multiple size="6"></select>
+      </div>
+
+      <div class="control-group">
+        <label for="f-search">검색</label>
+        <input id="f-search" type="search" placeholder="제목 검색" />
+      </div>
+
+      <div class="control-group">
+        <label for="f-sort">정렬</label>
+        <select id="f-sort">
+          <option value="end-asc">종료일 오름차순</option>
+          <option value="end-desc">종료일 내림차순</option>
+          <option value="start-asc">시작일 오름차순</option>
+          <option value="start-desc">시작일 내림차순</option>
+          <option value="title-asc">제목 오름차순</option>
+          <option value="title-desc">제목 내림차순</option>
+        </select>
+      </div>
+    </section>
+
+    <main id="list" class="card-grid" aria-live="polite"></main>
+
+    <template id="card-tpl">
+      <article class="card">
+        <a class="thumb-link">
+          <img class="thumb" alt="thumbnail" loading="lazy" />
+        </a>
+        <div class="info">
+          <h2 class="title"></h2>
+          <div class="sub">
+            <span class="dates"></span>
+            <span class="dot">·</span>
+            <span class="city"></span>
+          </div>
+          <div class="tags">
+            <span class="badge cat"></span>
+            <span class="badge popup" title="isPopup">POP-UP</span>
+            <span class="badge status"></span>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js?v=" defer></script>
+  </body>
+  </html>

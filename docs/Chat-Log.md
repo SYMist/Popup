@@ -3,6 +3,24 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-22
+
+- 정적 웹페이지(뷰어) 1차 구현 및 상세 페이지 전환(SEO)
+  - 인덱스 빌더 추가: `scripts/build_index.py` → `data/index.json` 또는 자동 월별 샤딩(`index-YYYY-MM.json`), `index-manifest.json` 생성.
+  - 웹 뷰어 스캐폴드: `web/index.html`, `web/app.js`, `web/styles.css` — 리스트/필터(팝업/도시/카테고리/상태)/정렬/검색 동작.
+  - 카드 클릭 시 모달 대신 정적 상세 페이지로 이동: `web/p/{id}.html`.
+  - 정적 상세 페이지 생성기: `scripts/build_pages.py` — 제목/기간/주소/갤러리/원문/지도/가격정규화/판정근거/JSON-LD/OG 태그 포함.
+  - 데이터 경로 호환성: `app.js`가 `web/data` → 실패 시 `../data` 순서로 로드, 캐시 버스팅 쿼리(`?v=timestamp`) 적용.
+- 크롤링 변경 요약 수치 개선
+  - 매 실행마다 변하던 `meta.fetchedAt`로 인해 전체 파일이 Modified로 잡히던 문제 완화.
+  - `scripts/storage.py`가 저장 전 기존 파일과 신규 레코드를 비교할 때 `meta.fetchedAt`을 무시하여 의미 변화 없으면 쓰기 생략.
+- 워크플로/배포
+  - GitHub Actions 워크플로에 웹 빌드/배포 통합: `web/data/index.json` 생성 및 `web/p/*.html` 출력 후 Pages 아티팩트 업로드, 별도 `deploy` 잡에서 `configure-pages` + `deploy-pages`로 Pages 배포.
+  - 저장소 Settings → Pages의 Source는 “GitHub Actions”로 설정됨. 배포는 내일 실행 예정.
+- 로컬 검증
+  - `python -m http.server`로 루트 서빙 시 `web/`에서 리스트/상세 정상 표시 확인.
+  - `web/`만 서빙 시에도 `web/data`에 인덱스 생성하면 정상 로드.
+
 ## 2025-09-20
 
 - 분류/규칙 보정 및 휴리스틱 강화
