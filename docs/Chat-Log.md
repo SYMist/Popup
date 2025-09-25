@@ -16,7 +16,8 @@
   - `scripts/storage.py`가 저장 전 기존 파일과 신규 레코드를 비교할 때 `meta.fetchedAt`을 무시하여 의미 변화 없으면 쓰기 생략.
 - 워크플로/배포
   - GitHub Actions 워크플로에 웹 빌드/배포 통합: `web/data/index.json` 생성 및 `web/p/*.html` 출력 후 Pages 아티팩트 업로드, 별도 `deploy` 잡에서 `configure-pages` + `deploy-pages`로 Pages 배포.
-  - 저장소 Settings → Pages의 Source는 “GitHub Actions”로 설정됨. 배포는 내일 실행 예정.
+  - 저장소 Settings → Pages의 Source “GitHub Actions” 설정 완료. 수동 실행으로 배포 성공.
+  - Live: https://symist.github.io/Popup/
 - 로컬 검증
   - `python -m http.server`로 루트 서빙 시 `web/`에서 리스트/상세 정상 표시 확인.
   - `web/`만 서빙 시에도 `web/data`에 인덱스 생성하면 정상 로드.

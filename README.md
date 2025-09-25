@@ -29,11 +29,34 @@ python scripts/crawl_popups.py
 python scripts/crawl_popups.py --limit 50 --fast --workers 8 --qps 2.0
 ```
 
+## Live Site
+- Viewer: https://symist.github.io/Popup/
+
 ## GitHub Actions
 - Workflow: `.github/workflows/crawl-popups.yml`
 - Schedule: weekly at 19:00 UTC (Mon 04:00 KST)
-- Artifacts: entire `data/` folder (JSON + SQLite)
-- Commit policy: changes under `data/**/*.json` are committed directly to `main` with a summary of added/modified/deleted counts in the job summary.
+- Data artifacts: entire `data/` folder (JSON + SQLite)
+- Commit policy: changes under `data/**/*.json` are committed directly to `main` with a summary of added/modified/deleted counts.
+- Pages deploy: builds web index (`web/data/index.json`) and static detail pages (`web/p/*.html`), uploads as Pages artifact, then deploys via `deploy-pages`.
+
+## Build the web viewer locally
+```bash
+# Generate index (single file; auto-shards to monthly if >5MB)
+python scripts/build_index.py --output data/index.json
+
+# Generate static detail pages
+python scripts/build_pages.py --out-dir web/p
+
+# Preview
+python -m http.server 8000
+# Then open http://localhost:8000/web/
+```
+
+If you serve only the `web/` directory, also generate index under `web/data`:
+```bash
+python scripts/build_index.py --output web/data/index.json
+python -m http.server -d web 8000
+```
 
 ## TODO
 - 상세한 진행 항목은 `docs/TODO.md`를 확인하세요.
@@ -66,3 +89,4 @@ python scripts/crawl_popups.py --limit 50 --fast --workers 8 --qps 2.0
 - Respects robots.txt (Allow: /) and uses gentle rate limiting.
 - No GraphQL direct calls; relies on SSR data to avoid introspection/auth constraints.
 - Current classification writes tags only; filtering to popups can be enabled later if needed by downstreams.
+- Storage reduces churn: ignores `meta.fetchedAt` when comparing on-disk vs new record, so unchanged content doesn't cause needless JSON modifications.
