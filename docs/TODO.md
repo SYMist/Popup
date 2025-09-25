@@ -48,11 +48,19 @@
 - [ ] 배포( GitHub Pages )
   - [x] Actions 단계 추가: 크롤 후 인덱스/상세 페이지 빌드 → `web/` 아티팩트 업로드 + `deploy-pages`로 배포
   - [x] 배포 성공 및 페이지 동작 확인(리스트/상세)
-  - [ ] 사용자 도메인/CNAME(선택)
+  - [x] 사용자 도메인/CNAME(선택)
 - [ ] 품질/접근성
   - [ ] 스키마/인덱스 필드 검증 스크립트(누락/형식)
   - [ ] 반응형 레이아웃/키보드 내비게이션/대체텍스트
 
+## 도메인/수익화
+- [x] 커스텀 도메인 연결(`popup.deluxo.co.kr`) 및 `web/CNAME` 고정
+- [x] AdSense `ads.txt` 공개(`web/ads.txt` → `/ads.txt`)
+- [x] AdSense Auto ads 스니펫 주입(`web/index.html`, `scripts/build_pages.py`)
+- [ ] Privacy Policy 페이지 추가(`web/privacy.html`) 및 푸터 링크
+- [ ] robots.txt/sitemap 생성 및 Pages 배포 포함
+
 ## 운영 메모
 - 요약 수치(Modified 과다) 완화: `scripts/storage.py` 저장 시 `meta.fetchedAt` 무시 비교 도입 → 의미 없는 파일 재저장 방지.
-- 배포 실행은 내일 수동 트리거 예정.
+- 배포/도메인: Pages 배포 성공, 커스텀 도메인 연결 완료. HTTPS 인증서는 발급 진행 중(접속은 정상).
+- 수익화: `/ads.txt` 노출 및 Auto ads 삽입 완료.
