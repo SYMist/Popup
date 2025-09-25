@@ -1,0 +1,61 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "11, Seongsu-ro 7-ga-gil, Seongdong-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-10-12",
+    "start": "2025-09-26"
+  },
+  "geo": {
+    "lat": 37.54131592252944,
+    "lon": 127.05496341104508
+  },
+  "id": "019979da-8ca7-7225-84d5-fdaae3378ddf",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6568ea62-5dca-4eec-bb11-1b9fb746c1aa.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6568ea62-5dca-4eec-bb11-1b9fb746c1aa.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": true,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DO7VkRhkldB/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "category": "POP-UP",
+      "durationDays": 16,
+      "rule": "category|duration"
+    },
+    "fetchedAt": "2025-09-25T13:23:09.319017",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019979da-8ca7-7225-84d5-fdaae3378ddf"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 11, Seongsu-ro 7-ga-gil, Seongdong-gu,",
+      "title": "GREEN TEA MILK 快闪店 in 圣水"
+    }
+  }
+}

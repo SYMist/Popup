@@ -1,0 +1,61 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108 Yeoui-daero, Yeongdeung﻿po-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-10-11",
+    "start": "2025-10-02"
+  },
+  "geo": {
+    "lat": 37.5258975,
+    "lon": 126.9284261
+  },
+  "id": "0199792b-7539-7912-a3eb-b7d775f0dbac",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/36467c77-7d77-4c81-8ad7-df17b0f8e8d8.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/36467c77-7d77-4c81-8ad7-df17b0f8e8d8.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": true,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOxeLE7gbgS/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "category": "POP-UP",
+      "durationDays": 9,
+      "rule": "category|duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:50.861363",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199792b-7539-7912-a3eb-b7d775f0dbac"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "韩剧《暴君的厨师》快闪店"
+    }
+  }
+}

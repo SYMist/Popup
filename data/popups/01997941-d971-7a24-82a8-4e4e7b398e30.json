@@ -1,0 +1,53 @@
+{
+  "address": {},
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-18",
+    "start": "2025-10-18"
+  },
+  "geo": {},
+  "id": "01997941-d971-7a24-82a8-4e4e7b398e30",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a187ed83-5b92-462c-9f3d-52b71f904f92.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a187ed83-5b92-462c-9f3d-52b71f904f92.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://app.fans/community/twice/notice/3dse2jbxyj",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:51.649902",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997941-d971-7a24-82a8-4e4e7b398e30"
+  },
+  "translations": {
+    "zh-cn": {
+      "title": "2025 TWICE 粉丝见面会 [10VE UNIVERSE]"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "30-32 Jandari-ro, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-05",
+    "start": "2025-10-03"
+  },
+  "geo": {
+    "lat": 37.551935,
+    "lon": 126.920109
+  },
+  "id": "019973e5-63eb-788b-a039-a1a036e5cd03",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/45f72fdd-1bcc-429d-8cc5-e56f80c8991b.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/45f72fdd-1bcc-429d-8cc5-e56f80c8991b.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://x.com/B_meal_Garden/status/1966850133980520907",
+      "label": "𝓣𝓱𝓮 𝓟𝓻𝓲𝓷𝓬𝓮’𝓼 𝓢𝓮𝓬𝓻𝓮𝓽 𝓖𝓪𝓻𝓭𝓮𝓷"
+    },
+    {
+      "href": "https://x.com/into__chan/status/1962139075894497328?s=46&t=yyx83At1wckcONs9kYqIpw",
+      "label": "『 SWIM THROUGH MY MIND 』 : FALL INTO YOU"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 2,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:49.769575",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019973e5-63eb-788b-a039-a1a036e5cd03"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 30-32 Jandari-ro, Mapo-gu, ",
+      "title": "“方灿” 生日咖啡厅🎂"
+    }
+  }
+}

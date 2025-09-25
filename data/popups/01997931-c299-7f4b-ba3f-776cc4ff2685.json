@@ -1,0 +1,61 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108 Yeoui-daero, Yeongdeung﻿po-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-11-30",
+    "start": "2025-09-16"
+  },
+  "geo": {
+    "lat": 37.5258975,
+    "lon": 126.9284261
+  },
+  "id": "01997931-c299-7f4b-ba3f-776cc4ff2685",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d52ee66d-b2d9-4b0b-8f3f-a99710c92e8a.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/d52ee66d-b2d9-4b0b-8f3f-a99710c92e8a.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": true,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DOaMFtRk2JT/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "category": "POP-UP",
+      "durationDays": 75,
+      "rule": "category|duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:50.555285",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997931-c299-7f4b-ba3f-776cc4ff2685"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeung﻿po-gu,",
+      "title": "哈利·波特魔法学校"
+    }
+  }
+}

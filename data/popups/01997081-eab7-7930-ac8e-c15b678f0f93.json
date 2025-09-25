@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "294, Itaewon-ro, Yongsan-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-26",
+    "start": "2025-10-26"
+  },
+  "geo": {
+    "lat": 37.54086,
+    "lon": 127.0027
+  },
+  "id": "01997081-eab7-7930-ac8e-c15b678f0f93",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/7a06b6f3-adcf-46aa-909b-f0b8948ca2d3.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/7a06b6f3-adcf-46aa-909b-f0b8948ca2d3.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://fromm.my/kY8CUz",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 0,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-25T13:23:08.302078",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997081-eab7-7930-ac8e-c15b678f0f93"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 294, Itaewon-ro, Yongsan-gu, ",
+      "title": "2025 DONGHAE B DAY PARTY"
+    }
+  }
+}

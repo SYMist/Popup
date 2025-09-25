@@ -1,0 +1,64 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "13-3 Wausan-ro 29na-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-15",
+    "start": "2025-10-10"
+  },
+  "geo": {
+    "lat": 37.55459,
+    "lon": 126.928247
+  },
+  "id": "019973da-fe63-7ada-8c11-ba897f5bfeb1",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8b48ca7b-043d-4aba-aed3-379bc14b1097.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8b48ca7b-043d-4aba-aed3-379bc14b1097.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://x.com/HS_event_BD/status/1965973225013456903",
+      "label": "李羲承的声乐课"
+    },
+    {
+      "href": "https://x.com/fehnking39155/status/1968915641290625400?s=46&t=upBzXaoQAAJ2YbWaJFxJAw",
+      "label": "怦怦跳的Hamtory Day"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 5,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:49.257178",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "FREE"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019973da-fe63-7ada-8c11-ba897f5bfeb1"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 13-3 Wausan-ro 29na-gil, Mapo-gu, ",
+      "title": "“羲承”生日咖啡厅🎂"
+    }
+  }
+}

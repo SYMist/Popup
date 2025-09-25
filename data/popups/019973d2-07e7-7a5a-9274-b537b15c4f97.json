@@ -1,0 +1,64 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "33-3 Hongik-ro 5-gil, Mapo-gu, "
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-08",
+    "start": "2025-10-04"
+  },
+  "geo": {
+    "lat": 37.55349,
+    "lon": 126.92096
+  },
+  "id": "019973d2-07e7-7a5a-9274-b537b15c4f97",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/cf39282d-1236-4b0e-869c-2b926262bda7.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/cf39282d-1236-4b0e-869c-2b926262bda7.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://x.com/Bbangsaz_zip",
+      "label": "Hani Pham的秘密面包屋"
+    },
+    {
+      "href": "https://x.com/HN_inyour_heart/status/1968446718090920275",
+      "label": "🩷𝐇𝐚𝐩𝐩𝐲 𝐇𝐚𝐧𝐧𝐢 𝐃𝐚𝐲🩷"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 4,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-25T13:21:48.544971",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/019973d2-07e7-7a5a-9274-b537b15c4f97"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 33-3 Hongik-ro 5-gil, Mapo-gu, ",
+      "title": "“ Hanni” 生日咖啡厅🎂"
+    }
+  }
+}
