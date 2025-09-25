@@ -7,6 +7,8 @@ from typing import Any, Dict, Iterable, Optional
 
 
 TITLE_ORDER = ["ko", "en", "ja", "zh-cn"]
+ADSENSE_PUB = "ca-pub-5716436301710258"
+SITE_ORIGIN = "https://popup.deluxo.co.kr"
 
 
 def _pick_title(rec: Dict[str, Any]) -> Optional[str]:
@@ -174,6 +176,8 @@ def render_page(rec: Dict[str, Any]) -> str:
         val_html = f'<div class="kv warn"><span>검증</span><b>오류 {len(errs)}, 경고 {len(warns)}</b></div>'
 
     popup_badge_html = '<span class="badge popup">POP-UP</span>' if is_popup else ''
+    ads_meta = f'<meta name="google-adsense-account" content="{ADSENSE_PUB}" />'
+    ads_script = f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_PUB}" crossorigin="anonymous"></script>'
 
     return f"""<!doctype html>
 <html lang=\"ko\">
@@ -182,7 +186,9 @@ def render_page(rec: Dict[str, Any]) -> str:
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
     <title>{escape(title)} | Pop-up Finder</title>
     <meta name=\"description\" content=\"{escape(desc)}\" />
-    <link rel=\"canonical\" href=\"../p/{escape(rid)}.html\" />
+    <link rel=\"canonical\" href=\"{SITE_ORIGIN}/p/{escape(rid)}.html\" />
+    {ads_meta}
+    {ads_script}
     <meta property=\"og:title\" content=\"{escape(title)}\" />
     <meta property=\"og:description\" content=\"{escape(desc)}\" />
     {og_image_meta}
