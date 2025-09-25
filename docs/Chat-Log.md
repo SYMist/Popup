@@ -18,6 +18,9 @@
   - GitHub Actions 워크플로에 웹 빌드/배포 통합: `web/data/index.json` 생성 및 `web/p/*.html` 출력 후 Pages 아티팩트 업로드, 별도 `deploy` 잡에서 `configure-pages` + `deploy-pages`로 Pages 배포.
   - 저장소 Settings → Pages의 Source “GitHub Actions” 설정 완료. 수동 실행으로 배포 성공.
   - Live: https://symist.github.io/Popup/
+  - 커스텀 도메인 연결: `popup.deluxo.co.kr` 적용, Cloudflare DNS only(CNAME → symist.github.io), `web/CNAME` 고정.
+  - ads.txt 배포: `/ads.txt` 200 확인(워크플로 재배포).
+  - 운영 이슈: 커스텀 도메인 환경에서 뷰어가 인덱스(JSON) 로딩 실패 사례 확인 → 원인 분류(경로/배포 누락/샤딩/필터). TODO에 진단 체크리스트 추가.
 - 로컬 검증
   - `python -m http.server`로 루트 서빙 시 `web/`에서 리스트/상세 정상 표시 확인.
   - `web/`만 서빙 시에도 `web/data`에 인덱스 생성하면 정상 로드.
