@@ -145,7 +145,7 @@
   }
 
   async function loadData() {
-    const bases = ['data', '../data'];
+    const bases = ['/data', 'data', '../data'];
     let loaded = null;
     let lastErr = null;
     for (const b of bases) {
@@ -165,8 +165,8 @@
     }
 
     // Populate filter options
-    const cities = uniqSorted(rows.map(r => r.city));
-    const cats = uniqSorted(rows.map(r => r.category));
+    const cities = uniqSorted(DATA.map(r => r.city));
+    const cats = uniqSorted(DATA.map(r => r.category));
     fillOptions($fCity, cities);
     fillOptions($fCategory, cats);
 
