@@ -61,10 +61,12 @@
 - [ ] robots.txt/sitemap 생성 및 Pages 배포 포함
 
 ## 배포 이슈(데이터 로딩)
-- [ ] Pages에서 인덱스 확인: `https://popup.deluxo.co.kr/data/index.json` 200 응답/콘텐츠 확인
+- [x] Pages에서 인덱스 확인: `https://popup.deluxo.co.kr/data/index.json` 200 응답/콘텐츠 확인
 - [ ] 매니페스트 확인(샤딩 시): `https://popup.deluxo.co.kr/data/index-manifest.json` 존재 및 months 목록 검증
-- [ ] 워크플로 점검: "Build web index and pages" 단계가 `web/data/index.json` 생성 및 Pages 아티팩트 포함하는지 확인
-- [ ] 뷰어 경로 보강: `web/app.js`에 절대 경로(`/data`) 추가 및 오류 메시지 강화(로딩 스피너/네트워크 에러 출력)
+- [x] 워크플로 점검: "Build web index and pages" 단계가 `web/data/index.json` 생성 및 Pages 아티팩트 포함하는지 확인
+- [ ] 뷰어 경로/에러 보강
+  - [x] `web/app.js`에 절대 경로(`/data`) 추가
+  - [ ] 오류 메시지 강화(로딩 스피너/네트워크 에러 출력)
 - [ ] 임시 확인: `isPopup` 필터 off 상태에서 리스트가 보이는지 점검(데이터 측면 문제 배제)
 - [ ] 네트워크 검사: DevTools Network에서 `/data/*.json` 응답 코드/크기/콘텐츠타입 확인
 - [ ] 필요 시 수동 빌드: `python scripts/build_index.py --output web/data/index.json` 후 커밋/재배포

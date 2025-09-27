@@ -3,6 +3,21 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-27
+
+- 뷰어 경로 보강/버그 수정 및 배포 확인
+  - `web/app.js`에 절대 경로 `'/data'` 추가, 데이터 필터 옵션 초기화 시 `rows` → `DATA`로 참조 수정.
+  - 커밋/푸시: "viewer: add /data base and fix filter option init" (5bc6562) 반영. 사용자가 워크플로 수동 실행하여 Pages 배포 완료.
+  - 라이브 검증: `https://popup.deluxo.co.kr/app.js`에서 `const bases = ['/data', 'data', '../data'];`와 `uniqSorted(DATA.map(...))` 확인. `https://popup.deluxo.co.kr/data/index.json` 200 OK.
+  - 결과: https://popup.deluxo.co.kr 접속 시 리스트/필터 정상 동작.
+- TODO 갱신
+  - "Pages에서 인덱스 확인" 및 "워크플로 점검(웹 데이터 포함 배포)" 완료 체크.
+  - "뷰어 경로/에러 보강" 세분화: 절대 경로 추가 완료, 로딩 스피너/네트워크 에러 UI는 미완.
+- 다음 작업 제안(우선순위)
+  - 로딩 스피너 + 네트워크 에러 UI 추가.
+  - 인덱스 월별 샤딩 + 지연 로딩.
+  - Privacy Policy, robots.txt/sitemap 생성 및 배포.
+
 ## 2025-09-22
 
 - 정적 웹페이지(뷰어) 1차 구현 및 상세 페이지 전환(SEO)
