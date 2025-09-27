@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "704-1, Jayang-dong, Gwangjin-gu,"
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-10-12",
+    "start": "2025-10-03"
+  },
+  "geo": {
+    "lat": 37.52954501222016,
+    "lon": 127.0731268867859
+  },
+  "id": "01997e74-63c4-7c99-ace6-7742d9e487f8",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/a4aae8f1-508b-4c3e-a4a6-5cd5e887db09.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/a4aae8f1-508b-4c3e-a4a6-5cd5e887db09.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://bitseomfestival.com/2025/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-27T12:29:57.336772",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997e74-63c4-7c99-ace6-7742d9e487f8"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 704-1, Jayang-dong, Gwangjin-gu,",
+      "title": "2025 首尔之光汉江光岛庆典"
+    }
+  }
+}

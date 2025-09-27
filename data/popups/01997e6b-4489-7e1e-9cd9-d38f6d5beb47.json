@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "Banpo-dong, Seocho-gu, "
+  },
+  "category": "FESTIVAL",
+  "duration": {
+    "end": "2025-10-26",
+    "start": "2025-09-28"
+  },
+  "geo": {
+    "lat": 37.51465469209278,
+    "lon": 126.996414
+  },
+  "id": "01997e6b-4489-7e1e-9cd9-d38f6d5beb47",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/0be73cef-7f05-4e63-95fa-b749e5298056.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/0be73cef-7f05-4e63-95fa-b749e5298056.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.festa-ddooddoo.com/index.asp",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 28,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-27T12:29:56.805494",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997e6b-4489-7e1e-9cd9-d38f6d5beb47"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, Banpo-dong, Seocho-gu, ",
+      "title": "2025年下半年无车潜水桥步行节"
+    }
+  }
+}

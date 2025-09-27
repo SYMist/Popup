@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seo﻿ul",
+    "street": "161 Sajik-ro, Jongno-gu, "
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2025-10-09",
+    "start": "2025-10-03"
+  },
+  "geo": {
+    "lat": 37.5764057703988,
+    "lon": 126.97730922024664
+  },
+  "id": "01997f33-98e1-7b90-9e15-7dfcdda65b33",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6ccc7f02-251b-4927-8a02-ad71acd68b26.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/6ccc7f02-251b-4927-8a02-ad71acd68b26.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DO9w30rknmB/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 6,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-09-27T12:29:58.212889",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997f33-98e1-7b90-9e15-7dfcdda65b33"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seo﻿ul, 161 Sajik-ro, Jongno-gu, ",
+      "title": "中秋节期间宫．陵免费开放"
+    }
+  }
+}

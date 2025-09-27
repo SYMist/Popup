@@ -1,0 +1,61 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108 Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "POP-UP",
+  "duration": {
+    "end": "2025-10-21",
+    "start": "2025-10-01"
+  },
+  "geo": {
+    "lat": 37.5258975,
+    "lon": 126.9284261
+  },
+  "id": "01997fc9-54c9-7ec2-9e68-e9bd3a70d616",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8b0956e8-672d-4594-b942-4de8e0b29de4.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/8b0956e8-672d-4594-b942-4de8e0b29de4.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": true,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DPA64VVDHCN/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "category": "POP-UP",
+      "durationDays": 20,
+      "rule": "category|duration"
+    },
+    "fetchedAt": "2025-09-27T12:29:58.356466",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/01997fc9-54c9-7ec2-9e68-e9bd3a70d616"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108 Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "BE@RBRICK WORLD WIDE TOUR 3"
+    }
+  }
+}
