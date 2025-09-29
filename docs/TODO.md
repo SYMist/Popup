@@ -34,9 +34,9 @@
   - [x] 타이틀 로케일 우선순위(fallback): `ko → en → ja → zh-cn`
   - [x] 썸네일(대표) 선택: `meta.images.selectionRule`/첫 이미지 기반
   - [x] 용량 관리: 필요 필드만 포함, 5MB 이하 목표(필요 시 월별 샤딩)
-- [ ] 정적 뷰어 스캐폴드(`web/`) — `index.html`, `app.js`, `styles.css`
+- [x] 정적 뷰어 스캐폴드(`web/`) — `index.html`, `app.js`, `styles.css`
   - [x] 리스트 카드 UI(대표 이미지/제목/기간/도시/카테고리)
-  - [ ] 상세 모달(갤러리/링크/가격 정규화/감지 근거 표시)
+  - [x] 상세 모달(갤러리/링크/가격 정규화/감지 근거 표시)
   - [x] 카드 클릭 시 상세 페이지로 이동(SEO)
   - [x] 정적 상세 페이지 생성 스크립트(`scripts/build_pages.py`) 및 `web/p/*.html` 출력
   - [x] 필터: `isPopup` 기본 on, 도시/카테고리, 진행상태(진행중/예정/종료)
@@ -81,8 +81,8 @@
   - [x] 더 보기: "이전 월 더 보기" 클릭 시 3개월씩 추가 로드(BATCH=3), 버튼 문구/표시 상태가 남은 개월 수에 맞게 갱신, 모두 로드되면 버튼 숨김
   - [x] 필터/검색: `isPopup` off로 전환 시 리스트 표시, 도시/카테고리/상태/정렬/검색 동작 정상
   - [x] 상세 페이지: 카드 클릭 → `web/p/{id}.html` 렌더 정상
-  - [ ] unknown 처리: 매니페스트에 `unknown` 있으면 마지막에 로드됨 확인(`index-unknown.json` 요청)
-  - [ ] 에러 UI: 정상이면 에러 배너 노출 없음, 콘솔 에러 없음
+  - [x] unknown 처리: 매니페스트에 `unknown` 있으면 마지막에 로드됨 확인(`index-unknown.json` 요청)
+  - [x] 에러 UI: 정상이면 에러 배너 노출 없음, 콘솔 에러 없음
 
 ## 운영 메모
 - 요약 수치(Modified 과다) 완화: `scripts/storage.py` 저장 시 `meta.fetchedAt` 무시 비교 도입 → 의미 없는 파일 재저장 방지.

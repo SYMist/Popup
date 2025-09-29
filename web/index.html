@@ -83,6 +83,9 @@
             <span class="badge popup" title="isPopup">POP-UP</span>
             <span class="badge status"></span>
           </div>
+          <div class="actions">
+            <button class="btn quick" type="button">퀵뷰</button>
+          </div>
         </div>
       </article>
     </template>
@@ -90,6 +93,18 @@
     <div id="loading" class="loading-overlay" aria-live="polite" aria-busy="true">
       <div class="spinner" aria-hidden="true"></div>
       <div class="loading-text">데이터 불러오는 중…</div>
+    </div>
+
+    <div id="modal" class="modal" aria-hidden="true" style="display:none">
+      <div class="modal-backdrop" data-close="true"></div>
+      <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" aria-label="닫기" data-close="true">×</button>
+        <h2 id="modal-title" class="modal-title"></h2>
+        <iframe id="modal-iframe" class="modal-iframe" title="상세 미리보기" loading="lazy"></iframe>
+        <div class="modal-actions">
+          <a id="modal-open-page" class="btn" target="_self">상세 페이지로 이동</a>
+        </div>
+      </div>
     </div>
 
     <script src="app.js?v=" defer></script>

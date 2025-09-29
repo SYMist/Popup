@@ -12,6 +12,10 @@
   const $fCategory = qs('#f-category');
   const $fSearch = qs('#f-search');
   const $fSort = qs('#f-sort');
+  const $modal = qs('#modal');
+  const $modalIframe = qs('#modal-iframe');
+  const $modalTitle = qs('#modal-title');
+  const $modalOpen = qs('#modal-open-page');
 
   let DATA = [];
   let MANIFEST = null;
@@ -108,6 +112,7 @@
       const $cat = qs('.badge.cat', node);
       const $popup = qs('.badge.popup', node);
       const $status = qs('.badge.status', node);
+      const $quick = qs('.btn.quick', node);
 
       $a.href = `p/${e.id}.html`;
       $img.src = e.thumb || '';
@@ -122,6 +127,13 @@
       const st = statusOf(e);
       $status.textContent = ({ongoing: '진행중', upcoming: '예정', ended: '종료'})[st];
       $status.dataset.status = st;
+
+      if ($quick) {
+        $quick.addEventListener('click', (ev) => {
+          ev.preventDefault();
+          openModal(e);
+        });
+      }
 
       $list.appendChild(node);
     }
@@ -238,6 +250,50 @@
     } else {
       $loadMore.style.display = 'none';
     }
+  }
+
+  // Modal
+  let lastFocus = null;
+  function openModal(entry) {
+    if (!$modal) return;
+    lastFocus = document.activeElement;
+    const href = `p/${entry.id}.html`;
+    if ($modalTitle) $modalTitle.textContent = entry.title || '(상세)';
+    if ($modalIframe) $modalIframe.src = href + `?v=${Date.now()}`;
+    if ($modalOpen) {
+      $modalOpen.href = href;
+      $modalOpen.setAttribute('aria-label', `${entry.title || ''} 상세 페이지로 이동`);
+    }
+    $modal.classList.add('show');
+    $modal.style.display = 'block';
+    document.body.style.overflow = 'hidden';
+    // focus to close button if exists
+    const closeBtn = $modal.querySelector('.modal-close');
+    if (closeBtn) closeBtn.focus();
+  }
+  function closeModal() {
+    if (!$modal) return;
+    $modal.classList.remove('show');
+    $modal.style.display = 'none';
+    document.body.style.overflow = '';
+    if ($modalIframe) $modalIframe.src = '';
+    if (lastFocus && typeof lastFocus.focus === 'function') {
+      try { lastFocus.focus(); } catch (_) {}
+    }
+  }
+  if ($modal) {
+    $modal.addEventListener('click', (e) => {
+      const t = e.target;
+      if (t && (t.getAttribute('data-close') === 'true')) {
+        e.preventDefault();
+        closeModal();
+      }
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && $modal.style.display === 'block') {
+        closeModal();
+      }
+    });
   }
 
   async function loadData() {
