@@ -72,15 +72,15 @@
 - [ ] 필요 시 수동 빌드: `python scripts/build_index.py --output web/data/index.json` 후 커밋/재배포
 
 - [ ] 워크플로 실행 후 확인(월별 샤딩/지연 로딩)
-  - [ ] Actions 실행: GitHub → Actions → "Crawl Triple Popups" → Run workflow(main) → `crawl`/`deploy` 두 잡 모두 성공
-  - [ ] Logs 확인: "Build web index and pages" 단계에 `Index build complete: mode=monthly` 출력, Deploy 단계에서 Pages URL 표시
-  - [ ] 매니페스트: `https://popup.deluxo.co.kr/data/index-manifest.json` 200 OK, JSON에 `{ mode: "monthly", months: [...] }` 포함(길이>0)
-  - [ ] 단일 인덱스(플레이스홀더): `https://popup.deluxo.co.kr/data/index.json`가 `[]` (monthly 모드일 때)
-  - [ ] 뷰어 초기 로딩: 스피너 → 리스트 표시, 상단 메타에 `· 로드된개월/전체개월` 표기
-  - [ ] 네트워크(초기): DevTools Network에 `index-YYYY-MM.json` 요청이 최신 3개월만 발생(INITIAL=3)
-  - [ ] 더 보기: "이전 월 더 보기" 클릭 시 3개월씩 추가 로드(BATCH=3), 버튼 문구/표시 상태가 남은 개월 수에 맞게 갱신, 모두 로드되면 버튼 숨김
-  - [ ] 필터/검색: `isPopup` off로 전환 시 리스트 표시, 도시/카테고리/상태/정렬/검색 동작 정상
-  - [ ] 상세 페이지: 카드 클릭 → `web/p/{id}.html` 렌더 정상
+  - [x] Actions 실행: GitHub → Actions → "Crawl Triple Popups" → Run workflow(main) → `crawl`/`deploy` 두 잡 모두 성공
+  - [x] Logs 확인: "Build web index and pages" 단계에 `Index build complete: mode=monthly` 출력, Deploy 단계에서 Pages URL 표시
+  - [x] 매니페스트: `https://popup.deluxo.co.kr/data/index-manifest.json` 200 OK, JSON에 `{ mode: "monthly", months: [...] }` 포함(길이>0)
+  - [x] 단일 인덱스(플레이스홀더): `https://popup.deluxo.co.kr/data/index.json`가 `[]` (monthly 모드일 때)
+  - [x] 뷰어 초기 로딩: 스피너 → 리스트 표시, 상단 메타에 `· 로드된개월/전체개월` 표기
+  - [x] 네트워크(초기): DevTools Network에 `index-YYYY-MM.json` 요청이 최신 3개월만 발생(INITIAL=3)
+  - [x] 더 보기: "이전 월 더 보기" 클릭 시 3개월씩 추가 로드(BATCH=3), 버튼 문구/표시 상태가 남은 개월 수에 맞게 갱신, 모두 로드되면 버튼 숨김
+  - [x] 필터/검색: `isPopup` off로 전환 시 리스트 표시, 도시/카테고리/상태/정렬/검색 동작 정상
+  - [x] 상세 페이지: 카드 클릭 → `web/p/{id}.html` 렌더 정상
   - [ ] unknown 처리: 매니페스트에 `unknown` 있으면 마지막에 로드됨 확인(`index-unknown.json` 요청)
   - [ ] 에러 UI: 정상이면 에러 배너 노출 없음, 콘솔 에러 없음
 
