@@ -42,8 +42,8 @@
   - [x] 필터: `isPopup` 기본 on, 도시/카테고리, 진행상태(진행중/예정/종료)
   - [x] 정렬: 종료일 오름차순 기본, 옵션 제공
   - [x] 검색: 제목 텍스트 포함 검색
-- [ ] 퍼포먼스
-  - [ ] 인덱스 분할(연-월 단위 `index-YYYY-MM.json`) 및 지연 로딩
+- [x] 퍼포먼스
+  - [x] 인덱스 분할(연-월 단위 `index-YYYY-MM.json`) 및 지연 로딩
   - [x] 캐시 버스팅(쿼리스트링에 `?v=timestamp`)
 - [ ] 배포( GitHub Pages )
   - [x] Actions 단계 추가: 크롤 후 인덱스/상세 페이지 빌드 → `web/` 아티팩트 업로드 + `deploy-pages`로 배포
@@ -64,12 +64,25 @@
 - [x] Pages에서 인덱스 확인: `https://popup.deluxo.co.kr/data/index.json` 200 응답/콘텐츠 확인
 - [ ] 매니페스트 확인(샤딩 시): `https://popup.deluxo.co.kr/data/index-manifest.json` 존재 및 months 목록 검증
 - [x] 워크플로 점검: "Build web index and pages" 단계가 `web/data/index.json` 생성 및 Pages 아티팩트 포함하는지 확인
-- [ ] 뷰어 경로/에러 보강
+- [x] 뷰어 경로/에러 보강
   - [x] `web/app.js`에 절대 경로(`/data`) 추가
-  - [ ] 오류 메시지 강화(로딩 스피너/네트워크 에러 출력)
+  - [x] 오류 메시지 강화(로딩 스피너/네트워크 에러 출력)
 - [ ] 임시 확인: `isPopup` 필터 off 상태에서 리스트가 보이는지 점검(데이터 측면 문제 배제)
 - [ ] 네트워크 검사: DevTools Network에서 `/data/*.json` 응답 코드/크기/콘텐츠타입 확인
 - [ ] 필요 시 수동 빌드: `python scripts/build_index.py --output web/data/index.json` 후 커밋/재배포
+
+- [ ] 워크플로 실행 후 확인(월별 샤딩/지연 로딩)
+  - [ ] Actions 실행: GitHub → Actions → "Crawl Triple Popups" → Run workflow(main) → `crawl`/`deploy` 두 잡 모두 성공
+  - [ ] Logs 확인: "Build web index and pages" 단계에 `Index build complete: mode=monthly` 출력, Deploy 단계에서 Pages URL 표시
+  - [ ] 매니페스트: `https://popup.deluxo.co.kr/data/index-manifest.json` 200 OK, JSON에 `{ mode: "monthly", months: [...] }` 포함(길이>0)
+  - [ ] 단일 인덱스(플레이스홀더): `https://popup.deluxo.co.kr/data/index.json`가 `[]` (monthly 모드일 때)
+  - [ ] 뷰어 초기 로딩: 스피너 → 리스트 표시, 상단 메타에 `· 로드된개월/전체개월` 표기
+  - [ ] 네트워크(초기): DevTools Network에 `index-YYYY-MM.json` 요청이 최신 3개월만 발생(INITIAL=3)
+  - [ ] 더 보기: "이전 월 더 보기" 클릭 시 3개월씩 추가 로드(BATCH=3), 버튼 문구/표시 상태가 남은 개월 수에 맞게 갱신, 모두 로드되면 버튼 숨김
+  - [ ] 필터/검색: `isPopup` off로 전환 시 리스트 표시, 도시/카테고리/상태/정렬/검색 동작 정상
+  - [ ] 상세 페이지: 카드 클릭 → `web/p/{id}.html` 렌더 정상
+  - [ ] unknown 처리: 매니페스트에 `unknown` 있으면 마지막에 로드됨 확인(`index-unknown.json` 요청)
+  - [ ] 에러 UI: 정상이면 에러 배너 노출 없음, 콘솔 에러 없음
 
 ## 운영 메모
 - 요약 수치(Modified 과다) 완화: `scripts/storage.py` 저장 시 `meta.fetchedAt` 무시 비교 도입 → 의미 없는 파일 재저장 방지.

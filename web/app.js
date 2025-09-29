@@ -3,6 +3,9 @@
   const qsa = (s, el = document) => Array.from(el.querySelectorAll(s));
   const $list = qs('#list');
   const $meta = qs('#meta');
+  const $error = qs('#error');
+  const $loading = qs('#loading');
+  const $loadMore = qs('#load-more');
   const $fIsPopup = qs('#f-isPopup');
   const $fStatus = qs('#f-status');
   const $fCity = qs('#f-city');
@@ -12,6 +15,11 @@
 
   let DATA = [];
   let MANIFEST = null;
+  let BASE = null;
+  let MONTHS = [];
+  const LOADED_MONTHS = new Set();
+  const INITIAL_MONTHS = 3; // 최초 로드 개월수
+  const BATCH_MONTHS = 3;   // 더 보기 로드 단위
 
   function parseDate(s) {
     if (!s) return null;
@@ -117,7 +125,10 @@
 
       $list.appendChild(node);
     }
-    $meta.textContent = `${rows.length} / ${DATA.length} 항목`;
+    const monthsInfo = (MANIFEST && MANIFEST.mode === 'monthly' && MONTHS.length)
+      ? ` · ${LOADED_MONTHS.size}/${MONTHS.length}개월`
+      : '';
+    $meta.textContent = `${rows.length} / ${DATA.length} 항목${monthsInfo}`;
   }
 
   async function fetchJSON(url) {
@@ -128,6 +139,23 @@
     return res.json();
   }
 
+  function setLoading(on) {
+    if (!$loading) return;
+    $loading.style.display = on ? 'flex' : 'none';
+    if (on) {
+      if ($error) $error.style.display = 'none';
+    }
+  }
+
+  function showError(message) {
+    if ($error) {
+      $error.textContent = message;
+      $error.style.display = 'block';
+    }
+    if ($meta) $meta.textContent = '데이터 로딩 실패';
+    console.error(message);
+  }
+
   async function tryLoadFromBase(base) {
     // Try manifest first
     let manifest = null;
@@ -136,41 +164,125 @@
       const rows = await fetchJSON(`${base}/index.json`);
       return { rows, manifest };
     } else if (manifest.mode === 'monthly') {
-      const months = Array.isArray(manifest.months) ? manifest.months : [];
-      const tasks = months.map(m => fetchJSON(`${base}/index-${m === 'unknown' ? 'unknown' : m}.json`));
-      const parts = await Promise.all(tasks);
-      return { rows: parts.flat(), manifest };
+      // 지연 로딩: 여기서는 행을 즉시 로드하지 않고 manifest만 반환
+      return { rows: [], manifest };
     }
     return { rows: [], manifest };
   }
 
-  async function loadData() {
-    const bases = ['/data', 'data', '../data'];
-    let loaded = null;
-    let lastErr = null;
-    for (const b of bases) {
-      try {
-        loaded = await tryLoadFromBase(b);
-        if (loaded && loaded.rows && loaded.rows.length >= 0) { // accept empty too
-          MANIFEST = loaded.manifest;
-          DATA = loaded.rows;
-          break;
-        }
-      } catch (e) { lastErr = e; }
-    }
-    if (!loaded) {
-      $meta.textContent = '데이터 로딩 실패. 서버에서 /web/을 루트로 열면 data/가 접근되지 않습니다. (루트에서 제공하거나 web/data에 인덱스를 생성하세요)';
-      console.error('데이터 로딩 실패', lastErr);
-      return;
-    }
+  function sortMonthsDescWithUnknownLast(months) {
+    const list = Array.isArray(months) ? months.slice() : [];
+    const known = list.filter(m => m && m !== 'unknown').sort((a, b) => a < b ? 1 : (a > b ? -1 : 0));
+    const unk = list.includes('unknown') ? ['unknown'] : [];
+    return known.concat(unk);
+  }
 
-    // Populate filter options
+  async function loadMonth(month) {
+    if (!BASE || !month || LOADED_MONTHS.has(month)) return [];
+    const fname = month === 'unknown' ? 'index-unknown.json' : `index-${month}.json`;
+    const url = `${BASE}/${fname}`;
+    const part = await fetchJSON(url);
+    if (Array.isArray(part)) {
+      DATA = DATA.concat(part);
+      LOADED_MONTHS.add(month);
+      return part;
+    }
+    return [];
+  }
+
+  async function loadNextBatch(count) {
+    if (!MONTHS.length) return;
+    const remaining = MONTHS.filter(m => !LOADED_MONTHS.has(m));
+    const take = remaining.slice(0, Math.max(1, count|0));
+    if (!$loadMore) return;
+    $loadMore.disabled = true;
+    try {
+      await Promise.all(take.map(loadMonth));
+    } finally {
+      $loadMore.disabled = false;
+      updateOptionsPreserve();
+      applyFilters();
+      updateLoadMoreButton();
+    }
+  }
+
+  function getSelectedValues($sel) {
+    return qsa('option:checked', $sel).map(o => o.value);
+  }
+  function setSelectedValues($sel, values) {
+    const set = new Set(values);
+    qsa('option', $sel).forEach(o => { o.selected = set.has(o.value); });
+  }
+  function updateOptionsPreserve() {
+    const selCities = getSelectedValues($fCity);
+    const selCats = getSelectedValues($fCategory);
     const cities = uniqSorted(DATA.map(r => r.city));
     const cats = uniqSorted(DATA.map(r => r.category));
     fillOptions($fCity, cities);
     fillOptions($fCategory, cats);
+    setSelectedValues($fCity, selCities);
+    setSelectedValues($fCategory, selCats);
+  }
 
+  function updateLoadMoreButton() {
+    if (!$loadMore) return;
+    if (!(MANIFEST && MANIFEST.mode === 'monthly')) {
+      $loadMore.style.display = 'none';
+      return;
+    }
+    const remaining = MONTHS.filter(m => !LOADED_MONTHS.has(m)).length;
+    if (remaining > 0) {
+      $loadMore.style.display = 'inline-block';
+      $loadMore.textContent = `이전 월 더 보기 (${remaining}개월 남음)`;
+      $loadMore.disabled = false;
+    } else {
+      $loadMore.style.display = 'none';
+    }
+  }
+
+  async function loadData() {
+    setLoading(true);
+    const bases = ['/data', 'data', '../data'];
+    let loaded = null;
+    const errors = [];
+    for (const b of bases) {
+      try {
+        const tryLoaded = await tryLoadFromBase(b);
+        if (tryLoaded && tryLoaded.rows && tryLoaded.rows.length >= 0) {
+          loaded = tryLoaded;
+          MANIFEST = loaded.manifest;
+          DATA = loaded.rows;
+          BASE = b;
+          break;
+        }
+      } catch (e) {
+        errors.push({ base: b, error: e });
+      }
+    }
+    if (!loaded) {
+      setLoading(false);
+      const tried = bases.join(', ');
+      const last = errors.length ? (errors[errors.length - 1].error?.message || String(errors[errors.length - 1].error)) : 'unknown error';
+      showError(`데이터 로딩 실패. 시도한 경로: ${tried}. 마지막 오류: ${last}.\n루트에서 /data 를 제공하거나 web/data 에 인덱스를 생성하세요.`);
+      return;
+    }
+
+    if (MANIFEST && MANIFEST.mode === 'monthly') {
+      MONTHS = sortMonthsDescWithUnknownLast(Array.isArray(MANIFEST.months) ? MANIFEST.months : []);
+      // 초기 배치 로드
+      await loadNextBatch(Math.min(INITIAL_MONTHS, MONTHS.length));
+      updateLoadMoreButton();
+      setLoading(false);
+      return;
+    }
+
+    // single mode
+    const cities = uniqSorted(DATA.map(r => r.city));
+    const cats = uniqSorted(DATA.map(r => r.category));
+    fillOptions($fCity, cities);
+    fillOptions($fCategory, cats);
     applyFilters();
+    setLoading(false);
   }
 
   // Events
@@ -179,4 +291,5 @@
   $fCategory.addEventListener('change', applyFilters);
 
   document.addEventListener('DOMContentLoaded', loadData);
+  if ($loadMore) $loadMore.addEventListener('click', () => loadNextBatch(BATCH_MONTHS));
 })();

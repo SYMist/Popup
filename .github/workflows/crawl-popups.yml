@@ -40,7 +40,7 @@ jobs:
 
       - name: Build web index and pages
         run: |
-          python scripts/build_index.py --output web/data/index.json
+          python scripts/build_index.py --output web/data/index.json --shard monthly
           python scripts/build_pages.py --out-dir web/p
 
       - name: Sync with remote main (rebase)

@@ -14,6 +14,8 @@
       <div class="meta" id="meta"></div>
     </header>
 
+    <div id="error" class="banner error" role="alert" style="display:none"></div>
+
     <section class="controls">
       <div class="control-group">
         <label>
@@ -62,6 +64,8 @@
 
     <main id="list" class="card-grid" aria-live="polite"></main>
 
+    <div class="more"><button id="load-more" class="btn" style="display:none">이전 월 더 보기</button></div>
+
     <template id="card-tpl">
       <article class="card">
         <a class="thumb-link">
@@ -82,6 +86,11 @@
         </div>
       </article>
     </template>
+
+    <div id="loading" class="loading-overlay" aria-live="polite" aria-busy="true">
+      <div class="spinner" aria-hidden="true"></div>
+      <div class="loading-text">데이터 불러오는 중…</div>
+    </div>
 
     <script src="app.js?v=" defer></script>
   </body>
