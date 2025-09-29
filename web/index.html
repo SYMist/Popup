@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="styles.css?v=1" />
   </head>
   <body>
+    <a href="#list" class="skip-link">본문 바로가기</a>
     <header class="topbar">
       <h1>Pop-up Finder</h1>
       <div class="meta" id="meta"></div>
@@ -16,7 +17,9 @@
 
     <div id="error" class="banner error" role="alert" style="display:none"></div>
 
-    <section class="controls">
+    <button id="toggle-filters" class="btn filter-toggle" aria-controls="controls" aria-expanded="true" style="display:none">필터 접기</button>
+
+    <section id="controls" class="controls" aria-label="필터">
       <div class="control-group">
         <label>
           <input type="checkbox" id="f-isPopup" checked />
@@ -62,17 +65,17 @@
       </div>
     </section>
 
-    <main id="list" class="card-grid" aria-live="polite"></main>
+    <main id="list" class="card-grid" aria-live="polite" role="list"></main>
 
     <div class="more"><button id="load-more" class="btn" style="display:none">이전 월 더 보기</button></div>
 
     <template id="card-tpl">
-      <article class="card">
-        <a class="thumb-link">
+      <article class="card" role="listitem">
+        <a class="thumb-link" aria-label="상세 페이지">
           <img class="thumb" alt="thumbnail" loading="lazy" />
         </a>
         <div class="info">
-          <h2 class="title"></h2>
+          <h2 class="title"><a class="title-link"></a></h2>
           <div class="sub">
             <span class="dates"></span>
             <span class="dot">·</span>
@@ -84,7 +87,7 @@
             <span class="badge status"></span>
           </div>
           <div class="actions">
-            <button class="btn quick" type="button">퀵뷰</button>
+            <button class="btn quick" type="button" aria-haspopup="dialog">퀵뷰</button>
           </div>
         </div>
       </article>

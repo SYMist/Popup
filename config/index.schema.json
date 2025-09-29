@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/popup-index.schema.json",
+  "title": "Popup Index Array",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id"],
+    "properties": {
+      "id": { "type": "string", "minLength": 1 },
+      "title": { "type": ["string", "null"] },
+      "start": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+      "end": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+      "city": { "type": ["string", "null"] },
+      "lat": { "type": ["number", "null"] },
+      "lon": { "type": ["number", "null"] },
+      "category": { "type": ["string", "null"] },
+      "isPopup": { "type": ["boolean", "null"] },
+      "thumb": { "type": ["string", "null"] },
+      "sourceUrl": { "type": ["string", "null"] }
+    },
+    "additionalProperties": true
+  }
+}
+

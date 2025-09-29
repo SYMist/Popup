@@ -6,6 +6,8 @@
   const $error = qs('#error');
   const $loading = qs('#loading');
   const $loadMore = qs('#load-more');
+  const $toggleFilters = qs('#toggle-filters');
+  const $controls = qs('#controls');
   const $fIsPopup = qs('#f-isPopup');
   const $fStatus = qs('#f-status');
   const $fCity = qs('#f-city');
@@ -107,6 +109,7 @@
       const $a = qs('.thumb-link', node);
       const $img = qs('img.thumb', node);
       const $title = qs('.title', node);
+      const $titleLink = qs('.title-link', node);
       const $dates = qs('.dates', node);
       const $city = qs('.city', node);
       const $cat = qs('.badge.cat', node);
@@ -114,10 +117,20 @@
       const $status = qs('.badge.status', node);
       const $quick = qs('.btn.quick', node);
 
-      $a.href = `p/${e.id}.html`;
+      const href = `p/${e.id}.html`;
+      $a.href = href;
+      $a.setAttribute('aria-label', (e.title ? `${e.title} 상세 페이지` : '상세 페이지'));
+      $a.title = e.title || '';
       $img.src = e.thumb || '';
-      $img.alt = e.title || 'thumbnail';
-      $title.textContent = e.title || '(제목 없음)';
+      $img.alt = e.title ? `${e.title} 대표 이미지` : '대표 이미지';
+      const titleText = e.title || '(제목 없음)';
+      if ($titleLink) {
+        $titleLink.textContent = titleText;
+        $titleLink.href = href;
+        $titleLink.title = titleText;
+      } else {
+        $title.textContent = titleText;
+      }
       const ds = e.start || '?';
       const de = e.end || '?';
       $dates.textContent = `${ds} ~ ${de}`;
@@ -348,4 +361,37 @@
 
   document.addEventListener('DOMContentLoaded', loadData);
   if ($loadMore) $loadMore.addEventListener('click', () => loadNextBatch(BATCH_MONTHS));
+
+  // Filters responsive toggle
+  function setFiltersCollapsed(collapsed) {
+    if (!$controls || !$toggleFilters) return;
+    if (collapsed) {
+      $controls.classList.add('collapsed');
+      $toggleFilters.setAttribute('aria-expanded', 'false');
+      $toggleFilters.textContent = '필터 펼치기';
+    } else {
+      $controls.classList.remove('collapsed');
+      $toggleFilters.setAttribute('aria-expanded', 'true');
+      $toggleFilters.textContent = '필터 접기';
+    }
+  }
+  if ($toggleFilters) {
+    $toggleFilters.style.display = 'none';
+    const mq = window.matchMedia('(max-width: 720px)');
+    const apply = () => {
+      if (mq.matches) {
+        $toggleFilters.style.display = 'inline-block';
+        setFiltersCollapsed(true);
+      } else {
+        $toggleFilters.style.display = 'none';
+        setFiltersCollapsed(false);
+      }
+    };
+    if (mq.addEventListener) mq.addEventListener('change', apply); else mq.addListener(apply);
+    apply();
+    $toggleFilters.addEventListener('click', () => {
+      const isCollapsed = $controls.classList.contains('collapsed');
+      setFiltersCollapsed(!isCollapsed);
+    });
+  }
 })();
