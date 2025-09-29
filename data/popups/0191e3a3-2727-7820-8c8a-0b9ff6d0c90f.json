@@ -37,12 +37,12 @@
       "category": "POP-UP",
       "durationDays": 13,
       "keywordHits": [
-        "pop-up",
-        "pop-up store"
+        "pop-up store",
+        "pop-up"
       ],
       "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-28T19:17:56.351489",
+    "fetchedAt": "2025-09-29T13:58:41.328578",
     "images": {
       "gallery": 1,
       "representativeRole": "head",
