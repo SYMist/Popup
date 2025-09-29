@@ -3,6 +3,30 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-29
+
+- 웹 뷰어 로딩/에러 UX 강화 및 성능 개선
+  - 로딩 스피너/네트워크 에러 배너 추가: `web/index.html` 마크업, `web/styles.css` 스타일, `web/app.js` 토글/메시지 처리.
+  - 월별 샤딩 + 지연 로딩: 매니페스트(`index-manifest.json`) 모드에서 초기 3개월만 로드, "이전 월 더 보기"로 3개월씩 추가.
+  - `unknown` 샤드 마지막 로드, 상단 메타에 `로드된 개월/전체 개월` 표기.
+  - 워크플로 인덱스 빌드에 `--shard monthly` 적용: `.github/workflows/crawl-popups.yml` 수정.
+- 접근성/반응형 개선
+  - 스킵 링크, 포커스 링, 리스트/아이템 역할(role), 대체텍스트/aria 라벨, 모바일 필터 토글(접힘/펼침) 도입.
+  - 카드에 제목 링크 추가, 퀵뷰 버튼에 `aria-haspopup="dialog"` 지정.
+- 상세 모달(퀵뷰) 추가
+  - 카드의 “퀵뷰”로 `web/p/{id}.html`을 iframe으로 미리보기, ESC/배경/버튼으로 닫기, 포커스 복귀.
+- 인덱스 검증 품질 스크립트 추가
+  - `config/index.schema.json` 스키마와 `scripts/validate_index.py` 도입. monthly/single 모두 검증 지원.
+- TODO 갱신 및 검증
+  - 퍼포먼스(샤딩+지연 로딩), 에러 UI, 정적 뷰어 스캐폴드/상세 모달, 접근성/검증 스크립트 항목 체크 완료.
+  - 사용자 검증: 워크플로 실행 결과 `mode=monthly`, manifest 200 OK, 초기 3개월만 네트워크 요청, 더 보기 동작, 필터/검색/상세 정상. 마지막 2개(unknown 처리/에러 UI)도 확인 완료.
+- 커밋/푸시
+  - viewer(web): loading spinner & error UI; monthly sharding + lazy loading
+  - a11y+responsive: skip link, focus rings, title links, alt/aria labels, mobile filter toggle; role=list/listitem
+  - quality: add index schema and validator script
+  - workflow: force monthly shard in index build
+  - docs: update TODO checklist / post-deploy checks
+
 ## 2025-09-27
 
 - 뷰어 경로 보강/버그 수정 및 배포 확인
