@@ -57,7 +57,7 @@
 - [x] 커스텀 도메인 연결(`popup.deluxo.co.kr`) 및 `web/CNAME` 고정
 - [x] AdSense `ads.txt` 공개(`web/ads.txt` → `/ads.txt`)
 - [x] AdSense Auto ads 스니펫 주입(`web/index.html`, `scripts/build_pages.py`)
-- [ ] Privacy Policy 페이지 추가(`web/privacy.html`) 및 푸터 링크
+- [x] Privacy Policy 페이지 추가(`web/privacy.html`) 및 푸터 링크
 - [ ] robots.txt/sitemap 생성 및 Pages 배포 포함
 
 ## 배포 이슈(데이터 로딩)
