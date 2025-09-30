@@ -88,3 +88,11 @@
 - 요약 수치(Modified 과다) 완화: `scripts/storage.py` 저장 시 `meta.fetchedAt` 무시 비교 도입 → 의미 없는 파일 재저장 방지.
 - 배포/도메인: Pages 배포 성공, 커스텀 도메인 연결 완료. HTTPS 인증서는 발급 진행 중(접속은 정상).
 - 수익화: `/ads.txt` 노출 및 Auto ads 삽입 완료.
+
+## 내일 작업(자동화: vibe-kanban)
+- [ ] 카드 → 브랜치/PR 자동화 설계(네이밍 규칙 `vk/{cardId}-{slug}`)
+- [ ] PR 템플릿/체크리스트: TODO 반영 항목 자동 포함
+- [ ] 워크플로: 카드 상태 Done 시 `docs/TODO.md` 체크 및 `docs/Chat-Log.md` 업데이트 자동 커밋
+- [ ] 워크플로: PR 머지 후 Pages 배포 완료 여부 확인하고 결과 코멘트/서머리 남기기
+- [ ] 권한/보안: GitHub App/PAT 최소 권한 구성, 보호 브랜치 정책 점검
+- [ ] 로그/리포트: 실행 결과를 Actions Summary와 PR 코멘트로 보고

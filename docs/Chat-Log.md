@@ -3,6 +3,18 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-09-30
+
+- 동기화/검증
+  - `git pull --rebase --autostash`로 원격과 동기화. 커밋 `93a7437 docs: check off privacy policy` 반영 확인.
+  - Privacy Policy 페이지 추가 확인: `web/privacy.html` 존재, 인덱스 푸터(`web/index.html`)와 상세 페이지 템플릿(`scripts/build_pages.py`)에 링크 포함.
+  - TODO 갱신 확인: `docs/TODO.md`에서 Privacy Policy 항목 체크 처리.
+- 내일 작업(예정): vibe‑kanban 기반 자동화 프로세스 설계/구현
+  - 카드 → 브랜치/PR 자동화(네이밍 `vk/{cardId}-{slug}`), PR 템플릿에 TODO 체크리스트 포함.
+  - 카드 상태 Done 시 TODO 체크/Chat-Log 자동 갱신 커밋 워크플로.
+  - PR 머지 후 Pages 배포 확인 및 결과 서머리/코멘트 남기기.
+  - 권한 최소화 및 보호 브랜치 정책 점검, 실행 로그/리포트 정리.
+
 ## 2025-09-29
 
 - 웹 뷰어 로딩/에러 UX 강화 및 성능 개선
