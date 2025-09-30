@@ -37,12 +37,12 @@
       "category": "POP-UP",
       "durationDays": 59,
       "keywordHits": [
-        "ポップアップストア",
-        "ポップアップ"
+        "ポップアップ",
+        "ポップアップストア"
       ],
       "rule": "category|keyword|duration"
     },
-    "fetchedAt": "2025-09-30T13:42:44.054045",
+    "fetchedAt": "2025-09-30T14:48:00.554924",
     "images": {
       "gallery": 1,
       "representativeRole": "head",
