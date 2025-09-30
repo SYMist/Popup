@@ -228,6 +228,7 @@ def render_page(rec: Dict[str, Any]) -> str:
         </aside>
       </div>
     </div>
+    <footer class=\"site-footer\"><a href=\"../privacy.html\">Privacy Policy</a></footer>
   </body>
 </html>
 """
