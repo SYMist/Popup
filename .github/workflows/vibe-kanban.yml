@@ -139,7 +139,7 @@ jobs:
 
   preview-deploy:
     name: Preview build (artifact)
-    if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed'
+    if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed' && vars.VK_PREVIEW == '1'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

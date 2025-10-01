@@ -5,8 +5,8 @@
 ## 무엇이 자동으로 되나요
 - `vk/*` 브랜치를 푸시하면 PR이 자동 생성되고 `vk` 라벨이 붙습니다.
 - PR 본문에 브랜치/카드 정보와 TODO 체크리스트가 자동으로 들어갑니다.
-- PR에는 Pages 프리뷰가 자동 배포되어 변경사항을 바로 확인할 수 있습니다.
 - PR을 머지하면 `docs/Chat-Log.md`에 기록이 추가되고, PR 본문에서 체크한 TODO 항목이 `docs/TODO.md`에 자동 반영됩니다.
+- PR 프리뷰 배포는 기본 비활성화이며, 로컬 확인을 기본으로 합니다(원할 때만 `VK_PREVIEW=1`로 활성화).
 
 ## 사전 준비(중요)
 - GitHub/Vibe‑kanban 로그인 계정: 작업용 계정으로 로그인하세요. 현재는 `mmist0226@gmail.com` 사용 권장.
@@ -19,7 +19,7 @@
    - `git checkout -b vk/{cardId}-{slug}`
    - `git push -u origin HEAD`
 2) vibe‑kanban에서 티켓 열기 → “Link/Change branch”로 지금 브랜치 연결
-3) GitHub PR 자동 생성 확인 → PR 프리뷰 링크로 결과 확인
+3) 로컬에서 결과 확인(아래 절차 참고)
 4) PR 본문 TODO 체크 표시 → 머지
 5) 프로덕션 배포 확인(필요 시 Actions → “Crawl Triple Popups” 실행) → 카드 Done
 
@@ -33,8 +33,8 @@
 7 (사용자) 푸시: `git push -u origin HEAD`
 8 (자동화) PR 자동 생성 및 ‘vk’ 라벨 부착
 9 (자동화) PR 본문에 VK Context/TODO 체크리스트 자동 주입
-10 (자동화) Pages 프리뷰 배포 실행
-11 (사용자) 프리뷰 확인 및 피드백 반영 커밋/푸시 반복
+10 (생략) PR 프리뷰는 기본 사용하지 않음(로컬 확인으로 대체)
+11 (사용자) 로컬 확인 결과에 따라 커밋/푸시 반복
 12 (사용자) PR 머지
 13 (자동화) Chat-Log에 기록 추가 + `docs/TODO.md` 체크 동기화
 14 (사용자) 프로덕션 배포 확인(필요 시 Actions → “Crawl Triple Popups” 수동 실행)
@@ -49,13 +49,16 @@
 
 ## 브랜치/PR 다루기
 - 브랜치 생성: `git checkout -b vk/{cardId}-{slug}`
-- 브랜치 푸시: `git push -u origin HEAD` (→ 자동으로 PR 생성/라벨/프리뷰)
+- 브랜치 푸시: `git push -u origin HEAD` (→ 자동으로 PR 생성/라벨)
 - 브랜치 연결: 티켓에서 “Link/Change branch”로 방금 푸시한 브랜치 선택
 
-## 검증(선택)
-- 로컬 페이지 생성: `python3 scripts/build_pages.py --out-dir web/p --site-origin https://popup.deluxo.co.kr --sitemap-out web/sitemap.xml --robots-out web/robots.txt`
-- 로컬 미리보기: `python3 -m http.server -d web 8080` → 브라우저에서 `http://localhost:8080`
-- 프로덕션 확인: `https://popup.deluxo.co.kr/sitemap.xml`, `/robots.txt`가 200 OK
+## 로컬 검증(기본)
+- 데이터/페이지 생성:
+  - `python3 scripts/build_index.py --output web/data/index.json --shard monthly`
+  - `python3 scripts/build_pages.py --out-dir web/p --site-origin https://popup.deluxo.co.kr --sitemap-out web/sitemap.xml --robots-out web/robots.txt`
+- 로컬 미리보기: `python3 -m http.server -d web 8080` → 브라우저 `http://localhost:8080`
+  - 예: `http://localhost:8080/sitemap.xml`, `http://localhost:8080/robots.txt`, `http://localhost:8080/p/{id}.html`
+- 프로덕션 확인(머지 후): `https://popup.deluxo.co.kr/sitemap.xml`, `/robots.txt`가 200 OK
 
 ## 문제 해결(FAQ)
 - PR이 안 보임: 브랜치를 ‘푸시’해야 자동 생성됩니다(이름은 반드시 `vk/`로 시작).
@@ -64,5 +67,7 @@
 - 브랜치 삭제가 안 됨(다른 worktree에 체크아웃):
   - `git worktree list` 확인 → `git worktree remove --force <경로>` → `git worktree prune` → `git branch -D <브랜치>`
 
-필요 시 이 문서에 팀 맞춤 예시(브랜치 네이밍, 카드 링크, 완료 기준)를 추가해 주세요.
+## 참고(옵션)
+- PR 프리뷰 잡은 기본 비활성화입니다. 필요 시 레포 Settings → Actions → Variables에 `VK_PREVIEW=1`을 추가하면, PR에 web 미리보기 아티팩트를 첨부하도록 동작합니다.
 
+필요 시 이 문서에 팀 맞춤 예시(브랜치 네이밍, 카드 링크, 완료 기준)를 추가해 주세요.
