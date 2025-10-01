@@ -138,7 +138,7 @@ jobs:
             await github.rest.pulls.update({ owner, repo, pull_number: number, body });
 
   preview-deploy:
-    name: Preview deploy (vk/* PR)
+    name: Preview build (artifact)
     if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
@@ -152,16 +152,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Build web index and pages (no crawl)
+      - name: Build web index and pages (with sitemap/robots)
         run: |
           set -e
           python scripts/build_index.py --output web/data/index.json --shard monthly || true
-          python scripts/build_pages.py --out-dir web/p || true
+          python scripts/build_pages.py --out-dir web/p \
+            --site-origin "https://popup.deluxo.co.kr" \
+            --sitemap-out web/sitemap.xml \
+            --robots-out web/robots.txt || true
 
       - name: Upload preview artifact (web)
         uses: actions/upload-artifact@v4
