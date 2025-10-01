@@ -1,0 +1,247 @@
+name: Vibe Kanban
+
+on:
+  push:
+    branches:
+      - 'vk/**'
+  pull_request:
+    types: [opened, edited, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+  pages: write
+  id-token: write
+
+jobs:
+  open-or-update-pr:
+    name: Ensure PR for vk/*
+    if: startsWith(github.ref, 'refs/heads/vk/') && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create or update PR from vk/* to main
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branchRef = process.env.GITHUB_REF; // refs/heads/vk/...
+            const branch = branchRef.replace('refs/heads/', '');
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+
+            // Try to find existing open PR for this head
+            const prs = await github.rest.pulls.list({ owner, repo, state: 'open', head: `${owner}:${branch}` });
+            let pr = prs.data[0];
+
+            if (!pr) {
+              // Derive title from branch: vk/{cardId}-{slug...}
+              const short = branch.split('/').slice(1).join('/');
+              const title = `VK: ${short}`;
+
+              // Load PR template from repo
+              let body = '';
+              try {
+                const res = await github.rest.repos.getContent({ owner, repo, path: '.github/pull_request_template.md' });
+                const buff = Buffer.from(res.data.content, res.data.encoding);
+                body = buff.toString('utf8').replace('{{ branch }}', branch);
+              } catch (e) {
+                body = `Vibe-Kanban PR for branch ${branch}`;
+              }
+
+              const created = await github.rest.pulls.create({ owner, repo, base: 'main', head: branch, title, body, draft: false });
+              pr = created.data;
+            }
+
+            // Ensure 'vk' label exists and is applied
+            const labelName = 'vk';
+            async function ensureLabel() {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name: labelName });
+              } catch (err) {
+                if (err.status === 404) {
+                  await github.rest.issues.createLabel({ owner, repo, name: labelName, color: '0e8a16', description: 'vibe-kanban' });
+                } else { throw err; }
+              }
+            }
+            await ensureLabel();
+            await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels: [labelName] });
+
+  augment-pr-body:
+    name: Augment PR body with VK context
+    if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inject VK context and TODO checklist
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const branch = pr.head.ref;
+            const number = pr.number;
+
+            // Try to parse cardId from branch vk/{cardId}-{slug}
+            let cardId = null;
+            const m = branch.match(/^vk\/([^\/-]+)[\/-]?.*$/);
+            if (m) cardId = m[1];
+
+            // Load TODO section (optional)
+            let checklist = '';
+            try {
+              const res = await github.rest.repos.getContent({ owner, repo, path: 'docs/TODO.md' });
+              const text = Buffer.from(res.data.content, res.data.encoding).toString('utf8');
+              const lines = text.split(/\r?\n/);
+              // Find section header
+              const header = '## 내일 작업(자동화: vibe-kanban)';
+              let i = lines.findIndex(l => l.trim() === header);
+              if (i >= 0) {
+                i += 1;
+                const items = [];
+                for (; i < lines.length; i++) {
+                  const line = lines[i];
+                  if (line.startsWith('## ')) break;
+                  const m2 = line.match(/^\s*- \[ \] (.+)$/);
+                  if (m2) items.push(`- [ ] ${m2[1]}`);
+                }
+                if (items.length) {
+                  checklist = items.join('\n');
+                }
+              }
+            } catch (e) {
+              // ignore if TODO.md missing
+            }
+
+            const begin = '<!-- vk:begin -->';
+            const end = '<!-- vk:end -->';
+            const parts = [];
+            parts.push('### VK Context');
+            parts.push(`- Branch: \`${branch}\``);
+            if (cardId) {
+              const format = process.env.VK_CARD_URL_FORMAT || '';
+              if (format.includes('{id}')) {
+                const url = format.replace('{id}', cardId);
+                parts.push(`- Card: [${cardId}](${url})`);
+              } else {
+                parts.push(`- Card: ${cardId}`);
+              }
+            }
+            if (checklist) {
+              parts.push('\n### TODO Checklist');
+              parts.push(checklist);
+              parts.push('\n> Check items handled in this PR. On merge, docs/TODO.md will be updated to match checked items.');
+            }
+            const block = `${begin}\n${parts.join('\n')}\n${end}`;
+
+            let body = pr.body || '';
+            if (body.includes(begin) && body.includes(end)) {
+              body = body.replace(new RegExp(`${begin}[\s\S]*?${end}`), block);
+            } else {
+              body = body ? `${body}\n\n${block}` : block;
+            }
+
+            await github.rest.pulls.update({ owner, repo, pull_number: number, body });
+
+  preview-deploy:
+    name: Preview deploy (vk/* PR)
+    if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build web index and pages (no crawl)
+        run: |
+          set -e
+          python scripts/build_index.py --output web/data/index.json --shard monthly || true
+          python scripts/build_pages.py --out-dir web/p || true
+
+      - name: Upload Pages artifact (web/)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Deploy Pages preview
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  log-merge:
+    name: Log VK merge to Chat-Log
+    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true && startsWith(github.head_ref, 'vk/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update TODO.md from checked items in PR body
+        run: |
+          printf '%s\n' "${{ github.event.pull_request.body }}" > pr_body.txt
+          python - << 'PY'
+          import re, sys
+          from pathlib import Path
+          body = Path('pr_body.txt').read_text(encoding='utf-8')
+          checked = []
+          for line in body.splitlines():
+            m = re.match(r"\s*- \[x\] (.+)", line, re.I)
+            if m:
+              checked.append(m.group(1).strip())
+          if not checked:
+            sys.exit(0)
+          p = Path('docs/TODO.md')
+          if not p.exists():
+            sys.exit(0)
+          text = p.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          def toggle(line: str):
+            m = re.match(r"(\s*- )\[ \] (.+)$", line)
+            if not m:
+              return line
+            prefix, item = m.groups()
+            if item.strip() in checked:
+              return f"{prefix}[x] {item}"
+            return line
+          lines = [toggle(ln) for ln in lines]
+          new = "\n".join(lines) + "\n"
+          if new != text:
+            p.write_text(new, encoding='utf-8')
+          PY
+
+      - name: Update Chat-Log.md
+        run: |
+          python scripts/update_chat_log.py \
+            --pr-number "${{ github.event.pull_request.number }}" \
+            --branch "${{ github.event.pull_request.head.ref }}" \
+            --title "${{ github.event.pull_request.title }}" \
+            --url "${{ github.event.pull_request.html_url }}"
+
+      - name: Commit Chat-Log update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: |
+            docs: VK merge log and TODO sync for ${{ github.event.pull_request.head.ref }} (PR #${{ github.event.pull_request.number }})
+          file_pattern: |
+            docs/Chat-Log.md
+            docs/TODO.md
+          branch: main
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
