@@ -176,6 +176,23 @@ jobs:
       - name: Deploy Pages preview
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Add preview link to job summary
+        run: |
+          echo "### Preview Deployment" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- URL: ${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
+      - name: Comment preview link on PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const url = process.env.PREVIEW_URL;
+            const pr = context.payload.pull_request;
+            if (!pr || !url) return;
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const body = `Preview deployed: ${url}`;
+            await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
+        env:
+          PREVIEW_URL: ${{ steps.deployment.outputs.page_url }}
 
   log-merge:
     name: Log VK merge to Chat-Log
