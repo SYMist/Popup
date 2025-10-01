@@ -10,8 +10,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  pages: write
-  id-token: write
 
 jobs:
   open-or-update-pr:
@@ -165,34 +163,28 @@ jobs:
           python scripts/build_index.py --output web/data/index.json --shard monthly || true
           python scripts/build_pages.py --out-dir web/p || true
 
-      - name: Upload Pages artifact (web/)
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload preview artifact (web)
+        uses: actions/upload-artifact@v4
         with:
+          name: web-preview
           path: web
+          retention-days: 7
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Deploy Pages preview
-        id: deployment
-        uses: actions/deploy-pages@v4
-      - name: Add preview link to job summary
-        run: |
-          echo "### Preview Deployment" >> "$GITHUB_STEP_SUMMARY"
-          echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "- URL: ${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
-      - name: Comment preview link on PR
+      - name: Comment preview instructions on PR
         uses: actions/github-script@v7
         with:
           script: |
-            const url = process.env.PREVIEW_URL;
+            const runUrl = `${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`;
             const pr = context.payload.pull_request;
-            if (!pr || !url) return;
+            if (!pr) return;
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
-            const body = `Preview deployed: ${url}`;
+            const body = [
+              `Preview artifact uploaded (web-preview).`,
+              `Download from: ${runUrl} (Artifacts section)`,
+              `Then unzip and serve locally:`,
+              '`python3 -m http.server -d web 8080` and open http://localhost:8080`
+            ].join('\n');
             await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
-        env:
-          PREVIEW_URL: ${{ steps.deployment.outputs.page_url }}
 
   log-merge:
     name: Log VK merge to Chat-Log
