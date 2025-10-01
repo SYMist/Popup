@@ -41,7 +41,10 @@ jobs:
       - name: Build web index and pages
         run: |
           python scripts/build_index.py --output web/data/index.json --shard monthly
-          python scripts/build_pages.py --out-dir web/p
+          python scripts/build_pages.py --out-dir web/p \
+            --site-origin "https://popup.deluxo.co.kr" \
+            --sitemap-out web/sitemap.xml \
+            --robots-out web/robots.txt
 
       - name: Sync with remote main (rebase)
         run: |
@@ -69,6 +72,8 @@ jobs:
             data/**/*.json
             web/data/*.json
             web/p/*.html
+            web/robots.txt
+            web/sitemap.xml
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           branch: main

@@ -3,7 +3,8 @@ import argparse
 import html
 import json
 from pathlib import Path
-from typing import Any, Dict, Iterable, Optional
+from typing import Any, Dict, Iterable, Optional, Tuple
+import datetime as dt
 
 
 TITLE_ORDER = ["ko", "en", "ja", "zh-cn"]
@@ -57,11 +58,11 @@ def _pick_source_url(rec: Dict[str, Any]) -> Optional[str]:
     return None
 
 
-def load_records(input_dir: Path) -> Iterable[Dict[str, Any]]:
+def load_records(input_dir: Path) -> Iterable[Tuple[Dict[str, Any], Path]]:
     for p in sorted(input_dir.glob("*.json")):
         try:
             rec = json.loads(p.read_text(encoding="utf-8"))
-            yield rec
+            yield rec, p
         except Exception:
             continue
 
@@ -84,7 +85,7 @@ STYLES = """
 """
 
 
-def render_page(rec: Dict[str, Any]) -> str:
+def render_page(rec: Dict[str, Any], site_origin: str) -> str:
     rid = rec.get("id") or ""
     title = _pick_title(rec) or "(제목 없음)"
     address = rec.get("address") or {}
@@ -186,7 +187,7 @@ def render_page(rec: Dict[str, Any]) -> str:
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
     <title>{escape(title)} | Pop-up Finder</title>
     <meta name=\"description\" content=\"{escape(desc)}\" />
-    <link rel=\"canonical\" href=\"{SITE_ORIGIN}/p/{escape(rid)}.html\" />
+    <link rel=\"canonical\" href=\"{site_origin}/p/{escape(rid)}.html\" />
     {ads_meta}
     {ads_script}
     <meta property=\"og:title\" content=\"{escape(title)}\" />
@@ -235,24 +236,82 @@ def render_page(rec: Dict[str, Any]) -> str:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Build static HTML detail pages for each record")
+    ap = argparse.ArgumentParser(description="Build static HTML detail pages and optional sitemap/robots")
     ap.add_argument("--input-dir", type=str, default=str(Path("data")/"popups"))
     ap.add_argument("--out-dir", type=str, default=str(Path("web")/"p"))
+    ap.add_argument("--site-origin", type=str, default=SITE_ORIGIN, help="Site origin for canonical URLs and sitemap locs")
+    ap.add_argument("--sitemap-out", type=str, default=None, help="Path to write sitemap.xml (optional)")
+    ap.add_argument("--robots-out", type=str, default=None, help="Path to write robots.txt (optional)")
     args = ap.parse_args()
 
     src = Path(args.input_dir)
     out = Path(args.out_dir)
     out.mkdir(parents=True, exist_ok=True)
 
+    # Collect for pages and optional sitemap
     total = 0
-    for rec in load_records(src):
+    url_items: list[tuple[str, str]] = []  # (loc, lastmod)
+
+    def _pick_lastmod(rec: Dict[str, Any], src_path: Path) -> str:
+        meta = (rec.get("meta") or {}) if isinstance(rec, dict) else {}
+        # Prefer explicit timestamps if available
+        for k in ("lastModified", "lastChanged", "updatedAt", "modifiedAt", "fetchedAt"):
+            v = meta.get(k)
+            if isinstance(v, str) and v.strip():
+                # Normalize: if date only, add T00:00:00Z; if ISO-like, keep
+                s = v.strip()
+                if len(s) == 10 and s[4] == '-' and s[7] == '-':
+                    return s + "T00:00:00Z"
+                return s
+        # Fallback to file mtime
+        ts = dt.datetime.fromtimestamp(src_path.stat().st_mtime, tz=dt.timezone.utc)
+        return ts.isoformat().replace('+00:00', 'Z')
+
+    for rec, src_path in load_records(src):
         rid = rec.get("id")
         if not rid:
             continue
-        html_text = render_page(rec)
+        html_text = render_page(rec, args.site_origin)
         (out / f"{rid}.html").write_text(html_text, encoding="utf-8")
         total += 1
+        # Collect for sitemap
+        loc = f"{args.site_origin}/p/{rid}.html"
+        lastmod = _pick_lastmod(rec, src_path)
+        url_items.append((loc, lastmod))
+
     print(f"Built pages: {total} -> {out}")
+
+    # Optional sitemap.xml
+    if args.sitemap_out:
+        sm_path = Path(args.sitemap_out)
+        sm_path.parent.mkdir(parents=True, exist_ok=True)
+        # Add index and privacy
+        now_iso = dt.datetime.now(dt.timezone.utc).isoformat().replace('+00:00', 'Z')
+        static_urls = [
+            (f"{args.site_origin}/", now_iso),
+            (f"{args.site_origin}/privacy.html", now_iso),
+        ]
+        all_urls = static_urls + url_items
+        parts = [
+            "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        ]
+        for loc, lm in all_urls:
+            parts.append("  <url>")
+            parts.append(f"    <loc>{html.escape(loc)}</loc>")
+            parts.append(f"    <lastmod>{html.escape(lm)}</lastmod>")
+            parts.append("  </url>")
+        parts.append("</urlset>\n")
+        sm_path.write_text("\n".join(parts), encoding="utf-8")
+        print(f"Wrote sitemap: {sm_path}")
+
+    # Optional robots.txt
+    if args.robots_out:
+        rb_path = Path(args.robots_out)
+        rb_path.parent.mkdir(parents=True, exist_ok=True)
+        rb = f"User-agent: *\nAllow: /\nSitemap: {args.site_origin}/sitemap.xml\n"
+        rb_path.write_text(rb, encoding="utf-8")
+        print(f"Wrote robots: {rb_path}")
     return 0
 
 
