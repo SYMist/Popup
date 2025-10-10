@@ -211,7 +211,7 @@ jobs:
           echo "# then open http://localhost:8080" >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Comment local preview instructions on PR
+      - name: Update PR body with local preview instructions
         if: ${{ vars.VK_PREVIEW != '1' }}
         uses: actions/github-script@v7
         with:
@@ -219,17 +219,27 @@ jobs:
             const { github, context, core } = require('@actions/github');
             const number = context.payload.pull_request.number;
             const runId = context.runId;
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-            const marker = '<!-- vk:local-preview -->';
-            const body = `${marker}\nLocal preview for this PR is not deployed.\n\nDownload artifact and serve locally:\n\n\`\`\`bash\ngh run download ${runId} -n github-pages -D web-preview\npython3 -m http.server -d web-preview 8080\n# open http://localhost:8080\n\`\`\`\n`;
-            // Avoid duplicate comments
-            const comments = await github.rest.issues.listComments({ owner, repo, issue_number: number, per_page: 100 });
-            if (!comments.data.some(c => (c.body||'').includes(marker))) {
-              await github.rest.issues.createComment({ owner, repo, issue_number: number, body });
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const begin = '<!-- vk:local-preview:begin -->';
+            const end = '<!-- vk:local-preview:end -->';
+            const lines = [];
+            lines.push('### Local Preview (no Pages deploy)');
+            lines.push('Download artifact from this workflow run and serve locally:');
+            lines.push('');
+            lines.push('```bash');
+            lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
+            lines.push('python3 -m http.server -d web-preview 8080');
+            lines.push('# open http://localhost:8080');
+            lines.push('```');
+            const block = `${begin}\n${lines.join('\n')}\n${end}`;
+            const pr = await github.rest.pulls.get({ owner, repo, pull_number: number });
+            let body = pr.data.body || '';
+            if (body.includes(begin) && body.includes(end)) {
+              body = body.replace(new RegExp(`${begin}[\\s\\S]*?${end}`), block);
             } else {
-              core.info('Local preview comment already exists.');
+              body = body ? `${body}\n\n${block}` : block;
             }
+            await github.rest.pulls.update({ owner, repo, pull_number: number, body });
 
       - name: Preview disabled notice
         if: ${{ vars.VK_PREVIEW != '1' }}
