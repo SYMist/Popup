@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - 'vk/**'
+  create: {}
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'vk/* branch to ensure PR for'
+        required: false
+        default: ''
   pull_request:
     types: [opened, edited, synchronize, reopened, closed]
 
@@ -16,15 +23,35 @@ permissions:
 jobs:
   open-or-update-pr:
     name: Ensure PR for vk/*
-    if: startsWith(github.ref, 'refs/heads/vk/') && github.event_name == 'push'
+    # Run when:
+    # - vk/* branch is pushed
+    # - a vk/* branch is created (even if no further push triggers)
+    # - manually dispatched with an explicit branch input
+    if: |
+      github.event_name == 'push' || github.event_name == 'create' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Create or update PR from vk/* to main
         uses: actions/github-script@v7
+        env:
+          BRANCH: ${{ github.event.inputs.branch }}
         with:
           script: |
-            const branchRef = process.env.GITHUB_REF; // refs/heads/vk/...
-            const branch = branchRef.replace('refs/heads/', '');
+            const { context, core, github } = require('@actions/github');
+            // Resolve branch depending on event
+            let branch = '';
+            if (context.eventName === 'push') {
+              branch = context.ref.replace('refs/heads/', '');
+            } else if (context.eventName === 'create' && context.payload.ref_type === 'branch') {
+              branch = context.payload.ref || '';
+            } else if (context.eventName === 'workflow_dispatch') {
+              branch = (process.env.BRANCH || '').trim();
+            }
+
+            if (!branch || !branch.startsWith('vk/')) {
+              core.info(`Skip: not a vk/* branch (resolved='${branch}')`);
+              return;
+            }
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
 
             // Try to find existing open PR for this head
