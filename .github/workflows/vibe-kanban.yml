@@ -197,17 +197,26 @@ jobs:
         with:
           path: web
 
+      - name: Preview disabled notice
+        if: ${{ vars.VK_PREVIEW != '1' }}
+        run: |
+          echo "### Preview disabled" >> "$GITHUB_STEP_SUMMARY"
+          echo "VK_PREVIEW repo variable is not '1'." >> "$GITHUB_STEP_SUMMARY"
+          echo "No PR deployment done to avoid overriding production." >> "$GITHUB_STEP_SUMMARY"
+
       - name: Configure Pages
+        if: ${{ vars.VK_PREVIEW == '1' }}
         uses: actions/configure-pages@v5
 
       - name: Deploy Pages preview
         id: deployment
+        if: ${{ vars.VK_PREVIEW == '1' }}
         uses: actions/deploy-pages@v4
         with:
           preview: true
 
       - name: Show preview URL
-        if: always()
+        if: ${{ vars.VK_PREVIEW == '1' }}
         run: |
           echo "### Preview URL" >> "$GITHUB_STEP_SUMMARY"
           echo "${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
