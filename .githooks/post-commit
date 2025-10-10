@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# Auto-push vk/* branches after commits to ensure PR creation
+branch=$(git symbolic-ref -q --short HEAD || true)
+[ -n "${branch}" ] || exit 0
+case "${branch}" in
+  vk/*) ;;  # allowed
+  *) exit 0;;
+esac
+# Allow opt-out via env or repo config
+if [ "${VK_AUTOPUSH_DISABLE:-}" = "1" ]; then
+  exit 0
+fi
+if git config --bool --get vibe.kanban.autopush.disabled 2>/dev/null | grep -qi true; then
+  exit 0
+fi
+# Require origin remote
+if ! git config --get remote.origin.url >/dev/null; then
+  exit 0
+fi
+# If upstream exists, push normally; else set upstream to origin/branch
+if git rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
+  git push || true
+else
+  git push -u origin "${branch}" || true
+fi
