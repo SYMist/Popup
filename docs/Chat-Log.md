@@ -3,6 +3,25 @@
 - 채팅/작업 로그 누적 기록. 최신 항목이 위에 오도록 유지.
 - 파일명은 `Chat-Log.md`로 고정.
 
+## 2025-10-10
+
+- 자동화/워크플로
+  - `vibe-kanban.yml` 보강: `vk/*` 브랜치 push/create/수동 실행(workflow_dispatch) 시 PR 자동 생성/갱신 보장.
+  - PR 본문 보강 유지: VK Context + TODO 체크리스트 주입.
+- 프리뷰/배포 안전장치
+  - PR 프리뷰 Pages 배포 기본 비활성화. 레포 변수 `VK_PREVIEW=1`일 때만 프리뷰 배포 수행.
+  - 비활성화 시 Summary와 PR 본문에 “Local Preview (artifact 다운로드 → 로컬 서버)” 안내 자동 삽입.
+  - 이전 테스트에서 PR 프리뷰가 실서비스를 덮은 이슈 재발 방지.
+- 자동 푸시(브랜치)
+  - `.githooks/post-commit` 추가: `vk/*` 브랜치에서 커밋 시 자동 `git push`(upstream 없으면 `-u origin <branch>`).
+  - `core.hooksPath`를 `.githooks`로 설정. 일부 툴이 post-commit을 우회할 수 있어, post-checkout 훅/로깅 보강은 추후 검토.
+- 운영
+  - 실서비스의 테스트 버튼 노출 건 해결: “Crawl Triple Popups” 워크플로(main) 수동 실행 → main 기준으로 Pages 재배포 완료.
+  - 테스트용 `vk/*` 로컬/원격 브랜치 및 worktree 정리(현재 main만 유지).
+- 다음 작업 제안
+  - post-checkout 훅(브랜치 생성 직후 1회 push) 및 훅 로깅 강화.
+  - (선택) main만 재배포하는 경량 워크플로 추가.
+
 ## 2025-09-30
 
 - 동기화/검증
