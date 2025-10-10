@@ -197,6 +197,40 @@ jobs:
         with:
           path: web
 
+      - name: Show local preview instructions (artifact download)
+        if: ${{ vars.VK_PREVIEW != '1' }}
+        env:
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          echo "### Local Preview (no Pages deploy)" >> "$GITHUB_STEP_SUMMARY"
+          echo "Run these commands locally to preview this PR build:" >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "python3 -m http.server -d web-preview 8080" >> "$GITHUB_STEP_SUMMARY"
+          echo "# then open http://localhost:8080" >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Comment local preview instructions on PR
+        if: ${{ vars.VK_PREVIEW != '1' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { github, context, core } = require('@actions/github');
+            const number = context.payload.pull_request.number;
+            const runId = context.runId;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const marker = '<!-- vk:local-preview -->';
+            const body = `${marker}\nLocal preview for this PR is not deployed.\n\nDownload artifact and serve locally:\n\n\`\`\`bash\ngh run download ${runId} -n github-pages -D web-preview\npython3 -m http.server -d web-preview 8080\n# open http://localhost:8080\n\`\`\`\n`;
+            // Avoid duplicate comments
+            const comments = await github.rest.issues.listComments({ owner, repo, issue_number: number, per_page: 100 });
+            if (!comments.data.some(c => (c.body||'').includes(marker))) {
+              await github.rest.issues.createComment({ owner, repo, issue_number: number, body });
+            } else {
+              core.info('Local preview comment already exists.');
+            }
+
       - name: Preview disabled notice
         if: ${{ vars.VK_PREVIEW != '1' }}
         run: |
