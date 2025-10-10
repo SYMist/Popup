@@ -18,6 +18,7 @@
   const $modalIframe = qs('#modal-iframe');
   const $modalTitle = qs('#modal-title');
   const $modalOpen = qs('#modal-open-page');
+  const $testButton = qs('#test-button');
 
   let DATA = [];
   let MANIFEST = null;
@@ -393,5 +394,10 @@
       const isCollapsed = $controls.classList.contains('collapsed');
       setFiltersCollapsed(!isCollapsed);
     });
+  }
+
+  // Test button alert
+  if ($testButton) {
+    $testButton.addEventListener('click', () => alert('test'));
   }
 })();
