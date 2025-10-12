@@ -36,12 +36,12 @@
     "detection": {
       "durationDays": 8,
       "keywordHits": [
-        "pop-up store",
-        "pop-up"
+        "pop-up",
+        "pop-up store"
       ],
       "rule": "keyword|duration"
     },
-    "fetchedAt": "2025-10-10T14:43:13.790514",
+    "fetchedAt": "2025-10-12T14:51:41.833792",
     "images": {
       "gallery": 1,
       "representativeRole": "head",
