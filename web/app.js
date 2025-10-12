@@ -394,4 +394,10 @@
       setFiltersCollapsed(!isCollapsed);
     });
   }
+
+  // Test button alert
+  const $testButton = document.getElementById('test-button');
+  if ($testButton) {
+    $testButton.addEventListener('click', () => alert('test'));
+  }
 })();
