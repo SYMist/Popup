@@ -8,6 +8,9 @@
 - VK Done: vk/4dc7-feat-web-add-tes merged via PR #9: VK: 4dc7-feat-web-add-tes
   - https://github.com/SYMist/Popup/pull/9
 
+- VK Done: vk/4dc7-feat-web-add-tes merged via PR #9: VK: 4dc7-feat-web-add-tes
+  - https://github.com/SYMist/Popup/pull/9
+
 ## 2025-10-10
 
 - 자동화/워크플로
