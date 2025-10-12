@@ -11,6 +11,10 @@ on:
         description: 'vk/* branch to ensure PR for'
         required: false
         default: ''
+      pr_number:
+        description: 'Manual: run post-merge log/update for this PR number'
+        required: false
+        default: ''
   pull_request:
     types: [opened, edited, synchronize, reopened, closed]
 
@@ -389,6 +393,87 @@ jobs:
         with:
           commit_message: |
             docs: VK merge log and TODO sync for ${{ github.event.pull_request.head.ref }} (PR #${{ github.event.pull_request.number }})
+          file_pattern: |
+            docs/Chat-Log.md
+            docs/TODO.md
+          branch: main
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+  manual-log-merge:
+    name: Manual log merge (dispatch)
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.pr_number != ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Fetch PR details
+        id: get_pr
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = parseInt(core.getInput('pr_number', { required: true }), 10);
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const pr = await github.rest.pulls.get({ owner, repo, pull_number: prNumber });
+            core.setOutput('body', pr.data.body || '');
+            core.setOutput('number', String(pr.data.number));
+            core.setOutput('branch', pr.data.head.ref);
+            core.setOutput('title', pr.data.title || '');
+            core.setOutput('url', pr.data.html_url || '');
+
+      - name: Update TODO.md from checked items in PR body (manual)
+        run: |
+          # Safely write PR body to file
+          cat > pr_body.txt <<'PRBODY'
+          ${{ steps.get_pr.outputs.body }}
+          PRBODY
+          python - << 'PY'
+          import re, sys
+          from pathlib import Path
+          body = Path('pr_body.txt').read_text(encoding='utf-8')
+          checked = []
+          for line in body.splitlines():
+            m = re.match(r"\s*- \[x\] (.+)", line, re.I)
+            if m:
+              checked.append(m.group(1).strip())
+          if not checked:
+            sys.exit(0)
+          p = Path('docs/TODO.md')
+          if not p.exists():
+            sys.exit(0)
+          text = p.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          def toggle(line: str):
+            m = re.match(r"(\s*- )\[ \] (.+)$", line)
+            if not m:
+              return line
+            prefix, item = m.groups()
+            if item.strip() in checked:
+              return f"{prefix}[x] {item}"
+            return line
+          lines = [toggle(ln) for ln in lines]
+          new = "\n".join(lines) + "\n"
+          if new != text:
+            p.write_text(new, encoding='utf-8')
+          PY
+
+      - name: Update Chat-Log.md (manual)
+        run: |
+          python scripts/update_chat_log.py \
+            --pr-number "${{ steps.get_pr.outputs.number }}" \
+            --branch "${{ steps.get_pr.outputs.branch }}" \
+            --title "${{ steps.get_pr.outputs.title }}" \
+            --url "${{ steps.get_pr.outputs.url }}"
+
+      - name: Commit Chat-Log update (manual)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: |
+            docs: VK merge log and TODO sync (manual) for PR #${{ steps.get_pr.outputs.number }}
           file_pattern: |
             docs/Chat-Log.md
             docs/TODO.md
