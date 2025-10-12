@@ -354,27 +354,53 @@ jobs:
           import re, sys
           from pathlib import Path
           body = Path('pr_body.txt').read_text(encoding='utf-8')
-          checked = []
+          # PR 본문에서 체크된 항목 수집
+          checked_raw = []
           for line in body.splitlines():
             m = re.match(r"\s*- \[x\] (.+)", line, re.I)
             if m:
-              checked.append(m.group(1).strip())
-          if not checked:
+              checked_raw.append(m.group(1).strip())
+          if not checked_raw:
             sys.exit(0)
+          # 정규화: 백틱/공백/화살표/하이픈/스마트따옴표 통일
+          def norm(s: str) -> str:
+            s = s.strip()
+            s = s.replace('`','')
+            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '"', s)
+            s = re.sub(r'[–—−]', '-', s)
+            s = s.replace('→', '->')
+            s = re.sub(r'\s+', ' ', s)
+            return s
+          checked = { norm(x) for x in checked_raw }
           p = Path('docs/TODO.md')
           if not p.exists():
             sys.exit(0)
           text = p.read_text(encoding='utf-8')
           lines = text.splitlines()
-          def toggle(line: str):
+          # 대상 섹션 범위 한정
+          header = '## 내일 작업(자동화: vibe-kanban)'
+          try:
+            start = lines.index(header)
+          except ValueError:
+            start = -1
+          end = len(lines)
+          if start >= 0:
+            for i in range(start+1, len(lines)):
+              if lines[i].startswith('## '):
+                end = i
+                break
+          def toggle(line: str) -> str:
             m = re.match(r"(\s*- )\[ \] (.+)$", line)
             if not m:
               return line
             prefix, item = m.groups()
-            if item.strip() in checked:
+            if norm(item) in checked:
               return f"{prefix}[x] {item}"
             return line
-          lines = [toggle(ln) for ln in lines]
+          if start >= 0:
+            lines[start+1:end] = [toggle(ln) for ln in lines[start+1:end]]
+          else:
+            lines = [toggle(ln) for ln in lines]
           new = "\n".join(lines) + "\n"
           if new != text:
             p.write_text(new, encoding='utf-8')
@@ -440,27 +466,50 @@ jobs:
           import re, sys
           from pathlib import Path
           body = Path('pr_body.txt').read_text(encoding='utf-8')
-          checked = []
+          checked_raw = []
           for line in body.splitlines():
             m = re.match(r"\s*- \[x\] (.+)", line, re.I)
             if m:
-              checked.append(m.group(1).strip())
-          if not checked:
+              checked_raw.append(m.group(1).strip())
+          if not checked_raw:
             sys.exit(0)
+          def norm(s: str) -> str:
+            s = s.strip()
+            s = s.replace('`','')
+            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '"', s)
+            s = re.sub(r'[–—−]', '-', s)
+            s = s.replace('→', '->')
+            s = re.sub(r'\s+', ' ', s)
+            return s
+          checked = { norm(x) for x in checked_raw }
           p = Path('docs/TODO.md')
           if not p.exists():
             sys.exit(0)
           text = p.read_text(encoding='utf-8')
           lines = text.splitlines()
-          def toggle(line: str):
+          header = '## 내일 작업(자동화: vibe-kanban)'
+          try:
+            start = lines.index(header)
+          except ValueError:
+            start = -1
+          end = len(lines)
+          if start >= 0:
+            for i in range(start+1, len(lines)):
+              if lines[i].startswith('## '):
+                end = i
+                break
+          def toggle(line: str) -> str:
             m = re.match(r"(\s*- )\[ \] (.+)$", line)
             if not m:
               return line
             prefix, item = m.groups()
-            if item.strip() in checked:
+            if norm(item) in checked:
               return f"{prefix}[x] {item}"
             return line
-          lines = [toggle(ln) for ln in lines]
+          if start >= 0:
+            lines[start+1:end] = [toggle(ln) for ln in lines[start+1:end]]
+          else:
+            lines = [toggle(ln) for ln in lines]
           new = "\n".join(lines) + "\n"
           if new != text:
             p.write_text(new, encoding='utf-8')
