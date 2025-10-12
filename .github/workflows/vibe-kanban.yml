@@ -30,6 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create or update PR from vk/* to main
+        id: ensure_pr
         uses: actions/github-script@v7
         env:
           BRANCH: ${{ github.event.inputs.branch }}
@@ -47,6 +48,7 @@ jobs:
 
             if (!branch || !branch.startsWith('vk/')) {
               core.info(`Skip: not a vk/* branch (resolved='${branch}')`);
+              try { core.setOutput('pr_number', ''); core.setOutput('branch', branch || ''); } catch {}
               return;
             }
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
@@ -87,6 +89,88 @@ jobs:
             }
             await ensureLabel();
             await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels: [labelName] });
+
+            // Expose outputs for downstream steps in push runs
+            core.setOutput('pr_number', String(pr.number));
+            core.setOutput('branch', branch);
+            core.setOutput('owner', owner);
+            core.setOutput('repo', repo);
+
+      - name: Checkout (vk push)
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+
+      - name: Set up Python
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build web index and pages (push)
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        run: |
+          set -e
+          python scripts/build_index.py --output web/data/index.json --shard monthly || true
+          python scripts/build_pages.py --out-dir web/p || true
+
+      - name: Upload Pages artifact (web/) [push]
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Show local preview instructions (artifact download) [push]
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        env:
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          echo "### Local Preview (no Pages deploy)" >> "$GITHUB_STEP_SUMMARY"
+          echo "Run these commands locally to preview this PR build:" >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "python3 -m http.server -d web-preview 8080" >> "$GITHUB_STEP_SUMMARY"
+          echo "# then open http://localhost:8080" >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Update PR body with local preview instructions [push]
+        if: ${{ steps.ensure_pr.outputs.pr_number }}
+        uses: actions/github-script@v7
+        env:
+          PR_NUMBER: ${{ steps.ensure_pr.outputs.pr_number }}
+        with:
+          script: |
+            const number = parseInt(process.env.PR_NUMBER, 10);
+            const runId = context.runId;
+            const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const begin = '<!-- vk:local-preview:begin -->';
+            const end = '<!-- vk:local-preview:end -->';
+            const lines = [];
+            lines.push('### Local Preview (no Pages deploy)');
+            lines.push('Download artifact from this workflow run and serve locally:');
+            lines.push('');
+            lines.push('```bash');
+            lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
+            lines.push('python3 -m http.server -d web-preview 8080');
+            lines.push('# open http://localhost:8080');
+            lines.push('```');
+            const block = `${begin}\n${lines.join('\n')}\n${end}`;
+            const pr = await github.rest.pulls.get({ owner, repo, pull_number: number });
+            let body = pr.data.body || '';
+            if (body.includes(begin) && body.includes(end)) {
+              body = body.replace(new RegExp(`${begin}[\\s\\S]*?${end}`), block);
+            } else {
+              body = body ? `${body}\n\n${block}` : block;
+            }
+            await github.rest.pulls.update({ owner, repo, pull_number: number, body });
 
   augment-pr-body:
     name: Augment PR body with VK context
