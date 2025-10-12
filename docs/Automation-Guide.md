@@ -1,72 +1,73 @@
-# Vibe‑Kanban 자동화 가이드
+# Automation Guide (Vibe‑Kanban, macOS)
 
-이 문서는 POPUP 레포에서 카드(티켓) 단위로 작업할 때 필요한 최소 절차와 자동화 동작을 간단히 설명합니다. 비개발자도 그대로 따라 할 수 있게 구성했습니다.
+본 문서는 macOS 환경에서 Vibe‑Kanban(이하 VK) 자동화 흐름과 PR 로컬 미리보기 방법을 간단히 정리합니다.
 
-## 무엇이 자동으로 되나요
-- `vk/*` 브랜치를 푸시하면 PR이 자동 생성되고 `vk` 라벨이 붙습니다.
-- PR 본문에 브랜치/카드 정보와 TODO 체크리스트가 자동으로 들어갑니다.
-- PR을 머지하면 `docs/Chat-Log.md`에 기록이 추가되고, PR 본문에서 체크한 TODO 항목이 `docs/TODO.md`에 자동 반영됩니다.
-- PR 프리뷰 배포는 기본 비활성화이며, 로컬 확인을 기본으로 합니다(원할 때만 `VK_PREVIEW=1`로 활성화).
+## VK 작업 흐름
+1) 티켓 생성 후 main 브랜치에서 description 작성
+2) 티켓을 In progress로 옮기고 ‘start’ 실행 → VK가 `vk/*` 브랜치를 만들고 작업 시작 (자동)
+3) 완료되면 VK가 PR을 생성/갱신 (자동)
+4) PR이 생성되면 워크플로우가 빌드 후 아티팩트를 업로드하고, PR 본문과 Step Summary에 로컬 미리보기 방법을 게시
 
-## 사전 준비(중요)
-- GitHub/Vibe‑kanban 로그인 계정: 작업용 계정으로 로그인하세요. 현재는 `mmist0226@gmail.com` 사용 권장.
-- GitHub Actions 권한: 레포 Settings → Actions → Workflow permissions = “Read and write”.
-- PR/브랜치 생성은 “로컬에서 푸시” 방식 권장(일부 환경에서 OAuth ‘Create PR’ 버튼은 권한 문제로 실패할 수 있음).
-- 선택(카드 링크 자동화): 레포 Actions Variables에 `VK_CARD_URL_FORMAT` = `https://your-vk.app/cards/{id}` 추가 시 PR 본문에 카드 링크 자동 생성.
+## 사전 준비 (macOS)
+- 터미널 사용: Terminal 또는 iTerm
+- Python 3 설치 확인: `python3 --version`
+- GitHub CLI 설치 및 로그인: `gh auth status` (필요시 `gh auth login`)
 
-## 빠른 시작(요약)
-1) 터미널에서 브랜치 생성/푸시
-   - `git checkout -b vk/{cardId}-{slug}`
-   - `git push -u origin HEAD`
-2) vibe‑kanban에서 티켓 열기 → “Link/Change branch”로 지금 브랜치 연결
-3) 로컬에서 결과 확인(아래 절차 참고)
-4) PR 본문 TODO 체크 표시 → 머지
-5) 프로덕션 배포 확인(필요 시 Actions → “Crawl Triple Popups” 실행) → 카드 Done
+## PR 로컬 미리보기 (권장)
+PR 페이지 본문에 “Local Preview (no Pages deploy)” 블록이 자동으로 추가됩니다. 해당 명령을 터미널에서 실행하세요.
 
-## 전체 플로우(사용자/자동화 구분)
-1 (사용자) vibe‑kanban에서 POPUP 저장소 선택
-2 (사용자) 카드 생성: 제목/설명/완료 기준 작성
-3 (사용자) 브랜치 생성: `vk/{cardId}-{slug}`
-4 (사용자) 로컬 업데이트 후 작업 브랜치 체크아웃
-5 (사용자) 구현/수정 진행, PR의 TODO 체크만 표시(문서 수기 체크 불필요)
-6 (사용자) 커밋 생성(메시지 자유, 권장: 카드 ID 포함)
-7 (사용자) 푸시: `git push -u origin HEAD`
-8 (자동화) PR 자동 생성 및 ‘vk’ 라벨 부착
-9 (자동화) PR 본문에 VK Context/TODO 체크리스트 자동 주입
-10 (생략) PR 프리뷰는 기본 사용하지 않음(로컬 확인으로 대체)
-11 (사용자) 로컬 확인 결과에 따라 커밋/푸시 반복
-12 (사용자) PR 머지
-13 (자동화) Chat-Log에 기록 추가 + `docs/TODO.md` 체크 동기화
-14 (사용자) 프로덕션 배포 확인(필요 시 Actions → “Crawl Triple Popups” 수동 실행)
-15 (사용자) 카드 상태 Done으로 이동
+1) 아티팩트 다운로드 및 폴더 준비
+```
+gh run download <run_id> -R <owner>/<repo> -n github-pages -D web-preview
+```
 
-## 티켓 작성 가이드(간단)
-- 제목: “feat(web): robots/sitemap + Pages deploy”처럼 짧고 명확하게 작성
-- 본문(짧은 예시):
-  - Goal: sitemap.xml/robots.txt 생성·배포
-  - Verify: Pages에서 /sitemap.xml, /robots.txt 200 OK
-  - Steps: 브랜치 푸시 → 로컬 확인 → 머지 → 배포 확인 → Done
+2) 로컬 서빙 시작
+```
+python3 -m http.server -d web-preview 8080
+# 또는 동일 동작:
+# python3 -m http.server 8080 --directory web-preview
+```
 
-## 브랜치/PR 다루기
-- 브랜치 생성: `git checkout -b vk/{cardId}-{slug}`
-- 브랜치 푸시: `git push -u origin HEAD` (→ 자동으로 PR 생성/라벨)
-- 브랜치 연결: 티켓에서 “Link/Change branch”로 방금 푸시한 브랜치 선택
+3) 브라우저 열기
+```
+open http://localhost:8080
+```
 
-## 로컬 검증(기본)
-- 데이터/페이지 생성:
-  - `python3 scripts/build_index.py --output web/data/index.json --shard monthly`
-  - `python3 scripts/build_pages.py --out-dir web/p --site-origin https://popup.deluxo.co.kr --sitemap-out web/sitemap.xml --robots-out web/robots.txt`
-- 로컬 미리보기: `python3 -m http.server -d web 8080` → 브라우저 `http://localhost:8080`
-  - 예: `http://localhost:8080/sitemap.xml`, `http://localhost:8080/robots.txt`, `http://localhost:8080/p/{id}.html`
-- 프로덕션 확인(머지 후): `https://popup.deluxo.co.kr/sitemap.xml`, `/robots.txt`가 200 OK
+참고
+- `<run_id>`, `<owner>/<repo>`는 PR 본문 스니펫에 실제 값으로 채워져 제공됩니다. 그대로 복사‑붙여넣기하면 됩니다.
+- GitHub CLI를 사용하지 않는 경우, PR → Checks → 해당 워크플로우 실행 → Artifacts에서 `github-pages`를 수동으로 다운로드한 뒤 압축을 풀고 폴더를 `web-preview`로 두면 2) 이후 단계만 실행하면 됩니다.
 
-## 문제 해결(FAQ)
-- PR이 안 보임: 브랜치를 ‘푸시’해야 자동 생성됩니다(이름은 반드시 `vk/`로 시작).
-- OAuth 오류(“workflow scope”): 버튼으로 PR 만들기 대신 로컬에서 푸시로 진행하세요.
-- 잘못된 계정으로 PR이 열림: PR 닫기 → 올바른 계정으로 로그인 → 브랜치 푸시 후 PR 수동 생성 또는 자동 생성 확인.
-- 브랜치 삭제가 안 됨(다른 worktree에 체크아웃):
-  - `git worktree list` 확인 → `git worktree remove --force <경로>` → `git worktree prune` → `git branch -D <브랜치>`
+## 아티팩트 없이 직접 빌드해서 확인 (대안)
+레포 루트에서 다음을 실행해 정적 리소스를 생성하고 바로 서빙할 수 있습니다.
 
-## 참고(옵션)
-- PR 프리뷰 잡은 기본 비활성화입니다. 필요 시 레포 Settings → Actions → Variables에 `VK_PREVIEW=1`을 추가하면, PR에 web 미리보기 아티팩트를 첨부하도록 동작합니다.
+1) 의존성 설치
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+2) 데이터/페이지 빌드
+```
+python scripts/build_index.py --output web/data/index.json --shard monthly
+python scripts/build_pages.py --out-dir web/p
+```
+
+3) 로컬 서빙
+```
+python3 -m http.server -d web 8080
+open http://localhost:8080
+```
+
+## 선택: 소량 크롤링으로 최신 데이터 반영
+빠른 스모크 테스트가 필요하면 일부만 크롤링한 후 위 빌드 과정을 반복하세요.
+```
+python scripts/crawl_popups.py --limit 30 --fast --workers 8 --qps 2.0
+```
+
+## 트러블슈팅
+- 포트 사용 중: `8080` 대신 `8081` 등 다른 포트 사용 (명령의 포트 숫자만 변경)
+- gh 인증 오류: `gh auth login`으로 GitHub 로그인 (권한 허용 필요)
+- 아티팩트가 안 보임: 워크플로우 실행이 완료되었는지 확인하고, Run의 Artifacts에 `github-pages`가 있는지 점검
+- 미리보기 초기화: `rm -rf web-preview`로 폴더 정리 후 다시 다운로드
 

@@ -17,8 +17,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  pages: write
-  id-token: write
 
 jobs:
   open-or-update-pr:
@@ -37,7 +35,6 @@ jobs:
           BRANCH: ${{ github.event.inputs.branch }}
         with:
           script: |
-            const { context, core, github } = require('@actions/github');
             // Resolve branch depending on event
             let branch = '';
             if (context.eventName === 'push') {
@@ -167,7 +164,7 @@ jobs:
             await github.rest.pulls.update({ owner, repo, pull_number: number, body });
 
   preview-deploy:
-    name: Preview deploy (vk/* PR)
+    name: Local preview (vk/* PR)
     if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'vk/') && github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
@@ -198,7 +195,6 @@ jobs:
           path: web
 
       - name: Show local preview instructions (artifact download)
-        if: ${{ vars.VK_PREVIEW != '1' }}
         env:
           RUN_ID: ${{ github.run_id }}
         run: |
@@ -212,11 +208,9 @@ jobs:
           echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
 
       - name: Update PR body with local preview instructions
-        if: ${{ vars.VK_PREVIEW != '1' }}
         uses: actions/github-script@v7
         with:
           script: |
-            const { github, context, core } = require('@actions/github');
             const number = context.payload.pull_request.number;
             const runId = context.runId;
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
@@ -240,30 +234,7 @@ jobs:
               body = body ? `${body}\n\n${block}` : block;
             }
             await github.rest.pulls.update({ owner, repo, pull_number: number, body });
-
-      - name: Preview disabled notice
-        if: ${{ vars.VK_PREVIEW != '1' }}
-        run: |
-          echo "### Preview disabled" >> "$GITHUB_STEP_SUMMARY"
-          echo "VK_PREVIEW repo variable is not '1'." >> "$GITHUB_STEP_SUMMARY"
-          echo "No PR deployment done to avoid overriding production." >> "$GITHUB_STEP_SUMMARY"
-
-      - name: Configure Pages
-        if: ${{ vars.VK_PREVIEW == '1' }}
-        uses: actions/configure-pages@v5
-
-      - name: Deploy Pages preview
-        id: deployment
-        if: ${{ vars.VK_PREVIEW == '1' }}
-        uses: actions/deploy-pages@v4
-        with:
-          preview: true
-
-      - name: Show preview URL
-        if: ${{ vars.VK_PREVIEW == '1' }}
-        run: |
-          echo "### Preview URL" >> "$GITHUB_STEP_SUMMARY"
-          echo "${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
+          
 
   log-merge:
     name: Log VK merge to Chat-Log
