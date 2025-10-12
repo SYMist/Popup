@@ -426,6 +426,8 @@ jobs:
             }
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
             const pr = await github.rest.pulls.get({ owner, repo, pull_number: prNumber });
+            const fs = require('fs');
+            fs.writeFileSync('pr_body.txt', pr.data.body || '', { encoding: 'utf-8' });
             core.setOutput('body', pr.data.body || '');
             core.setOutput('number', String(pr.data.number));
             core.setOutput('branch', pr.data.head.ref);
@@ -434,10 +436,6 @@ jobs:
 
       - name: Update TODO.md from checked items in PR body (manual)
         run: |
-          # Safely write PR body to file
-          cat > pr_body.txt <<'PRBODY'
-          ${{ steps.get_pr.outputs.body }}
-          PRBODY
           python - << 'PY'
           import re, sys
           from pathlib import Path
