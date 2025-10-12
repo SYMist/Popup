@@ -137,6 +137,7 @@ jobs:
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
           echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "tar -xf web-preview/artifact.tar -C web-preview" >> "$GITHUB_STEP_SUMMARY"
           echo "python3 -m http.server -d web-preview 8080" >> "$GITHUB_STEP_SUMMARY"
           echo "# then open http://localhost:8080" >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
@@ -159,6 +160,7 @@ jobs:
             lines.push('');
             lines.push('```bash');
             lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
+            lines.push('tar -xf web-preview/artifact.tar -C web-preview');
             lines.push('python3 -m http.server -d web-preview 8080');
             lines.push('# open http://localhost:8080');
             lines.push('```');
@@ -287,6 +289,7 @@ jobs:
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
           echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "tar -xf web-preview/artifact.tar -C web-preview" >> "$GITHUB_STEP_SUMMARY"
           echo "python3 -m http.server -d web-preview 8080" >> "$GITHUB_STEP_SUMMARY"
           echo "# then open http://localhost:8080" >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
@@ -306,6 +309,7 @@ jobs:
             lines.push('');
             lines.push('```bash');
             lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
+            lines.push('tar -xf web-preview/artifact.tar -C web-preview');
             lines.push('python3 -m http.server -d web-preview 8080');
             lines.push('# open http://localhost:8080');
             lines.push('```');
