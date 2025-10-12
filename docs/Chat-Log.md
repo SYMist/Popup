@@ -5,6 +5,9 @@
 
 ## 2025-10-12
 
+- VK Done: vk/4dc7-feat-web-add-tes merged via PR #10: VK: 4dc7-feat-web-add-tes
+  - https://github.com/SYMist/Popup/pull/10
+
 - VK Done: vk/4dc7-feat-web-add-tes merged via PR #9: VK: 4dc7-feat-web-add-tes
   - https://github.com/SYMist/Popup/pull/9
 
