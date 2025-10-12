@@ -342,7 +342,10 @@ jobs:
 
       - name: Update TODO.md from checked items in PR body
         run: |
-          printf '%s\n' "${{ github.event.pull_request.body }}" > pr_body.txt
+          # Safely write PR body without interpreting backticks or code blocks
+          cat > pr_body.txt <<'PRBODY'
+          ${{ github.event.pull_request.body }}
+          PRBODY
           python - << 'PY'
           import re, sys
           from pathlib import Path
