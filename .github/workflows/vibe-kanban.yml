@@ -360,13 +360,13 @@ jobs:
             m = re.match(r"\s*- \[x\] (.+)", line, re.I)
             if m:
               checked_raw.append(m.group(1).strip())
-          if not checked_raw:
-            sys.exit(0)
-          # 정규화: 백틱/공백/화살표/하이픈/스마트따옴표 통일
+          # 정규화: 백틱/공백/화살표/하이픈/스마트따옴표/ASCII 따옴표 통일
           def norm(s: str) -> str:
             s = s.strip()
             s = s.replace('`','')
-            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '"', s)
+            s = s.replace("'", '')
+            s = s.replace('"', '')
+            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '', s)
             s = re.sub(r'[–—−]', '-', s)
             s = s.replace('→', '->')
             s = re.sub(r'\s+', ' ', s)
@@ -389,12 +389,15 @@ jobs:
               if lines[i].startswith('## '):
                 end = i
                 break
+          toggled = 0
           def toggle(line: str) -> str:
+            nonlocal toggled
             m = re.match(r"(\s*- )\[ \] (.+)$", line)
             if not m:
               return line
             prefix, item = m.groups()
             if norm(item) in checked:
+              toggled += 1
               return f"{prefix}[x] {item}"
             return line
           if start >= 0:
@@ -402,9 +405,12 @@ jobs:
           else:
             lines = [toggle(ln) for ln in lines]
           new = "\n".join(lines) + "\n"
-          if new != text:
-            p.write_text(new, encoding='utf-8')
+          # 강제 쓰기: 매칭이 1개 이상이면 저장 시도
+          if toggled > 0:
+            Path('docs/TODO.md').write_text(new, encoding='utf-8')
           PY
+          echo '--- TODO diff (after toggle) ---'
+          git --no-pager diff -- docs/TODO.md || true
 
       - name: Update Chat-Log.md
         run: |
@@ -471,12 +477,12 @@ jobs:
             m = re.match(r"\s*- \[x\] (.+)", line, re.I)
             if m:
               checked_raw.append(m.group(1).strip())
-          if not checked_raw:
-            sys.exit(0)
           def norm(s: str) -> str:
             s = s.strip()
             s = s.replace('`','')
-            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '"', s)
+            s = s.replace("'", '')
+            s = s.replace('"', '')
+            s = re.sub(r'[\u2018\u2019\u201C\u201D]', '', s)
             s = re.sub(r'[–—−]', '-', s)
             s = s.replace('→', '->')
             s = re.sub(r'\s+', ' ', s)
@@ -498,12 +504,15 @@ jobs:
               if lines[i].startswith('## '):
                 end = i
                 break
+          toggled = 0
           def toggle(line: str) -> str:
+            nonlocal toggled
             m = re.match(r"(\s*- )\[ \] (.+)$", line)
             if not m:
               return line
             prefix, item = m.groups()
             if norm(item) in checked:
+              toggled += 1
               return f"{prefix}[x] {item}"
             return line
           if start >= 0:
@@ -511,9 +520,11 @@ jobs:
           else:
             lines = [toggle(ln) for ln in lines]
           new = "\n".join(lines) + "\n"
-          if new != text:
-            p.write_text(new, encoding='utf-8')
+          if toggled > 0:
+            Path('docs/TODO.md').write_text(new, encoding='utf-8')
           PY
+          echo '--- TODO diff (after toggle, manual) ---'
+          git --no-pager diff -- docs/TODO.md || true
 
       - name: Update Chat-Log.md (manual)
         run: |
