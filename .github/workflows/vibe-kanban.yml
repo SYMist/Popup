@@ -131,13 +131,21 @@ jobs:
         with:
           path: web
 
-      - name: Show local preview instructions (artifact download) [push]
+      - name: Show local + artifact preview instructions [push]
         if: ${{ steps.ensure_pr.outputs.pr_number }}
         env:
           RUN_ID: ${{ github.run_id }}
         run: |
-          echo "### Local Preview (no Pages deploy)" >> "$GITHUB_STEP_SUMMARY"
-          echo "Run these commands locally to preview this PR build:" >> "$GITHUB_STEP_SUMMARY"
+          echo "### Local Preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "Option A — Local checkout (fastest):" >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "# from repo root" >> "$GITHUB_STEP_SUMMARY"
+          echo "python3 -m http.server 8080" >> "$GITHUB_STEP_SUMMARY"
+          echo "# open http://localhost:8080/web/" >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo "Option B — Download PR artifact:" >> "$GITHUB_STEP_SUMMARY"
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
           echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
@@ -159,8 +167,16 @@ jobs:
             const begin = '<!-- vk:local-preview:begin -->';
             const end = '<!-- vk:local-preview:end -->';
             const lines = [];
-            lines.push('### Local Preview (no Pages deploy)');
-            lines.push('Download artifact from this workflow run and serve locally:');
+            lines.push('### Local Preview');
+            lines.push('Option A — Local checkout (fastest):');
+            lines.push('');
+            lines.push('```bash');
+            lines.push('# from repo root');
+            lines.push('python3 -m http.server 8080');
+            lines.push('# open http://localhost:8080/web/');
+            lines.push('```');
+            lines.push('');
+            lines.push('Option B — Download PR artifact:');
             lines.push('');
             lines.push('```bash');
             lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
@@ -284,12 +300,20 @@ jobs:
         with:
           path: web
 
-      - name: Show local preview instructions (artifact download)
+      - name: Show local + artifact preview instructions
         env:
           RUN_ID: ${{ github.run_id }}
         run: |
-          echo "### Local Preview (no Pages deploy)" >> "$GITHUB_STEP_SUMMARY"
-          echo "Run these commands locally to preview this PR build:" >> "$GITHUB_STEP_SUMMARY"
+          echo "### Local Preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "Option A — Local checkout (fastest):" >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "# from repo root" >> "$GITHUB_STEP_SUMMARY"
+          echo "python3 -m http.server 8080" >> "$GITHUB_STEP_SUMMARY"
+          echo "# open http://localhost:8080/web/" >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo "Option B — Download PR artifact:" >> "$GITHUB_STEP_SUMMARY"
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
           echo "gh run download ${RUN_ID} -n github-pages -D web-preview" >> "$GITHUB_STEP_SUMMARY"
@@ -308,8 +332,16 @@ jobs:
             const begin = '<!-- vk:local-preview:begin -->';
             const end = '<!-- vk:local-preview:end -->';
             const lines = [];
-            lines.push('### Local Preview (no Pages deploy)');
-            lines.push('Download artifact from this workflow run and serve locally:');
+            lines.push('### Local Preview');
+            lines.push('Option A — Local checkout (fastest):');
+            lines.push('');
+            lines.push('```bash');
+            lines.push('# from repo root');
+            lines.push('python3 -m http.server 8080');
+            lines.push('# open http://localhost:8080/web/');
+            lines.push('```');
+            lines.push('');
+            lines.push('Option B — Download PR artifact:');
             lines.push('');
             lines.push('```bash');
             lines.push(`gh run download ${runId} -R ${owner}/${repo} -n github-pages -D web-preview`);
