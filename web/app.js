@@ -18,7 +18,6 @@
   const $modalIframe = qs('#modal-iframe');
   const $modalTitle = qs('#modal-title');
   const $modalOpen = qs('#modal-open-page');
-  const $testBtn = qs('#test-button');
 
   let DATA = [];
   let MANIFEST = null;
@@ -363,12 +362,6 @@
   document.addEventListener('DOMContentLoaded', loadData);
   if ($loadMore) $loadMore.addEventListener('click', () => loadNextBatch(BATCH_MONTHS));
 
-  // Test button alert
-  if ($testBtn) {
-    $testBtn.addEventListener('click', () => {
-      alert('test');
-    });
-  }
 
   // Filters responsive toggle
   function setFiltersCollapsed(collapsed) {
