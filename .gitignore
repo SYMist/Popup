@@ -8,6 +8,7 @@ __pycache__/
 .state/
 .curl_cookies_triple
 docs/chat-log-*.md
+pr_body.txt
 
 # Data
 data/popups.sqlite
