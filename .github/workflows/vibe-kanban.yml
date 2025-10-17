@@ -135,11 +135,15 @@ jobs:
         if: ${{ steps.ensure_pr.outputs.pr_number }}
         env:
           RUN_ID: ${{ github.run_id }}
+          BRANCH: ${{ steps.ensure_pr.outputs.branch }}
         run: |
           echo "### Local Preview" >> "$GITHUB_STEP_SUMMARY"
           echo "Option A — Local checkout (fastest):" >> "$GITHUB_STEP_SUMMARY"
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "# checkout PR branch locally" >> "$GITHUB_STEP_SUMMARY"
+          echo "git fetch origin" >> "$GITHUB_STEP_SUMMARY"
+          echo "git switch -c ${BRANCH} --track origin/${BRANCH} 2>/dev/null || git switch ${BRANCH}" >> "$GITHUB_STEP_SUMMARY"
           echo "# from repo root" >> "$GITHUB_STEP_SUMMARY"
           echo "python3 -m http.server 8080" >> "$GITHUB_STEP_SUMMARY"
           echo "# open http://localhost:8080/web/" >> "$GITHUB_STEP_SUMMARY"
@@ -159,11 +163,13 @@ jobs:
         uses: actions/github-script@v7
         env:
           PR_NUMBER: ${{ steps.ensure_pr.outputs.pr_number }}
+          BRANCH: ${{ steps.ensure_pr.outputs.branch }}
         with:
           script: |
             const number = parseInt(process.env.PR_NUMBER, 10);
             const runId = context.runId;
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const branch = process.env.BRANCH || '';
             const begin = '<!-- vk:local-preview:begin -->';
             const end = '<!-- vk:local-preview:end -->';
             const lines = [];
@@ -171,6 +177,13 @@ jobs:
             lines.push('Option A — Local checkout (fastest):');
             lines.push('');
             lines.push('```bash');
+            lines.push('# checkout PR branch locally');
+            lines.push('git fetch origin');
+            if (branch) {
+              lines.push(`git switch -c ${branch} --track origin/${branch} 2>/dev/null || git switch ${branch}`);
+            } else {
+              lines.push('# git switch -c <branch> --track origin/<branch> 2>/dev/null || git switch <branch>');
+            }
             lines.push('# from repo root');
             lines.push('python3 -m http.server 8080');
             lines.push('# open http://localhost:8080/web/');
@@ -303,11 +316,15 @@ jobs:
       - name: Show local + artifact preview instructions
         env:
           RUN_ID: ${{ github.run_id }}
+          BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
           echo "### Local Preview" >> "$GITHUB_STEP_SUMMARY"
           echo "Option A — Local checkout (fastest):" >> "$GITHUB_STEP_SUMMARY"
           echo '' >> "$GITHUB_STEP_SUMMARY"
           echo '\`\`\`bash' >> "$GITHUB_STEP_SUMMARY"
+          echo "# checkout PR branch locally" >> "$GITHUB_STEP_SUMMARY"
+          echo "git fetch origin" >> "$GITHUB_STEP_SUMMARY"
+          echo "git switch -c ${BRANCH} --track origin/${BRANCH} 2>/dev/null || git switch ${BRANCH}" >> "$GITHUB_STEP_SUMMARY"
           echo "# from repo root" >> "$GITHUB_STEP_SUMMARY"
           echo "python3 -m http.server 8080" >> "$GITHUB_STEP_SUMMARY"
           echo "# open http://localhost:8080/web/" >> "$GITHUB_STEP_SUMMARY"
@@ -324,11 +341,14 @@ jobs:
 
       - name: Update PR body with local preview instructions
         uses: actions/github-script@v7
+        env:
+          BRANCH: ${{ github.event.pull_request.head.ref }}
         with:
           script: |
             const number = context.payload.pull_request.number;
             const runId = context.runId;
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+            const branch = process.env.BRANCH || (context.payload.pull_request && context.payload.pull_request.head && context.payload.pull_request.head.ref) || '';
             const begin = '<!-- vk:local-preview:begin -->';
             const end = '<!-- vk:local-preview:end -->';
             const lines = [];
@@ -336,6 +356,13 @@ jobs:
             lines.push('Option A — Local checkout (fastest):');
             lines.push('');
             lines.push('```bash');
+            lines.push('# checkout PR branch locally');
+            lines.push('git fetch origin');
+            if (branch) {
+              lines.push(`git switch -c ${branch} --track origin/${branch} 2>/dev/null || git switch ${branch}`);
+            } else {
+              lines.push('# git switch -c <branch> --track origin/<branch> 2>/dev/null || git switch <branch>');
+            }
             lines.push('# from repo root');
             lines.push('python3 -m http.server 8080');
             lines.push('# open http://localhost:8080/web/');
