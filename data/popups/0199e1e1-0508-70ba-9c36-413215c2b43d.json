@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "55, Hangang-daero 23-gil, Yongsan-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-26",
+    "start": "2025-10-17"
+  },
+  "geo": {
+    "lat": 37.52975,
+    "lon": 126.9648
+  },
+  "id": "0199e1e1-0508-70ba-9c36-413215c2b43d",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/37751723-e56b-4aa8-b609-d101727f3d83.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/37751723-e56b-4aa8-b609-d101727f3d83.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.instagram.com/jypshop_official/",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 9,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-10-17T15:35:18.976416",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e1e1-0508-70ba-9c36-413215c2b43d"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 55, Hangang-daero 23-gil, Yongsan-gu,",
+      "title": "TWICE 10周年快闪店"
+    }
+  }
+}

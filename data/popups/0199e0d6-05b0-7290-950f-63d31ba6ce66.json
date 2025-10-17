@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "108, Yeoui-daero, Yeongdeungpo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-21",
+    "start": "2025-10-07"
+  },
+  "geo": {
+    "lat": 37.5258975,
+    "lon": 126.9284261
+  },
+  "id": "0199e0d6-05b0-7290-950f-63d31ba6ce66",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/ee762a7e-7951-411f-8fbd-fb7d161037a6.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/ee762a7e-7951-411f-8fbd-fb7d161037a6.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002510435025&category=event&page=2&branchCd=B00140000",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 14,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-10-17T15:33:59.278099",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e0d6-05b0-7290-950f-63d31ba6ce66"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 108, Yeoui-daero, Yeongdeungpo-gu,",
+      "title": "BTS MOVIES WEEKS 电影周"
+    }
+  }
+}

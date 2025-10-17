@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "97-1, Yeonmujang-gil, Seongdong-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-23",
+    "start": "2025-10-10"
+  },
+  "geo": {
+    "lat": 37.54138,
+    "lon": 127.0602
+  },
+  "id": "0199e549-28e9-7456-b452-f2c2ff887528",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2bd2748b-cf1b-4f5e-8958-3285a41e157f.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2bd2748b-cf1b-4f5e-8958-3285a41e157f.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DPn-UfOErA_/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 13,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-10-17T15:33:59.907994",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e549-28e9-7456-b452-f2c2ff887528"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 97-1, Yeonmujang-gil, Seongdong-gu,",
+      "title": "狎鸥亭马格利酒 X 原烧酒"
+    }
+  }
+}

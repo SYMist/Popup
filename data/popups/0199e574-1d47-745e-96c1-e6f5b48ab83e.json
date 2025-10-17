@@ -1,0 +1,56 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "88, Changgyeonggung-ro, Jongno-gu,"
+  },
+  "category": "NEWS",
+  "duration": {
+    "end": "2099-12-31",
+    "start": "2025-10-01"
+  },
+  "geo": {
+    "lat": 37.5701,
+    "lon": 126.9996
+  },
+  "id": "0199e574-1d47-745e-96c1-e6f5b48ab83e",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/b8b9cd57-8f6b-43f4-b5ed-b7cab0261165.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/b8b9cd57-8f6b-43f4-b5ed-b7cab0261165.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DPOOzBhEaRN/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "fetchedAt": "2025-10-17T15:34:00.461028",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e574-1d47-745e-96c1-e6f5b48ab83e"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 88, Changgyeonggung-ro, Jongno-gu,",
+      "title": "MARITHÉ 广场市场商店开业"
+    }
+  }
+}

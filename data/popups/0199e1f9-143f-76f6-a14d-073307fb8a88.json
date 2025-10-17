@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "281, Eulji-ro, Jung-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-12-31",
+    "start": "2025-10-11"
+  },
+  "geo": {
+    "lat": 37.56657,
+    "lon": 127.0092
+  },
+  "id": "0199e1f9-143f-76f6-a14d-073307fb8a88",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/e596a0de-0585-4f58-9ee6-21fe5ed147eb.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/e596a0de-0585-4f58-9ee6-21fe5ed147eb.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://weverse.io/enhypen/notice/30505?hl=ko",
+      "label": "查看详细"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 81,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-10-17T15:35:19.809895",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e1f9-143f-76f6-a14d-073307fb8a88"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 281, Eulji-ro, Jung-gu,",
+      "title": "ENHYPEN X 首尔市"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": {
+    "city": "Seoul",
+    "street": "442, Maponaru-gil, Mapo-gu,"
+  },
+  "category": "ENTER",
+  "duration": {
+    "end": "2025-10-26",
+    "start": "2025-10-11"
+  },
+  "geo": {
+    "lat": 37.55421,
+    "lon": 126.896
+  },
+  "id": "0199e0de-9d28-70be-9ef9-81db669f3688",
+  "images": [
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/2662beed-8101-4c6e-8445-8e07f41a8a97.jpeg",
+      "variant": "full"
+    },
+    {
+      "role": "head",
+      "url": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_256,w_256/2662beed-8101-4c6e-8445-8e07f41a8a97.jpeg",
+      "variant": "small_square"
+    }
+  ],
+  "isPopup": false,
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DPpsOuKgVlM/",
+      "label": "查看详情"
+    }
+  ],
+  "meta": {
+    "detection": {
+      "durationDays": 15,
+      "rule": "duration"
+    },
+    "fetchedAt": "2025-10-17T15:35:18.773679",
+    "images": {
+      "gallery": 1,
+      "representativeRole": "head",
+      "selectionRule": "headImage",
+      "total": 2
+    }
+  },
+  "pricing": {
+    "type": "UNKNOWN"
+  },
+  "source": {
+    "zh-cnUrl": "https://interparkglobal.com/zh-cn/festas/0199e0de-9d28-70be-9ef9-81db669f3688"
+  },
+  "translations": {
+    "zh-cn": {
+      "address": "Seoul, 442, Maponaru-gil, Mapo-gu,",
+      "title": "Stray Kids 快闪店"
+    }
+  }
+}
