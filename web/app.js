@@ -363,11 +363,24 @@
   document.addEventListener('DOMContentLoaded', loadData);
   if ($loadMore) $loadMore.addEventListener('click', () => loadNextBatch(BATCH_MONTHS));
 
-  // Test button alert
+  // Test button: show only on local
   if ($testBtn) {
-    $testBtn.addEventListener('click', () => {
-      alert('테스트');
-    });
+    const isLocal = (
+      location.protocol === 'file:' ||
+      location.hostname === 'localhost' ||
+      location.hostname === '127.0.0.1' ||
+      location.hostname === '::1'
+    );
+    if (isLocal) {
+      // reveal and wire up only on local
+      $testBtn.style.display = 'inline-block';
+      $testBtn.addEventListener('click', () => {
+        alert('테스트');
+      });
+    } else {
+      // keep hidden on non-local (e.g., production)
+      $testBtn.style.display = 'none';
+    }
   }
 
   
